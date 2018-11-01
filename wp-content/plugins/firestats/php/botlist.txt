@@ -1,0 +1,134 @@
+# FireStats bots list
+# Generated at Sat Nov 29 8:32:54 UTC 2008
+(info@netforex.org)
+Apache XML RPC
+ApacheBench
+Ask Jeeves
+BlogCorpusReader
+BlogPeople
+BlogPulseLive
+BlogRanking/RSS checker
+BlogSearch
+Bookdog
+bot
+BuzzTracker
+CFNetwork
+Charlotte
+CK-SEARCHALOT
+compatible; LiteFinder/1.0
+Crawler
+DAUM Web Robot
+Debian-2.0.0.1 dfsg-2
+DepSpid
+Eclipse Mylyn
+Exabot
+Feed::Find
+Feedfetcher-Google
+Google-Sitemaps/1.0
+GoogleBot
+heritrix
+http://pear.php.net/
+http://sagool.jp/
+http://www.page-store.com
+http://www.zine.se
+HTTrack
+Indy Library
+InternetSeer.com
+Interseek
+larbin
+libwww-perl
+Link Title Checker
+LinkWalker
+LiteFinder
+MaSagool
+Microsoft URL Control
+Missigua Locator 1.9
+Mylyn
+NaverBot
+NetSurf
+Newskraft.de
+Nutch
+page_verifier
+panscient.com
+playstarmusic.com
+PlayStation Portable
+psbot/0.1
+Python-urllib
+QihooBot
+radianrss-1.0
+RSS_READER
+Runnk RSS finder
+ScoutJet
+Scrubby/3.0
+SEC-SGHC200C
+shelob
+slurp
+Snoopy
+Sphere Scout
+spider
+such_de
+Sutchi!;
+SymbianOS/9.2
+TechnoratiSnoop/1.0
+TrackBack
+Twiceler-0.9
+User-Agent:
+Wells Search II
+West Wind Internet Protocols
+Wget
+WordPress/2.3
+WWW-Mechanize
+www.eurocasher.de
+www.searchme.com
+Xenu Link Sleuth
+Yahoo Pipes 1.0
+Yahoo! Slurp
+YahooSeeker
+Yandex
+Yoono
+yourname
+^$
+^Bloglines
+^Bloglines Title Fetch
+^bot/
+^cfetch/
+^curl/
+^DoCoMo
+^e-SocietyRobot
+^Explorer /
+^findlinks
+^Gigabot
+^HMSE_Robot
+^htdig/
+^ia_archiver
+^ichiro/
+^intraVnews
+^Jakarta Commons-HttpClient/
+^Java/
+^lanshanbot
+^libwww-perl
+^Mediapartners-Google
+^monit/
+^Moreoverbot
+^Mozilla/5.0$
+^msnbot
+^OutfoxBot
+^Python-urllib
+^ShopWiki
+^sogou spider
+^sproose
+^StackRambler
+^Technoratibot
+^UniversalFeedParser/
+^unknown$
+^UOLCrawler
+^vBSEO
+^voyager
+^W3C-checklink
+^w3m
+^webbot
+^worio
+^XML Sitemaps Generator 1.0
+^Y!J-SRD
+^yacy
+^YahooFeedSeeker

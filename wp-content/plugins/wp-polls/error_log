@@ -1,0 +1,9 @@
+[11-Feb-2009 22:05:47] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h3u135/public_html/wp-content/plugins/wp-polls/polls-manager.php on line 21
+[11-Feb-2009 22:05:55] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/wp-polls/wp-polls-widget.php on line 187
+[12-Feb-2009 18:28:44] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h3u135/public_html/wp-content/plugins/wp-polls/polls-logs.php on line 21
+[12-Feb-2009 18:29:02] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h3u135/public_html/wp-content/plugins/wp-polls/polls-options.php on line 21
+[12-Feb-2009 18:39:41] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h3u135/public_html/wp-content/plugins/wp-polls/polls-add.php on line 21
+[12-Feb-2009 18:53:21] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/wp-polls/wp-polls-widget.php on line 187
+[12-Feb-2009 18:57:19] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h3u135/public_html/wp-content/plugins/wp-polls/polls-manager.php on line 21
+[12-Feb-2009 18:58:53] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h3u135/public_html/wp-content/plugins/wp-polls/polls-uninstall.php on line 21
+[12-Feb-2009 19:05:49] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h3u135/public_html/wp-content/plugins/wp-polls/polls-templates.php on line 21

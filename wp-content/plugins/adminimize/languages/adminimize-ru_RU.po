@@ -1,0 +1,642 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Adminimize Russian\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-08-24 09:39+0600\n"
+"PO-Revision-Date: 2008-08-24 10:29+0600\n"
+"Last-Translator: Kalinin Ivan <lecactus@lecactus.ru>\n"
+"Language-Team: Lecactus <lecactus@lecactus.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SearchPath-0: X:\\web\\wordpress-Modifications\\wordpress\\adminimize\n"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:60
+msgid "Unknown error."
+msgstr "Неизвестная ошибка."
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:67
+msgid "The updates was saved."
+msgstr "Настройки были сохранены."
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:68
+msgid "You have not enough rights for edit entries in the database."
+msgstr "У вас нет прав для редактирования записей в базе данных."
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:69
+msgid "All entries in the database was delleted."
+msgstr "Все записи в базе данных были удалены."
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:70
+msgid "Set the checkbox on deinstall-button."
+msgstr "Установите галочку возле кнопки деинсталляции."
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:71
+msgid "Can't load menu and submenu."
+msgstr "Невозможно загрузить меню или подменю."
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:72
+msgid "Backend-Theme was activated!"
+msgstr "Тема админки активирована!"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:305
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:265
+msgid "Categories"
+msgstr "Рубрики"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:311
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:322
+msgid "+ Add New Category"
+msgstr "+ Добавить новую рубрику"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:313
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:324
+msgid "New category name"
+msgstr "Имя новой рубрики"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:314
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:326
+msgid "Parent category"
+msgstr "Родительская рубрика"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:315
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:327
+msgid "Add"
+msgstr "Добавить"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:324
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:266
+msgid "Add New Category"
+msgstr "Добавить новую рубрику"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:348
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:349
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:264
+msgid "Tags"
+msgstr "Метки"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:406
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:448
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:471
+msgid "Classic"
+msgstr "Классический"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:413
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:455
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:478
+msgid "Fresh"
+msgstr "Новый"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:420
+msgid "WordPress 2.3"
+msgstr "WordPress 2.3"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:427
+msgid "Maybe i'm colorblind"
+msgstr "Очень ярко и контрастно"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:434
+msgid "Grey"
+msgstr "Серый"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:534
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:537
+msgid "Dashboard"
+msgstr "Доска объявлений"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:625
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:627
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:636
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:638
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:776
+msgid "Log Out"
+msgstr "Выход"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:666
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:394
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:395
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:456
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:457
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:491
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:492
+msgid "All"
+msgstr "Все"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:666
+msgid "None"
+msgstr "Ничего"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:795
+msgid "Visit plugin homepage"
+msgstr "Посетить домашнюю страницу плагина"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:798
+msgid "plugin"
+msgstr "плагин"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:798
+msgid "Version"
+msgstr "Версия"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:798
+msgid "History"
+msgstr "История"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:798
+msgid "Author"
+msgstr "Автор"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:801
+msgid "plugin activate"
+msgstr "плагин активирован"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:816
+msgid "Settings"
+msgstr "Настройки"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:829
+msgid "Adminimize Options"
+msgstr "Настройки Adminimize"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:829
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:67
+msgid "Adminimize"
+msgstr "Adminimize"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize.php:841
+msgid "Cheatin&#8217; uh?"
+msgstr "Не балуйся :-)"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:71
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:80
+msgid "Backend options"
+msgstr "Настройки админки"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:86
+msgid "Sidebar Width"
+msgstr "Ширина боковой колонки"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:90
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:103
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:116
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:126
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:136
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:146
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:156
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:166
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:191
+msgid "Default"
+msgstr "По умолчанию"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:95
+msgid "The sidebar on the right side in the area <em>Edit</em> is configurable. Default is 200 pixel in the WordPress Theme <em>Classic</em> and <em>Fresh</em>"
+msgstr "Боковая колонка с правой стороны области <em>редактирования</em> настраиваема. По умолчанию ширина ее составляет 200 пикселей в стилях WordPress <em>Классический</em> и <em>Новый</em>"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:99
+msgid "User-Info"
+msgstr "Информация о пользователе"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:104
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:127
+msgid "Hide"
+msgstr "Скрыть"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:105
+msgid "Only logout"
+msgstr "Только выход"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:106
+msgid "User &amp; Logout"
+msgstr "Профиль пользователя и выход"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:107
+msgid "The &quot;User-Info-area&quot; is on the top right side of the backend. You can hide or reduced show."
+msgstr "Профиль пользователя и выход в верхнем правом углу панели администрирования. Вы ожете скрыть или изменить ее вид."
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:112
+msgid "Change User-Info, redirect to"
+msgstr "После изменения пользовательской информации, переадресовывать на"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:117
+msgid "Frontpage of the Blog"
+msgstr "Блог"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:118
+msgid "When the &quot;User-Info-area&quot; change it, then it is possible to change the redirect."
+msgstr "При изменении блока вывода информации о пользователе, возможно изменить перенаправление."
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:122
+msgid "Footer"
+msgstr "Подвал"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:128
+msgid "The Footer-area kann hide, include all links and details."
+msgstr "Подвал админки можно скрыть, включая все ссылки и детали."
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:132
+msgid "WriteScroll"
+msgstr "Прокрутка окна написания"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:137
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:147
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:157
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:167
+msgid "Activate"
+msgstr "Активировать"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:138
+msgid "With the WriteScroll option active, these pages will automatically scroll to an optimal position for editing, when you visit Write Post or Write Page."
+msgstr "При активной опции WriteScroll, страницы создание записей и страниц будут автоматически прокручиваться до оптимальной позации для редактирования."
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:142
+msgid "Timestamp"
+msgstr "Дата и время"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:148
+msgid "Opens the post timestamp editing fields without you having to click the \"Edit\" link every time."
+msgstr "Открывает поле редактирования даты и времени без клика по ссылке \"Изменить\" каждый раз."
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:152
+msgid "Thickbox FullScreen"
+msgstr "Полноэкранный режим Thickbox"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:158
+msgid "All Thickbox-function use the full area of the browser. Thickbox is for examble in upload media-files."
+msgstr "Все Thickbox-функции используют все пространство окна браузера. Thickbox например используется при загрузке медиа-файлов."
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:162
+msgid "Advice in Footer"
+msgstr "Советы в Подвале"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:169
+msgid "In the Footer kann you display a advice for change the Default-design, (x)HTML is possible."
+msgstr "В «подвале» вы можете показать свою информацию, изменяя шаблон по умолчанию. Разрешено использовать (x)HTML."
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:187
+msgid "Dashboard deaktivate, redirect to"
+msgstr "Когда Доска объявлений отключена, перенаправлять на "
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:192
+msgid "Manage Posts"
+msgstr "Управление записями"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:193
+msgid "Manage Pages"
+msgstr "Управление страницами"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:194
+msgid "Write Post"
+msgstr "Создание записи"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:195
+msgid "Write Page"
+msgstr "Создание страницы"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:196
+msgid "Comments"
+msgstr "Комментарии"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:197
+msgid "You have deaktivate the Dashboard, please select a page for redirect?"
+msgstr "Если вы деактивируете «Доску объявлений», пожалуйста выберите страницу, на которую будет перенаправлен пользователь."
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:207
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:406
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:504
+msgid "Update options"
+msgstr "Обновить настройки"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:216
+msgid "Menu Options"
+msgstr "Настройки меню"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:222
+msgid "Menu options - Menu, <span style=\\\"font-weight: 400;\\\">Submenu</span>"
+msgstr "Настройки меню - Меню, <span style=\\\"font-weight: 400;\\\">Подменю</span>"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:223
+msgid "Deactivate &lt; User Level 10 (Admin)"
+msgstr "Отключить &lt; 10 уровня пользователя (Администратор)"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:224
+msgid "Deactivate for Admin's"
+msgstr "Отключить для администраторов"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:263
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:309
+msgid "Permalink"
+msgstr "Постоянная ссылка"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:267
+msgid "Excerpt"
+msgstr "Цитата"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:268
+msgid "Trackbacks"
+msgstr "Трэкбеки"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:269
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:310
+msgid "Custom Fields"
+msgstr "Произвольные поля"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:270
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:311
+msgid "Comments &amp; Pings"
+msgstr "Комментарии и уведомления"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:271
+msgid "Password Protect This Post"
+msgstr "Защитить запись паролем"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:272
+msgid "Post Author"
+msgstr "Автор записи"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:273
+msgid "Post Revisions"
+msgstr "Ревизии записи"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:274
+msgid "Related, Shortcuts"
+msgstr "Связанное, Ярлыки"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:275
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:319
+msgid "Messenges"
+msgstr "Сообщения"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:276
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:320
+msgid "h2: Advanced Options"
+msgstr "h2: Расширенные настройки"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:277
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:321
+msgid "Media Buttons (all)"
+msgstr "Кнопки Медиа (все)"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:281
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:325
+msgid "Suggested tags from"
+msgstr "Связанные метки из"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:283
+msgid "Text Control"
+msgstr "Управление текстом"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:285
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:327
+msgid "HTML Special Characters"
+msgstr "Специальные символы HTML"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:312
+msgid "Password Protect This Page"
+msgstr "Защитить страницу паролем"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:313
+msgid "Page Parent"
+msgstr "Родительская страница"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:314
+msgid "Page Template"
+msgstr "Шаблон страницы"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:315
+msgid "Page Order"
+msgstr "Порядковый номер страницы"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:316
+msgid "Page Author"
+msgstr "Автор"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:317
+msgid "Page Revisions"
+msgstr "Ревизии страницы"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:318
+msgid "Related"
+msgstr "Связанные"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:393
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:454
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:489
+msgid "All items"
+msgstr "Все типы"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:415
+msgid "Write options"
+msgstr "Настройки написания"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:421
+msgid "Write options - Post"
+msgstr "Настройки написания - Запись"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:422
+msgid "Write options - Page"
+msgstr "Настройки написания - Страница"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:433
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:468
+msgid "Deactivate for &lt; Admin's (level 1-9)"
+msgstr "Деактивировать для &lt; Администратор (Уровень 1-9)"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:434
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:469
+msgid "Deactivate for Admin's (level 10)"
+msgstr "Деактивировать для Администратора (Уровень 10)"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:514
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:580
+msgid "Set Theme"
+msgstr "Установить время"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:523
+msgid "User-ID"
+msgstr "ID пользователя"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:524
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:525
+msgid "Display name publicly as"
+msgstr "Отображать публичное имя как"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:526
+msgid "Admin Color Scheme"
+msgstr "Цветовая схема админки"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:527
+msgid "User Level"
+msgstr "Уровень пользователя"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:528
+msgid "Role"
+msgstr "Роль"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:590
+msgid "Deinstall options"
+msgstr "Настройки деинсталляции"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:593
+msgid "Use this option for clean your database from all entries of this plugin. When you deactivate the plugin, the deinstall of the plugin <strong>clean not</strong> all entries in the database."
+msgstr "Используйте эту опцию для очистки базы данных от всех записей этого плагина. При обычной деактивации плагина, деинсталляция плагина НЕ УДАЛЯЕТ все записи плагина из базы данных."
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:597
+msgid "Delete options"
+msgstr "Настройки удаления"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:609
+msgid "About the plugin"
+msgstr "Об этом плагине"
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:612
+msgid "Further information: Visit the <a href=\"http://bueltge.de/wordpress-admin-theme-adminimize/674/\">plugin homepage</a> for further information or to grab the latest version of this plugin."
+msgstr "Дополнительная информация: Посетите <a href='http://bueltge.de/wordpress-admin-theme-adminimize/674/''>домашнюю страницу плагина</a> для получение дополнительной информации или скачивания свежей версии плагина. Русификация плагина: <a href='http://lecactus.ru''>Lecactus.ru</a>."
+
+#: X:\web\wordpress-Modifications\wordpress\adminimize/adminimize_page.php:612
+msgid "You want to thank me? Visit my <a href=\"http://bueltge.de/wunschliste/\">wishlist</a>."
+msgstr "Хотите отблагодарить меня? Посетите мой <a href='http://bueltge.de/wunschliste/'>список пожеланий</a>."
+
+#~ msgid "Unbekannter Fehler."
+#~ msgstr "Неизвестная ошибка."
+#~ msgid "Die Einstellungen wurden gespeichert."
+#~ msgstr "Обновления сохранены."
+#~ msgid "Du hast nicht ausreichend Rechte um diese Aktion durchzuf&uuml;hren!"
+#~ msgstr "У вас нет прав для редактирования записей в базе данных!"
+#~ msgid "Die Einstellungen wurde gel&ouml;scht!"
+#~ msgstr "Все записи в базе данных были удалены!"
+#~ msgid "Checkbox setzen, wenn wirklich deinstalliert werden soll!"
+#~ msgstr "Установите флажок на кнопке деинсталляции!"
+#~ msgid "Menu und Submenu k&ouml;nnen nicht geladen werden!"
+#~ msgstr "Невозможно загрузить меню и подменю!"
+#~ msgid "Adminimize Einstellungen"
+#~ msgstr "Настройки Adminimize"
+#~ msgid "Adminimize MiniMenu"
+#~ msgstr "Краткое меню Adminimize"
+#~ msgid "Menu Einstellungen"
+#~ msgstr "Настройки меню"
+#~ msgid "Schreiben Einstellungen"
+#~ msgstr "Настройки страницы создания записей/страниц"
+#~ msgid "Theme setzen"
+#~ msgstr "Настройка стилей админки пользователям"
+#~ msgid "Einstellungen aktualisieren"
+#~ msgstr "Обновить настройки"
+#~ msgid "Standard"
+#~ msgstr "По-умолчанию"
+#~ msgid "Ausblenden"
+#~ msgstr "Скрыть"
+#~ msgid ""
+#~ "Der &quot;User-Info-Bereich&quot; ist im oberen rechten Bereich zu finden "
+#~ "und kann ausgeblendet oder reduziert dargestellt werden."
+#~ msgstr ""
+#~ " &quot;Область информации о пользователе&quot; в верхнем правом углу "
+#~ "админки. Вы можете скрыть или уменьшить ее (оставить только кнопку "
+#~ "Выхода)."
+#~ msgid "User Info ge&auml;ndert, Weiterleitung nach"
+#~ msgstr "При нажатии на ссылку ВЫЙТИ, переадресовывать пользователя"
+#~ msgid "Startseite des Blog"
+#~ msgstr "Главную страницу сайта"
+#~ msgid ""
+#~ "Wenn der &quot;User-Info-Bereich&quot; ge&auml;ndert wird, dann kann die "
+#~ "die Weiterleitung nach einem Logout ge&auml;ndert werden."
+#~ msgstr ""
+#~ "При изменении &quot;Области информации о пользователе&quot; станет "
+#~ "возможным выбирать куда делать редирект при выходе."
+#~ msgid ""
+#~ "Automatisches Scrollen zum Editor beim Aufruf der Seite Schreiben in "
+#~ "Beitr&auml;ge und Seite."
+#~ msgstr ""
+#~ "Когда активна эта опция, страницы написания записей и страниц будут "
+#~ "автоматически прокручиваться до оптимальной позиции для редактирования."
+#~ msgid ""
+#~ "Alle Thickbox-Funktionen nutzen den kompletten Raum des Browsers, zum "
+#~ "Beispiel beim uploaden von Bildern."
+#~ msgstr ""
+#~ "Все Thickbox-функции используют полное окно браузера. К примеру, Thickbox "
+#~ "используется в диалоге загрузки файлов."
+#~ msgid ""
+#~ "Im Footer kann ein Hinweis auf die aktive Ver&auml;nderung des Standard-"
+#~ "Layout gesetzt werden, (x)HTML erlaubt."
+#~ msgstr ""
+#~ "В области Подвала вы можете разместить полезные советы (или рекламу:-] ) "
+#~ "чтобы изменить стандартный дизайн, (x)HTML разрешен."
+#~ msgid "Verwalten Beitr&auml;ge"
+#~ msgstr "Управление записями"
+#~ msgid "Verwalten Seiten"
+#~ msgstr "Управление страницами"
+#~ msgid "Schreiben Beitrag"
+#~ msgstr "Создание записи"
+#~ msgid "Schreiben Seite"
+#~ msgstr "Создание страницы"
+#~ msgid ""
+#~ "Du hast das Dashboard deaktivert, wohin soll der Nutzer weitergeleitet "
+#~ "werden?"
+#~ msgstr ""
+#~ "Вы выбрали отключение Доски объявлений, пожалуйста, выберите страницу для "
+#~ "перенаправления. "
+#~ msgid "Top"
+#~ msgstr "Наверх"
+#~ msgid "Kategorien"
+#~ msgstr "Рубрики"
+#~ msgid "Neue Kategorie hinzuf&uuml;gen"
+#~ msgstr "Добавить новую рубрику"
+#~ msgid "Auszug"
+#~ msgstr "Цитата"
+#~ msgid "Benutzerdefinierte Felder"
+#~ msgstr "Произвольные поля"
+#~ msgid "Kommentare & Pings"
+#~ msgstr "Комментарии и уведомления"
+#~ msgid "Diesen Artikel durch ein Passwort sch&uuml;tzen"
+#~ msgstr "Защита записи паролем"
+#~ msgid "Autor"
+#~ msgstr "Автор записи"
+#~ msgid "Siehe auch, Tastaturk&uuml;rzel"
+#~ msgstr "Связанное, ярлыки"
+#~ msgid "Mitteilungen"
+#~ msgstr "Сообщения"
+#~ msgid "h2: Erweiterte Einstellungen"
+#~ msgstr "h2: Расширенные настройки"
+#~ msgid "Diese Seite mit einem Passwort versehen"
+#~ msgstr "Защита страницы паролем"
+#~ msgid "&Uuml;bergeordnete Seite"
+#~ msgstr "Родительская страница"
+#~ msgid "Reihenfolge"
+#~ msgstr "Порядок страницы"
+#~ msgid "Seitenautor"
+#~ msgstr "Автор страницы"
+#~ msgid "Siehe auch"
+#~ msgstr "Связанное"
+#~ msgid "Alle w&auml;hlen"
+#~ msgstr "Все пункты"
+#~ msgid "Schreiben Einstellungen - Beitr&auml;ge"
+#~ msgstr "Настройки написания - запись"
+#~ msgid "Schreiben Einstellungen - Seiten"
+#~ msgstr "Настройки написания - страница"
+#~ msgid "Admin (Level 10)"
+#~ msgstr "Администратор (Уровень 10)"
+#~ msgid "Name im Blog"
+#~ msgstr "Отображать имя как"
+#~ msgid "Aktuelles Theme"
+#~ msgstr "Цветовая схема админки"
+#~ msgid "Theme zuweisen"
+#~ msgstr "Выбор темы"
+#~ msgid "Deinstallation der Einstellungen"
+#~ msgstr "Настройки деинсталляции"
+#~ msgid ""
+#~ "Nutze diese Option, um die Einstellungen f&uuml;r das Plugin in der "
+#~ "Datenbank zu l&ouml;schen. Das Plugin entfernt die Eintr&auml;ge "
+#~ "<strong>nicht</strong>, wenn es deaktiviert wird!"
+#~ msgstr ""
+#~ "Используйте эту опцию для очистки базы данных от всех записей этого "
+#~ "плагина. При обычной деактивации плагина, деинсталляция плагина "
+#~ "<strong>не удаляет</strong> все записи в базе данных."
+#~ msgid "Einstellungen l&ouml;schen"
+#~ msgstr "Удалить настройки"
+

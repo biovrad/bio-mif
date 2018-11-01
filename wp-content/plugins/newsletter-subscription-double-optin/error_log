@@ -1,0 +1,1 @@
+[12-Feb-2009 18:23:34] PHP Fatal error:  Call to undefined function  register_activation_hook() in /home/h3u135/public_html/wp-content/plugins/newsletter-subscription-double-optin/wpsb-opt-in.php on line 744

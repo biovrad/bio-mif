@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lighterMenus-ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-06 22:29+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Flector <rlector@gmail.com>\n"
+"Language-Team: WordpressPlugins.ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lighter-menus.php:81
+msgid "Write"
+msgstr ""
+
+#: ../lighter-menus.php:84
+msgid "Manage"
+msgstr ""
+
+#: ../lighter-menus.php:111
+#: ../lighter-menus.php:787
+msgid "Dashboard"
+msgstr ""
+
+#: ../lighter-menus.php:189
+msgid "Settings"
+msgstr ""
+
+#: ../lighter-menus.php:190
+#: ../lighter-menus.php:857
+msgid "Plugins"
+msgstr ""
+
+#: ../lighter-menus.php:191
+msgid "Users"
+msgstr ""
+
+#: ../lighter-menus.php:791
+msgid "Post"
+msgstr ""
+
+#: ../lighter-menus.php:794
+msgid "Page"
+msgstr ""
+
+#: ../lighter-menus.php:797
+msgid "Link"
+msgstr ""
+
+#: ../lighter-menus.php:801
+msgid "Posts"
+msgstr ""
+
+#: ../lighter-menus.php:804
+msgid "Pages"
+msgstr ""
+
+#: ../lighter-menus.php:807
+msgid "Links"
+msgstr ""
+
+#: ../lighter-menus.php:810
+msgid "Tags"
+msgstr ""
+
+#: ../lighter-menus.php:813
+msgid "Link Categories"
+msgstr ""
+
+#: ../lighter-menus.php:816
+msgid "Media Library"
+msgstr ""
+
+#: ../lighter-menus.php:820
+msgid "Themes"
+msgstr ""
+
+#: ../lighter-menus.php:823
+msgid "Widgets"
+msgstr ""
+
+#: ../lighter-menus.php:826
+msgid "Theme Editor"
+msgstr ""
+
+#: ../lighter-menus.php:829
+msgid "Header Image and Color"
+msgstr ""
+
+#: ../lighter-menus.php:833
+msgid "Uploads"
+msgstr ""
+
+#: ../lighter-menus.php:836
+msgid "Categories"
+msgstr ""
+
+#: ../lighter-menus.php:839
+msgid "Comments"
+msgstr ""
+
+#: ../lighter-menus.php:842
+#, php-format
+msgid "Awaiting Moderation (%s)"
+msgstr ""
+
+#: ../lighter-menus.php:845
+msgid "Files"
+msgstr ""
+
+#: ../lighter-menus.php:848
+msgid "Import"
+msgstr ""
+
+#: ../lighter-menus.php:851
+msgid "Export"
+msgstr ""
+
+#: ../lighter-menus.php:854
+msgid "Import Links"
+msgstr ""
+
+#: ../lighter-menus.php:860
+msgid "Plugin Editor"
+msgstr ""
+
+#: ../lighter-menus.php:863
+msgid "Your Profile"
+msgstr ""
+
+#: ../lighter-menus.php:866
+#: ../lighter-menus.php:891
+msgid "Authors &amp; Users"
+msgstr ""
+
+#: ../lighter-menus.php:869
+msgid "General"
+msgstr ""
+
+#: ../lighter-menus.php:872
+msgid "Writing"
+msgstr ""
+
+#: ../lighter-menus.php:875
+msgid "Reading"
+msgstr ""
+
+#: ../lighter-menus.php:878
+msgid "Discussion"
+msgstr ""
+
+#: ../lighter-menus.php:881
+msgid "Privacy"
+msgstr ""
+
+#: ../lighter-menus.php:884
+msgid "Permalinks"
+msgstr ""
+
+#: ../lighter-menus.php:887
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../lighter-menus.php:925
+#, php-format
+msgid "<strong>Options saved.</strong> You should probably <a href=\"%s\">open this page</a> again."
+msgstr "<strong>Настройки сохранены.</strong> Вы должны <a href=\"%s\">обновить эту страницу</a>, чтобы увидеть изменения."
+
+#: ../lighter-menus.php:957
+msgid "Deactivate Lighter Menus"
+msgstr "Деактивация плагина \"Lighter Menus\""
+
+#: ../lighter-menus.php:959
+msgid "Click Here</a> to deactivate Lighter Menus."
+msgstr "Кликните здесь</a>, чтобы деактивировать плагин \"Lighter Menus\"."
+
+#: ../lighter-menus.php:961
+msgid "Warning:"
+msgstr "Предупреждение:"
+
+#: ../lighter-menus.php:962
+msgid "The plugin options will be removed."
+msgstr "Настройки плагина будут удалены."
+
+#: ../lighter-menus.php:963
+msgid "The plugin folder will be removed."
+msgstr "Папка с плагином будет удалена."
+
+#: ../lighter-menus.php:983
+msgid "Customization Options"
+msgstr "Настройки"
+
+#: ../lighter-menus.php:984
+msgid "These options can be used to customize the appearance of the menus."
+msgstr "Этими опциями вы можете настроить внешний вид меню в админке вашего блога."
+
+#: ../lighter-menus.php:991
+msgid "Display icons in the menus."
+msgstr "Показывать иконки в меню."
+
+#: ../lighter-menus.php:996
+msgid "Hide the regular admin submenu."
+msgstr "Скрывать подменю администратора."
+
+#: ../lighter-menus.php:1001
+msgid "Show the \"Settings\" \"Plugin\" and \"Users\" menus in a different color and keep them to the right side if new plugin menus are added."
+msgstr "Показывать меню \"Параметры\" \"Плагины\" и \"Пользователи\" в другом цвете и сохранять их расположение справа в случае добавления нового меню плагина."
+
+#: ../lighter-menus.php:1006
+msgid "Remove the 'Help' and 'Forum' links from the user menu."
+msgstr "Удалить ссылки на 'Помощь' и 'Форумы' из меню пользователя."
+
+#: ../lighter-menus.php:1011
+msgid "Remove the 'Howdy' before the user menu."
+msgstr "Удалить 'Привет' из меню пользователя."
+
+#: ../lighter-menus.php:1016
+msgid "Show the total comments awaiting moderation even with zero comments to moderate."
+msgstr "Показывать общее количество ожидающих модерации комментариев, даже если их ноль."
+
+#: ../lighter-menus.php:1021
+#, php-format
+msgid "A menu with more than %x lines will not drop down in a column but float to the right."
+msgstr "Меню, в котором больше %x пунктов будет растянуто вправо вместо одной выпадающей колонки."
+
+#: ../lighter-menus.php:1026
+msgid "Update Options &raquo;"
+msgstr "Обновить Настройки &raquo;"
+
+#: ../lighter-menus.php:1030
+msgid "Deactivation"
+msgstr "Деактивация"
+
+#: ../lighter-menus.php:1031
+msgid "Use this to deactivate Lighter Menus and optionally remove it completely."
+msgstr "Вы можете деактивировать плагин \"Lighter Menus\" и опционально удалить его полностью."
+
+#: ../lighter-menus.php:1036
+msgid "When deactivating"
+msgstr "При деактивации"
+
+#: ../lighter-menus.php:1039
+msgid "Remove the above options from the database."
+msgstr "Удалить настройки плагина из базы данных."
+
+#: ../lighter-menus.php:1041
+msgid "Remove the plugin folder."
+msgstr "Удалить папку плагина."
+
+#: ../lighter-menus.php:1046
+msgid "Deactivate Lighter Menus &raquo;"
+msgstr "Деактивировать Lighter Menus &raquo;"
+
+#: ../lighter-menus.php:1053
+msgid "Plugin's Homepage"
+msgstr "Домашняя страница плагина"
+
+#: ../lighter-menus.php:1055
+msgid "Other plugins"
+msgstr "Другие плагины"
+
+#: ../lighter-menus.php:1062
+msgid "Lighter Menus Options"
+msgstr "Настройки Lighter Menus"
+
+#: ../lighter-menus.php:1114
+msgid "Could not access filesystem."
+msgstr "Нет доступа к файловой системе."
+
+#: ../lighter-menus.php:1115
+msgid "Filesystem error"
+msgstr "Ошибка файловой системы"
+
+#: ../lighter-menus.php:1126
+msgid "Ooops. The plugin is not in its own folder, or there is something else going on."
+msgstr "Упс. Плагин находится не в своей папке или произошла какая-то другая ошибка."
+
+#: ../lighter-menus.php:1130
+msgid "Could not remove the plugin folder"
+msgstr "Невозможно удалить папку плагина"
+
+#~ msgid "codex.wordpress.org"
+#~ msgstr "codex.wordpress.org"
+#~ msgid "Options saved."
+#~ msgstr "Options saved."
+#~ msgid "Uninstall Lighter Menus"
+#~ msgstr "Uninstall Lighter Menus"
+#~ msgid ""
+#~ "Differentiate and keep the \"Plugin\" \"Settings\" and \"Users\" to the "
+#~ "right side of the main menu."
+#~ msgstr ""
+#~ "Differentiate and keep the \"Plugin\" \"Settings\" and \"Users\" to the "
+#~ "right side of the main menu."
+

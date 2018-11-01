@@ -1,0 +1,1 @@
+[12-Feb-2009 19:02:29] PHP Fatal error:  Call to undefined function  register_activation_hook() in /home/h3u135/public_html/wp-content/plugins/xchange-drone/xchange-drone.php on line 19

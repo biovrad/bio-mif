@@ -1,0 +1,58 @@
+#bodyOverlay {
+	z-index: 900;
+	background-color: #000;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+
+#bodyOverlay_prev {
+	width: 400px;
+	height: 400px; /*affects .newsletterExample*/
+	z-index: 1000;
+	margin-left: -200px;
+	margin-top: -200px;
+	border: 1px solid black;
+	background-color: white;
+	position: fixed;
+	left: 50%;
+	top: 50%;
+}
+
+#bodyOverlay_prev .title{
+	background-color: #334F8D;
+	padding: 5px;
+	height: 15px;
+	color: white;
+}
+#bodyOverlay_prev .title .titleText{
+	float:left;
+	font-weight: bold;
+}
+
+#bodyOverlay_prev .title .closeButton{
+	float:right;
+	border: 1px solid #ccc;
+	text-decoration: none;
+	background-color: #ccc;
+}
+
+#bodyOverlay_prev .title .closeButton a{
+	text-decoration: none;
+	color: black;
+	font-family: verdana, san-serif;
+	font-size: 10px;
+	font-weight: bold;
+	padding: 2px;
+}
+
+/** IE6 hack - workaround fixed position bug **/
+* html #bodyOverlay_prev { /*\*/position: absolute; top: expression(((document.documentElement.clientHeight/2) + (ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop)) + 'px'); right: expression((20 + (ignoreMe2 = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft)) + 'px');/**/ }
+
+#bodyOverlay_prev .newsletterExample{
+	/*height:100%;*/
+	overflow:auto;
+	padding: 5px;
+	height: 364px;
+}

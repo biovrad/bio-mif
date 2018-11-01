@@ -1,0 +1,1 @@
+[12-Feb-2009 18:32:23] PHP Fatal error:  Call to undefined function  get_option() in /home/h3u135/public_html/wp-content/plugins/adminimize/adminimize.php on line 25

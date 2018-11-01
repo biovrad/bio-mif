@@ -1,0 +1,1 @@
+[12-Feb-2009 23:00:46] PHP Fatal error:  Call to undefined function  register_importer() in /home/h3u135/public_html/wp-content/plugins/simple-tags/extras/simple-tags.importer.php on line 242

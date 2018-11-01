@@ -1,0 +1,2169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Firestats\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-05-03 21:43+0200\n"
+"Last-Translator: Georgiana Beju <gb@tekkie.ro>\n"
+"Language-Team: Georgiana Beju <gb@tekkie.ro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: ROMANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: fs_e;fs_r\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: c:\\wamp\\www\\firestats\n"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:319
+#: c:\wamp\www\firestats/firestats-wordpress.php:737
+#: c:\wamp\www\firestats/php/footer.php:5
+#: c:\wamp\www\firestats/php/header.php:35
+#: c:\wamp\www\firestats/php/html-utils.php:1245
+msgid "FireStats"
+msgstr "FireStats"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:319
+#: c:\wamp\www\firestats/php/tabbed-pane.php:102
+msgid "Loading..."
+msgstr "Încărcare..."
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:338
+#, php-format
+msgid "Total : %s page views and %s visits"
+msgstr "Total : %s vizualizări pagini şi %s vizite"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:339
+#, php-format
+msgid "Last 24 hours : %s page views and %s visits"
+msgstr "Ultimele 24 ore : %s vizualizări pagini şi %s vizite"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:492
+msgid "You are not authorized to access FireStats"
+msgstr "Nu sunteţi autorizat să accesaţi FireStats"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:760
+#: c:\wamp\www\firestats/firestats-wordpress.php:876
+msgid "Title:"
+msgstr "Titlu:"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:766
+#: c:\wamp\www\firestats/firestats-wordpress.php:890
+msgid "Hide FireStats logo"
+msgstr "Ascunde logo-ul FireStats"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:842
+msgid "Popular posts"
+msgstr "Postări populare"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:880
+msgid "Number to show"
+msgstr "Număr de afişat"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:884
+msgid "Days ago (Empty for all time)"
+msgstr "Zile în urmă (goleşte pentru tot timpul)"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:957
+msgid "Pages displayed : "
+msgstr "Pagini afişate :"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:958
+msgid "Unique visitors : "
+msgstr "Vizitatori unici :"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:959
+msgid "Pages displayed in last 24 hours : "
+msgstr "Pagini afişate în ultimele 24 ore :"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:960
+msgid "Unique visitors in last 24 hours : "
+msgstr "Vizitatori unici în ultimele 24 ore :"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:1012
+msgid "pages viewed"
+msgstr "pagini afişate"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:1012
+#: c:\wamp\www\firestats/firestats-wordpress.php:1013
+msgid "today"
+msgstr "astăzi"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:1013
+msgid "visits"
+msgstr "vizite"
+
+#: c:\wamp\www\firestats/firestats-wordpress.php:1022
+msgid "Powered by FireStats"
+msgstr "Powered by FireStats"
+
+#: c:\wamp\www\firestats/index.php:15
+#: c:\wamp\www\firestats/php/ajax-handler.php:780
+msgid "Error"
+msgstr "Eroare"
+
+#: c:\wamp\www\firestats/index.php:15
+msgid "Access denied"
+msgstr "Acces interzis"
+
+#: c:\wamp\www\firestats/index.php:40
+msgid "Error connecting to database, check your database server"
+msgstr "Eroare la conectarea cu baza de date, verifică serverul de baze de date"
+
+#: c:\wamp\www\firestats/index.php:41
+#, php-format
+msgid "To access the configuration screen, please delete %s"
+msgstr "Pentru a accesa ecranul de configurare, te rog şterge %s"
+
+#: c:\wamp\www\firestats/login.php:10
+#: c:\wamp\www\firestats/login.php:25
+msgid "Login"
+msgstr "Intrare"
+
+#: c:\wamp\www\firestats/login.php:13
+msgid "Username"
+msgstr "Nume utilizator"
+
+#: c:\wamp\www\firestats/login.php:17
+#: c:\wamp\www\firestats/php/page-add-admin.php:40
+#: c:\wamp\www\firestats/php/window-edit-user.php:36
+msgid "Password"
+msgstr "Parola"
+
+#: c:\wamp\www\firestats/login.php:24
+msgid "Remember me for the next 14 days"
+msgstr "Ţine-mă minte următoarele 14 zile"
+
+#: c:\wamp\www\firestats/login.php:30
+#, php-format
+msgid "Forgot your password? click %s."
+msgstr "Ai uitat parola? Apasă %s."
+
+#: c:\wamp\www\firestats/login.php:30
+#: c:\wamp\www\firestats/php/page-sites.php:33
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:28
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:36
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:40
+#: c:\wamp\www\firestats/php/version-check.php:136
+#: c:\wamp\www\firestats/php/tools/reset-password.php:50
+msgid "here"
+msgstr "aici"
+
+#: c:\wamp\www\firestats/js/firestats.js.php:50
+#: c:\wamp\www\firestats/js/firestats.js.php:97
+msgid "Stop"
+msgstr "Opreşte"
+
+#: c:\wamp\www\firestats/js/firestats.js.php:51
+msgid "Compacting..."
+msgstr "Compactare..."
+
+#: c:\wamp\www\firestats/js/firestats.js.php:63
+msgid "Stopping..."
+msgstr "Oprire..."
+
+#: c:\wamp\www\firestats/js/firestats.js.php:74
+#: c:\wamp\www\firestats/php/page-settings.php:136
+msgid "Compact now"
+msgstr "Compactează acum"
+
+#: c:\wamp\www\firestats/js/firestats.js.php:119
+#: c:\wamp\www\firestats/js/firestats.js.php:139
+msgid "Abort"
+msgstr "Abort"
+
+#: c:\wamp\www\firestats/js/firestats.js.php:134
+#: c:\wamp\www\firestats/js/firestats.js.php:146
+#: c:\wamp\www\firestats/js/firestats.js.php:154
+#: c:\wamp\www\firestats/php/page-tools.php:41
+#: c:\wamp\www\firestats/php/page-tools.php:46
+#: c:\wamp\www\firestats/php/page-tools.php:51
+msgid "Start"
+msgstr "Începere"
+
+#: c:\wamp\www\firestats/js/firestats.js.php:135
+msgid "Canceled"
+msgstr "Anulat"
+
+#: c:\wamp\www\firestats/js/firestats.js.php:368
+#: c:\wamp\www\firestats/php/page-stats.php:66
+msgid "Not a positive number : "
+msgstr "Nu este un numar pozitiv Ş"
+
+#: c:\wamp\www\firestats/js/firestats.js.php:728
+msgid "Session expired, press ok to reload"
+msgstr "Sesiunea a expirat, apasă ok pentru reîncărcare"
+
+#: c:\wamp\www\firestats/js/page-database.js.php:66
+msgid "Upgrading, do not interrupt"
+msgstr "În proces de upgrade, nu întrerupe"
+
+#: c:\wamp\www\firestats/js/page-database.js.php:73
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: c:\wamp\www\firestats/js/page-settings.js.php:19
+msgid "You need to select an bot you want to remove from the table"
+msgstr "Trebuie să selectezi un bot pe care îl doreşti eliminat din tabel"
+
+#: c:\wamp\www\firestats/js/page-settings.js.php:40
+#: c:\wamp\www\firestats/js/page-settings.js.php:55
+#: c:\wamp\www\firestats/js/page-settings.js.php:76
+#: c:\wamp\www\firestats/js/page-settings.js.php:91
+msgid "You need to select a record from the table"
+msgstr "Trebuie să selectezi o înregistrare din tabel"
+
+#: c:\wamp\www\firestats/js/page-sites.js.php:27
+#: c:\wamp\www\firestats/js/page-sites.js.php:29
+#: c:\wamp\www\firestats/js/page-sites.js.php:47
+#: c:\wamp\www\firestats/js/page-sites.js.php:49
+#: c:\wamp\www\firestats/php/window-new-edit-site.php:23
+#: c:\wamp\www\firestats/php/window-new-edit-site.php:24
+msgid "Automatic"
+msgstr "Mod automat"
+
+#: c:\wamp\www\firestats/js/page-sites.js.php:93
+#: c:\wamp\www\firestats/php/window-delete-site.php:30
+#: c:\wamp\www\firestats/php/window-delete-user.php:19
+msgid "Delete"
+msgstr "Şterge"
+
+#: c:\wamp\www\firestats/js/page-sites.js.php:93
+msgid "Transfer"
+msgstr "Transferă"
+
+#: c:\wamp\www\firestats/lib/ezsql/mysql/ez_sql_mysql.php:41
+msgid "User name and password are required to connect to database"
+msgstr "Numele utilizator şi parola sunt obligatorii pentru conectarea la baza de date"
+
+#: c:\wamp\www\firestats/lib/ezsql/mysql/ez_sql_mysql.php:42
+msgid "Error establishing mySQL database connection"
+msgstr "Eroare în stabilirea conexiunii la mySQL"
+
+#: c:\wamp\www\firestats/lib/ezsql/mysql/ez_sql_mysql.php:43
+msgid "Database name is required to connect to database"
+msgstr "Numele bazei de date este obligatoriu pentru conectarea la aceasta"
+
+#: c:\wamp\www\firestats/lib/ezsql/mysql/ez_sql_mysql.php:44
+msgid "mySQL database connection is not active"
+msgstr "conexiunea la mySQL nu este activă"
+
+#: c:\wamp\www\firestats/lib/ezsql/mysql/ez_sql_mysql.php:45
+msgid "Unexpected error while querying database"
+msgstr "Eroare neaşteptată în timpul interogării bazei de date"
+
+#: c:\wamp\www\firestats/lib/ezsql/mysql/ez_sql_mysql.php:122
+#: c:\wamp\www\firestats/lib/ezsql/mysql/ez_sql_mysql.php:133
+#, php-format
+msgid "Can't disconnect: %s"
+msgstr "Imposibilitate de deconectare: %s"
+
+#: c:\wamp\www\firestats/lib/ezsql/mysql/ez_sql_mysql.php:133
+msgid "Not connected"
+msgstr "Conexiunea nu există"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:169
+#, php-format
+msgid "Unsupported action code : %s"
+msgstr "Cod acţiune necunoscut : %s"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:178
+#, php-format
+msgid "Unexpected output: %s"
+msgstr "Output neaşteptat: %s"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:278
+#, php-format
+msgid "Invalid boolean value : %s"
+msgstr "Valoare booleană invalidă : %s"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:281
+#, php-format
+msgid "Invalid integer : %s"
+msgstr "Valoare întreagă invalidă : %s"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:284
+#, php-format
+msgid "Invalid or none positive integer : %s"
+msgstr "Valoare întreagă pozitivă invalidă sau lipsă : %s"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:291
+msgid "Invalid IP address"
+msgstr "Adresă IP invalidă"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:365
+msgid "Excluded users list saved"
+msgstr "Am salvat lista utilizatorilor excluşi"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:382
+#, php-format
+msgid "Added %s to bots list"
+msgstr "Am adăugat %s la lista boţilor"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:393
+msgid "Empty string is not allowed"
+msgstr "Nu este permis un şir gol de caractere"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:403
+msgid "Removed"
+msgstr "Eliminat"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:455
+msgid "Not using configuration file"
+msgstr "Nu este folosit un fişier de configurare"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:461
+msgid "Not installed inside Wordpress"
+msgstr "Nu este instalat în interiorul Wordpress"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:471
+#, php-format
+msgid "Failed to delete fs-config.php : %s"
+msgstr "Am eşuat ştergerea fişierului fs-config.php : %s"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:514
+msgid "Error upgrading tables"
+msgstr "Eroare upgrade tabele"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:534
+msgid "Error installing tables"
+msgstr "Eroare instalare tabele"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:612
+msgid "Error rebuilding database cache"
+msgstr "Eroare reconstruire cache bază de date"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:616
+msgid "Database cache rebuilt successfully"
+msgstr "Am refăcut cu suces cache-ul bazei de date"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:703
+#: c:\wamp\www\firestats/php/page-settings.php:138
+#, php-format
+msgid "%s days can be compacted, database size %s"
+msgstr "%s zile pot fi compactate, dimensiunea bazei de date %s"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:722
+#, php-format
+msgid "Unkown field: %s"
+msgstr "Câmp necunoscut: %s"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:758
+msgid "IP-to-country database is already up-to-date"
+msgstr "Baza de date IP-ţară este deja la zi"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:765
+msgid "An error has occured while trying to update the IP-to-country database"
+msgstr "Eroare la încercarea de aducere la zi a bazei de date IP-ţară"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:769
+#: c:\wamp\www\firestats/php/db-config-utils.php:389
+msgid "file"
+msgstr "fişier"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:771
+#, php-format
+msgid "You can update the database manually by downloading this %s and extracting it into %s"
+msgstr "Poţi aduce la zi manual baza de date descărcând %s şi extrăgându-l în %s"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:776
+#: c:\wamp\www\firestats/php/db-common.php:598
+msgid "this"
+msgstr "acest"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:778
+#, php-format
+msgid "You can update the database manually by opening %s and downloading the <b>zip_url</b>, and extracting it into %s"
+msgstr "Poţi aduce la zi manual baza de date deschizând %s şi descărcând <b>zip_url<b> şi extrăgându-l în %s"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:804
+#: c:\wamp\www\firestats/php/ajax-handler.php:822
+#, php-format
+msgid "Error updating bots list: %s"
+msgstr "Eroare la împrospătarea listei boţilor: %s"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:816
+msgid "Successfully updated bots list"
+msgstr "Am împrospătat cu succes lista boţilor"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:834
+#, php-format
+msgid "Error purging excluded records: %s"
+msgstr "Eroare la curăţarea înregistrărilor excluse: %s"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:838
+msgid "Purged excluded records"
+msgstr "Am curăţat înregistrările excluse"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:929
+#: c:\wamp\www\firestats/php/db-common.php:134
+#: c:\wamp\www\firestats/php/db-config-utils.php:24
+msgid "Error connecting to database"
+msgstr "Eroare la conectarea la baza de date"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:1012
+#, php-format
+msgid "Compacting %s days, %s done, database size is %s"
+msgstr "Compactare %s zile, %s încheiat, dimensiunea bazei de date este %s"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:1111
+#, php-format
+msgid "%d of %d"
+msgstr "%d din %d"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:1256
+msgid "Incorrect user-name or password"
+msgstr "Nume utilizator sau parolă eronată"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:1280
+#: c:\wamp\www\firestats/php/ajax-handler.php:1321
+#: c:\wamp\www\firestats/php/ajax-handler.php:1347
+msgid "User name not specified"
+msgstr "Numele utilizator nu este specificat"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:1281
+#: c:\wamp\www\firestats/php/ajax-handler.php:1322
+msgid "Email not specified"
+msgstr "Adresa e-mail nu este specificată"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:1282
+#: c:\wamp\www\firestats/php/db-config-utils.php:39
+msgid "Password not specified"
+msgstr "Parola nu este specificată"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:1283
+#: c:\wamp\www\firestats/php/ajax-handler.php:1325
+#: c:\wamp\www\firestats/php/ajax-handler.php:1348
+msgid "Passwords did not match"
+msgstr "Parolele introduse nu sunt identice"
+
+#: c:\wamp\www\firestats/php/ajax-handler.php:1349
+msgid "Empty password"
+msgstr "Parola este goală"
+
+#: c:\wamp\www\firestats/php/auth.php:86
+#, php-format
+msgid "Error connecting to database (%s)"
+msgstr "Eroare la conectarea la baza de date (%s)"
+
+#: c:\wamp\www\firestats/php/auth.php:189
+#: c:\wamp\www\firestats/php/auth.php:223
+msgid "Invalid email address"
+msgstr "Adresa e+mail este invalidă"
+
+#: c:\wamp\www\firestats/php/auth.php:199
+#: c:\wamp\www\firestats/php/auth.php:233
+msgid "A user with this name already exists"
+msgstr "Există deja un utilizator cu acest nume "
+
+#: c:\wamp\www\firestats/php/auth.php:203
+#: c:\wamp\www\firestats/php/auth.php:237
+msgid "A user with this email address already exists"
+msgstr "Există deja un utilizator cu această adresă e-mail"
+
+#: c:\wamp\www\firestats/php/auth.php:460
+#, php-format
+msgid "Invalid site id: %s"
+msgstr "Identificator site invalid: %s"
+
+#: c:\wamp\www\firestats/php/db-common.php:116
+msgid "FireStats is properly installed in the database"
+msgstr "FireStats este instalat corect în baza de date"
+
+#: c:\wamp\www\firestats/php/db-common.php:119
+msgid "FireStats is not configured"
+msgstr "FireStats nu este configurat"
+
+#: c:\wamp\www\firestats/php/db-common.php:122
+#, php-format
+msgid "Database error, check your configuration: %s"
+msgstr "Eroare bază de date, verifică-ţi configuraţia: %s"
+
+#: c:\wamp\www\firestats/php/db-common.php:125
+msgid "FireStats is not installed in the database"
+msgstr "FireStats nu este instalat în baza de date"
+
+#: c:\wamp\www\firestats/php/db-common.php:128
+msgid "FireStats database needs to be upgraded"
+msgstr "Baza de date FireStats trebuie îmbunătăţită"
+
+#: c:\wamp\www\firestats/php/db-common.php:131
+msgid "The FireStats database version is newer than this code version, you need to upgrade FireStats"
+msgstr "Baza de date FireStats este mai nouă decât codul, este necesară îmbunătăţirea codului"
+
+#: c:\wamp\www\firestats/php/db-common.php:137
+msgid "Unknown database status code"
+msgstr "Cod status bază de date necunoscut"
+
+#: c:\wamp\www\firestats/php/db-common.php:583
+#: c:\wamp\www\firestats/php/db-hit.php:367
+#, php-format
+msgid "Database error: %s"
+msgstr "Eroare bază de date: %s"
+
+#: c:\wamp\www\firestats/php/db-common.php:598
+#, php-format
+msgid "Invalid regular expression, see %s for more information"
+msgstr "Expresie regulată invalidă, consultă %s pentru detalii"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:21
+msgid "Error accessing database"
+msgstr "Eroare accesare bază de date"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:27
+msgid "Error creating database"
+msgstr "Eroare creare bază de date"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:30
+msgid "Error creating user"
+msgstr "Eroare creare utilizator"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:33
+msgid "Error creating tables"
+msgstr "Eroare creare tabele"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:36
+msgid "Error saving configuration"
+msgstr "Eroare salvare configurare"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:42
+msgid "Wrong password"
+msgstr "Parolă greşită"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:52
+msgid "FireStats tables are not installed"
+msgstr "Tabelele FireStats nu sunt instalate"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:57
+msgid "FireStats is installed"
+msgstr "FireStats este instalat"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:62
+msgid "Another FireStats database detected"
+msgstr "A fost detectată o altă bază de date FireStats"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:67
+msgid "New database created successfuly"
+msgstr "Noua bază de date a fost creată cu succes"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:70
+#, php-format
+msgid "Unexpected error code %s"
+msgstr "Cod eroare neaşteptat %s"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:302
+msgid "Not configured"
+msgstr "Nu este configurat"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:305
+msgid "FireStats configuration file"
+msgstr "Fişier configurare FireStats"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:308
+msgid "Wordpress configuration file"
+msgstr "Fişier configurare Wordpress"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:311
+msgid "External configuration"
+msgstr "Configurare externă"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:390
+#, php-format
+msgid "Configuration file %s is not writable, you can either:"
+msgstr "Fişierul de configurare %s nu poate fi rescris, poţi fie să:"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:391
+msgid "Fix the problem by making it writable"
+msgstr "Corectezi problema prin acordarea drepturilor de scriere"
+
+#: c:\wamp\www\firestats/php/db-config-utils.php:392
+#, php-format
+msgid "download the %s and upload it into %s"
+msgstr "descarci %s şi să îl copiezi în %s"
+
+#: c:\wamp\www\firestats/php/db-setup.php:32
+msgid "Operation already in progress"
+msgstr "Operaţia este deja în desfăşurare"
+
+#: c:\wamp\www\firestats/php/db-sql.php:49
+msgid "Data compacting is already in progress"
+msgstr "Compactarea datelor este în desfăşurare"
+
+#: c:\wamp\www\firestats/php/db-sql.php:74
+#: c:\wamp\www\firestats/php/page-settings.php:143
+msgid "MySQL 4.1.14 or newer is required for data compacting support"
+msgstr "Este nevoie de mySQL 4,1,14 sau mai nou pentru a suporta compactarea datelor"
+
+#: c:\wamp\www\firestats/php/db-sql.php:288
+#: c:\wamp\www\firestats/php/db-sql.php:326
+msgid "Site name not specified"
+msgstr "Nume site nespecificat"
+
+#: c:\wamp\www\firestats/php/db-sql.php:300
+#: c:\wamp\www\firestats/php/db-sql.php:330
+msgid "Site ID must be a positive number"
+msgstr "Identificatorul site-ului trebuie să fie un număr mai mare ca zero"
+
+#: c:\wamp\www\firestats/php/db-sql.php:303
+#: c:\wamp\www\firestats/php/db-sql.php:349
+#, php-format
+msgid "A site with the ID %s already exists"
+msgstr "Un site cu identificatorul %s există deja"
+
+#: c:\wamp\www\firestats/php/db-sql.php:337
+#: c:\wamp\www\firestats/php/db-sql.php:406
+#: c:\wamp\www\firestats/php/db-sql.php:457
+#, php-format
+msgid "No site with the id %s exists"
+msgstr "Nu există nici un site cu identificatorul %s"
+
+#: c:\wamp\www\firestats/php/db-sql.php:442
+msgid "New site_id must not be empty"
+msgstr "Noul site_id trebuie să conţină o valoare"
+
+#: c:\wamp\www\firestats/php/db-sql.php:448
+msgid "Can't move the hits to the same site"
+msgstr "Nu se pot muta accesele pe acelaşi site"
+
+#: c:\wamp\www\firestats/php/db-sql.php:543
+msgid "Empty url pattern"
+msgstr "Model URL gol"
+
+#: c:\wamp\www\firestats/php/db-sql.php:555
+msgid "The URL already exists"
+msgstr "Acest URL există deja"
+
+#: c:\wamp\www\firestats/php/db-sql.php:649
+#: c:\wamp\www\firestats/php/db-sql.php:654
+#, php-format
+msgid "Invalid IP address: %s"
+msgstr "Adresă IP invalidă: %s"
+
+#: c:\wamp\www\firestats/php/db-sql.php:665
+msgid "First IP address must be smaller than second IP address"
+msgstr "Prima adresă IP trebuie să fie mai mică decât a doua adresă IP "
+
+#: c:\wamp\www\firestats/php/db-sql.php:672
+msgid "The IP address(s) already exists"
+msgstr "Adresa/adresele IP există deja"
+
+#: c:\wamp\www\firestats/php/db-sql.php:778
+#, php-format
+msgid "The bot wildcard %s is already in the database"
+msgstr "Wildcard-ul %s pentru bot există deja în baza de date"
+
+#: c:\wamp\www\firestats/php/db-sql.php:1382
+#: c:\wamp\www\firestats/php/db-sql.php:1430
+#: c:\wamp\www\firestats/php/html-utils.php:160
+#: c:\wamp\www\firestats/php/html-utils.php:305
+msgid "Unknown"
+msgstr "Necunoscut"
+
+#: c:\wamp\www\firestats/php/db-sql.php:1863
+#, php-format
+msgid "Error opening file : %s"
+msgstr "Eroare la deschderea fişierului : %s"
+
+#: c:\wamp\www\firestats/php/export-bots-list.php:21
+msgid "Error exporting bots list"
+msgstr "Eroare la exportul listei de boţi"
+
+#: c:\wamp\www\firestats/php/footer.php:3
+#, php-format
+msgid "If you have any problems or questions, please visit the %s"
+msgstr "Dacă ai probleme sau întrebări, te rugăm vizitează %s"
+
+#: c:\wamp\www\firestats/php/footer.php:3
+msgid "FireStats homepage"
+msgstr "pagina oficială FireStats"
+
+#: c:\wamp\www\firestats/php/header.php:18
+#: c:\wamp\www\firestats/php/window-donation.php:7
+msgid "Support FireStats"
+msgstr "Ajută FireStats"
+
+#: c:\wamp\www\firestats/php/header.php:25
+#, php-format
+msgid "Log out %s"
+msgstr "Părăsire cont %s"
+
+#: c:\wamp\www\firestats/php/header.php:37
+msgid "Demo"
+msgstr "Demo"
+
+#: c:\wamp\www\firestats/php/header.php:45
+msgid "Hide"
+msgstr "Ascunde"
+
+#: c:\wamp\www\firestats/php/help-window.php:34
+msgid "Unknown site type"
+msgstr "Tip site necunoscut"
+
+#: c:\wamp\www\firestats/php/help-window.php:80
+msgid "Collect hits from PHP pages"
+msgstr "Colectează afişări din paginile PHP"
+
+#: c:\wamp\www\firestats/php/help-window.php:81
+msgid "To allow FireStats to track access to your pages, you need to add the following line inside the head tag of each of the pages you want to monitor (the page must be a php page)."
+msgstr "Pentru a permite FireStats să monitorizeze accesul la painile tale, trebuie să adaugi următoarea linie în interiorul tag-ului <head> al fiecărei pagini pe care doreşti să o monitorizezi (pagina trebuie să fie PHP)."
+
+#: c:\wamp\www\firestats/php/help-window.php:87
+msgid "A typical page header will look like this:"
+msgstr "Un header tipic de pagină va arăta în felul următor:"
+
+#: c:\wamp\www\firestats/php/help-window.php:104
+msgid "WordPress"
+msgstr "WordPress"
+
+#: c:\wamp\www\firestats/php/help-window.php:105
+msgid "The WordPress plugin registers itself automatically when it's activated"
+msgstr "Plugin-ul WordPress se înregistrează automat atunci când este activat"
+
+#: c:\wamp\www\firestats/php/help-window.php:111
+#: c:\wamp\www\firestats/php/help-window.php:119
+#: c:\wamp\www\firestats/php/help-window.php:139
+#: c:\wamp\www\firestats/php/help-window.php:145
+#: c:\wamp\www\firestats/php/help-window.php:157
+msgid "plugin"
+msgstr "plugin"
+
+#: c:\wamp\www\firestats/php/help-window.php:127
+#: c:\wamp\www\firestats/php/help-window.php:133
+msgid "module"
+msgstr "modul"
+
+#: c:\wamp\www\firestats/php/help-window.php:176
+#, php-format
+msgid "Collect hits from a %s site"
+msgstr "Colectează accese de la un site %s"
+
+#: c:\wamp\www\firestats/php/help-window.php:197
+#, php-format
+msgid "and then configure it in the administration menu with the path %s and the ID %s"
+msgstr "şi configurează-l în meniul de administrare folosind calea %s şi identificatorul %s"
+
+#: c:\wamp\www\firestats/php/help-window.php:207
+#, php-format
+msgid "and then edit the lines in %s to contain this:"
+msgstr "iar apoi editează liniile din %s pentru a conţine următoarele:"
+
+#: c:\wamp\www\firestats/php/help-window.php:214
+#, php-format
+msgid "To collect statistics from your %s site your need to install the %s"
+msgstr "Pentru a colecta statistici de la site-ul tău %s este necesar să instalezi %s"
+
+#: c:\wamp\www\firestats/php/html-utils.php:10
+msgid "Link here"
+msgstr "Legătură aici"
+
+#: c:\wamp\www\firestats/php/html-utils.php:127
+#: c:\wamp\www\firestats/php/html-utils.php:190
+#: c:\wamp\www\firestats/php/window-new-edit-site.php:32
+msgid "Name"
+msgstr "Nume"
+
+#: c:\wamp\www\firestats/php/html-utils.php:128
+#: c:\wamp\www\firestats/php/page-add-admin.php:36
+#: c:\wamp\www\firestats/php/window-edit-user.php:32
+msgid "Email"
+msgstr "Adresă e-mail"
+
+#: c:\wamp\www\firestats/php/html-utils.php:129
+#: c:\wamp\www\firestats/php/window-edit-user.php:44
+msgid "Security level"
+msgstr "Nivel de securitate"
+
+#: c:\wamp\www\firestats/php/html-utils.php:151
+msgid "Admin"
+msgstr "Administrator"
+
+#: c:\wamp\www\firestats/php/html-utils.php:156
+#: c:\wamp\www\firestats/php/window-edit-user.php:18
+msgid "User"
+msgstr "Utilizator"
+
+#: c:\wamp\www\firestats/php/html-utils.php:176
+msgid "Add a new user"
+msgstr "Adaugă un utilizator nou"
+
+#: c:\wamp\www\firestats/php/html-utils.php:189
+#: c:\wamp\www\firestats/php/window-new-edit-site.php:21
+msgid "ID"
+msgstr "Identificator"
+
+#: c:\wamp\www\firestats/php/html-utils.php:191
+#: c:\wamp\www\firestats/php/window-new-edit-site.php:36
+msgid "Type"
+msgstr "Tip"
+
+#: c:\wamp\www\firestats/php/html-utils.php:192
+#: c:\wamp\www\firestats/php/page-stats.php:149
+msgid "Page views"
+msgstr "Vizualizări pagină"
+
+#: c:\wamp\www\firestats/php/html-utils.php:209
+msgid "How to integrate with this site"
+msgstr "Cum se intregrează cu acest site"
+
+#: c:\wamp\www\firestats/php/html-utils.php:238
+msgid "Orphaned hits"
+msgstr "Accesări orfane"
+
+#: c:\wamp\www\firestats/php/html-utils.php:251
+msgid "Add a new site"
+msgstr "Adaugă un site nou"
+
+#: c:\wamp\www\firestats/php/html-utils.php:287
+msgid "Generic PHP site"
+msgstr "Site PHP generic"
+
+#: c:\wamp\www\firestats/php/html-utils.php:289
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: c:\wamp\www\firestats/php/html-utils.php:291
+msgid "Django"
+msgstr "Django"
+
+#: c:\wamp\www\firestats/php/html-utils.php:293
+msgid "Drupal"
+msgstr "Drupal"
+
+#: c:\wamp\www\firestats/php/html-utils.php:295
+msgid "Gregarius"
+msgstr "Gregarius"
+
+#: c:\wamp\www\firestats/php/html-utils.php:297
+msgid "Joomla"
+msgstr "Joomla"
+
+#: c:\wamp\www\firestats/php/html-utils.php:299
+msgid "MediaWiki"
+msgstr "MediaWiki"
+
+#: c:\wamp\www\firestats/php/html-utils.php:301
+msgid "Trac"
+msgstr "Trac"
+
+#: c:\wamp\www\firestats/php/html-utils.php:303
+msgid "Gallery2"
+msgstr "Gallery2"
+
+#: c:\wamp\www\firestats/php/html-utils.php:396
+msgid "Invalid"
+msgstr "Invalid"
+
+#: c:\wamp\www\firestats/php/html-utils.php:415
+msgid "You are not allowed to view the statistics of any site, please contact your system administrator"
+msgstr "Nu eşti autorizat să vizualizezi statisticile nici unui site, te rugăm să contactezi administratorul sistemului pentru aceasta"
+
+#: c:\wamp\www\firestats/php/html-utils.php:444
+msgid "All"
+msgstr "Toate"
+
+#: c:\wamp\www\firestats/php/html-utils.php:445
+msgid "Show statistics from"
+msgstr "Arată statistici de la"
+
+#: c:\wamp\www\firestats/php/html-utils.php:473
+msgid "unknown"
+msgstr "necunoscut"
+
+#: c:\wamp\www\firestats/php/html-utils.php:555
+#: c:\wamp\www\firestats/php/page-stats.php:286
+msgid "IP"
+msgstr "IP"
+
+#: c:\wamp\www\firestats/php/html-utils.php:556
+msgid "TimeStamp"
+msgstr "Data şi ora"
+
+#: c:\wamp\www\firestats/php/html-utils.php:557
+#: c:\wamp\www\firestats/php/page-stats.php:287
+msgid "URL"
+msgstr "URL"
+
+#: c:\wamp\www\firestats/php/html-utils.php:558
+#: c:\wamp\www\firestats/php/page-stats.php:288
+msgid "Referrer"
+msgstr "Sursă (referrer)"
+
+#: c:\wamp\www\firestats/php/html-utils.php:559
+msgid "Image"
+msgstr "Imagine"
+
+#: c:\wamp\www\firestats/php/html-utils.php:560
+msgid "UserAgent"
+msgstr "Agent utilizator (User Agent)"
+
+#: c:\wamp\www\firestats/php/html-utils.php:581
+#: c:\wamp\www\firestats/php/html-utils.php:671
+#: c:\wamp\www\firestats/php/html-utils.php:887
+#: c:\wamp\www\firestats/php/html-utils.php:979
+#: c:\wamp\www\firestats/php/html-utils.php:1014
+#: c:\wamp\www\firestats/php/html-utils.php:1099
+#: c:\wamp\www\firestats/php/html-utils.php:1177
+msgid "No data yet, go get some hits"
+msgstr "Nu sunt încă date, du-te şi fă rost de nişte accese"
+
+#: c:\wamp\www\firestats/php/html-utils.php:732
+#: c:\wamp\www\firestats/php/html-utils.php:764
+#: c:\wamp\www\firestats/php/html-utils.php:786
+#: c:\wamp\www\firestats/php/html-utils.php:811
+msgid "Empty"
+msgstr "Gol"
+
+#: c:\wamp\www\firestats/php/html-utils.php:916
+msgid "Start date is missing"
+msgstr "Lipseşte data start"
+
+#: c:\wamp\www\firestats/php/html-utils.php:921
+msgid "End date is missing"
+msgstr "Lipseşte data stop"
+
+#: c:\wamp\www\firestats/php/html-utils.php:941
+msgid "Please wait..."
+msgstr "Te rugăm să aştepţi..."
+
+#: c:\wamp\www\firestats/php/html-utils.php:1037
+#, php-format
+msgid "%d hits from %s"
+msgstr "%d accese de la %s"
+
+#: c:\wamp\www\firestats/php/html-utils.php:1161
+msgid "Others"
+msgstr "Alţii"
+
+#: c:\wamp\www\firestats/php/html-utils.php:1204
+#: c:\wamp\www\firestats/php/window-do-you-agree-to-send-sysinfo.php:8
+msgid "System information"
+msgstr "Informaţii sistem"
+
+#: c:\wamp\www\firestats/php/html-utils.php:1205
+msgid "You can help by sending anonymous system information that will help make better decisions about new features"
+msgstr "Poţi fi de ajutor prin furnizarea de statistici anonime care ne vor ajuta să luăm decizii mai bune cu privire la îmbunătăţiri ulterioare"
+
+#: c:\wamp\www\firestats/php/html-utils.php:1206
+#: c:\wamp\www\firestats/php/window-do-you-agree-to-send-sysinfo.php:11
+msgid "The information will be sent anonymously, but a unique identifier will be sent to prevent duplicate entries from the same FireStats"
+msgstr "Aceste informaţii vor fi trimise păstrând anonimitatea, dar un identificator unic va fi trimis pentru a preîntâmpina trimiterea informaţiilor duplicat de la aceeaşi instalare FireStats"
+
+#: c:\wamp\www\firestats/php/html-utils.php:1342
+msgid "Page views in last 24 hours"
+msgstr "Pagini vizualizate în ultimele 24 ore"
+
+#: c:\wamp\www\firestats/php/html-utils.php:1343
+msgid "Page views since midnight"
+msgstr "Pagini vizualizate începând cu miezul nopţii"
+
+#: c:\wamp\www\firestats/php/html-utils.php:1354
+msgid "Visits in last 24 hours"
+msgstr "Vizite în ultimele 24 ore"
+
+#: c:\wamp\www\firestats/php/html-utils.php:1355
+msgid "Visits since midnight"
+msgstr "Vizite începând cu miezul nopţii"
+
+#: c:\wamp\www\firestats/php/import-bots-list.php:15
+#: c:\wamp\www\firestats/php/import-bots-list.php:23
+msgid "Import bots list"
+msgstr "Importă lista de boţi"
+
+#: c:\wamp\www\firestats/php/import-bots-list.php:34
+msgid "Select bot-list file"
+msgstr "Selectează fişierul cu lista boţilor"
+
+#: c:\wamp\www\firestats/php/import-bots-list.php:35
+msgid "Import type"
+msgstr "Tip import"
+
+#: c:\wamp\www\firestats/php/import-bots-list.php:37
+msgid "Add to bots list"
+msgstr "Adaugă la lista boţilor"
+
+#: c:\wamp\www\firestats/php/import-bots-list.php:38
+msgid "Replace bots list"
+msgstr "Înlocuieşte lista boţilor"
+
+#: c:\wamp\www\firestats/php/import-bots-list.php:40
+msgid "Send File"
+msgstr "Trimite fişier"
+
+#: c:\wamp\www\firestats/php/import-bots-list.php:56
+msgid "Incorrect file format"
+msgstr "Format fişier incorect"
+
+#: c:\wamp\www\firestats/php/import-bots-list.php:68
+#, php-format
+msgid "Error importing bots list : %s"
+msgstr "Eroare l importul listei boţilor: %s"
+
+#: c:\wamp\www\firestats/php/import-bots-list.php:73
+msgid "bots list imported successfully"
+msgstr "lista boţilor a fost importată cu succes"
+
+#: c:\wamp\www\firestats/php/ip2country.php:116
+#: c:\wamp\www\firestats/php/ip2country.php:120
+#: c:\wamp\www\firestats/php/ip2country.php:250
+msgid "Error creating temporary file"
+msgstr "Eroare la crearea fişierului temporar"
+
+#: c:\wamp\www\firestats/php/ip2country.php:128
+#, php-format
+msgid "Error opening connection to %s"
+msgstr "Eroare la deschiderea conexiunii către %s"
+
+#: c:\wamp\www\firestats/php/ip2country.php:133
+#, php-format
+msgid "Error sending request to %s"
+msgstr "Eroare la trimiterea cererii către %s"
+
+#: c:\wamp\www\firestats/php/ip2country.php:139
+#: c:\wamp\www\firestats/php/utils.php:460
+#, php-format
+msgid "Server returned error %s for %s"
+msgstr "Server-ul a returnat eroarea %s pentru %s"
+
+#: c:\wamp\www\firestats/php/ip2country.php:153
+#, php-format
+msgid "Error reading data from %s : %s"
+msgstr "Eroare la citirea datelor de la %s : %s"
+
+#: c:\wamp\www\firestats/php/ip2country.php:182
+#, php-format
+msgid "Error extracting IP-to-country database: %s"
+msgstr "Eroare la extragerea bazei de date IP-ţară: %s"
+
+#: c:\wamp\www\firestats/php/ip2country.php:187
+#, php-format
+msgid "Unsupported file type : %s"
+msgstr "Tip fişier nesuportat : %s"
+
+#: c:\wamp\www\firestats/php/ip2country.php:207
+#, php-format
+msgid "can't update ip-to-country database, read-only directory : %s"
+msgstr "nu se poate aduce la zi baza de date IP-ţară, directorul are doar permisiuni de citire : %s"
+
+#: c:\wamp\www\firestats/php/ip2country.php:209
+#: c:\wamp\www\firestats/php/ip2country.php:211
+#, php-format
+msgid "can't update ip-to-country database, read-only file : %s"
+msgstr "nu se poate aduce la zi baza de date IP-ţară, fişierul are doar permisiuni de citire : %s"
+
+#: c:\wamp\www\firestats/php/ip2country.php:226
+msgid "Error installing new IP-to-country database"
+msgstr "Eroare la instalarea noii baze de date IP-ţară"
+
+#: c:\wamp\www\firestats/php/ip2country.php:232
+msgid "Successfuly updated IP-to-country database"
+msgstr "Am adus la zi cu succes baza de date IP-ţară"
+
+#: c:\wamp\www\firestats/php/ip2country.php:236
+#, php-format
+msgid "Error updating version file : %s"
+msgstr "Eroare la aducerea la zi a fişierului de versionare : %s"
+
+#: c:\wamp\www\firestats/php/page-add-admin.php:25
+msgid "Create administrator user"
+msgstr "Crează utilizatorul Administrator"
+
+#: c:\wamp\www\firestats/php/page-add-admin.php:27
+msgid "You need to create an administrator user for FireStats."
+msgstr "Este necesar să creezi un utilizator Administrator pentru FireStats."
+
+#: c:\wamp\www\firestats/php/page-add-admin.php:28
+msgid "The administrator has full control over FireStats, and will be able to create other users/administrators from the administration interface"
+msgstr "Utilizatorul Administrator are drepturi depline în FireStatsş acesta va putea crea alţi utilizatori/administratori folosind interfaţa de administrare"
+
+#: c:\wamp\www\firestats/php/page-add-admin.php:32
+#: c:\wamp\www\firestats/php/window-edit-user.php:28
+#: c:\wamp\www\firestats/php/tools/reset-password.php:92
+#: c:\wamp\www\firestats/php/tools/reset-password.php:120
+msgid "User name"
+msgstr "Nume utilizator"
+
+#: c:\wamp\www\firestats/php/page-add-admin.php:44
+#: c:\wamp\www\firestats/php/window-edit-user.php:40
+msgid "Verify password"
+msgstr "Verificare parolă"
+
+#: c:\wamp\www\firestats/php/page-add-admin.php:48
+msgid "Create user"
+msgstr "Crează utilizator"
+
+#: c:\wamp\www\firestats/php/page-database.php:51
+msgid "Database status"
+msgstr "Status bază de date"
+
+#: c:\wamp\www\firestats/php/page-database.php:61
+#, php-format
+msgid "Upgrade to database version %d"
+msgstr "Îmbunătăţire bază de date la versiunea %d"
+
+#: c:\wamp\www\firestats/php/page-database.php:86
+#, php-format
+msgid "Configuration source : %s"
+msgstr "Sursă configurare : %s"
+
+#: c:\wamp\www\firestats/php/page-database.php:92
+msgid "To use wordpress database, click this button."
+msgstr "Apasă aici pentru a folosi baza de date WordPress."
+
+#: c:\wamp\www\firestats/php/page-database.php:93
+msgid "FireStats database configuration will be lost."
+msgstr "Configurarea bazei de date FireStats se va pierde."
+
+#: c:\wamp\www\firestats/php/page-database.php:94
+msgid "Use Wordpress database"
+msgstr "Foloseşte baza de date WordPress"
+
+#: c:\wamp\www\firestats/php/page-database.php:105
+msgid "To perform one of the following actions:"
+msgstr "Pentru a îndeplini una din următoarele acţiuni:"
+
+#: c:\wamp\www\firestats/php/page-database.php:107
+msgid "Attach to an existing FireStats installation"
+msgstr "Ataşare la o instalare FireStats existentă"
+
+#: c:\wamp\www\firestats/php/page-database.php:108
+#: c:\wamp\www\firestats/php/page-database.php:226
+msgid "Install FireStats into an existing database"
+msgstr "Instalare FireStats într-o bază de date existentă"
+
+#: c:\wamp\www\firestats/php/page-database.php:109
+#: c:\wamp\www\firestats/php/page-database.php:229
+msgid "Create a new database and install FireStats there"
+msgstr "Creare bază de date nouă şi instalare FireStats acolo"
+
+#: c:\wamp\www\firestats/php/page-database.php:111
+msgid "Follow instructions in the help"
+msgstr "Urmăreşte instrucţiunile din manualul de utilizare"
+
+#: c:\wamp\www\firestats/php/page-database.php:119
+msgid "Database host"
+msgstr "Gazdă (host) bază de date"
+
+#: c:\wamp\www\firestats/php/page-database.php:125
+msgid "Database name"
+msgstr "Nume bază de date"
+
+#: c:\wamp\www\firestats/php/page-database.php:131
+msgid "Database user name"
+msgstr "Nume utilizator bază de date"
+
+#: c:\wamp\www\firestats/php/page-database.php:137
+msgid "Database password"
+msgstr "Parola bazei de date"
+
+#: c:\wamp\www\firestats/php/page-database.php:143
+msgid "Tables prefix"
+msgstr "Prefixe tabele"
+
+#: c:\wamp\www\firestats/php/page-database.php:152
+#: c:\wamp\www\firestats/php/page-database.php:224
+#: c:\wamp\www\firestats/php/page-database.php:227
+#: c:\wamp\www\firestats/php/page-database.php:230
+msgid "Test connection"
+msgstr "Testează conexiunea"
+
+#: c:\wamp\www\firestats/php/page-database.php:162
+msgid "Click to install and switch to new FireStats tables"
+msgstr "Click pentru a instala noile tabele FireStats şi a comuta pe acestea"
+
+#: c:\wamp\www\firestats/php/page-database.php:165
+#: c:\wamp\www\firestats/php/page-database.php:227
+msgid "Install tables"
+msgstr "Instalează tabele"
+
+#: c:\wamp\www\firestats/php/page-database.php:174
+msgid "Click to use this FireStats database"
+msgstr "Click pentru a folosi această bază de date FireStats"
+
+#: c:\wamp\www\firestats/php/page-database.php:178
+#: c:\wamp\www\firestats/php/page-database.php:224
+msgid "Use this database"
+msgstr "Foloseşte această bază de date"
+
+#: c:\wamp\www\firestats/php/page-database.php:190
+msgid "To create a new database, an administrator user should be used in the above fields."
+msgstr "Pentru a crea o bază de date nouă este necesară introducerea unui utilizator cu drepturi de administrare în câmpurile de mai sus."
+
+#: c:\wamp\www\firestats/php/page-database.php:191
+msgid "However, For security reason, it is recommended not to use a database administrator user for day to day operations."
+msgstr "Cu toate acestea, din motive de securitate nu este recomandată folosirea unui utilizator cu drepturi de administrare a bazei de date la îndeplinirea operaţiilor de zi cu zi."
+
+#: c:\wamp\www\firestats/php/page-database.php:192
+msgid "Enter new user name and password for FireStats, this user will only have access to the FireStats database"
+msgstr "Introdu un nou nume de utilizator şi o parolă pentru el, acesta va avea doar drepturi de vizualizare a informaţiilor FireStats."
+
+#: c:\wamp\www\firestats/php/page-database.php:193
+msgid "If you will not specify user and password the Admin user and password will be used."
+msgstr "Dacă nu vei specifica un utilizator şi o parolă, vor fi utlizate cele corespunzătoare Administratorului."
+
+#: c:\wamp\www\firestats/php/page-database.php:200
+msgid "FireStats User name"
+msgstr "Nume utilizator FireStats"
+
+#: c:\wamp\www\firestats/php/page-database.php:204
+msgid "FireStats password"
+msgstr "Parolă FireStats"
+
+#: c:\wamp\www\firestats/php/page-database.php:210
+#: c:\wamp\www\firestats/php/page-database.php:230
+msgid "Create database"
+msgstr "Crează baza de date"
+
+#: c:\wamp\www\firestats/php/page-database.php:222
+#: c:\wamp\www\firestats/php/page-sites.php:23
+#: c:\wamp\www\firestats/php/page-users.php:34
+msgid "Help"
+msgstr "Ajutor"
+
+#: c:\wamp\www\firestats/php/page-database.php:223
+msgid "Attach to an existing FireStats database"
+msgstr "Ataşează la o bază de date FireStats existentă"
+
+#: c:\wamp\www\firestats/php/page-database.php:224
+#: c:\wamp\www\firestats/php/page-database.php:227
+#, php-format
+msgid "Enter the parameters in the table, press %s, and then %s."
+msgstr "Introdu parametrii în tabel, apasă %s şi apoi %s."
+
+#: c:\wamp\www\firestats/php/page-database.php:230
+#, php-format
+msgid "Enter the parameters into the table, <u>you need to enter a database administrator user</u>. press %s, and then enter FireStats database user and password, and finally press %s."
+msgstr "Introdu parametrii în tabel, <u>trebuie să fie un utilizator cu drepturi de administrare a bazei de date</u>. Apasă %s, apoi introdu numele si parola utilizatorului bazei de date FireStats, iar la final apasă %s."
+
+#: c:\wamp\www\firestats/php/page-settings.php:10
+msgid "Options"
+msgstr "Opţiuni"
+
+#: c:\wamp\www\firestats/php/page-settings.php:15
+msgid "Select language"
+msgstr "Selectează limba"
+
+#: c:\wamp\www\firestats/php/page-settings.php:21
+#: c:\wamp\www\firestats/php/page-settings.php:34
+#: c:\wamp\www\firestats/php/page-settings.php:48
+#: c:\wamp\www\firestats/php/page-stats.php:279
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:131
+#: c:\wamp\www\firestats/php/window-add-excluded-ip.php:97
+#: c:\wamp\www\firestats/php/window-add-excluded-url.php:31
+#: c:\wamp\www\firestats/php/window-edit-user.php:78
+#: c:\wamp\www\firestats/php/window-new-edit-site.php:49
+msgid "Save"
+msgstr "Salvează"
+
+#: c:\wamp\www\firestats/php/page-settings.php:22
+msgid "How to translate to a new language"
+msgstr "Cum să traduci în altă limbă"
+
+#: c:\wamp\www\firestats/php/page-settings.php:27
+msgid "Select your time zone"
+msgstr "Selectează zona de timp"
+
+#: c:\wamp\www\firestats/php/page-settings.php:37
+#, php-format
+msgid "Time zone selection requires %s or newer"
+msgstr "Selectarea zonei de timp necesită %s sau mai nou."
+
+#: c:\wamp\www\firestats/php/page-settings.php:42
+msgid "Select WHOIS provider"
+msgstr "Selectează furnizorul WHOIS"
+
+#: c:\wamp\www\firestats/php/page-settings.php:58
+msgid "Exclude hits"
+msgstr "Exclude accesele"
+
+#: c:\wamp\www\firestats/php/page-settings.php:59
+msgid "Purge excluded records stored in the database"
+msgstr "Curăţă înregistrările excluse din baza de date"
+
+#: c:\wamp\www\firestats/php/page-settings.php:61
+msgid "Purge"
+msgstr "Curăţă"
+
+#: c:\wamp\www\firestats/php/page-settings.php:65
+#: c:\wamp\www\firestats/php/page-stats.php:289
+msgid "User agent"
+msgstr "Agent utilizator (User Agent)"
+
+#: c:\wamp\www\firestats/php/page-settings.php:80
+msgid "Automatic update"
+msgstr "Update automat"
+
+#: c:\wamp\www\firestats/php/page-settings.php:83
+msgid "Update now"
+msgstr "Update acum"
+
+#: c:\wamp\www\firestats/php/page-settings.php:85
+msgid "Import"
+msgstr "Import"
+
+#: c:\wamp\www\firestats/php/page-settings.php:88
+msgid "Export"
+msgstr "Export"
+
+#: c:\wamp\www\firestats/php/page-settings.php:94
+msgid "IP address"
+msgstr "Adresă IP"
+
+#: c:\wamp\www\firestats/php/page-settings.php:104
+msgid "URL/Referrer"
+msgstr "URL/Sursă (Referrer)"
+
+#: c:\wamp\www\firestats/php/page-settings.php:122
+msgid "Compact old data"
+msgstr "Compactează datele vechi"
+
+#: c:\wamp\www\firestats/php/page-settings.php:133
+#, php-format
+msgid "%s compact data older than %s"
+msgstr "%s compactează datele mai vechi de %s"
+
+#: c:\wamp\www\firestats/php/page-settings.php:150
+msgid "Automatic version check"
+msgstr "Verificare automată a versiunii"
+
+#: c:\wamp\www\firestats/php/page-settings.php:152
+msgid "Automatically check if there is a new version of FireStats (recommended)"
+msgstr "Verifică automat dacă a apărut o versiune nouă de FireStats (recomandat)"
+
+#: c:\wamp\www\firestats/php/page-settings.php:159
+msgid "Hits processing mode"
+msgstr "Mod procesare accese"
+
+#: c:\wamp\www\firestats/php/page-settings.php:167
+msgid "This section allow you to modify the way FireStats handles incomming hits. it is useful to fine tune FireStats for sites with very high load."
+msgstr "Această secţiune îţi permite să modifici modul în care FireStats se ocupă de accesele noi. Este utilă în reglarea fină a FireStats pentru site-urile cu o încărcare foarte mare."
+
+#: c:\wamp\www\firestats/php/page-settings.php:171
+msgid "MySQL 5.0 or newer is required for faster processing modes"
+msgstr "Pentru moduri de procesare mai rapide ai nevoie de mySQL 5,0 sau mai nou"
+
+#: c:\wamp\www\firestats/php/page-settings.php:178
+msgid "Overriden by conf.php"
+msgstr "Suprascris de către conf.php"
+
+#: c:\wamp\www\firestats/php/page-settings.php:185
+msgid "IP-to-country database"
+msgstr "Baza de date IP-ţară"
+
+#: c:\wamp\www\firestats/php/page-settings.php:187
+#, php-format
+msgid "IP-to-country database version : %s"
+msgstr "Versiunea bazei de date IP-ţară este: %s"
+
+#: c:\wamp\www\firestats/php/page-settings.php:190
+msgid "Automatically check if there is a new version of IP-to-country database"
+msgstr "Verifică automat dacă a apărut o versiune nouă a bazei de date IP-ţară"
+
+#: c:\wamp\www\firestats/php/page-settings.php:194
+msgid "Update IP-to-country database now (only if needed)"
+msgstr "Îmbunătăţeşte acum baza de date IP-ţară (doar dacă e necesar)"
+
+#: c:\wamp\www\firestats/php/page-settings.php:196
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:137
+msgid "Update"
+msgstr "Îmbunătăţeşte"
+
+#: c:\wamp\www\firestats/php/page-settings.php:208
+msgid "Automatically"
+msgstr "Automat"
+
+#: c:\wamp\www\firestats/php/page-settings.php:209
+msgid "Manually"
+msgstr "Manual"
+
+#: c:\wamp\www\firestats/php/page-settings.php:210
+msgid "Please select"
+msgstr "Te rugăm să alegi"
+
+#: c:\wamp\www\firestats/php/page-settings.php:227
+msgid "One month"
+msgstr "O lună"
+
+#: c:\wamp\www\firestats/php/page-settings.php:228
+msgid "Two months"
+msgstr "Două luni"
+
+#: c:\wamp\www\firestats/php/page-settings.php:229
+msgid "Three months"
+msgstr "Trei luni"
+
+#: c:\wamp\www\firestats/php/page-settings.php:230
+msgid "Half a year"
+msgstr "O jumătate de an"
+
+#: c:\wamp\www\firestats/php/page-settings.php:231
+msgid "One year"
+msgstr "Un an"
+
+#: c:\wamp\www\firestats/php/page-settings.php:232
+msgid "Two years"
+msgstr "Doi ani"
+
+#: c:\wamp\www\firestats/php/page-settings.php:242
+msgid "Process immediatelly (Slow)"
+msgstr "Procesează imediat (lent)"
+
+#: c:\wamp\www\firestats/php/page-settings.php:245
+msgid "Buffer hits (Fast)"
+msgstr "Buffer-are accese (rapid)"
+
+#: c:\wamp\www\firestats/php/page-sites.php:14
+msgid "Manage sites"
+msgstr "Management site-uri"
+
+#: c:\wamp\www\firestats/php/page-sites.php:24
+msgid "Warning, you can really mess things up from here, be careful!"
+msgstr "Te avertizăm că poţi strica iremediabil lucrurile aici, lucrează cu atenţie!"
+
+#: c:\wamp\www\firestats/php/page-sites.php:26
+msgid "FireStats can collect statistics from multiple sites (on the same server)."
+msgstr "FireStats poate colecta statistici din mai multe site-uri (pe acelaşi server)."
+
+#: c:\wamp\www\firestats/php/page-sites.php:28
+msgid "The site need to be registered in the sites table"
+msgstr "Site-ul trebuie să fie înregistrat în tabelul de site-uri"
+
+#: c:\wamp\www\firestats/php/page-sites.php:29
+msgid "The site should be configured to use its ID when reporting a hit, click on the help button next to the site you created for more information"
+msgstr "Site-ul ar trebui să fie configurat să folosească propriul identificator atunci când raportează un acces, apasă pe butonul de ajutor de lângă site-ul creat de tine pentru detalii suplimentare"
+
+#: c:\wamp\www\firestats/php/page-sites.php:32
+#, php-format
+msgid "Click %s for more information"
+msgstr "Apasă %s pentru mai multe informaţii"
+
+#: c:\wamp\www\firestats/php/page-stats.php:43
+#: c:\wamp\www\firestats/php/page-stats.php:77
+#: c:\wamp\www\firestats/php/page-stats.php:115
+msgid "Refresh statistics"
+msgstr "Împrospătează statisticile"
+
+#: c:\wamp\www\firestats/php/page-stats.php:126
+msgid "Auto refresh every"
+msgstr "Împrospătare automată la fiecare"
+
+#: c:\wamp\www\firestats/php/page-stats.php:130
+msgid "minutes"
+msgstr "minute"
+
+#: c:\wamp\www\firestats/php/page-stats.php:131
+#: c:\wamp\www\firestats/php/page-stats.php:180
+#: c:\wamp\www\firestats/php/page-stats.php:198
+#: c:\wamp\www\firestats/php/page-stats.php:221
+#: c:\wamp\www\firestats/php/page-stats.php:234
+#: c:\wamp\www\firestats/php/page-stats.php:250
+#: c:\wamp\www\firestats/php/page-stats.php:266
+#: c:\wamp\www\firestats/php/page-stats.php:316
+msgid "Apply"
+msgstr "Aplică"
+
+#: c:\wamp\www\firestats/php/page-stats.php:138
+msgid "Status"
+msgstr "Status"
+
+#: c:\wamp\www\firestats/php/page-stats.php:142
+msgid "Last 24 hours"
+msgstr "Ultimele 24 ore"
+
+#: c:\wamp\www\firestats/php/page-stats.php:143
+msgid "Since midnight"
+msgstr "Începând cu miezul nopţii"
+
+#: c:\wamp\www\firestats/php/page-stats.php:153
+msgid "Visits"
+msgstr "Vizitatori"
+
+#: c:\wamp\www\firestats/php/page-stats.php:171
+msgid "Recent referrers"
+msgstr "Surse recente (referrers)"
+
+#: c:\wamp\www\firestats/php/page-stats.php:177
+#, php-format
+msgid "Show at most %s items for the last %s days, sorted by %s"
+msgstr "Afişează cel mult %s elemente pentru ultimele %s zile, sortate după %s"
+
+#: c:\wamp\www\firestats/php/page-stats.php:189
+msgid "Search terms"
+msgstr "Termeni de căutare"
+
+#: c:\wamp\www\firestats/php/page-stats.php:193
+#, php-format
+msgid "Show at most %s search terms for %s"
+msgstr "Afişeazp cel mult %s termeni de căutare pentru %s"
+
+#: c:\wamp\www\firestats/php/page-stats.php:200
+msgid "Start date:"
+msgstr "Data start:"
+
+#: c:\wamp\www\firestats/php/page-stats.php:201
+msgid "End date:"
+msgstr "Data stop:"
+
+#: c:\wamp\www\firestats/php/page-stats.php:213
+msgid "Recent popular pages"
+msgstr "Cele mai populare pagini în ultimul timp"
+
+#: c:\wamp\www\firestats/php/page-stats.php:218
+#: c:\wamp\www\firestats/php/page-stats.php:263
+#, php-format
+msgid "Show at most %s items for the last %s days"
+msgstr "Afişează cel mult %s elemente pentru ultimele %s zile"
+
+#: c:\wamp\www\firestats/php/page-stats.php:228
+msgid "Browsers"
+msgstr "Browsere"
+
+#: c:\wamp\www\firestats/php/page-stats.php:231
+#: c:\wamp\www\firestats/php/page-stats.php:247
+#, php-format
+msgid "Show items for the last %s days"
+msgstr "Afişează elementele din ultimele %s zile"
+
+#: c:\wamp\www\firestats/php/page-stats.php:243
+msgid "Operating systems"
+msgstr "Sisteme de operare"
+
+#: c:\wamp\www\firestats/php/page-stats.php:259
+msgid "Countries"
+msgstr "Ţări"
+
+#: c:\wamp\www\firestats/php/page-stats.php:273
+msgid "Hits table"
+msgstr "Tabelul de accese"
+
+#: c:\wamp\www\firestats/php/page-stats.php:274
+msgid "Number of hits to show"
+msgstr "Numărul de accese de afişat"
+
+#: c:\wamp\www\firestats/php/page-stats.php:293
+msgid "Filter"
+msgstr "Filtrare"
+
+#: c:\wamp\www\firestats/php/page-stats.php:315
+#: c:\wamp\www\firestats/php/window-new-edit-site.php:26
+msgid "Clear"
+msgstr "Şterge"
+
+#: c:\wamp\www\firestats/php/page-stats.php:333
+msgid "Newest first"
+msgstr "Cele mai noi primele"
+
+#: c:\wamp\www\firestats/php/page-stats.php:334
+msgid "Most hits first"
+msgstr "Cele mai multe accesări primele"
+
+#: c:\wamp\www\firestats/php/page-stats.php:343
+msgid "the last 24 hours"
+msgstr "ultimele 24 ore"
+
+#: c:\wamp\www\firestats/php/page-stats.php:344
+msgid "the last week"
+msgstr "ultima săptămână"
+
+#: c:\wamp\www\firestats/php/page-stats.php:345
+msgid "the last month"
+msgstr "ultima lună"
+
+#: c:\wamp\www\firestats/php/page-stats.php:346
+msgid "the three months"
+msgstr "ultimele 3 luni"
+
+#: c:\wamp\www\firestats/php/page-stats.php:347
+msgid "the last six months"
+msgstr "ultimele 6 luni"
+
+#: c:\wamp\www\firestats/php/page-stats.php:348
+msgid "the last year"
+msgstr "ultimul an"
+
+#: c:\wamp\www\firestats/php/page-stats.php:349
+msgid "all time"
+msgstr "toate"
+
+#: c:\wamp\www\firestats/php/page-stats.php:350
+msgid "time range"
+msgstr "interval de timp"
+
+#: c:\wamp\www\firestats/php/page-tools.php:8
+#: c:\wamp\www\firestats/php/tabbed-pane.php:71
+msgid "Tools"
+msgstr "Instrumente"
+
+#: c:\wamp\www\firestats/php/page-tools.php:9
+msgid "This section contains various tools"
+msgstr "Această secţiune conţine diverse instrumente"
+
+#: c:\wamp\www\firestats/php/page-tools.php:14
+msgid "I agree to send system information"
+msgstr "sunt de acord cu transmiterea informaţiilor sistemului"
+
+#: c:\wamp\www\firestats/php/page-tools.php:18
+msgid "Diagnostics"
+msgstr "Diagnostice"
+
+#: c:\wamp\www\firestats/php/page-tools.php:19
+msgid "System diagnostics page"
+msgstr "Pagina de diagnostic a sistemului"
+
+#: c:\wamp\www\firestats/php/page-tools.php:19
+msgid "Open"
+msgstr "Deschide"
+
+#: c:\wamp\www\firestats/php/page-tools.php:24
+msgid "PHP Version"
+msgstr "Versiune PHP"
+
+#: c:\wamp\www\firestats/php/page-tools.php:27
+msgid "MySQL Version"
+msgstr "Versiune mySQL"
+
+#: c:\wamp\www\firestats/php/page-tools.php:30
+msgid "Memory limit"
+msgstr "Limita de memorie"
+
+#: c:\wamp\www\firestats/php/page-tools.php:36
+msgid "Database cache"
+msgstr "Cache bază de date"
+
+#: c:\wamp\www\firestats/php/page-tools.php:37
+msgid "The following section can recalculate different aspects of the database. you don't normally need to use it."
+msgstr "Secţiunea următoare permite recalcularea diferitelor aspecte ale bazei de date. În mod normal nu ar trebui să ai nevoie de acest lucru."
+
+#: c:\wamp\www\firestats/php/page-tools.php:40
+msgid "Recalculate country codes"
+msgstr "Recalculează codurile ţărilor"
+
+#: c:\wamp\www\firestats/php/page-tools.php:45
+msgid "Rebuild database cache"
+msgstr "Reconstruieşte cache-ul bazei de date"
+
+#: c:\wamp\www\firestats/php/page-tools.php:50
+msgid "Recalculate search engine terms"
+msgstr "Recalculează termenii de căutare"
+
+#: c:\wamp\www\firestats/php/page-users.php:26
+#: c:\wamp\www\firestats/php/tools-menu.php:5
+msgid "Manage users"
+msgstr "Management utilizatori"
+
+#: c:\wamp\www\firestats/php/page-users.php:35
+msgid "You can manage users here"
+msgstr "Aici poţi să te ocupi de managementul utilizatorilor"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:21
+msgid "Statistics widget"
+msgstr "Widget statistici"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:46
+#, php-format
+msgid "You can configure the sidebar widgets from %s"
+msgstr "Poţi configura widgeturile din bara laterală de la %s"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:50
+#, php-format
+msgid "The statistics widget requires the %s plugin for optimal usage."
+msgstr "Widgetul de statistici necesita plugin-ul %s pentru utilizare optimă."
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:53
+msgid "Widgets"
+msgstr "Widget-uri"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:55
+msgid "You can also manually add the following code to your theme sidebar:"
+msgstr "Poţi adăuga şi manual următorul cod în bara laterală a temei tale:"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:63
+msgid "Comments icons"
+msgstr "Iconiţe comentarii"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:71
+msgid "Add flag icon to comments"
+msgstr "Adaugă iconiţa ţării la comentarii"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:78
+msgid "Add browser and operating system icons to comments"
+msgstr "Adauă iconiţele browser-ului şi sistemului de operare la comentarii"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:81
+msgid "Blog footer"
+msgstr "Footer blog"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:88
+msgid "Add FireStats footer to blog"
+msgstr "Adaugă footer-ul FireStats la blog"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:96
+msgid "Show statistics in footer"
+msgstr "Afişează statistici în footer"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:102
+msgid "Excluded users"
+msgstr "Utilizatori excluşi"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:103
+msgid "WordPress users selected here will not be counted in the statistics"
+msgstr "Utilizatorii WordPress selectaţi aici nu vor fi număraţi la statistici"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:107
+msgid "Permissions"
+msgstr "Permisiuni"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:108
+msgid "Select the minimum user role that can access FireStats (Only administrators can manage FireStats)"
+msgstr "Selectează rolul minim de utilizator care poate accesa FireStats (doar administratorii au drepturi de management al FireStats)"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:112
+#: c:\wamp\www\firestats/php/window-edit-user.php:17
+msgid "Administrator"
+msgstr "Administrator"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:113
+msgid "Editor"
+msgstr "Editor"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:114
+msgid "Author"
+msgstr "Autor"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:115
+msgid "Contributor"
+msgstr "Colaborator"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:116
+msgid "Subscriber"
+msgstr "Abonat"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:124
+msgid "Advanced"
+msgstr "Avansat"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:125
+msgid "WordPress site ID, every hit From this blog is recorded with this as the source Site ID"
+msgstr "Identificator site WordPress; fiecare acces de la acest blog este înregistrat folosind acest identificator ca si ID site sursă"
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:126
+msgid "This should be the same ID as the Site ID in the sites table. you don't normally need to change this."
+msgstr "Acesta ar trebui să fie acelaşi identificator ca şi ID site din tabela de site-uri. În mod normal nu ar trebui să fie necesar să îl modifici."
+
+#: c:\wamp\www\firestats/php/page-wordpress-settings.php:136
+msgid "This will update the titles of the blog posts inside FireStats, you don't normally need to use it"
+msgstr "Aceasta va modifica titlurile intrărilor blog-ului tău din FireStats. În mod normal nu este necesară folosirea sa."
+
+#: c:\wamp\www\firestats/php/rebuild-db.php:17
+msgid "Recalculating matching bots"
+msgstr "Recalculare boţi care se potrivesc"
+
+#: c:\wamp\www\firestats/php/rebuild-db.php:20
+msgid "Recalculating matching IP addresses"
+msgstr "Recalculare adrese IP care se potrivesc"
+
+#: c:\wamp\www\firestats/php/rebuild-db.php:23
+msgid "Recalculating matching urls"
+msgstr "Recalculare URL-uri care se potrivvesc"
+
+#: c:\wamp\www\firestats/php/tabbed-pane.php:11
+msgid "FireStats is under maintenance, please try again later"
+msgstr "FireStats suferă modificări, te rog să încerci mai târziu"
+
+#: c:\wamp\www\firestats/php/tabbed-pane.php:29
+msgid "Statistics"
+msgstr "Statistici"
+
+#: c:\wamp\www\firestats/php/tabbed-pane.php:32
+msgid "Settings"
+msgstr "Setări"
+
+#: c:\wamp\www\firestats/php/tabbed-pane.php:41
+msgid "WordPress settings"
+msgstr "Setări WordPress"
+
+#: c:\wamp\www\firestats/php/tabbed-pane.php:52
+msgid "Database"
+msgstr "Baza de date"
+
+#: c:\wamp\www\firestats/php/tabbed-pane.php:58
+msgid "Users management"
+msgstr "Management utilizatori"
+
+#: c:\wamp\www\firestats/php/tabbed-pane.php:65
+msgid "Sites management"
+msgstr "Management site-uri"
+
+#: c:\wamp\www\firestats/php/tools-menu.php:1
+msgid "FireStats tools"
+msgstr "Instrumente FireStats"
+
+#: c:\wamp\www\firestats/php/tools-menu.php:3
+msgid "System test"
+msgstr "Test sistem"
+
+#: c:\wamp\www\firestats/php/tools-menu.php:4
+#: c:\wamp\www\firestats/php/tools/reset-password.php:16
+msgid "Reset password"
+msgstr "Resetare parolă"
+
+#: c:\wamp\www\firestats/php/utils.php:768
+#, php-format
+msgid "Done, took %s second"
+msgstr "Erminat, a durat %s secunde"
+
+#: c:\wamp\www\firestats/php/utils.php:865
+#, php-format
+msgid "%d seconds ago"
+msgstr "în urmă cu %d secunde"
+
+#: c:\wamp\www\firestats/php/utils.php:868
+msgid "One minute ago"
+msgstr "în urmă cu un minut"
+
+#: c:\wamp\www\firestats/php/utils.php:871
+#, php-format
+msgid "%d minutes ago"
+msgstr "în urmă cu %d minute"
+
+#: c:\wamp\www\firestats/php/utils.php:874
+msgid "one hour ago"
+msgstr "în urmă cu o oră"
+
+#: c:\wamp\www\firestats/php/utils.php:877
+#, php-format
+msgid "%d hours ago"
+msgstr "în urmă cu %d ore"
+
+#: c:\wamp\www\firestats/php/utils.php:880
+msgid "One day ago"
+msgstr "în urmă cu o zi"
+
+#: c:\wamp\www\firestats/php/utils.php:883
+#, php-format
+msgid "%d days ago"
+msgstr "în urmă cu %d zile"
+
+#: c:\wamp\www\firestats/php/utils.php:886
+msgid "One week ago"
+msgstr "în urmă cu o săptămână"
+
+#: c:\wamp\www\firestats/php/utils.php:889
+#, php-format
+msgid "%d weeks ago"
+msgstr "în urmă cu %d săptămâni"
+
+#: c:\wamp\www\firestats/php/utils.php:892
+#, php-format
+msgid "%d months ago"
+msgstr "în urmă cu %d luni"
+
+#: c:\wamp\www\firestats/php/utils.php:895
+msgid "One year ago"
+msgstr "în urmă cu un an"
+
+#: c:\wamp\www\firestats/php/utils.php:898
+#, php-format
+msgid "%d years ago"
+msgstr "în urmă cu %d ani"
+
+#: c:\wamp\www\firestats/php/version-check.php:35
+#, php-format
+msgid "Failed to check version at %s, reason : %s"
+msgstr "Eşuare la verificarea versiunii de la %s, motiv: %s"
+
+#: c:\wamp\www\firestats/php/version-check.php:113
+msgid "A new version of the IP-to-country database is available! you can update it from the settings tab"
+msgstr "Este disponibilă o nouă versiune a bazei de date IP-ţară! O poţi actualiza din tab-ul de setări"
+
+#: c:\wamp\www\firestats/php/version-check.php:136
+#, php-format
+msgid "Version %s is available! click %s for more info"
+msgstr "Versiunea %s este disponibilă! Apasă pe %s pentru detalii suplimentare"
+
+#: c:\wamp\www\firestats/php/version-check.php:159
+#, php-format
+msgid "Error opening %s"
+msgstr "Eroare la deschiderea %s"
+
+#: c:\wamp\www\firestats/php/window-add-excluded-ip.php:35
+msgid "Exclude IP address"
+msgstr "Exclude adresele IP"
+
+#: c:\wamp\www\firestats/php/window-add-excluded-ip.php:45
+msgid "Single"
+msgstr "Singular"
+
+#: c:\wamp\www\firestats/php/window-add-excluded-ip.php:52
+msgid "Range"
+msgstr "Interval"
+
+#: c:\wamp\www\firestats/php/window-add-excluded-ip.php:61
+msgid "IP Address"
+msgstr "Adresa IP"
+
+#: c:\wamp\www\firestats/php/window-add-excluded-ip.php:74
+msgid "Range start"
+msgstr "Start interval"
+
+#: c:\wamp\www\firestats/php/window-add-excluded-ip.php:82
+msgid "Range end"
+msgstr "Stop interval"
+
+#: c:\wamp\www\firestats/php/window-add-excluded-ip.php:99
+#: c:\wamp\www\firestats/php/window-add-excluded-url.php:33
+#: c:\wamp\www\firestats/php/window-delete-site.php:31
+#: c:\wamp\www\firestats/php/window-delete-user.php:20
+#: c:\wamp\www\firestats/php/window-edit-user.php:79
+#: c:\wamp\www\firestats/php/window-new-edit-site.php:50
+msgid "Close"
+msgstr "Închide"
+
+#: c:\wamp\www\firestats/php/window-add-excluded-url.php:22
+msgid "Exclude URL or referrer"
+msgstr "Exclude URL sau sursă (referrer)"
+
+#: c:\wamp\www\firestats/php/window-add-excluded-url.php:25
+msgid "Excluded url/referrer"
+msgstr "URL-uri/surse (referreri) excluse"
+
+#: c:\wamp\www\firestats/php/window-archive-notification.php:5
+msgid "Yes (Recommended)"
+msgstr "Da (recomandat)"
+
+#: c:\wamp\www\firestats/php/window-archive-notification.php:6
+msgid "No"
+msgstr "Nu"
+
+#: c:\wamp\www\firestats/php/window-archive-notification.php:9
+msgid "Compacting old data"
+msgstr "Compactare date vechi"
+
+#: c:\wamp\www\firestats/php/window-archive-notification.php:10
+msgid "FireStats can tranform old data to a more compact form,"
+msgstr "FireStats poate transforma datele vechi într-o formă mai compactă,"
+
+#: c:\wamp\www\firestats/php/window-archive-notification.php:11
+msgid "This will reduce storage size and improve performance at the cost of losing some information which is not essential."
+msgstr "Acest lucru va reduce dimensiunea de stocare şi va îmbunătăţi performanţa cu preţul pierderii unor informaţii neesenţiale"
+
+#: c:\wamp\www\firestats/php/window-archive-notification.php:12
+msgid "it is highly recommended that you allow FireStats to do this automatically."
+msgstr "Se recomandă cu căldură să permiţi ca acest lucru sa fie făcut de FireStats în mod automat."
+
+#: c:\wamp\www\firestats/php/window-archive-notification.php:14
+#, php-format
+msgid "Click %s if you would like FireStats to automatically compact data older than %s days"
+msgstr "Apasă %s dacă doreşti ca FireStats să compacteze automat datele mai vechi de %s zile"
+
+#: c:\wamp\www\firestats/php/window-archive-notification.php:15
+#, php-format
+msgid "Click %s if you want to compact data manually or change compacting options (From the Settings tab)"
+msgstr "Apasă %s dacă doreşti să compactezi datele manual sau să schimbi opţiunile de compactare (folosind tab-ul Setări)"
+
+#: c:\wamp\www\firestats/php/window-delete-site.php:10
+msgid "Delete site"
+msgstr "Şterge site"
+
+#: c:\wamp\www\firestats/php/window-delete-site.php:14
+msgid "This will delete this site from the database, the operation is irreversible!"
+msgstr "Site-ul va fi şters din baza de date, iar această operaţie este ireversibilă!"
+
+#: c:\wamp\www\firestats/php/window-delete-site.php:15
+msgid "What do you want to do with the site hits?"
+msgstr "Ce doreşti să faci cu accesele la site?"
+
+#: c:\wamp\www\firestats/php/window-delete-site.php:18
+msgid "Delete all the hits"
+msgstr "Şterge toate accesele"
+
+#: c:\wamp\www\firestats/php/window-delete-site.php:19
+msgid "Transfer the hits to another site"
+msgstr "Transferă accesele pe alt site"
+
+#: c:\wamp\www\firestats/php/window-delete-site.php:22
+msgid "Enter an existing site ID to transfer the hits to"
+msgstr "Introdu un ID site existent unde să fe transferate accesele"
+
+#: c:\wamp\www\firestats/php/window-delete-user.php:9
+#: c:\wamp\www\firestats/php/window-edit-user.php:13
+msgid "No such user"
+msgstr "Nu există acest utilizator"
+
+#: c:\wamp\www\firestats/php/window-delete-user.php:12
+msgid "Delete user"
+msgstr "Şterge utilizator"
+
+#: c:\wamp\www\firestats/php/window-do-you-agree-to-send-sysinfo.php:9
+msgid "You can help by sending anonymous system information that will help make better decisions about new features."
+msgstr "Poţi fi de folos prin furnizarea în mod anonim a datelor sistemului, lucru care ne va ajuta să luăm decizii mai bune cu privire la îmbunătăţiri ulterioare."
+
+#: c:\wamp\www\firestats/php/window-do-you-agree-to-send-sysinfo.php:13
+msgid "You can change this later from the Tools tab"
+msgstr "Poţi modifica acest lucru ulterior folosind tab-ul Instrumente"
+
+#: c:\wamp\www\firestats/php/window-do-you-agree-to-send-sysinfo.php:17
+msgid "Do you agree to send anonymous system information?"
+msgstr "Eşti de acord să ne furnizezi în mod anonim datele sistemului?"
+
+#: c:\wamp\www\firestats/php/window-do-you-agree-to-send-sysinfo.php:20
+msgid "Sure, send system information"
+msgstr "Sigur, trimite informaţiile"
+
+#: c:\wamp\www\firestats/php/window-do-you-agree-to-send-sysinfo.php:23
+msgid "Nope, don't send"
+msgstr "Nu, nu trimite nimic"
+
+#: c:\wamp\www\firestats/php/window-donation.php:8
+msgid "Even though FireStats is free, it takes a lot of time and hard work to develop and maintain."
+msgstr "Deşi FireStats este disponibil gratuit, a fost nevoie de mult timp şi necesită multă muncă pentru a fi dezvoltat şi întreţinut."
+
+#: c:\wamp\www\firestats/php/window-donation.php:9
+msgid "If you like FireStats and would like to show your support for the hard work I put into it, You can make a small Donation. Even a $5 donation would be greatly appreciated."
+msgstr "Dacă îţi place FireStats şi doreşti să ne sprijini pentru munca depusă, poţi face o mică donaţie. Chiar şi 5$ sunt apreciaţi cum se cuvine."
+
+#: c:\wamp\www\firestats/php/window-donation.php:11
+msgid "Yeah, I want to help"
+msgstr "Da, doresc să dau o mână de ajutor"
+
+#: c:\wamp\www\firestats/php/window-donation.php:12
+msgid "Nah, go away"
+msgstr "Nu, lasă-mă în pace"
+
+#: c:\wamp\www\firestats/php/window-donation.php:13
+msgid "Maybe later"
+msgstr "Poate mai târziu"
+
+#: c:\wamp\www\firestats/php/window-donation.php:14
+msgid "Already donated"
+msgstr "Am donat deja"
+
+#: c:\wamp\www\firestats/php/window-edit-user.php:21
+msgid "All sites"
+msgstr "Toate site-urile"
+
+#: c:\wamp\www\firestats/php/window-edit-user.php:22
+msgid "Specific sites"
+msgstr "Site-uri specifice"
+
+#: c:\wamp\www\firestats/php/window-edit-user.php:25
+msgid "Edit user"
+msgstr "Editare utilizator"
+
+#: c:\wamp\www\firestats/php/window-edit-user.php:25
+msgid "Create a new user"
+msgstr "Creare utilizator nou"
+
+#: c:\wamp\www\firestats/php/window-edit-user.php:36
+msgid "New password (Optional)"
+msgstr "Parolă nouă (opţional)"
+
+#: c:\wamp\www\firestats/php/window-edit-user.php:40
+#: c:\wamp\www\firestats/php/tools/reset-password.php:100
+msgid "Verify new password"
+msgstr "Verifică noua parolă"
+
+#: c:\wamp\www\firestats/php/window-edit-user.php:51
+msgid "User can access statistics from"
+msgstr "Utilizatorul poate accesa statisticile de la"
+
+#: c:\wamp\www\firestats/php/window-edit-user.php:61
+msgid "Comma separated list of allowed site ids (example : 1,4,6)"
+msgstr "Listă de ID-uri site-uri separate prin virgulă (exemplu: 1,4,6)"
+
+#: c:\wamp\www\firestats/php/window-new-edit-site.php:18
+msgid "Edit site"
+msgstr "Editare site"
+
+#: c:\wamp\www\firestats/php/window-new-edit-site.php:18
+msgid "Create a new site"
+msgstr "Creare site nou"
+
+#: c:\wamp\www\firestats/php/window-new-edit-site.php:40
+msgid "Baseline page views"
+msgstr "Vizualizări pagini baseline"
+
+#: c:\wamp\www\firestats/php/window-new-edit-site.php:44
+msgid "Baseline visitors"
+msgstr "Vizitatori baseline"
+
+#: c:\wamp\www\firestats/php/tools/emergency-manage-users.php:9
+msgid "Message"
+msgstr "Mesaj"
+
+#: c:\wamp\www\firestats/php/tools/emergency-manage-users.php:10
+msgid "This page will allow you to change the password of any user in FireStats."
+msgstr "Această pagină îţi permite modificarea parolei oricărui utilizator FireStats."
+
+#: c:\wamp\www\firestats/php/tools/emergency-manage-users.php:11
+#, php-format
+msgid "For security reasons, you must first edit the file %s"
+msgstr "Din motive de securitate, trebuie mai întâi să modifici fişierul %s"
+
+#: c:\wamp\www\firestats/php/tools/emergency-manage-users.php:12
+#, php-format
+msgid "and change the line %s to %s and then refresh this page."
+msgstr "unde trebuie să schimbi linia %s la valoarea %s, iar apoi să reîncarci această pagină."
+
+#: c:\wamp\www\firestats/php/tools/emergency-manage-users.php:13
+msgid "Don't forget to change it back when you are done."
+msgstr "Nu uita să îl modfici înapoi când ai terminat."
+
+#: c:\wamp\www\firestats/php/tools/emergency-manage-users.php:18
+msgid "IMPORTANT"
+msgstr "IMPORTANT"
+
+#: c:\wamp\www\firestats/php/tools/reset-password.php:18
+#, php-format
+msgid "You can request an password reset email from here. If it does not work or you don't know your username or email, you can also change your password using the %s"
+msgstr "Poţi cere un mesaj e-mail de resetare a parolei aici. Dacă nu funcţionează sau nu îţi cunoşti numele de utilizator sau adresa de e-mail, îţi poţi modifica parola folosind %s"
+
+#: c:\wamp\www\firestats/php/tools/reset-password.php:18
+msgid "Emergency user management page"
+msgstr "Pagina de management de urgenţă a utilizatorilor"
+
+#: c:\wamp\www\firestats/php/tools/reset-password.php:28
+msgid "A user with this username and email was not found"
+msgstr "Nu a fost găsit un utilizator cu acest nume şi adresă e-mail"
+
+#: c:\wamp\www\firestats/php/tools/reset-password.php:49
+msgid "FireStats password recovery"
+msgstr "Recuperare parolă FireStats"
+
+#: c:\wamp\www\firestats/php/tools/reset-password.php:50
+#, php-format
+msgid "Click %s to change your FireStats password, this link will work for a short time"
+msgstr "Apasă %s pentru a-ţi modifica parola FireStats; acest link funcţionează doar o scurtă perioadă de timp"
+
+#: c:\wamp\www\firestats/php/tools/reset-password.php:54
+msgid "Email sent"
+msgstr "E-mail trimis cu succes"
+
+#: c:\wamp\www\firestats/php/tools/reset-password.php:58
+msgid "Failed to send email"
+msgstr "Eşuare trimitere e-mail"
+
+#: c:\wamp\www\firestats/php/tools/reset-password.php:73
+#, php-format
+msgid "Failed, maybe too much time have passed since you generated the email? %s"
+msgstr "Eşuare, poate că a trecut prea mult timp de la generarea mesajului? %s"
+
+#: c:\wamp\www\firestats/php/tools/reset-password.php:73
+msgid "try again"
+msgstr "încearcă din nou"
+
+#: c:\wamp\www\firestats/php/tools/reset-password.php:96
+msgid "New password"
+msgstr "Parola nouă"
+
+#: c:\wamp\www\firestats/php/tools/reset-password.php:105
+msgid "Change password"
+msgstr "Schimbă parola"
+
+#: c:\wamp\www\firestats/php/tools/reset-password.php:125
+msgid "Email address"
+msgstr "Adresa e-mail"
+
+#: c:\wamp\www\firestats/php/tools/reset-password.php:130
+msgid "Send password reset email"
+msgstr "Trimite e-mail de resetare a parolei"
+

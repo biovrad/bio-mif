@@ -1,0 +1,2429 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FireStats 1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-10-16 10:49+0300\n"
+"PO-Revision-Date: 2008-10-16 11:24+0300\n"
+"Last-Translator: Anna Ozeritskaya <ozeritskaya@ftad.ru>\n"
+"Language-Team: Anna Ozeritskaya <feedback@hweia.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-KeywordsList: fs_e;fs_r;pt_BR\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11) ? 0 : ((n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: D:\\Projects\\firestats\\firestats-1.6\\firestats\n"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+# C:\www\testwp-en\wp-content\plugins\FireStats/index.php:51
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/footer.php:8
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:342
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:812
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:876
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1409
+msgid "FireStats"
+msgstr "FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:342
+msgid "Loading..."
+msgstr "Загрузка..."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:49
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:361
+#, php-format
+msgid "Total : %s page views and %s visits"
+msgstr "Всего: %s просмотров страниц и %s посещений"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:50
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:362
+#, php-format
+msgid "Last 24 hours : %s page views and %s visits"
+msgstr "За сутки: %s просмотров страниц и %s посещений"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:515
+msgid "You are not authorized to access FireStats"
+msgstr "У вас нет прав для доступа к FireStats"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:833
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:897
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:974
+msgid "Title:"
+msgstr "Заголовок:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:840
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:904
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:991
+msgid "Hide FireStats logo"
+msgstr "Скрыть логотип FireStats"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:941
+msgid "Popular posts"
+msgstr "Популярные записи"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:8
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:979
+msgid "Number to show"
+msgstr "Показывать"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:984
+msgid "Days ago (Empty for all time)"
+msgstr "дней назад (пусто, если нужно показать все)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1048
+#, php-format
+msgid "%s readers"
+msgstr "Подписчиков: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1080
+msgid "Pages displayed : "
+msgstr "Показано страниц :"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:11
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1081
+msgid "Unique visitors : "
+msgstr "Уникальных посетителей:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:12
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1082
+msgid "Pages displayed in last 24 hours : "
+msgstr "Показано страниц за сутки :"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:13
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1083
+msgid "Unique visitors in last 24 hours : "
+msgstr "Уникальных посетителей за сутки :"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1086
+msgid "RSS subscribers"
+msgstr "Подписчиков на RSS-ленту"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1140
+msgid "pages viewed"
+msgstr "страниц просмотрено"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1140
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1141
+msgid "today"
+msgstr "сегодня"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1141
+msgid "visits"
+msgstr "посещений"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+# C:\www\testwp-en\wp-content\plugins\FireStats/index.php:51
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/footer.php:8
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1150
+msgid "Powered by FireStats"
+msgstr "Работает с FireStats"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/index.php:15
+msgid "Error"
+msgstr "Ошибка"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/index.php:15
+msgid "Access denied"
+msgstr "Доступ запрещен"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/index.php:41
+msgid "Error connecting to database, check your database server"
+msgstr "Ошибка при соединении с базой данных."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/index.php:42
+#, php-format
+msgid "To access the configuration screen, please delete %s"
+msgstr "Чтобы получить доступ к экрану настроек, удалите %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/login.php:11
+#: D:\Projects\firestats\firestats-1.6\firestats/login.php:26
+msgid "Login"
+msgstr "Логин"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1003
+#: D:\Projects\firestats\firestats-1.6\firestats/login.php:14
+msgid "Username"
+msgstr "Имя пользователя"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:239
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:247
+#: D:\Projects\firestats\firestats-1.6\firestats/login.php:18
+msgid "Password"
+msgstr "Пароль"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/login.php:25
+msgid "Remember me for the next 14 days"
+msgstr "Запомнить меня на 14 дней"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/login.php:31
+#, php-format
+msgid "Forgot your password? click %s."
+msgstr "Забыли пароль? Нажмите %s."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/login.php:31
+msgid "here"
+msgstr "здесь"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:50
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:97
+msgid "Stop"
+msgstr "Остановить"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:51
+msgid "Compacting..."
+msgstr "Сжатие..."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:63
+msgid "Stopping..."
+msgstr "Остановка..."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:74
+msgid "Compact now"
+msgstr "Заархивировать сейчас"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:119
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:139
+msgid "Abort"
+msgstr "Отменить"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:7
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:134
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:146
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:154
+msgid "Start"
+msgstr "Начать"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:135
+msgid "Canceled"
+msgstr "Отменен"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:723
+msgid "Session expired, press ok to reload"
+msgstr "Сессия просрочена. Нажмите ОК, чтобы обновить страницу"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-database.js.php:66
+msgid "Upgrading, do not interrupt"
+msgstr "Идет обновление. Не прерывать!"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-database.js.php:73
+msgid "Try again"
+msgstr "Пожалуйста, попробуйте еще раз."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:97
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-settings.js.php:20
+msgid "You need to select one or more bots"
+msgstr "Выберите хотя бы одного бота"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:97
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-settings.js.php:40
+msgid "You need to select one or more urls"
+msgstr "Выберите хотя бы один URL"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:97
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-settings.js.php:54
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-settings.js.php:89
+msgid "You need to select a record from the table"
+msgstr "Выберите запись из таблицы"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:97
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-settings.js.php:75
+msgid "You need to select one or more IP addresses"
+msgstr "Выберите хотя бы один IP-адрес"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-sites.js.php:27
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-sites.js.php:29
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-sites.js.php:47
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-sites.js.php:49
+msgid "Automatic"
+msgstr "Автоматически"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-sites.js.php:93
+msgid "Delete"
+msgstr "Удалить"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-sites.js.php:93
+msgid "Transfer"
+msgstr "Передача"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:41
+#: D:\Projects\firestats\firestats-1.6\firestats/lib/ezsql/mysql/ez_sql_mysql.php:42
+msgid "User name and password are required to connect to database"
+msgstr "Для доступа к базе данных необходимы имя пользователя и пароль"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:42
+#: D:\Projects\firestats\firestats-1.6\firestats/lib/ezsql/mysql/ez_sql_mysql.php:43
+msgid "Error establishing mySQL database connection"
+msgstr "Ошибка при установке соединения с базой данных MySQL"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:43
+#: D:\Projects\firestats\firestats-1.6\firestats/lib/ezsql/mysql/ez_sql_mysql.php:44
+msgid "Database name is required to connect to database"
+msgstr "Для подключения к базе данных необходимо указать ее название"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:44
+#: D:\Projects\firestats\firestats-1.6\firestats/lib/ezsql/mysql/ez_sql_mysql.php:45
+msgid "mySQL database connection is not active"
+msgstr "Соединение с базой данных MySQL отключено"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:45
+#: D:\Projects\firestats\firestats-1.6\firestats/lib/ezsql/mysql/ez_sql_mysql.php:46
+msgid "Unexpected error while querying database"
+msgstr "Неизвестная ошибка во время обработки запроса к базе данных"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:114
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:125
+#: D:\Projects\firestats\firestats-1.6\firestats/lib/ezsql/mysql/ez_sql_mysql.php:123
+#: D:\Projects\firestats\firestats-1.6\firestats/lib/ezsql/mysql/ez_sql_mysql.php:134
+#, php-format
+msgid "Can't disconnect: %s"
+msgstr "Не могу отключиться: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:84
+#: D:\Projects\firestats\firestats-1.6\firestats/lib/ezsql/mysql/ez_sql_mysql.php:134
+msgid "Not connected"
+msgstr "Не подключен"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:69
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:179
+#, php-format
+msgid "Unexpected output: %s"
+msgstr "Неизвестный вывод: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:453
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:487
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:285
+#, php-format
+msgid "Invalid integer : %s"
+msgstr "Недопустимое значение integer: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:288
+#, php-format
+msgid "Invalid or none positive integer : %s"
+msgstr "Недопустимое или отрицательное значение integer : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:119
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:295
+msgid "Invalid IP address"
+msgstr "Недопустимый IP-адрес"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:171
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:377
+msgid "Excluded users list saved"
+msgstr "Список исключенных пользователей сохранен"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:189
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:394
+#, php-format
+msgid "Added %s to bots list"
+msgstr "%s добавлен в список ботов"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:201
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:405
+msgid "Empty string is not allowed"
+msgstr "Пустые строки недопустимы"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:211
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:415
+msgid "Removed"
+msgstr "Удален"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:290
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:467
+msgid "Not using configuration file"
+msgstr "Файл настроек не используется"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:296
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:473
+msgid "Not installed inside Wordpress"
+msgstr "Не установлен в Wordpress"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:306
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:483
+#, php-format
+msgid "Failed to delete fs-config.php : %s"
+msgstr "Невозможно удалить fs-config.php: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:354
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:526
+msgid "Error upgrading tables"
+msgstr "Ошибка при обновлении таблиц"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:354
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:546
+msgid "Error installing tables"
+msgstr "Ошибка при установке таблиц"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1384
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:703
+#, php-format
+msgid "%s days can be compacted, database size %s"
+msgstr "Могут быть заархивированы данные за: %s дней. Размер базы данных: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:756
+msgid "IP-to-country database is already up-to-date"
+msgstr "База данных IP-to-country уже обновлена"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:763
+msgid "An error has occured while trying to update the IP-to-country database"
+msgstr "Произошла ошибка во время попытки обновить базу данных IP-to-country"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:767
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:390
+msgid "file"
+msgstr "файл"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:769
+#, php-format
+msgid "You can update the database manually by downloading this %s and extracting it into %s"
+msgstr "Вы можете обновить базу данных вручную: скачайте %s и распакуйте в %s "
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:774
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:616
+msgid "this"
+msgstr "это"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:776
+#, php-format
+msgid "You can update the database manually by opening %s and downloading the <b>zip_url</b>, and extracting it into %s"
+msgstr "Вы можете обновить базу данных вручную. Откройте %s и скачайте <b>zip_url</b>. Затем распакуйте его в %s "
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:802
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:820
+#, php-format
+msgid "Error updating bots list: %s"
+msgstr "Ошибка при обновлении списка ботов: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:814
+msgid "Successfully updated bots list"
+msgstr "Список ботов успешно обновлен"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:832
+#, php-format
+msgid "Error purging excluded records: %s"
+msgstr "Ошибка при удалении исключенных записей: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:836
+msgid "Purged excluded records"
+msgstr "Исключенные записи удалены"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:927
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:134
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:24
+msgid "Error connecting to database"
+msgstr "Ошибка при установке соединения с базой данных"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1010
+#, php-format
+msgid "Compacting %s days, %s done, database size is %s"
+msgstr "Архивирование данных за %s дней, %s завершено. Размер базы данных: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1110
+#, php-format
+msgid "%d of %d"
+msgstr "%d из %d"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1255
+msgid "Incorrect user-name or password"
+msgstr "Неверное имя пользователя или пароль"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/db-config-utils.php:40
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1279
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1320
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1346
+msgid "User name not specified"
+msgstr "Имя пользователя не указано"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/db-config-utils.php:40
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1280
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1321
+msgid "Email not specified"
+msgstr "Не указан адрес электронной почты"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/db-config-utils.php:40
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1281
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:39
+msgid "Password not specified"
+msgstr "Пароль не указан"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/db-config-utils.php:40
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1282
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1324
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1347
+msgid "Passwords did not match"
+msgstr "Пароли не совпадают"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1348
+msgid "Empty password"
+msgstr "Пустой пароль"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/auth.php:92
+#, php-format
+msgid "Error connecting to database (%s)"
+msgstr "Ошибка при соединении с базой данных (%s)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:119
+#: D:\Projects\firestats\firestats-1.6\firestats/php/auth.php:195
+#: D:\Projects\firestats\firestats-1.6\firestats/php/auth.php:229
+msgid "Invalid email address"
+msgstr "Неправильный адрес электронной почты"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/auth.php:205
+#: D:\Projects\firestats\firestats-1.6\firestats/php/auth.php:239
+msgid "A user with this name already exists"
+msgstr "Пользователь с этим именем уже существует"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/auth.php:209
+#: D:\Projects\firestats\firestats-1.6\firestats/php/auth.php:243
+msgid "A user with this email address already exists"
+msgstr "Пользователь с этим адресом электронной почты уже существует"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:453
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:487
+#: D:\Projects\firestats\firestats-1.6\firestats/php/auth.php:466
+#, php-format
+msgid "Invalid site id: %s"
+msgstr "Неправильный ID сайта: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:116
+msgid "FireStats is properly installed in the database"
+msgstr "FireStats успешно установлен в базу данных"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:119
+msgid "FireStats is not configured"
+msgstr "FireStats не настроен"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-common.php:98
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:122
+#, php-format
+msgid "Database error, check your configuration: %s"
+msgstr "Ошибка базы данных, проверьте ваши настройки: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:125
+msgid "FireStats is not installed in the database"
+msgstr "FireStats не установлен в базу данных"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:124
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:128
+msgid "FireStats database needs to be upgraded"
+msgstr "База данных FireStats нуждается в обновлении"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-common.php:107
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:131
+msgid "The FireStats database version is newer than this code version, you need to upgrade FireStats"
+msgstr "Версия базы данных FireStats выше, чем версия кода. Необходимо обновить FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-common.php:110
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:137
+msgid "Unknown database status code"
+msgstr "Код состояния базы данных неизвестен"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1482
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:601
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-hit.php:354
+#, php-format
+msgid "Database error: %s"
+msgstr "Ошибка базы данных: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:616
+#, php-format
+msgid "Invalid regular expression, see %s for more information"
+msgstr "Неправильный regexp. Для получения дополнительной информации нажмите %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:21
+msgid "Error accessing database"
+msgstr "Ошибка доступа к базе данных"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:27
+msgid "Error creating database"
+msgstr "Ошибка при создании базы данных"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:30
+msgid "Error creating user"
+msgstr "Ошибка при создании пользователя"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:33
+msgid "Error creating tables"
+msgstr "Ошибка при создании таблиц"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:290
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:36
+msgid "Error saving configuration"
+msgstr "Ошибка при сохранении конфигурации"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:39
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:42
+msgid "Wrong password"
+msgstr "Неправильный пароль"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:110
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:52
+msgid "FireStats tables are not installed"
+msgstr "Таблицы FireStats не были установлены"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:57
+msgid "FireStats is installed"
+msgstr "FireStats установлен"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:124
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:62
+msgid "Another FireStats database detected"
+msgstr "Обнаружена другая база данных FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-config-utils.php:198
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:67
+msgid "New database created successfuly"
+msgstr "Новая база данных успешно создана"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:45
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:70
+#, php-format
+msgid "Unexpected error code %s"
+msgstr "Неизвестный код ошибки %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-config-utils.php:15
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:303
+msgid "Not configured"
+msgstr "Не настроен"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:11
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:306
+msgid "FireStats configuration file"
+msgstr "файл настроек FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:13
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:309
+msgid "Wordpress configuration file"
+msgstr "файл настроек Wordpress"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:290
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:312
+msgid "External configuration"
+msgstr "внешний файл настроек"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:391
+#, php-format
+msgid "Configuration file %s is not writable, you can either:"
+msgstr "Файл настроек %s находится в режиме 'только для чтения'. Вы можете:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:392
+msgid "Fix the problem by making it writable"
+msgstr "Исправить проблему, сделав его доступным для записи"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:393
+#, php-format
+msgid "download the %s and upload it into %s"
+msgstr "Скачать %s и загрузить его в %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:116
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-setup.php:34
+msgid "Operation already in progress"
+msgstr "Действие уже выполняется"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:49
+msgid "Data compacting is already in progress"
+msgstr "Сжатие данных уже выполняется"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:74
+msgid "MySQL 4.1.14 or newer is required for data compacting support"
+msgstr "Для поддержки архивирования данных требуется MySQL 4.1.14 или выше"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/db-config-utils.php:40
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:288
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:326
+msgid "Site name not specified"
+msgstr "Название сайта не указано"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:69
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:190
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:300
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:330
+msgid "Site ID must be a positive number"
+msgstr "ID сайта должен быть положительным"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:303
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:349
+#, php-format
+msgid "A site with the ID %s already exists"
+msgstr "Сайт с ID %s уже существует"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:337
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:414
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:465
+#, php-format
+msgid "No site with the id %s exists"
+msgstr "Сайта с ID %s не существует"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:450
+msgid "New site_id must not be empty"
+msgstr "Новый site_id не может быть пустым"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:456
+msgid "Can't move the hits to the same site"
+msgstr "Нельзя передать хиты на тот же самый сайт"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:546
+msgid "Empty url pattern"
+msgstr "Пустой шаблон URL"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:558
+msgid "The URL already exists"
+msgstr "URL уже существует"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:453
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:487
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:664
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:669
+#, php-format
+msgid "Invalid IP address: %s"
+msgstr "Неправильный IP-адрес: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:680
+msgid "First IP address must be smaller than second IP address"
+msgstr "Первый IP-адрес должен быть меньше, чем второй"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:463
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:713
+msgid "The IP address(s) already exists"
+msgstr "IP-адрес(а) уже существуют"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:522
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:795
+#, php-format
+msgid "The bot wildcard %s is already in the database"
+msgstr "Шаблон бота %s уже занесен в базу данных"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:10
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1226
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:1508
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:1556
+msgid "Unknown"
+msgstr "Неизвестно"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:1967
+#, php-format
+msgid "Error opening file : %s"
+msgstr "Ошибка при открытии файла : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/export-bots-list.php:21
+msgid "Error exporting bots list"
+msgstr "Ошибка во время экспорта списка ботов"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/footer.php:4
+#, php-format
+msgid "If you have any problems or questions, please visit the %s"
+msgstr "Если у вас возникли проблемы или есть вопросы, пожалуйста, зайдите на %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: D:\Projects\firestats\firestats-1.6\firestats/php/footer.php:4
+msgid "FireStats homepage"
+msgstr "сайт FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+# C:\www\testwp-en\wp-content\plugins\FireStats/index.php:51
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/footer.php:8
+#: D:\Projects\firestats\firestats-1.6\firestats/php/header.php:15
+msgid "Support FireStats"
+msgstr "Поддержите FireStats"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/header.php:22
+#, php-format
+msgid "Log out %s"
+msgstr "Выйти из %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/tabbed-pane.php:32
+#: D:\Projects\firestats\firestats-1.6\firestats/php/header.php:34
+msgid "Demo"
+msgstr "Демонстрация"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:32
+#: D:\Projects\firestats\firestats-1.6\firestats/php/header.php:42
+msgid "Hide"
+msgstr "Скрыть"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/ajax-handler.php:515
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:34
+msgid "Unknown site type"
+msgstr "Неизвестный тип сайта"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-help.php:2
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:84
+msgid "Collect hits from PHP pages"
+msgstr "Собрать хиты с PHP-страниц"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:14
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:85
+msgid "To allow FireStats to track access to your pages, you need to add the following line inside the head tag of each of the pages you want to monitor (the page must be a php page)."
+msgstr "Чтобы FireStats собирал сведения о доступе к вашим страницам, вы должны добавить следующую строку в тег head тех ваших php-страниц, доступ к которым вы хотите отслеживать"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:21
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:91
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:131
+msgid "A typical page header will look like this:"
+msgstr "Типичный заголовок страницы должен выглядеть примерно так:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-help.php:2
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:124
+msgid "Collect hits from any HTML page"
+msgstr "Собрать хиты со страниц сайта"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:14
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:125
+msgid "To allow FireStats to track access to your pages, you need to add the following line inside the head or body tag of each of the pages you want to monitor."
+msgstr "Чтобы FireStats собирал сведения о доступе к вашим страницам, вы должны добавить следующую строку в тег head тех ваших страниц, доступ к которым вы хотите отслеживать"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:149
+msgid "WordPress"
+msgstr "Wordpress"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:150
+msgid "The WordPress plugin registers itself automatically when it's activated"
+msgstr "После того, как вы его включили, плагин для Wordpress регистрируется автоматически"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:156
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:164
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:182
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:188
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:200
+msgid "plugin"
+msgstr "плагин"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:170
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:176
+msgid "module"
+msgstr "модуль"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-help.php:2
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:219
+#, php-format
+msgid "Collect hits from a %s site"
+msgstr "Собрать хиты с сайта %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:240
+#, php-format
+msgid "and then configure it in the administration menu with the path %s and the ID %s"
+msgstr "и затем настройте это в панели управления с путем %s и ID %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:250
+#, php-format
+msgid "and then edit the lines in %s to contain this:"
+msgstr "и затем отредактируйте строки в %s которые содержат это:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:257
+#, php-format
+msgid "To collect statistics from your %s site your need to install the %s"
+msgstr "Чтобы собрать статистику с сайта %s, вы должны установить %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:10
+msgid "Link here"
+msgstr "Ссылка здесь"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:137
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:205
+msgid "Name"
+msgstr "Имя"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:138
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-add-admin.php:37
+msgid "Email"
+msgstr "E-mail"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:139
+msgid "Security level"
+msgstr "Уровень безопасности"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:161
+msgid "Admin"
+msgstr "Администратор"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1003
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:166
+msgid "User"
+msgstr "Пользователь"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:186
+msgid "Add a new user"
+msgstr "Добавить нового пользователя"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1002
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:198
+msgid "Page"
+msgstr "Страница"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:204
+msgid "ID"
+msgstr "ID"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:206
+msgid "Type"
+msgstr "Тип"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:207
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:159
+msgid "Page views"
+msgstr "Просмотров страниц:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:224
+msgid "How to integrate with this site"
+msgstr "Как настроить подсчет хитов"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1253
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:253
+msgid "Orphaned hits"
+msgstr "Утраченые хиты"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:271
+#, php-format
+msgid "Page %s of %s"
+msgstr "Страница %s из %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:279
+msgid "Add a new site"
+msgstr "Добавить новый сайт"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:351
+msgid "Generic PHP site"
+msgstr "Обычный сайт на PHP "
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:353
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:355
+msgid "Django"
+msgstr "Django"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:357
+msgid "Drupal"
+msgstr "Drupal"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:359
+msgid "Gregarius"
+msgstr "Gregarius"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:361
+msgid "Joomla"
+msgstr "Joomla"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:363
+msgid "MediaWiki"
+msgstr "MediaWiki"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:365
+msgid "Trac"
+msgstr "Trac"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:367
+msgid "Gallery2"
+msgstr "Gallery2"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:369
+msgid "Generic HTML site"
+msgstr "Обычный сайт на HTML"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/html-utils.php:27
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:462
+msgid "Invalid"
+msgstr "Неправильный"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:481
+msgid "You are not allowed to view the statistics of any site, please contact your system administrator"
+msgstr "У вас нет прав для просмотра статистики сайтов. Свяжитесь с администратором."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:510
+msgid "All"
+msgstr "Все"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:511
+msgid "Show statistics from"
+msgstr "Показать статистику для"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:943
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:539
+msgid "unknown"
+msgstr "неизвестный"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:998
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:621
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:320
+msgid "IP"
+msgstr "IP"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:999
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:622
+msgid "TimeStamp"
+msgstr "Дата / Время"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1000
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:623
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:321
+msgid "URL"
+msgstr "URL"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1001
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:624
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:322
+msgid "Referrer"
+msgstr "Источник трафика"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1002
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:625
+msgid "Image"
+msgstr "Изображение"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1003
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:626
+msgid "UserAgent"
+msgstr "User-Agent"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1024
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1047
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1217
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1319
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:647
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:737
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:953
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1045
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1080
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1165
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1243
+msgid "No data yet, go get some hits"
+msgstr "Нет данных, нужно получить хотя бы несколько хитов"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1112
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1145
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1170
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:798
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:830
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:852
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:877
+msgid "Empty"
+msgstr "пусто"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:982
+msgid "Start date is missing"
+msgstr "Не указана начальная дата"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:987
+msgid "End date is missing"
+msgstr "Не указана конечная дата"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1007
+msgid "Please wait..."
+msgstr "Пожалуйста, подождите..."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1270
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1103
+#, php-format
+msgid "%d hits from %s"
+msgstr "%d хитов с %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1227
+msgid "Others"
+msgstr "Другие"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1270
+msgid "System information"
+msgstr "Информация о системе"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1271
+msgid "You can help by sending anonymous system information that will help make better decisions about new features"
+msgstr "Вы можете помочь нам в разработке новых функций для FireStats, отослав информацию о вашей системе"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1272
+msgid "The information will be sent anonymously, but a unique identifier will be sent to prevent duplicate entries from the same FireStats"
+msgstr "Отчет отсылается анонимно, но в нашей базе данных этим сведениям будет присвоен уникальный идентификатор, чтобы исключить дублирование информации"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:12
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1421
+msgid "Page views in last 24 hours"
+msgstr "Просмотров страниц за сутки:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1422
+msgid "Page views since midnight"
+msgstr "Просмотров страниц с полуночи:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:12
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1433
+msgid "Visits in last 24 hours"
+msgstr "Посещений за сутки:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1434
+msgid "Visits since midnight"
+msgstr "Посещений с полуночи:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1447
+#, php-format
+msgid "Page %s of %s (%s hits)"
+msgstr "Страница %s из %s (хитов - %s)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:189
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:15
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:23
+msgid "Import bots list"
+msgstr "Импортировать список ботов"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:34
+msgid "Select bot-list file"
+msgstr "Выберите файл со списком ботов"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:34
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:130
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:35
+msgid "Import type"
+msgstr "Тип импорта"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:189
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:37
+msgid "Add to bots list"
+msgstr "Добавить к списку ботов"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:92
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:38
+msgid "Replace bots list"
+msgstr "Заменить список ботов"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:40
+msgid "Send File"
+msgstr "Отправить файл"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:56
+msgid "Incorrect file format"
+msgstr "Неправильный формат файла"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:68
+#, php-format
+msgid "Error importing bots list : %s"
+msgstr "Ошибка во время импорта списка ботов : %s "
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-config-utils.php:198
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:73
+msgid "bots list imported successfully"
+msgstr "импорт списка ботов успешно завершен"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:118
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:122
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:252
+msgid "Error creating temporary file"
+msgstr "Ошибка при создании временного файла"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:130
+#, php-format
+msgid "Error opening connection to %s"
+msgstr "Ошибка подключения к %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/ip2country.php:27
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:135
+#, php-format
+msgid "Error sending request to %s"
+msgstr "Ошибка при отправке запроса к %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:141
+#, php-format
+msgid "Server returned error %s for %s"
+msgstr "Сервер вернул ошибку %s для %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:155
+#, php-format
+msgid "Error reading data from %s : %s"
+msgstr "Ошибка чтения данных из %s : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:184
+#, php-format
+msgid "Error extracting IP-to-country database: %s"
+msgstr "Ошибка распаковки базы данных IP-to-country: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:62
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:189
+#, php-format
+msgid "Unsupported file type : %s"
+msgstr "Неподдерживаемый тип файла: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:209
+#, php-format
+msgid "can't update ip-to-country database, read-only directory : %s"
+msgstr "невозможно обновить базу данных IP-to-country, директория находится в режиме 'только для чтения': %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:211
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:213
+#, php-format
+msgid "can't update ip-to-country database, read-only file : %s"
+msgstr "невозможно обновить базу данных IP-to-country, файл находится в режиме 'только для чтения': %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:228
+msgid "Error installing new IP-to-country database"
+msgstr "Ошибка установки новой базы данных IP-to-country"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:234
+msgid "Successfuly updated IP-to-country database"
+msgstr "База данных IP-to-country успешно обновлена"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:238
+#, php-format
+msgid "Error updating version file : %s"
+msgstr "Ошибка обновления файла версии: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-add-admin.php:26
+msgid "Create administrator user"
+msgstr "Создать администратора"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-add-admin.php:28
+msgid "You need to create an administrator user for FireStats."
+msgstr "Вам нужно создать администратора для FireStats."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-add-admin.php:29
+msgid "The administrator has full control over FireStats, and will be able to create other users/administrators from the administration interface"
+msgstr "Администратор имеет полный контроль над FireStats, и может создавать других пользователей/администраторов"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1003
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-add-admin.php:33
+msgid "User name"
+msgstr "Имя пользователя"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:39
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-add-admin.php:45
+msgid "Verify password"
+msgstr "Подтверждение пароля"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-add-admin.php:49
+msgid "Create user"
+msgstr "Создать пользователя"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:61
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:51
+msgid "Database status"
+msgstr "Состояние базы данных"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:61
+#, php-format
+msgid "Upgrade to database version %d"
+msgstr "Обновить БД до версии %d"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:62
+msgid "Open diagnostics page"
+msgstr "Открыть страницу диагностики FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:22
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:88
+#, php-format
+msgid "Configuration source : %s"
+msgstr "Источник настроек : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:28
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:94
+msgid "To use wordpress database, click this button."
+msgstr "Чтобы использовать базу данных Wordpress, нажмите эту кнопку."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:29
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:95
+msgid "FireStats database configuration will be lost."
+msgstr "Настройки базы данных FireStats будут утрачены."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:30
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:96
+msgid "Use Wordpress database"
+msgstr "Использовать базу данных Wordpress"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:50
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:107
+msgid "To perform one of the following actions:"
+msgstr "Чтобы выполнить одно из следущих действий:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:52
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:109
+msgid "Attach to an existing FireStats installation"
+msgstr "Присоединиться к уже существующей базе данных FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:53
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:110
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:228
+msgid "Install FireStats into an existing database"
+msgstr "Установить FireStats в существующую базу данных"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:54
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:111
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:231
+msgid "Create a new database and install FireStats there"
+msgstr "Создать новую базу данных и установить в нее FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:90
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:113
+msgid "Follow instructions in the help"
+msgstr "Следуйте инструкциям в разделе 'Справка'"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:61
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:121
+msgid "Database host"
+msgstr "Сервер базы данных"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:65
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:127
+msgid "Database name"
+msgstr "Название базы данных"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:69
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:133
+msgid "Database user name"
+msgstr "Имя пользователя"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:139
+msgid "Database password"
+msgstr "Пароль"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:77
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:145
+msgid "Tables prefix"
+msgstr "Префикс таблиц"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:84
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:154
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:226
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:229
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:232
+msgid "Test connection"
+msgstr "Проверить соединение"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:94
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:164
+msgid "Click to install and switch to new FireStats tables"
+msgstr "Нажмите, чтобы завершить установку и переключиться на новые таблицы FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:97
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:167
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:229
+msgid "Install tables"
+msgstr "Установить таблицы"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:106
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:176
+msgid "Click to use this FireStats database"
+msgstr "Нажмите, чтобы использовать эту базу данных FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:30
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:180
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:226
+msgid "Use this database"
+msgstr "Использовать эту базу данных"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:167
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:192
+msgid "To create a new database, an administrator user should be used in the above fields."
+msgstr "Чтобы создать новую базу данных, вы должны ввести данные  администратора."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:168
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:193
+msgid "However, For security reason, it is recommended not to use a database administrator user for day to day operations."
+msgstr "Тем не менее, по причинам сохранения безопасности, мы не рекомендуем использовать данные администратора базы данных для каждодневных операций."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:169
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:194
+msgid "Enter new user name and password for FireStats, this user will only have access to the FireStats database"
+msgstr "Введите новое имя пользователя и пароль для FireStats. Этот пользователь будет иметь доступ только к базе данных FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:170
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:195
+msgid "If you will not specify user and password the Admin user and password will be used."
+msgstr "Если вы не укажете имя пользователя и пароль, тогда по умолчанию будут использоваться Администратор и его пароль."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:202
+msgid "FireStats User name"
+msgstr "Имя пользователя FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:39
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:206
+msgid "FireStats password"
+msgstr "Пароль FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:212
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:232
+msgid "Create database"
+msgstr "Создать базу данных"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:21
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:86
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:224
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:33
+msgid "Help"
+msgstr "Справка"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:52
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:225
+msgid "Attach to an existing FireStats database"
+msgstr "Присоединиться к уже существующей базе данных FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:23
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:26
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:226
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:229
+#, php-format
+msgid "Enter the parameters in the table, press %s, and then %s."
+msgstr "Введите требуемые параметры в таблицу, нажмите %s и затем %s."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:29
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:232
+#, php-format
+msgid "Enter the parameters into the table, <u>you need to enter a database administrator user</u>. press %s, and then enter FireStats database user and password, and finally press %s."
+msgstr "Введите требуемые параметры в таблицу: <u>вы должны ввести имя и пароль администратора базы данных</u>. Нажмите %s и введите имя пользователя и пароль базы данных FireStats.  Затем нажмите %s."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:10
+msgid "Options"
+msgstr "Настройки"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:40
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:14
+msgid "Select language"
+msgstr "Выберите язык"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:13
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:77
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:19
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:30
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:44
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:295
+msgid "Save"
+msgstr "Сохранить"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:45
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:20
+msgid "How to translate to a new language"
+msgstr "Как перевести?"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:24
+msgid "Select your time zone"
+msgstr "Выберите вашу временную зону"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:33
+#, php-format
+msgid "Time zone selection requires %s or newer"
+msgstr "Выбор временной зоны требует %s или выше"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:37
+msgid "Select WHOIS provider"
+msgstr "Выберите WHOIS-провайдера"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:54
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:53
+msgid "Exclude hits"
+msgstr "Исключение хитов"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:522
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:54
+msgid "Purge excluded records stored in the database"
+msgstr "Удалить исключенные записи из базы данных"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:57
+msgid "Purge"
+msgstr "Удалить"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1003
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:60
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:323
+msgid "User agent"
+msgstr "User-agent"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:73
+msgid "Automatic update"
+msgstr "Автоматическое обновление"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:76
+msgid "Update now"
+msgstr "Обновить сейчас"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:34
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:130
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:77
+msgid "Import"
+msgstr "Импорт"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:34
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:130
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:81
+msgid "Export"
+msgstr "Экспорт"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:119
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:86
+msgid "IP address"
+msgstr "IP-адрес"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1001
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:98
+msgid "URL/Referrer"
+msgstr "URL / Источник трафика"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:119
+msgid "Compact old data"
+msgstr "Архивирование старых данных"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:127
+#, php-format
+msgid "%s compact data older than %s"
+msgstr "%s архивировать данные старше, чем %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:144
+msgid "Automatic version check"
+msgstr "Автоматическая проверка обновлений"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:23
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:146
+msgid "Automatically check if there is a new version of FireStats (recommended)"
+msgstr "Автоматически проверять обновления FireStats (рекомендуется)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:152
+msgid "Hits processing mode"
+msgstr "Режим обработки хитов"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:158
+msgid "This section allow you to modify the way FireStats handles incoming hits. it is useful to fine tune FireStats for sites with very high load."
+msgstr "В этом разделе вы можете управлять тем, как FireStats обрабатывает хиты. Для сайтов с высокой нагрузкой полезно как следует настроить FireStats."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:162
+msgid "MySQL 5.0 or newer is required for faster processing modes"
+msgstr "Для поддержки улучшенного режима обработки данных требуется MySQL 5.0 или выше"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:176
+msgid "Overriden by conf.php"
+msgstr "Перекрыт в conf.php"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:183
+msgid "IP-to-country database"
+msgstr "База данных IP-to-country"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:185
+#, php-format
+msgid "IP-to-country database version : %s"
+msgstr "Текущая версия: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:23
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:187
+msgid "Automatically check if there is a new version of IP-to-country database"
+msgstr "Автоматически проверять обновления"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:190
+msgid "Update IP-to-country database now (only if needed)"
+msgstr "Обновить сейчас (только если это необходимо)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:192
+msgid "Update"
+msgstr "Обновить"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:205
+msgid "Automatically"
+msgstr "Автоматически"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:206
+msgid "Manually"
+msgstr "Вручную"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:207
+msgid "Please select"
+msgstr "- Выбрать -"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:224
+msgid "One week"
+msgstr "неделя"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:225
+msgid "Two weeks"
+msgstr "две недели"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:226
+msgid "One month"
+msgstr "месяц"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:227
+msgid "Two months"
+msgstr "два месяца"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:228
+msgid "Three months"
+msgstr "три месяца"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:229
+msgid "Half a year"
+msgstr "полгода"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:230
+msgid "One year"
+msgstr "год"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:231
+msgid "Two years"
+msgstr "два года"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:241
+msgid "Process immediately (Slow)"
+msgstr "Обрабатывать сразу (медленно)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:244
+msgid "Buffer hits (Fast)"
+msgstr "Буферизовать хиты (быстро)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:15
+msgid "Manage sites"
+msgstr "Управление сайтами"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:16
+msgid "Search"
+msgstr "Поиск"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:21
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:349
+msgid "Clear"
+msgstr "Очистить"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:34
+msgid "Warning, you can really mess things up from here, be careful!"
+msgstr "Внимание, будьте внимательны! Здесь можно все здорово испортить..."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:36
+msgid "FireStats can collect statistics from multiple sites (on the same server)."
+msgstr "FireStats может собирать статистику с нескольких сайтов на одном сервере. Для этого:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:38
+msgid "The site need to be registered in the sites table"
+msgstr "сайт должен быть зарегистрирован в таблице сайтов"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:39
+msgid "The site should be configured to use its ID when reporting a hit, click on the help button next to the site you created for more information"
+msgstr "сайт должен быть настроен для использования с этим ID при подсчете хитов. Нажмите на кнопку 'Справка' рядом с названием сайта, чтобы получить дополнительную информацию."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:42
+#, php-format
+msgid "Click %s for more information"
+msgstr "Чтобы узнать больше, нажмите %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:52
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:80
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:3
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:44
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:78
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:125
+msgid "Refresh statistics"
+msgstr "Обновить статистику"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:69
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:190
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:67
+msgid "Not a positive number : "
+msgstr "Не положительное число :"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:36
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:136
+msgid "Auto refresh every"
+msgstr "Автообновление каждые"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:39
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:140
+msgid "minutes"
+msgstr "минут"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:141
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:194
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:212
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:237
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:250
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:266
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:282
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:350
+msgid "Apply"
+msgstr "Применить"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:7
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:148
+msgid "Status"
+msgstr "Состояние"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:12
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:152
+msgid "Last 24 hours"
+msgstr "последние 24 часа"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:153
+msgid "Since midnight"
+msgstr "с полуночи"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:162
+msgid "Visits"
+msgstr "Посещений:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:171
+msgid "RSS Subscribers"
+msgstr "Подписчиков RSS-ленты:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:19
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:185
+msgid "Recent referrers"
+msgstr "Свежие источники трафика"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:191
+#, php-format
+msgid "Show at most %s items for the last %s days, sorted by %s"
+msgstr "Показать %s элементов за последние %s дней. Сортировать так: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:203
+msgid "Search terms"
+msgstr "Поисковые запросы"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:207
+#, php-format
+msgid "Show at most %s search terms for %s"
+msgstr "Показать %s поисковых запросов за %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:214
+msgid "Start date:"
+msgstr "Начальная дата:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:215
+msgid "End date:"
+msgstr "Конечная дата:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:26
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:229
+msgid "Recent popular pages"
+msgstr "Популярные страницы"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:234
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:279
+#, php-format
+msgid "Show at most %s items for the last %s days"
+msgstr "Показать %s элементов за последние %s дней"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:33
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:244
+msgid "Browsers"
+msgstr "Браузеры"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:247
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:263
+#, php-format
+msgid "Show items for the last %s days"
+msgstr "Показать данные за %s дней"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:43
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:259
+msgid "Operating systems"
+msgstr "Операционные системы"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:125
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:275
+msgid "Countries"
+msgstr "Страны"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:52
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:289
+msgid "Hits table"
+msgstr "Таблица хитов"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:8
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:290
+msgid "Number of hits to show"
+msgstr "Сколько хитов показывать"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:307
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:309
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:327
+msgid "Filter"
+msgstr "Фильтр"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:367
+msgid "Newest first"
+msgstr "Самые свежие"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1270
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:368
+msgid "Most hits first"
+msgstr "Самые популярные"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:12
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:377
+msgid "the last 24 hours"
+msgstr "сутки"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:378
+msgid "the last week"
+msgstr "неделя"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:379
+msgid "the last month"
+msgstr "месяц"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:380
+msgid "the three months"
+msgstr "три месяца"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:381
+msgid "the last six months"
+msgstr "полгода"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:382
+msgid "the last year"
+msgstr "год"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:383
+msgid "all time"
+msgstr "все время"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:384
+msgid "time range"
+msgstr "указать промежуток"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:8
+msgid "Tools"
+msgstr "Инструменты"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:9
+msgid "This section contains various tools"
+msgstr "Этот раздел содержит разнообразные дополнительные инструменты"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:14
+msgid "I agree to send system information"
+msgstr "Да, я согласен отослать информацию о системе."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:18
+msgid "Diagnostics"
+msgstr "Диагностика"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:19
+msgid "System diagnostics page"
+msgstr "Диагностика модуля"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:19
+msgid "Open"
+msgstr "Открыть"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:24
+msgid "PHP Version"
+msgstr "Версия PHP"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:27
+msgid "MySQL Version"
+msgstr "Версия MySQL"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:30
+msgid "Memory limit"
+msgstr "Ограничение памяти"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:65
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:36
+msgid "Database cache"
+msgstr "Кэш базы данных"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:37
+msgid "The following section can recalculate different aspects of the database. you don't normally need to use it."
+msgstr "Здесь можно обновить различные параметры базы данных. Обычно у вас нет необходимости использовать эту функцию."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:40
+msgid "Recalculate country codes"
+msgstr "Пересчитать коды стран"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:45
+msgid "Rebuild database cache"
+msgstr "Пересобрать кэш базы данных"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:50
+msgid "Recalculate search engine terms"
+msgstr "Пересчитать поисковые запросы"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-users.php:27
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools-menu.php:6
+msgid "Manage users"
+msgstr "Управление пользователями"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-users.php:36
+msgid "You can manage users here"
+msgstr "Здесь вы можете управлять пользователями"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:45
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:21
+msgid "Statistics widget"
+msgstr "Виджет статистики"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:46
+#, php-format
+msgid "You can configure the sidebar widgets from %s"
+msgstr "Вы можете настроить виджеты для боковой панели %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:50
+#, php-format
+msgid "The statistics widget requires the %s plugin for optimal usage."
+msgstr "Для оптимального использования виджета статистики требуется плагин %s."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:53
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:55
+msgid "You can also manually add the following code to your theme sidebar:"
+msgstr "Вы можете вручную добавить этот код в боковую панель вашей темы:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:63
+msgid "Comments icons"
+msgstr "Иконки для комментариев"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:70
+msgid "Add flag icon to comments"
+msgstr "Добавить в комментарий иконку с флагом страны"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:77
+msgid "Add browser and operating system icons to comments"
+msgstr "Добавить в комментарий иконки браузера и операционной системы"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:80
+msgid "Blog footer"
+msgstr "'Подвал' журнала"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:87
+msgid "Add FireStats footer to blog"
+msgstr "Добавить FireStats в 'подвал' журнала"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:95
+msgid "Show statistics in footer"
+msgstr "Показывать статистику в 'подвале' журнала"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:101
+msgid "Excluded users"
+msgstr "Исключенные пользователи"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:102
+msgid "WordPress users selected here will not be counted in the statistics"
+msgstr "Эти пользователи WordPress не будут занесены в статистику:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:106
+msgid "Permissions"
+msgstr "Права"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:107
+msgid "Select the minimum user role that can access FireStats (Only administrators can manage FireStats)"
+msgstr "Выберите минимальную роль пользователя, который может получить доступ к FireStats (управлять FireStats могут только администраторы)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:111
+msgid "Administrator"
+msgstr "Администратор"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:112
+msgid "Editor"
+msgstr "Редактор"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:113
+msgid "Author"
+msgstr "Автор"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:125
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:114
+msgid "Contributor"
+msgstr "Участник"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:115
+msgid "Subscriber"
+msgstr "Подписчик"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:123
+msgid "Advanced"
+msgstr "Дополнительно"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:124
+msgid "WordPress site ID, every hit From this blog is recorded with this as the source Site ID"
+msgstr "ID сайта Wordpress. Каждый хит из этого журнала записывается в базу данных с этим ID сайта"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:125
+msgid "This should be the same ID as the Site ID in the sites table. you don't normally need to change this."
+msgstr "ID должен соответствовать значению в таблице сайтов. Вы не можете его менять."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:135
+msgid "This will update the titles of the blog posts inside FireStats, you don't normally need to use it"
+msgstr "Обновить заголовки записей журала в FireStats. Обычно у вас нет необходимости пользоваться этой функцией."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/rebuild-db.php:17
+msgid "Recalculating matching bots"
+msgstr "Пересчитать совпадающие боты"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/rebuild-db.php:20
+msgid "Recalculating matching IP addresses"
+msgstr "Пересчитать совпадающие IP-адреса"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/rebuild-db.php:23
+msgid "Recalculating matching urls"
+msgstr "Пересчитать совпадающие URL"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tabbed-pane.php:12
+msgid "FireStats is under maintenance, please try again later"
+msgstr "FireStats закрыт на профилактику. Пожалуйста, повторите попытку позже"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:45
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tabbed-pane.php:30
+msgid "Statistics"
+msgstr "Статистика"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:49
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tabbed-pane.php:33
+msgid "Settings"
+msgstr "Настройки"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tabbed-pane.php:41
+msgid "WordPress settings"
+msgstr "Настройки Wordpress"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:61
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tabbed-pane.php:52
+msgid "Database"
+msgstr "База данных"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tabbed-pane.php:58
+msgid "Users management"
+msgstr "Управление пользователями"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tabbed-pane.php:65
+msgid "Sites management"
+msgstr "Управление сайтами"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+# C:\www\testwp-en\wp-content\plugins\FireStats/index.php:51
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/footer.php:8
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools-menu.php:2
+msgid "FireStats tools"
+msgstr "Инструменты FireStats"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools-menu.php:4
+msgid "System test"
+msgstr "Проверка системы"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools-menu.php:5
+msgid "Reset password"
+msgstr "Сбросить пароль"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:775
+#, php-format
+msgid "Done, took %s second"
+msgstr "Завершено за %s секунд"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:872
+#, php-format
+msgid "%d seconds ago"
+msgstr "%d секунд назад"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:875
+msgid "One minute ago"
+msgstr "минуту назад"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:39
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:878
+#, php-format
+msgid "%d minutes ago"
+msgstr "%d минут назад"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:881
+msgid "one hour ago"
+msgstr "час назад"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:884
+#, php-format
+msgid "%d hours ago"
+msgstr "%d часов назад"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:887
+msgid "One day ago"
+msgstr "день назад"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:890
+#, php-format
+msgid "%d days ago"
+msgstr "%d дней назад"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:893
+msgid "One week ago"
+msgstr "неделю назад"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:896
+#, php-format
+msgid "%d weeks ago"
+msgstr "%d недель назад"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:899
+#, php-format
+msgid "%d months ago"
+msgstr "%d месяцев назад"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:902
+msgid "One year ago"
+msgstr "год назад"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:905
+#, php-format
+msgid "%d years ago"
+msgstr "%d лет назад"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/version-check.php:35
+#, php-format
+msgid "Failed to check version at %s, reason : %s"
+msgstr "Невозможно проверить обновления %s. Причина: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/version-check.php:113
+msgid "A new version of the IP-to-country database is available! you can update it from the settings tab"
+msgstr "Доступна новая версия базы данных IP-to-country! Вы можете обновить ее на вкладке 'Настройки'"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:71
+#: D:\Projects\firestats\firestats-1.6\firestats/php/version-check.php:136
+#, php-format
+msgid "Version %s is available! click %s for more info"
+msgstr "Доступна версия %s ! Дополнительная информация - %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/version-check.php:159
+#, php-format
+msgid "Error opening %s"
+msgstr "Ошибка открытия %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:54
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-ip.php:35
+msgid "Exclude IP address"
+msgstr "Исключить IP"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-ip.php:45
+msgid "Single"
+msgstr "Один"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1002
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-ip.php:52
+msgid "Range"
+msgstr "Диапазон"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:119
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-ip.php:61
+msgid "IP Address"
+msgstr "IP адрес"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-ip.php:74
+msgid "Range start"
+msgstr "Начало диапазона"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-ip.php:82
+msgid "Range end"
+msgstr "Конец диапазона"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-ip.php:99
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-url.php:33
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-site.php:31
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-user.php:20
+msgid "Close"
+msgstr "Закрыть"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-url.php:22
+msgid "Exclude URL or referrer"
+msgstr "Исключить URL или источник трафика"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-url.php:25
+msgid "Excluded url/referrer"
+msgstr "Исключенные URL / Источники трафика"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-archive-notification.php:5
+msgid "Yes (Recommended)"
+msgstr "Да (Рекомендовано)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-archive-notification.php:6
+msgid "No"
+msgstr "Нет"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-archive-notification.php:9
+msgid "Compacting old data"
+msgstr "Архивирование старых данных"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-archive-notification.php:10
+msgid "FireStats can tranform old data to a more compact form,"
+msgstr "FireStats может преобразовать старые данные в более компактную форму."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-archive-notification.php:11
+msgid "This will reduce storage size and improve performance at the cost of losing some information which is not essential."
+msgstr "Это сократит занимаемое ими на диске место и улучшит производительность, но вы потеряете некоторую несущественную информацию."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-archive-notification.php:12
+msgid "it is highly recommended that you allow FireStats to do this automatically."
+msgstr "Рекомендуем вам разрешить FireStats делать это автоматически."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-archive-notification.php:14
+#, php-format
+msgid "Click %s if you would like FireStats to automatically compact data older than %s days"
+msgstr "Нажмите %s, если вы хотите, чтобы FireStats автоматически архивировал данные старше %s дней"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-archive-notification.php:15
+#, php-format
+msgid "Click %s if you want to compact data manually or change compacting options (From the Settings tab)"
+msgstr "Нажмите %s, если вы хотите архивировать данные вручную или изменить настройки сжатия (Вкладка \"Настройки\")"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-site.php:10
+msgid "Delete site"
+msgstr "Удалить сайт"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-site.php:14
+msgid "This will delete this site from the database, the operation is irreversible!"
+msgstr "Вы собираетесь удалить сайт из базы данных. Это действие необратимо!"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-site.php:15
+msgid "What do you want to do with the site hits?"
+msgstr "Что вы хотите сделать с хитами сайта?"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-site.php:18
+msgid "Delete all the hits"
+msgstr "Удалить все хиты"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-site.php:19
+msgid "Transfer the hits to another site"
+msgstr "Передать хиты на другой сайт"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-site.php:22
+msgid "Enter an existing site ID to transfer the hits to"
+msgstr "Введите ID сайта, на который вы хотите передать хиты"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-user.php:9
+msgid "No such user"
+msgstr "Пользователь не найден"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-user.php:12
+msgid "Delete user"
+msgstr "Удалить пользователя"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-do-you-agree-to-send-sysinfo.php:9
+msgid "You can help by sending anonymous system information that will help make better decisions about new features."
+msgstr "Вы можете помочь нам в разработке новых функций для FireStats, отправив анонимный отчет о вашей системе."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-do-you-agree-to-send-sysinfo.php:13
+msgid "You can change this later from the Tools tab"
+msgstr "Вы можете изменить это позднее на вкладке 'Инструменты'"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-do-you-agree-to-send-sysinfo.php:17
+msgid "Do you agree to send anonymous system information?"
+msgstr "Вы согласны отослать анонимный отчет о вашей системе?"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-do-you-agree-to-send-sysinfo.php:20
+msgid "Sure, send system information"
+msgstr "Конечно, отправьте информацию о системе"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-do-you-agree-to-send-sysinfo.php:23
+msgid "Nope, don't send"
+msgstr "Нет, не посылать"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-donation.php:8
+msgid "Even though FireStats is free, it takes a lot of time and hard work to develop and maintain."
+msgstr "Конечно же, FireStats бесплатен, но мы потратили много времени на его разработку и поддержку - и это очень тяжелая работа."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-donation.php:9
+msgid "If you like FireStats and would like to show your support for the hard work I put into it, You can make a small Donation. Even a $5 donation would be greatly appreciated."
+msgstr "Если вам понравился FireStats и вы хотите оказать нам поддержку в нашем нелегком деле, вы можете сделать небольшое пожертвование. Мы очень ценим каждые 5$, внесенные вами."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-donation.php:11
+msgid "Yeah, I want to help"
+msgstr "Да, я хочу помочь"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-donation.php:12
+msgid "Nah, go away"
+msgstr "Нет, спасибо"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-donation.php:13
+msgid "Maybe later"
+msgstr "Может быть позже"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-donation.php:14
+msgid "Already donated"
+msgstr "Уже пожертвовал"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-edit-user.php:21
+msgid "All sites"
+msgstr "Все сайты"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-edit-user.php:22
+msgid "Specific sites"
+msgstr "Конкретные сайты"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-edit-user.php:25
+msgid "Edit user"
+msgstr "Редактировать пользователя"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-edit-user.php:25
+msgid "Create a new user"
+msgstr "Создать нового пользователя"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-edit-user.php:36
+msgid "New password (Optional)"
+msgstr "Новый пароль (Необязательно)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:39
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-edit-user.php:40
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:100
+msgid "Verify new password"
+msgstr "Подтверждение нового пароля"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-edit-user.php:51
+msgid "User can access statistics from"
+msgstr "У пользователя есть доступ к статистике для"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-edit-user.php:61
+msgid "Comma separated list of allowed site ids (example : 1,4,6)"
+msgstr "Список разрешенных ID сайта, разделенный запятыми (например: 1,4,6)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-new-edit-site.php:18
+msgid "Edit site"
+msgstr "Редактировать сайт"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-new-edit-site.php:18
+msgid "Create a new site"
+msgstr "Создать новый сайт"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-new-edit-site.php:40
+msgid "Baseline page views"
+msgstr "Базовые просмотры страниц"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:11
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-new-edit-site.php:44
+msgid "Baseline visitors"
+msgstr "Базовые посетители:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/emergency-manage-users.php:9
+msgid "Message"
+msgstr "Сообщение"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/emergency-manage-users.php:10
+msgid "This page will allow you to change the password of any user in FireStats."
+msgstr "На этой странице вы можете сменить пароль любого пользователя в FireStats."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/emergency-manage-users.php:11
+#, php-format
+msgid "For security reasons, you must first edit the file %s"
+msgstr "По соображениям безопасности вы должны в первую очередь отредактировать файл %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/emergency-manage-users.php:12
+#, php-format
+msgid "and change the line %s to %s and then refresh this page."
+msgstr "и изменить строчку %s на %s e, а затем обновить страницу."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/emergency-manage-users.php:13
+msgid "Don't forget to change it back when you are done."
+msgstr "После того как закончите, не забудьте вернуть все обратно."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/emergency-manage-users.php:18
+msgid "IMPORTANT"
+msgstr "ВАЖНО"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:18
+#, php-format
+msgid "You can request an password reset email from here. If it does not work or you don't know your username or email, you can also change your password using the %s"
+msgstr "Здесь вы можете запросить письмо для сброса пароля. Если вдруг это не работает или вы забыли свое имя пользователя или пароль, вы можете изменить пароль, используя %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:18
+msgid "Emergency user management page"
+msgstr "Страница быстрого редактирования пользователей"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:28
+msgid "A user with this username and email was not found"
+msgstr "Пользователь с этим именем и адресом электронной почты не найден"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:39
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:49
+msgid "FireStats password recovery"
+msgstr "Восстановление пароля FireStats"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:50
+#, php-format
+msgid "Click %s to change your FireStats password, this link will work for a short time"
+msgstr "Нажмите %s чтобы сменить ваш пароль в FireStats. Эта ссылка будет работать только некоторое время"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:54
+msgid "Email sent"
+msgstr "Письмо отправлено"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:58
+msgid "Failed to send email"
+msgstr "Ошибка при отправке письма"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:73
+#, php-format
+msgid "Failed, maybe too much time have passed since you generated the email? %s"
+msgstr "Ошибка. Возможно, со времени отправки письма прошло слишком много времени. %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:73
+msgid "try again"
+msgstr "попробуйте снова"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:239
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:247
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:96
+msgid "New password"
+msgstr "Новый пароль"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:39
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:105
+msgid "Change password"
+msgstr "Сменить пароль"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:119
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:125
+msgid "Email address"
+msgstr "Адрес электронной почты"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:130
+msgid "Send password reset email"
+msgstr "Письмо для сброса пароля отправлено"
+

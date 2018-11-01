@@ -1,0 +1,2 @@
+[21-Jan-2009 09:49:10] PHP Fatal error:  Call to undefined function  add_filter() in /home/h5u1217/public_html/wp-content/plugins/remove-max-width/remove-max-width.php on line 20
+[12-Feb-2009 19:03:05] PHP Fatal error:  Call to undefined function  add_filter() in /home/h3u135/public_html/wp-content/plugins/remove-max-width/remove-max-width.php on line 20

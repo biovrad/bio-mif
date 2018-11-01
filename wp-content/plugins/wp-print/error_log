@@ -1,0 +1,12 @@
+[21-Jan-2009 09:48:34] PHP Fatal error:  Call to undefined function  get_option() in /home/h5u1217/public_html/wp-content/plugins/wp-print/wp-print.php on line 36
+[21-Jan-2009 09:48:37] PHP Fatal error:  Call to undefined function  bloginfo() in /home/h5u1217/public_html/wp-content/plugins/wp-print/print-posts.php on line 24
+[21-Jan-2009 09:48:45] PHP Fatal error:  Call to undefined function  plugin_basename() in /home/h5u1217/public_html/wp-content/plugins/wp-print/print-options.php on line 21
+[21-Jan-2009 09:49:10] PHP Fatal error:  Call to undefined function  add_action() in /home/h5u1217/public_html/wp-content/plugins/wp-print/print.php on line 24
+[11-Feb-2009 18:56:30] PHP Fatal error:  Call to undefined function  plugin_basename() in /home/h3u135/public_html/wp-content/plugins/wp-print/print-options.php on line 21
+[11-Feb-2009 19:12:36] PHP Fatal error:  Call to undefined function  get_option() in /home/h3u135/public_html/wp-content/plugins/wp-print/wp-print.php on line 36
+[11-Feb-2009 20:09:10] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/wp-print/print.php on line 24
+[11-Feb-2009 20:12:37] PHP Fatal error:  Call to undefined function  bloginfo() in /home/h3u135/public_html/wp-content/plugins/wp-print/print-posts.php on line 24
+[12-Feb-2009 11:57:11] PHP Fatal error:  Call to undefined function  plugin_basename() in /home/h3u135/public_html/wp-content/plugins/wp-print/print-options.php on line 21
+[12-Feb-2009 12:10:40] PHP Fatal error:  Call to undefined function  get_option() in /home/h3u135/public_html/wp-content/plugins/wp-print/wp-print.php on line 36
+[12-Feb-2009 12:11:42] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/wp-print/print.php on line 24
+[12-Feb-2009 12:26:14] PHP Fatal error:  Call to undefined function  bloginfo() in /home/h3u135/public_html/wp-content/plugins/wp-print/print-posts.php on line 24

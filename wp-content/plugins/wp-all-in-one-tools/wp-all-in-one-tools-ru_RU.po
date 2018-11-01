@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP All-in-One tools v3.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-08-16 23:58+0500\n"
+"Last-Translator: \n"
+"Language-Team: infine.ru <info@infine.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-all-in-one-tools.php:67
+msgid "Activate plugin"
+msgstr "Активировать плагин"
+
+#: wp-all-in-one-tools.php:68
+msgid "Deactivate plugin"
+msgstr "Отключить плагин"
+
+#: wp-all-in-one-tools.php:175
+#: wp-all-in-one-tools.php:179
+#: wp-all-in-one-tools.php:191
+msgid "Plugin <strong>"
+msgstr "Плагин <strong>"
+
+#: wp-all-in-one-tools.php:175
+msgid "</strong> maked callback function, usually need refresh page"
+msgstr "</strong> выполнил обратный вызов функции, обычно требуется дополнительно обновить страницу"
+
+#: wp-all-in-one-tools.php:179
+msgid "</strong> activated"
+msgstr "</strong> активирован"
+
+#: wp-all-in-one-tools.php:191
+msgid "</strong> deactivated"
+msgstr "</strong> отключен"
+
+#: wp-all-in-one-tools.php:324
+msgid "Plugin home page"
+msgstr "Страница плагина"
+
+#: wp-all-in-one-tools.php:354
+msgid "Hello bear!"
+msgstr "Превед медвед!"
+
+#: wp-all-in-one-tools.php:355
+msgid "Security tools:"
+msgstr "Безопасность:"
+
+#: wp-all-in-one-tools.php:361
+msgid "Replace the WP-version with a random string &lt; WP 2.4 and eliminate WP-version &gt; WP 2.4"
+msgstr "Заменяет WP-версию на произвольную строку &lt; WP 2.4 и убирает вообще &gt; WP 2.4"
+
+#: wp-all-in-one-tools.php:369
+msgid "Adds or changes the random SECRET_KEY in your WordPress wp-config.php file, if file permissions allow it. NOT needed on new installs unless you want to change the key; its useful on upgrades where you're reusing the old wp-config.php file. Just activate. On success the plugin will add the key, log you out, and then deactivate itself. On failure, it will give you a random key to add by hand. Note: if any problems, just delete this file or rename it and refresh your browser."
+msgstr "Добавляет или изменяет на случайную на случайную строку SECRET_KEY в вашем wp-config.php. Для изменения достаточно один раз его активировать и, возможно, обновить страницу в вашем браузере. Если всё пройдет успешно, WordPress попросит вас зайти заново. В случае неудачи (например, не хватит прав на изменение файла), вы всегда можете самостоятельно открыть и изменить его в вашем wp-config.php."
+
+#: wp-all-in-one-tools.php:372
+msgid "Now SECRET_KEY is:"
+msgstr "Сейчас SECRET_KEY:"
+
+#: wp-all-in-one-tools.php:379
+msgid "It makes the cookie specific to your IP address, so it won't be usable from a different computer.Use this plugin if you have a static IP. If you have a dynamic IP address and it changes often you will get logged out frequently."
+msgstr "Шифрует cookie ключом из вашего IP адреса. Таким образом, даже похитив их, взломщик не сможет попасть в целевую систему."
+
+#: wp-all-in-one-tools.php:385
+msgid "WordPress Optimization:"
+msgstr "Оптимизация WordPress:"
+
+#: wp-all-in-one-tools.php:391
+msgid "Disables the WordPress core update checking and notification system."
+msgstr "Отключение сервиса проверки обновлений ядра WordPress и сообщения о необходимости обновления."
+
+#: wp-all-in-one-tools.php:397
+msgid "Disables the plugin update checking and notification system."
+msgstr "Отключение сервиса проверки обновлений плагинов и сообщения о необходимости обновления."
+
+#: wp-all-in-one-tools.php:403
+msgid "WordPress Patches:"
+msgstr "WordPress Заплатки:"
+
+#: wp-all-in-one-tools.php:409
+msgid "Allows children Pages to have a stub that is only a number. Sacrifices the <code>&lt;!--nextpage--&gt;</code> ability in Pages to accomplish it."
+msgstr "Позволяет для дочерних страниц использовать быструю ссылку только из чисел (например, /about/5/)."
+
+#: wp-all-in-one-tools.php:416
+msgid "Fixes the media uploader HTTP Error that some WordPress configurations suffer from."
+msgstr "Исправляет ошибку \"HTTP Error\" загрузчика мультимедиа"
+
+#: wp-all-in-one-tools.php:423
+msgid "WordPress Usability:"
+msgstr "WordPress Юзабилити:"
+
+#: wp-all-in-one-tools.php:429
+msgid "Allows you to quckly access plugin options upon activation."
+msgstr "Показывает ссылку на страницу настроек при активации нового плагина."
+
+#: wp-all-in-one-tools.php:435
+msgid "Comments&amp;Posts&amp;Feeds:"
+msgstr "Комментарии&amp;Записи&amp;RSS:"
+
+#: wp-all-in-one-tools.php:441
+msgid "Check the comment for a set minimum length and disapprove it if its too short (some errors try using cyrillic alphabet)."
+msgstr "Проверяет и устанавливает минимальную длину комментария, и не позволяет его добавить, если он слишком короткий (некорректно определяет длину комментария на кириллице)."
+
+#: wp-all-in-one-tools.php:447
+#: wp-all-in-one-tools.php:752
+msgid "Error: Your comment is too short. Please try to say something useful."
+msgstr "Ошибка: Ваш комментарий слишком короткий. Пожалуйста, напишите что-нибудь более стоящее."
+
+#: wp-all-in-one-tools.php:468
+msgid "Minimum comment length:"
+msgstr "Минимальная длинна:"
+
+#: wp-all-in-one-tools.php:470
+msgid "Error message:"
+msgstr "Сообщение об ошибке:"
+
+#: wp-all-in-one-tools.php:480
+#: wp-all-in-one-tools.php:513
+msgid "Update Settings &raquo;"
+msgstr "Обновить настройки &raquo;"
+
+#: wp-all-in-one-tools.php:488
+msgid "Inserts copyright message in Feeds."
+msgstr "Добавляет копирайт в вашу RSS ленту."
+
+#: wp-all-in-one-tools.php:494
+msgid "<hr />Copyright &copy; SITE_NAME. This Feed is for personal non-commercial use only. If you are not reading this material in your news aggregator, the site you are looking at is guilty of copyright infringement."
+msgstr "<hr />Copyright &copy; ИМЯ_САЙТА. Этот персональный, не коммерческий Feed. Если вы читаете этот материал не в вашем RSS клиенте, сайт на котором он находиться получил его незаконным образом."
+
+#: wp-all-in-one-tools.php:505
+msgid "Copyright text:"
+msgstr "Текст копирайта:"
+
+#: wp-all-in-one-tools.php:505
+msgid "(You can use <u>HTML tags</u>)"
+msgstr "(Вы можете использовать <u>HTML теги</u>)"
+
+#: wp-all-in-one-tools.php:520
+msgid "Version"
+msgstr "Версия"
+
+#: wp-all-in-one-tools.php:520
+msgid "Created in <a href=\"http://www.infine.ru/support/\">infine.ru</a> web develop studio"
+msgstr "Создан в <a href=\"http://www.infine.ru/support/\">infine.ru</a> студии веб-разработок"
+
+#: wp-all-in-one-tools.php:525
+msgid "All in One tools Options"
+msgstr "All in One tools Настройки"
+
+#: wp-all-in-one-tools.php:525
+msgid "All in One tools"
+msgstr "All in One tools"
+
+#: wp-all-in-one-tools.php:661
+msgid "<strong>Your blog&#8217;s .htaccess file needs to be updated, but it is not writable.</strong> Please visit your <a href=\"options-permalink.php\">Permalink Settings</a> page and follow the instructions on there for updating your .htaccess file."
+msgstr "<strong>.htaccess файл вышего блога требуется обновить, но не хватает прав на его изменение.</strong> Пожалуйста, перейдите на страницу управления <a href=\"options-permalink.php\"> Постоянных ссылок (ЧПУ)</a> и следуйте инструкциям по обновлению вашего .htaccess файла."
+

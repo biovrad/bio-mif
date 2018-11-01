@@ -1,0 +1,2 @@
+[12-Feb-2009 09:10:23] PHP Fatal error:  Call to undefined function  sf_new_post_announce_display() in /home/h3u135/public_html/wp-content/plugins/simple-forum/ahah/sf-announce.php on line 9
+[12-Feb-2009 22:55:09] PHP Fatal error:  Call to undefined function  sf_new_post_announce_display() in /home/h3u135/public_html/wp-content/plugins/simple-forum/ahah/sf-announce.php on line 9

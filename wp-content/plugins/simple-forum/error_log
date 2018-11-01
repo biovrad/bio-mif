@@ -1,0 +1,15 @@
+[11-Feb-2009 23:55:37] PHP Fatal error:  Call to undefined function  trailingslashit() in /home/h3u135/public_html/wp-content/plugins/simple-forum/sf-includes.php on line 12
+[11-Feb-2009 23:58:40] PHP Fatal error:  Call to undefined function  _e() in /home/h3u135/public_html/wp-content/plugins/simple-forum/sf-adminusers.php on line 86
+[12-Feb-2009 00:15:12] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/simple-forum/sf-tags.php on line 431
+[12-Feb-2009 00:35:12] PHP Fatal error:  Call to undefined function  trailingslashit() in /home/h3u135/public_html/wp-content/plugins/simple-forum/sf-includes.php on line 12
+[12-Feb-2009 01:35:36] PHP Fatal error:  Call to undefined function  get_option() in /home/h3u135/public_html/wp-content/plugins/simple-forum/sf-links.php on line 7
+[12-Feb-2009 18:18:06] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/simple-forum/sf-tags.php on line 431
+[12-Feb-2009 18:32:41] PHP Fatal error:  Call to undefined function  sf_setup_data() in /home/h3u135/public_html/wp-content/plugins/simple-forum/sf-admin.php on line 16
+[12-Feb-2009 18:33:36] PHP Fatal error:  Call to undefined function  _e() in /home/h3u135/public_html/wp-content/plugins/simple-forum/sf-adminusers.php on line 86
+[12-Feb-2009 18:36:20] WordPress database error Table 'h3u135_biomif.wp_sfnotice' doesn't exist for query DELETE FROM wp_sfnotice WHERE id='66.249.71.178' AND item='sfmessage' made by delete_sfnotice
+[12-Feb-2009 18:36:20] WordPress database error Table 'h3u135_biomif.wp_sfnotice' doesn't exist for query SELECT message FROM wp_sfnotice WHERE id='66.249.71.178' AND item='sfmessage' made by get_sfnotice
+[12-Feb-2009 18:36:20] WordPress database error Table 'h3u135_biomif.wp_sfnotice' doesn't exist for query INSERT INTO wp_sfnotice (id, item, message, ndate) VALUES ('66.249.71.178', 'sfmessage', '', now()) made by update_sfnotice
+[12-Feb-2009 18:46:40] PHP Fatal error:  Call to undefined function  get_option() in /home/h3u135/public_html/wp-content/plugins/simple-forum/sf-links.php on line 7
+[12-Feb-2009 18:54:58] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/simple-forum/sf-filters.php on line 8
+[12-Feb-2009 18:57:55] PHP Fatal error:  Call to undefined function  trailingslashit() in /home/h3u135/public_html/wp-content/plugins/simple-forum/sf-includes.php on line 12
+[12-Feb-2009 19:07:39] PHP Fatal error:  Call to undefined function  trailingslashit() in /home/h3u135/public_html/wp-content/plugins/simple-forum/sf-includes.php on line 12

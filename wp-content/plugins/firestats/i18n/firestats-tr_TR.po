@@ -1,0 +1,3162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FireStats Türkçe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-21 03:17+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ferhad Fidan <ferhad@f-blog.info>\n"
+"Language-Team: Ferhad Fidan <ferhad@f-blog.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-KeywordsList: fs_r;fs_e\n"
+"X-Poedit-Basepath: .\n"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:355
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:825
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:889
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:1420
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:1433
+msgid "FireStats"
+msgstr "FireStats"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:355
+msgid "Loading..."
+msgstr "Yüklüyor..."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:374
+#, php-format
+msgid "Total : %s page views and %s visits"
+msgstr "Toplam: %s sayfa gösterimi ve %s ziyaret"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:375
+#, php-format
+msgid "Last 24 hours : %s page views and %s visits"
+msgstr "Son 24 saat: %s sayfa gösterimi ve %s ziyaret"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:528
+msgid "You are not authorized to access FireStats"
+msgstr "FireStats'a erişmek için yetkili değilsiniz"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:846
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:910
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:987
+msgid "Title:"
+msgstr "Başlık:"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:853
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:917
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:1004
+msgid "Hide FireStats logo"
+msgstr "FireStats logosunu sakla"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:954
+msgid "Popular posts"
+msgstr "Popüler yazılar"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:992
+msgid "Number to show"
+msgstr "Gösterilecek sayı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:997
+msgid "Days ago (Empty for all time)"
+msgstr "Gün önce (Her zaman için boş)"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:1061
+#, php-format
+msgid "%s readers"
+msgstr "%s okuyucu"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:1093
+msgid "Pages displayed : "
+msgstr "Sayfa gösterimi:"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:1094
+msgid "Unique visitors : "
+msgstr "Tekil ziyaretçi : "
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:1095
+msgid "Pages displayed in last 24 hours : "
+msgstr "Son 24 saatte görüntülenen sayfalar : "
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:1096
+msgid "Unique visitors in last 24 hours : "
+msgstr "Son 24 saat içindeki tekil ziyaretçi : "
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:1099
+msgid "RSS subscribers"
+msgstr "RSS aboneleri"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:1153
+msgid "pages viewed"
+msgstr "sayfa gösterildi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:1153
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:1154
+msgid "today"
+msgstr "bugün"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:1154
+msgid "visits"
+msgstr "ziyaret"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/firestats-wordpress.php:1163
+msgid "Powered by FireStats"
+msgstr "Powered by FireStats"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/index.php:15
+msgid "Error"
+msgstr "Hata"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/index.php:15
+msgid "Access denied"
+msgstr "Erişim engellendi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/index.php:41
+msgid "Error connecting to database, check your database server"
+msgstr "Veri tabanına bağlanılamadı, veri tabanı sunucusu ayarlarınızı kontrol edin"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/index.php:42
+#, php-format
+msgid "To access the configuration screen, please delete %s"
+msgstr "Konfigürasyon ekranına erişmek için lütfen siliniz: %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/login.php:11
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/login.php:26
+msgid "Login"
+msgstr "Giriş yap"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/login.php:14
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/login.php:18
+msgid "Password"
+msgstr "Parola"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/login.php:25
+msgid "Remember me for the next 14 days"
+msgstr "Gelecek 14 gün beni hatırla"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/login.php:31
+#, php-format
+msgid "Forgot your password? click %s."
+msgstr "Parolanızı mı unuttunuz? tıklayın %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/login.php:31
+msgid "here"
+msgstr "burada"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/firestats.js.php:50
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/firestats.js.php:97
+msgid "Stop"
+msgstr "Dur"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/firestats.js.php:51
+msgid "Compacting..."
+msgstr "Küçültüyor..."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/firestats.js.php:63
+msgid "Stopping..."
+msgstr "Durduruyor..."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/firestats.js.php:74
+msgid "Compact now"
+msgstr "Şimdi küçült"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/firestats.js.php:119
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/firestats.js.php:139
+msgid "Abort"
+msgstr "Durdur"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/firestats.js.php:134
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/firestats.js.php:146
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/firestats.js.php:154
+msgid "Start"
+msgstr "Başla"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/firestats.js.php:135
+msgid "Canceled"
+msgstr "İptal edildi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/firestats.js.php:723
+msgid "Session expired, press ok to reload"
+msgstr "Oturum zaman aşımına uğradı, yeniden yüklemek için tamama basın"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/page-database.js.php:66
+msgid "Upgrading, do not interrupt"
+msgstr "Yükseltiliyor, kesmeyin"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/page-database.js.php:73
+msgid "Try again"
+msgstr "Tekrar dene"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/page-settings.js.php:20
+msgid "You need to select one or more bots"
+msgstr "Bir veya daha fazla bot seçmelisiniz"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/page-settings.js.php:40
+msgid "You need to select one or more urls"
+msgstr "Bir veya daha fazla url seçmelisiniz"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/page-settings.js.php:54
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/page-settings.js.php:89
+msgid "You need to select a record from the table"
+msgstr "Tablodan bir kayıt seçmeniz gerekli"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/page-settings.js.php:75
+msgid "You need to select one or more IP addresses"
+msgstr "Bir veya daha fazla IP adresi seçmelisiniz"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/page-sites.js.php:27
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/page-sites.js.php:29
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/page-sites.js.php:47
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/page-sites.js.php:49
+msgid "Automatic"
+msgstr "Otomatik"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/page-sites.js.php:93
+msgid "Delete"
+msgstr "Sil"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/js/page-sites.js.php:93
+msgid "Transfer"
+msgstr "Taşıma"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/lib/ezsql/mysql/ez_sql_mysql.php:42
+msgid "User name and password are required to connect to database"
+msgstr "Kullanıcı adı ve parola veri tabanına bağlanmak için gereklidir"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/lib/ezsql/mysql/ez_sql_mysql.php:43
+msgid "Error establishing mySQL database connection"
+msgstr "mySQL veri tabanı bağlantısı kurulamadı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/lib/ezsql/mysql/ez_sql_mysql.php:44
+msgid "Database name is required to connect to database"
+msgstr "Veri tabanına bağlanmak için veri tabanı ismi gereklidir"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/lib/ezsql/mysql/ez_sql_mysql.php:45
+msgid "mySQL database connection is not active"
+msgstr "mySQL veri tabanı bağlantısı etkin değil"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/lib/ezsql/mysql/ez_sql_mysql.php:46
+msgid "Unexpected error while querying database"
+msgstr "Veri tabanı sorgulanırken beklenmedik hata"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/lib/ezsql/mysql/ez_sql_mysql.php:123
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/lib/ezsql/mysql/ez_sql_mysql.php:134
+#, php-format
+msgid "Can't disconnect: %s"
+msgstr "Bağlantı kesilemedi: %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/lib/ezsql/mysql/ez_sql_mysql.php:134
+msgid "Not connected"
+msgstr "Bağlı değil"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:179
+#, php-format
+msgid "Unexpected output: %s"
+msgstr "Beklenmedik çıktı: %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:285
+#, php-format
+msgid "Invalid integer : %s"
+msgstr "Geçersiz tam sayı: %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:288
+#, php-format
+msgid "Invalid or none positive integer : %s"
+msgstr "Geçersiz veya pozitif olmayan tam sayı: %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:295
+msgid "Invalid IP address"
+msgstr "Geçersiz IP adresi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:377
+msgid "Excluded users list saved"
+msgstr "Hariç tutulan kullanıcılar listesi kaydedildi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:394
+#, php-format
+msgid "Added %s to bots list"
+msgstr "%s bot listesine eklendi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:405
+msgid "Empty string is not allowed"
+msgstr "Boş metin kabul edilmez"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:415
+msgid "Removed"
+msgstr "Kaldırıldı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:467
+msgid "Not using configuration file"
+msgstr "Konfigürasyon dosyası kullanılmıyor"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:473
+msgid "Not installed inside Wordpress"
+msgstr "Wordpress içine kurulu değil"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:483
+#, php-format
+msgid "Failed to delete fs-config.php : %s"
+msgstr "fs-config.php silinemedi : %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:526
+msgid "Error upgrading tables"
+msgstr "Tablolar yükseltilemedi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:546
+msgid "Error installing tables"
+msgstr "Tablolar kurulamadı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:703
+#, php-format
+msgid "%s days can be compacted, database size %s"
+msgstr "%s gün küçültülebilir, veri tabanı boyutu %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:756
+msgid "IP-to-country database is already up-to-date"
+msgstr "IP-to-country veri tabanı zaten güncel"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:763
+msgid "An error has occured while trying to update the IP-to-country database"
+msgstr "IP-to-country veri tabanı güncellenirken bir hata oluştu"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:767
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:390
+msgid "file"
+msgstr "dosya"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:769
+#, php-format
+msgid "You can update the database manually by downloading this %s and extracting it into %s"
+msgstr "Bunu indirip %s buraya %s çıkararak veri tabanını elle güncelleyebilirsiniz"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:774
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-common.php:616
+msgid "this"
+msgstr "bu"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:776
+#, php-format
+msgid "You can update the database manually by opening %s and downloading the <b>zip_url</b>, and extracting it into %s"
+msgstr "%s adresini açıp <b>zip_url</b> indirerek ve %s içine çıkararak veri tabanını elle güncelleyebilirsiniz."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:802
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:820
+#, php-format
+msgid "Error updating bots list: %s"
+msgstr "Bot listesini güncellenemedi: %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:814
+msgid "Successfully updated bots list"
+msgstr "Bot listesi başarıyla güncellendi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:832
+#, php-format
+msgid "Error purging excluded records: %s"
+msgstr "Hariç tutulan kayıtlar temizlenemedi: %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:836
+msgid "Purged excluded records"
+msgstr "Hariç tutulan kayıtlar temizlendi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:927
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-common.php:134
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:24
+msgid "Error connecting to database"
+msgstr "Veri tabanına bağlanılamadı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:1010
+#, php-format
+msgid "Compacting %s days, %s done, database size is %s"
+msgstr "%s gün küçültülüyor, %s tamamlandı, veri tabanı boyutu %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:1110
+#, php-format
+msgid "%d of %d"
+msgstr "%d / %d"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:1255
+msgid "Incorrect user-name or password"
+msgstr "Hatalı kullanıcı adı veya parola"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:1279
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:1320
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:1346
+msgid "User name not specified"
+msgstr "Kullanıcı adı belirtilmemiş"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:1280
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:1321
+msgid "Email not specified"
+msgstr "E-posta belirtilmemiş"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:1281
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:39
+msgid "Password not specified"
+msgstr "Parola belirtilmemiş"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:1282
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:1324
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:1347
+msgid "Passwords did not match"
+msgstr "Parolalar uyuşmuyor"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ajax-handler.php:1348
+msgid "Empty password"
+msgstr "Boş parola"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/auth.php:92
+#, php-format
+msgid "Error connecting to database (%s)"
+msgstr "Veri tabanına bağlanılamadı (%s)"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/auth.php:195
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/auth.php:229
+msgid "Invalid email address"
+msgstr "Geçersiz e-posta adresi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/auth.php:205
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/auth.php:239
+msgid "A user with this name already exists"
+msgstr "Bu isimde bir kullanıcı zaten var"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/auth.php:209
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/auth.php:243
+msgid "A user with this email address already exists"
+msgstr "Bu e-postaya sahip bir kullanıcı zaten var"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/auth.php:466
+#, php-format
+msgid "Invalid site id: %s"
+msgstr "Geçersiz site numarası (ID): %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/commit-pending-impl.php:632
+#, php-format
+msgid "You need %s privilege on your database, see %s for more information"
+msgstr "Veri tabanınızda %s yetkiye ihtiyacınız var, daha fazla bilgi için bakın %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-common.php:116
+msgid "FireStats is properly installed in the database"
+msgstr "FireStats veri tabanında düzgün bir şekilde kurulu"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-common.php:119
+msgid "FireStats is not configured"
+msgstr "FireStats ayarlı değil"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-common.php:122
+#, php-format
+msgid "Database error, check your configuration: %s"
+msgstr "Veri tabanı hatası, ayarlarınızı kontrol edin: %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-common.php:125
+msgid "FireStats is not installed in the database"
+msgstr "FireStats veri tabanına kurulmamış"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-common.php:128
+msgid "FireStats database needs to be upgraded"
+msgstr "FireStats veri tabanının yükseltilmesi gerek"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-common.php:131
+msgid "The FireStats database version is newer than this code version, you need to upgrade FireStats"
+msgstr "FireStats veri tabanı sürümü bu kod sürümünden daha yeni, FireStats'i yükseltmeniz gerekli"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-common.php:137
+msgid "Unknown database status code"
+msgstr "Bilinmeyen veri tabanı durum kodu"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-common.php:601
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-hit.php:354
+#, php-format
+msgid "Database error: %s"
+msgstr "Veri tabanı hatası: %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-common.php:616
+#, php-format
+msgid "Invalid regular expression, see %s for more information"
+msgstr "Geçersiz düzenli ifade, daha fazla bilgi için bakın %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:21
+msgid "Error accessing database"
+msgstr "Veri tabanına erişilemedi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:27
+msgid "Error creating database"
+msgstr "Veri tabanı oluşturulamadı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:30
+msgid "Error creating user"
+msgstr "Kullanıcı oluşturulamadı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:33
+msgid "Error creating tables"
+msgstr "Tablolar oluşturulamadı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:36
+msgid "Error saving configuration"
+msgstr "Ayarlar kaydedilemedi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:42
+msgid "Wrong password"
+msgstr "Yanlış parola"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:52
+msgid "FireStats tables are not installed"
+msgstr "FireStats tabloları kurulu değil"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:57
+msgid "FireStats is installed"
+msgstr "FireStats kuruldu"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:62
+msgid "Another FireStats database detected"
+msgstr "Bir başka FireStats veri tabanı bulundu"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:67
+msgid "New database created successfuly"
+msgstr "Yeni veri tabanı başarıyla oluşturuldu"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:70
+#, php-format
+msgid "Unexpected error code %s"
+msgstr "Beklenmeyen hata kodu %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:303
+msgid "Not configured"
+msgstr "Ayarlı değil"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:306
+msgid "FireStats configuration file"
+msgstr "FireStats konfigürasyon dosyası"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:309
+msgid "Wordpress configuration file"
+msgstr "Wordpress konfigürasyon dosyası"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:312
+msgid "External configuration"
+msgstr "Harici konfigürasyon"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:391
+#, php-format
+msgid "Configuration file %s is not writable, you can either:"
+msgstr "Konfigürasyon dosyası %s yazılabilir değil, şunu da yapabilirsiniz:"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:392
+msgid "Fix the problem by making it writable"
+msgstr "Onu yazılabilir yaparak problemi çözün"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-config-utils.php:393
+#, php-format
+msgid "download the %s and upload it into %s"
+msgstr "%s dosyasını indir ve %s içine yükle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-setup.php:34
+msgid "Operation already in progress"
+msgstr "İşlem zaten etkin"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:49
+msgid "Data compacting is already in progress"
+msgstr "Veri küçültme zaten şuan etkin"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:74
+msgid "MySQL 4.1.14 or newer is required for data compacting support"
+msgstr "Veri küçültme desteği için MySQL 4.1.14 veya daha üstü gereklidir"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:288
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:326
+msgid "Site name not specified"
+msgstr "Site adı belirtilmemiş"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:300
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:330
+msgid "Site ID must be a positive number"
+msgstr "Site ID bir pozitif sayı olmalı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:303
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:349
+#, php-format
+msgid "A site with the ID %s already exists"
+msgstr "%s ID ile bir site zaten var"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:337
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:414
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:465
+#, php-format
+msgid "No site with the id %s exists"
+msgstr "%s id ile bir site yok"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:450
+msgid "New site_id must not be empty"
+msgstr "Yeni site_id boş olmamalı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:456
+msgid "Can't move the hits to the same site"
+msgstr "Hitler aynı siteye taşınamaz"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:546
+msgid "Empty url pattern"
+msgstr "Boş url taslağı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:558
+msgid "The URL already exists"
+msgstr "Bu URL zaten var"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:664
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:669
+#, php-format
+msgid "Invalid IP address: %s"
+msgstr "Geçersiz IP adresi: %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:680
+msgid "First IP address must be smaller than second IP address"
+msgstr "İlk IP adresi ikinci IP adresinden küçük olmalı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:713
+msgid "The IP address(s) already exists"
+msgstr "IP adres(ler)i zaten var"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:795
+#, php-format
+msgid "The bot wildcard %s is already in the database"
+msgstr "Bot wildcard %s zaten veri tabanında var"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:1508
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:1556
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/db-sql.php:1967
+#, php-format
+msgid "Error opening file : %s"
+msgstr "Dosya açılamadı: %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/export-bots-list.php:21
+msgid "Error exporting bots list"
+msgstr "Bot listesi dışarı aktarılamadı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/footer.php:4
+#, php-format
+msgid "If you have any problems or questions, please visit the %s"
+msgstr "Bir probleminiz veya sorunuz varsa lütfen ziyaret ediniz: %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/footer.php:4
+msgid "FireStats homepage"
+msgstr "FireStats ana sayfası"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/header.php:15
+msgid "Support FireStats"
+msgstr "FireStats'i destekle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/header.php:22
+#, php-format
+msgid "Log out %s"
+msgstr "Çıkış %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/header.php:34
+msgid "Demo"
+msgstr "Demo"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/header.php:42
+msgid "Hide"
+msgstr "Gizle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:34
+msgid "Unknown site type"
+msgstr "Bilinmeyen site türü"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:84
+msgid "Collect hits from PHP pages"
+msgstr "Hitleri PHP sayfalardan topla"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:85
+msgid "To allow FireStats to track access to your pages, you need to add the following line inside the head tag of each of the pages you want to monitor (the page must be a php page)."
+msgstr "FireStats'in sayfalarınıza ziyaretleri takip edebilmesi için, bu kodu bütün sayfalarınızın başlık etiketleri arasına koymanız gerekli (sayfa bir PHP sayfası olmalı)"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:91
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:131
+msgid "A typical page header will look like this:"
+msgstr "Genel bir sayfa başlığı şuna benzeyecek:"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:124
+msgid "Collect hits from any HTML page"
+msgstr "Hitleri herhangi bir HTML sayfasından topla"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:125
+msgid "To allow FireStats to track access to your pages, you need to add the following line inside the head or body tag of each of the pages you want to monitor."
+msgstr "FireStats'in sayfalarınıza ziyaretleri takip edebilmesi için, bu kodu izlemek istediğiniz bütün sayfalarınızın başlık (head) veya gövde (body) etiketleri arasına koymanız gerekli."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:149
+msgid "WordPress"
+msgstr "WordPress"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:150
+msgid "The WordPress plugin registers itself automatically when it's activated"
+msgstr "WordPress eklentisi etkinleştirildiğinde kendini otomatik olarak kaydeder"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:156
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:164
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:182
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:188
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:200
+msgid "plugin"
+msgstr "eklenti"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:170
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:176
+msgid "module"
+msgstr "modül"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:219
+#, php-format
+msgid "Collect hits from a %s site"
+msgstr "Bir %s siteden istatistikleri topla"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:240
+#, php-format
+msgid "and then configure it in the administration menu with the path %s and the ID %s"
+msgstr "ve sonra yönetim menüsünde onu %s yoluyla ve %s ID ile ayarla"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:250
+#, php-format
+msgid "and then edit the lines in %s to contain this:"
+msgstr "ve sonra %s içindeki satırları bunu içermesi için düzenle:"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/help-window.php:257
+#, php-format
+msgid "To collect statistics from your %s site your need to install the %s"
+msgstr "%s sitenizden istatistik toplayabilmek için %s kurmalısınız"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:10
+msgid "Link here"
+msgstr "Buraya bağlantı verin"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:144
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:212
+msgid "Name"
+msgstr "İsim"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:145
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-add-admin.php:37
+msgid "Email"
+msgstr "E-posta"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:146
+msgid "Security level"
+msgstr "Güvenlik seviyesi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:168
+msgid "Admin"
+msgstr "Yönetici"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:173
+msgid "User"
+msgstr "Kullanıcı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:193
+msgid "Add a new user"
+msgstr "Yeni bir kullanıcı ekle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:205
+msgid "Page"
+msgstr "Sayfa"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:211
+msgid "ID"
+msgstr "ID"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:213
+msgid "Type"
+msgstr "Tür"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:214
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:159
+msgid "Page views"
+msgstr "Sayfa gösterimi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:231
+msgid "How to integrate with this site"
+msgstr "Bu siteye nasıl entegre edilir"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:260
+msgid "Orphaned hits"
+msgstr "Artık hitler"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:278
+#, php-format
+msgid "Page %s of %s"
+msgstr "%s. sayfa, toplam %s sayfa"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:286
+msgid "Add a new site"
+msgstr "Yeni bir site ekle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:358
+msgid "Generic PHP site"
+msgstr "Genel PHP site"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:360
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:362
+msgid "Django"
+msgstr "Django"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:364
+msgid "Drupal"
+msgstr "Drupal"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:366
+msgid "Gregarius"
+msgstr "Gregarius"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:368
+msgid "Joomla"
+msgstr "Joomla"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:370
+msgid "MediaWiki"
+msgstr "MediaWiki"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:372
+msgid "Trac"
+msgstr "Trac"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:374
+msgid "Gallery2"
+msgstr "Gallery2"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:376
+msgid "Generic HTML site"
+msgstr "Genel HTML site"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:469
+msgid "Invalid"
+msgstr "Geçersiz"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:488
+msgid "You are not allowed to view the statistics of any site, please contact your system administrator"
+msgstr "Hiçbir sitenin istatistiklerini görmeye izniniz yok, lütfen sistem yöneticinizle iletişim kurun"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:517
+msgid "All"
+msgstr "Hepsi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:518
+msgid "Show statistics from"
+msgstr "Buradan istatistikleri göster"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:546
+msgid "unknown"
+msgstr "bilinmeyen"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:628
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:320
+msgid "IP"
+msgstr "IP"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:629
+msgid "TimeStamp"
+msgstr "Zaman"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:630
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:321
+msgid "URL"
+msgstr "URL"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:631
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:322
+msgid "Referrer"
+msgstr "Referans"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:632
+msgid "Image"
+msgstr "Görüntü"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:633
+msgid "UserAgent"
+msgstr "ZiyaretAracı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:654
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:744
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:960
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:1052
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:1087
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:1172
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:1250
+msgid "No data yet, go get some hits"
+msgstr "Henüz hiç veri yok, gidip biraz ziyaretçi bulun"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:805
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:837
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:859
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:884
+msgid "Empty"
+msgstr "Boş"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:989
+msgid "Start date is missing"
+msgstr "Başlangıç tarihi yok"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:994
+msgid "End date is missing"
+msgstr "Bitiş tarihi yok"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:1014
+msgid "Please wait..."
+msgstr "Lütfen bekleyin..."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:1110
+#, php-format
+msgid "%d hits from %s"
+msgstr "%d hit %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:1234
+msgid "Others"
+msgstr "Diğerleri"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:1277
+msgid "System information"
+msgstr "Sistem bilgisi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:1278
+msgid "You can help by sending anonymous system information that will help make better decisions about new features"
+msgstr "İleride yeni sürümler ile ilgili daha doğru kararlar verilmesini sağlayacak anonim sistem bilgisini göndererek yardımcı olabilirsiniz."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:1279
+msgid "The information will be sent anonymously, but a unique identifier will be sent to prevent duplicate entries from the same FireStats"
+msgstr "Bu bilgi anonim olarak gönderilecek, ancak eşsiz bir tanımlayıcı aynı FireStats'ten kopya girdiler gönderilmesini önlemek için gönderilecek."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:1428
+msgid "Page views in last 24 hours"
+msgstr "Son 24 saat içindeki sayfa gösterimleri"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:1429
+msgid "Page views since midnight"
+msgstr "Gece yarısından beri sayfa gösterimleri"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:1440
+msgid "Visits in last 24 hours"
+msgstr "Son 24 saat içindeki ziyaretler"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:1441
+msgid "Visits since midnight"
+msgstr "Gece yarısından beri ziyaretler"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/html-utils.php:1454
+#, php-format
+msgid "Page %s of %s (%s hits)"
+msgstr "%s. sayfa, toplam %s sayfa (%s hit)"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/import-bots-list.php:15
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/import-bots-list.php:23
+msgid "Import bots list"
+msgstr "Bot listesini içe aktar"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/import-bots-list.php:34
+msgid "Select bot-list file"
+msgstr "Bot listesi dosyası seçin"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/import-bots-list.php:35
+msgid "Import type"
+msgstr "İçe aktarma türü"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/import-bots-list.php:37
+msgid "Add to bots list"
+msgstr "Botlar listesine ekle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/import-bots-list.php:38
+msgid "Replace bots list"
+msgstr "Botlar listesini değiştir"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/import-bots-list.php:40
+msgid "Send File"
+msgstr "Dosyayı gönder"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/import-bots-list.php:56
+msgid "Incorrect file format"
+msgstr "Geçersiz dosya formatı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/import-bots-list.php:68
+#, php-format
+msgid "Error importing bots list : %s"
+msgstr "Bot listesi içe aktarılamadı : %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/import-bots-list.php:73
+msgid "bots list imported successfully"
+msgstr "bot listesi başarıyla içe aktarıldı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ip2country.php:118
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ip2country.php:122
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ip2country.php:252
+msgid "Error creating temporary file"
+msgstr "Geçici dosya yaratılamadı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ip2country.php:130
+#, php-format
+msgid "Error opening connection to %s"
+msgstr "%s için bağlantı açılamadı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ip2country.php:135
+#, php-format
+msgid "Error sending request to %s"
+msgstr "%s istek gönderilemedi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ip2country.php:141
+#, php-format
+msgid "Server returned error %s for %s"
+msgstr "Sunucu %s hatası döndürdü, %s için"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ip2country.php:155
+#, php-format
+msgid "Error reading data from %s : %s"
+msgstr "Buradan veri okunamadı %s : %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ip2country.php:184
+#, php-format
+msgid "Error extracting IP-to-country database: %s"
+msgstr "IP-to-country veri tabanı çıkarılamadı: %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ip2country.php:189
+#, php-format
+msgid "Unsupported file type : %s"
+msgstr "Desteklenmeyen dosya türü : %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ip2country.php:209
+#, php-format
+msgid "can't update ip-to-country database, read-only directory : %s"
+msgstr "IP-to-country veri tabanı güncellenemedi, klasör salt okunur : %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ip2country.php:211
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ip2country.php:213
+#, php-format
+msgid "can't update ip-to-country database, read-only file : %s"
+msgstr "IP-to-country veri tabanı güncellenemedi, dosya salt okunur : %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ip2country.php:228
+msgid "Error installing new IP-to-country database"
+msgstr "Yeni IP-to-country veri tabanı güncellenemedi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ip2country.php:234
+msgid "Successfuly updated IP-to-country database"
+msgstr "IP-to-country veri tabanı başarıyla güncellendi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/ip2country.php:238
+#, php-format
+msgid "Error updating version file : %s"
+msgstr "Sürüm dosyası güncellenemedi : %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-add-admin.php:26
+msgid "Create administrator user"
+msgstr "Yönetici kullanıcı oluştur"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-add-admin.php:28
+msgid "You need to create an administrator user for FireStats."
+msgstr "FireStats için bir yönetici kullanıcı oluşturmalısınız."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-add-admin.php:29
+msgid "The administrator has full control over FireStats, and will be able to create other users/administrators from the administration interface"
+msgstr "Yöneticinin FireStats üzerinde tam kontrolü vardır ve yönetim arayüzünden yeni kullanıcılar/yöneticiler oluşturabilir."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-add-admin.php:33
+msgid "User name"
+msgstr "Kullanıcı adı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-add-admin.php:45
+msgid "Verify password"
+msgstr "Parolayı doğrula"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-add-admin.php:49
+msgid "Create user"
+msgstr "Kullanıcı oluştur"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:51
+msgid "Database status"
+msgstr "Veri tabanı durumu"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:61
+#, php-format
+msgid "Upgrade to database version %d"
+msgstr "%d veri tabanı sürümüne güncelle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:62
+msgid "Open diagnostics page"
+msgstr "Teşhis sayfasını aç"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:88
+#, php-format
+msgid "Configuration source : %s"
+msgstr "Konfigürasyon kaynağı : %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:94
+msgid "To use wordpress database, click this button."
+msgstr "WordPress veri tabanı kullanmak için bu butona tıklayın."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:95
+msgid "FireStats database configuration will be lost."
+msgstr "FireStats veri tabanı ayrları kaybolacak."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:96
+msgid "Use Wordpress database"
+msgstr "WordPress veri tabanı kullan"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:107
+msgid "To perform one of the following actions:"
+msgstr "Bunlardan birini yapmak için:"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:109
+msgid "Attach to an existing FireStats installation"
+msgstr "Var olan bir FireStats kurulumuna ekle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:110
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:228
+msgid "Install FireStats into an existing database"
+msgstr "FireStats'i var olan bir veri tabanına kur"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:111
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:231
+msgid "Create a new database and install FireStats there"
+msgstr "Yeni bir veri tabanı oluşturup FireStats'i oraya kur"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:113
+msgid "Follow instructions in the help"
+msgstr "Yardımdaki yönergeleri takip edin"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:121
+msgid "Database host"
+msgstr "Veri tabanı sunucusu"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:127
+msgid "Database name"
+msgstr "Veri tabanı ismi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:133
+msgid "Database user name"
+msgstr "Veri tabanı kullanıcı adı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:139
+msgid "Database password"
+msgstr "Veri tabanı parolası"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:145
+msgid "Tables prefix"
+msgstr "Tablo öneki"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:154
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:226
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:229
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:232
+msgid "Test connection"
+msgstr "Bağlantıyı test et"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:164
+msgid "Click to install and switch to new FireStats tables"
+msgstr "Yeni FireStats tablolarını kurmak ve yeni tablolara geçiş yapmak için tıklayın"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:167
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:229
+msgid "Install tables"
+msgstr "Tabloları kurun"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:176
+msgid "Click to use this FireStats database"
+msgstr "Bu FireStats veri tabanını kullanmak için tıklayın"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:180
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:226
+msgid "Use this database"
+msgstr "Bu veri tabanını kullanın"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:192
+msgid "To create a new database, an administrator user should be used in the above fields."
+msgstr "Yeni bir veri tabanı oluşturmak için, yukarıdaki alanlarda bir yönetici kullanıcı kullanılmalı."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:193
+msgid "However, For security reason, it is recommended not to use a database administrator user for day to day operations."
+msgstr "Fakat, güvenlik sebepleri nedeniyle, günlük işlemlerde veri tabanı kullanıcısı kullanılmaması tavsiye edilir."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:194
+msgid "Enter new user name and password for FireStats, this user will only have access to the FireStats database"
+msgstr "FireStats için yeni bir kullanıcı adı ve parola girin, bu kullanıcı sadece FireStats veri tabanına erişebilecek"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:195
+msgid "If you will not specify user and password the Admin user and password will be used."
+msgstr "Eğer bir kullanıcı ve parola belirlemezseniz Yönetici kullanıcı adı ve parolası kullanılacak."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:202
+msgid "FireStats User name"
+msgstr "FireStats Kullanıcı adı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:206
+msgid "FireStats password"
+msgstr "FireStats parolası"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:212
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:232
+msgid "Create database"
+msgstr "Veri tabanı oluştur"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:224
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-sites.php:33
+msgid "Help"
+msgstr "Yardım"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:225
+msgid "Attach to an existing FireStats database"
+msgstr "Ver olan bir FireStats veri tabanına ekle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:226
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:229
+#, php-format
+msgid "Enter the parameters in the table, press %s, and then %s."
+msgstr "Parametreleri tabloya girin ve %s butonuna tıklayın ve %s."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-database.php:232
+#, php-format
+msgid "Enter the parameters into the table, <u>you need to enter a database administrator user</u>. press %s, and then enter FireStats database user and password, and finally press %s."
+msgstr "Parametreleri tabloya girin, <u>bir veri tabanı yönetici kullanıcısı girmelisiniz</u>. %s butonuna tıklayın ve FireStats veri tabanı kullanıcı adı ve parolasını girin, ve son olarak  %s butonuna tıklayın."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:10
+msgid "Options"
+msgstr "Seçenekler"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:14
+msgid "Select language"
+msgstr "Dil seç"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:19
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:30
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:44
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:295
+msgid "Save"
+msgstr "Kaydet"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:20
+msgid "How to translate to a new language"
+msgstr "Yeni bir dile nasıl tercüme yapılır"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:24
+msgid "Select your time zone"
+msgstr "Zaman diliminizi seçin"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:33
+#, php-format
+msgid "Time zone selection requires %s or newer"
+msgstr "Zaman dilimi seçimi %s veya daha yenisini gerektirir"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:37
+msgid "Select WHOIS provider"
+msgstr "WHOIS sağlayıcısı seç"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:53
+msgid "Exclude hits"
+msgstr "Hitleri hariç tut"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:54
+msgid "Purge excluded records stored in the database"
+msgstr "Veri tabanından hariç tutulan veriyi temizle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:57
+msgid "Purge"
+msgstr "Temizle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:60
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:323
+msgid "User agent"
+msgstr "Ziyaret aracı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:73
+msgid "Automatic update"
+msgstr "Otomatik güncelleme"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:76
+msgid "Update now"
+msgstr "Şimdi güncelle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:77
+msgid "Import"
+msgstr "İçe aktar"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:81
+msgid "Export"
+msgstr "Dışa aktar"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:86
+msgid "IP address"
+msgstr "IP adresi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:98
+msgid "URL/Referrer"
+msgstr "URL/Referans"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:119
+msgid "Compact old data"
+msgstr "Eski veriyi küçült"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:127
+#, php-format
+msgid "%s compact data older than %s"
+msgstr "%s %s'dan daha eski veriyi küçült"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:144
+msgid "Automatic version check"
+msgstr "Otomatik sürüm kontrolü"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:146
+msgid "Automatically check if there is a new version of FireStats (recommended)"
+msgstr "FireStats'in yeni bir sürümünün olup olmadığını otomatik olarak kontrol et (tavsiye edilir)"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:152
+msgid "Hits processing mode"
+msgstr "Hit işleme modu"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:158
+msgid "This section allow you to modify the way FireStats handles incoming hits. it is useful to fine tune FireStats for sites with very high load."
+msgstr "Bu bölümde FireStats'in hitleri işleme biçimini ayarlayabilirsiniz. Yüksek ziyaretçili sitelerde doğru ayarlama önemlidir."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:162
+msgid "MySQL 5.0 or newer is required for faster processing modes"
+msgstr "Daha hızlı işleme seçenekleri için MySQL 5.0 veya üstü gereklidir"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:176
+msgid "Overriden by conf.php"
+msgstr "conf.php tarafından iptal edildi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:183
+msgid "IP-to-country database"
+msgstr "IP-to-country veri tabanı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:185
+#, php-format
+msgid "IP-to-country database version : %s"
+msgstr "IP-to-country veri tabanı sürümü : %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:187
+msgid "Automatically check if there is a new version of IP-to-country database"
+msgstr "IP-to-country veri tabanının yeni sürümünün olup olmadığını otomatik olarak kontrol et"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:190
+msgid "Update IP-to-country database now (only if needed)"
+msgstr "IP-to-country veri tabanını şimdi güncelle (sadece gerekliyse)"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:192
+msgid "Update"
+msgstr "Güncelle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:205
+msgid "Automatically"
+msgstr "Otomatik olarak"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:206
+msgid "Manually"
+msgstr "Elle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:207
+msgid "Please select"
+msgstr "Lütfen seçiniz"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:224
+msgid "One week"
+msgstr "Bir hafta"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:225
+msgid "Two weeks"
+msgstr "İki hafta"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:226
+msgid "One month"
+msgstr "Bir ay"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:227
+msgid "Two months"
+msgstr "İki ay"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:228
+msgid "Three months"
+msgstr "Üç ay"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:229
+msgid "Half a year"
+msgstr "Yarım yıl"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:230
+msgid "One year"
+msgstr "Bir yıl"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:231
+msgid "Two years"
+msgstr "İki yıl"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:241
+msgid "Process immediately (Slow)"
+msgstr "Hemen işle (Yavaş)"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-settings.php:244
+msgid "Buffer hits (Fast)"
+msgstr "Hitleri tamponla (Hızlı)"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-sites.php:15
+msgid "Manage sites"
+msgstr "Siteleri yönet"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-sites.php:16
+msgid "Search"
+msgstr "Ara"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-sites.php:21
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:349
+msgid "Clear"
+msgstr "Temizle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-sites.php:34
+msgid "Warning, you can really mess things up from here, be careful!"
+msgstr "Uyarı, burada işleri gerçekten karıştırabilirsiniz, dikkatli olun!"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-sites.php:36
+msgid "FireStats can collect statistics from multiple sites (on the same server)."
+msgstr "FireStats (aynı sunucudaki) birden fazla siteden hit toplayabilir"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-sites.php:38
+msgid "The site need to be registered in the sites table"
+msgstr "Sitenin siteler tablosuna kaydedilmesi gerekli"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-sites.php:39
+msgid "The site should be configured to use its ID when reporting a hit, click on the help button next to the site you created for more information"
+msgstr "Bir site hit raporlarken kendi ID değerini kullanacak şekilde ayarlanmalıdır, daha fazla bilgi için oluşturduğunuz sitenin yanındaki yardım butonuna tıklayın."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-sites.php:42
+#, php-format
+msgid "Click %s for more information"
+msgstr "Daha fazla bilgi %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:44
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:78
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:125
+msgid "Refresh statistics"
+msgstr "İstatistikleri yenile"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:67
+msgid "Not a positive number : "
+msgstr "Bir pozitif sayı değil : "
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:136
+msgid "Auto refresh every"
+msgstr "Otomatik olarak her"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:140
+msgid "minutes"
+msgstr "dakikada bir yenile"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:141
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:194
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:212
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:237
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:250
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:266
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:282
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:350
+msgid "Apply"
+msgstr "Uygula"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:148
+msgid "Status"
+msgstr "Durum"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:152
+msgid "Last 24 hours"
+msgstr "Son 24 saat"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:153
+msgid "Since midnight"
+msgstr "Gece yarısından beri"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:162
+msgid "Visits"
+msgstr "Ziyaret"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:171
+msgid "RSS Subscribers"
+msgstr "RSS üyeleri"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:185
+msgid "Recent referrers"
+msgstr "Son referanslar"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:191
+#, php-format
+msgid "Show at most %s items for the last %s days, sorted by %s"
+msgstr "En fazla %s öğeyi son %s gün için göster, sıralama %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:203
+msgid "Search terms"
+msgstr "Arama terimleri"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:207
+#, php-format
+msgid "Show at most %s search terms for %s"
+msgstr "En fazla %s arama teriminii son %s gün için göster"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:214
+msgid "Start date:"
+msgstr "Başlama tarihi:"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:215
+msgid "End date:"
+msgstr "Bitiş tarihi:"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:229
+msgid "Recent popular pages"
+msgstr "Son popüler sayfalar"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:234
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:279
+#, php-format
+msgid "Show at most %s items for the last %s days"
+msgstr "En fazla %s öğeyi son %s gün için göster"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:244
+msgid "Browsers"
+msgstr "Tarayıcılar"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:247
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:263
+#, php-format
+msgid "Show items for the last %s days"
+msgstr "Son %s gün için öğe göster"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:259
+msgid "Operating systems"
+msgstr "İşletim sistemleri"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:275
+msgid "Countries"
+msgstr "Ülkeler"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:289
+msgid "Hits table"
+msgstr "Hit tablosu"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:290
+msgid "Number of hits to show"
+msgstr "Gösterilecek hitlerin sayısı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:307
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:364
+msgid "Previous page"
+msgstr "Önceki sayfa"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:309
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:365
+msgid "Next page"
+msgstr "Sonraki sayfa"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:327
+msgid "Filter"
+msgstr "Filtre"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:379
+msgid "Newest first"
+msgstr "İlk en yeniler"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:380
+msgid "Most hits first"
+msgstr "İlk en çok hitler"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:389
+msgid "the last 24 hours"
+msgstr "son 24 saat"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:390
+msgid "the last week"
+msgstr "son hafta"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:391
+msgid "the last month"
+msgstr "son ay"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:392
+msgid "the three months"
+msgstr "üç ay"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:393
+msgid "the last six months"
+msgstr "son altı ay"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:394
+msgid "the last year"
+msgstr "son yıl"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:395
+msgid "all time"
+msgstr "tüm zamanlar"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-stats.php:396
+msgid "time range"
+msgstr "zaman sınırı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-tools.php:8
+msgid "Tools"
+msgstr "Araçlar"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-tools.php:9
+msgid "This section contains various tools"
+msgstr "Bu bölüm çeşitli araçlar içerir"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-tools.php:14
+msgid "I agree to send system information"
+msgstr "Sistem bilgisini göndermeyi kabul ediyorum"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-tools.php:18
+msgid "Diagnostics"
+msgstr "Teşhisler"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-tools.php:19
+msgid "System diagnostics page"
+msgstr "Sistem teşhis sayfası"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-tools.php:19
+msgid "Open"
+msgstr "Aç"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-tools.php:24
+msgid "PHP Version"
+msgstr "PHP sürümü"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-tools.php:27
+msgid "MySQL Version"
+msgstr "MySQL sürümü"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-tools.php:30
+msgid "Memory limit"
+msgstr "Bellek sınırı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-tools.php:36
+msgid "Database cache"
+msgstr "Veri tabanı önbelleği"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-tools.php:37
+msgid "The following section can recalculate different aspects of the database. you don't normally need to use it."
+msgstr "Bu bölüm veri tabanının farklı yanlarını tekrar hesaplayabilir. Normalde buna ihtiyaç duymazsınız."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-tools.php:40
+msgid "Recalculate country codes"
+msgstr "Ülke kodlarını yeniden hesapla"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-tools.php:45
+msgid "Rebuild database cache"
+msgstr "Veri tabanı önbelleğini yeniden oluştur"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-tools.php:50
+msgid "Recalculate search engine terms"
+msgstr "Arama motoru terimlerini yeniden hesapla"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-users.php:27
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools-menu.php:6
+msgid "Manage users"
+msgstr "Kullanıcıları yönet"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-users.php:36
+msgid "You can manage users here"
+msgstr "Kullanıcıları burada yönetebilirsiniz"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:21
+msgid "Statistics widget"
+msgstr "İstatistik bileşeni"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:46
+#, php-format
+msgid "You can configure the sidebar widgets from %s"
+msgstr "İstatistik bileşenlerini %s ayarlayabilirsiniz"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:50
+#, php-format
+msgid "The statistics widget requires the %s plugin for optimal usage."
+msgstr "İstatistikler bileşeni düzgün çalışabilmek için %s eklentisini gerektirir."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:53
+msgid "Widgets"
+msgstr "Bileşenler"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:55
+msgid "You can also manually add the following code to your theme sidebar:"
+msgstr "Ayrıca bu kodu da tema yan menünüze kendiniz ekleyebilirsiniz:"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:63
+msgid "Comments icons"
+msgstr "Yorum simgeleri"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:70
+msgid "Add flag icon to comments"
+msgstr "Yorumlara bayrak simgesi ekle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:77
+msgid "Add browser and operating system icons to comments"
+msgstr "Yorumlara tarayıcı ve işletim sistemi simgesi ekle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:80
+msgid "Blog footer"
+msgstr "Blog alt kısmı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:87
+msgid "Add FireStats footer to blog"
+msgstr "Bloga FireStats alt kısmı ekle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:95
+msgid "Show statistics in footer"
+msgstr "İstatistikleri alt kısımda göster"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:101
+msgid "Excluded users"
+msgstr "Hariç tutulan kullanıcılar"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:102
+msgid "WordPress users selected here will not be counted in the statistics"
+msgstr "Burada seçilen WordPress kullanıcıları istatistiklerde sayılmayacak"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:106
+msgid "Permissions"
+msgstr "İzinler"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:107
+msgid "Select the minimum user role that can access FireStats (Only administrators can manage FireStats)"
+msgstr "FireStats'e erişebilen en düşük kullanıcı düzeyini seçin (Sadece yöneticiler FireStats'i yönetebilir)"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:111
+msgid "Administrator"
+msgstr "Yönetici"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:112
+msgid "Editor"
+msgstr "Editör"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:113
+msgid "Author"
+msgstr "Yazar"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:114
+msgid "Contributor"
+msgstr "Katkıda bulunan"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:115
+msgid "Subscriber"
+msgstr "Abone"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:123
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:124
+msgid "WordPress site ID, every hit From this blog is recorded with this as the source Site ID"
+msgstr "WordPress site ID (No'su), bu blogdan her hit kaynak Site ID olarak bununla kaydedilir."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:125
+msgid "This should be the same ID as the Site ID in the sites table. you don't normally need to change this."
+msgstr "Bu, siteler tablosundaki Site ID ile aynı ID olmalı. Bunu normalde değiştirmeniz gerekmez."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/page-wordpress-settings.php:135
+msgid "This will update the titles of the blog posts inside FireStats, you don't normally need to use it"
+msgstr "Bu FireStats içindeki blog gönderilerinin başlıklarını günceller, normalde bunu kullanmanız gerekmez"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/rebuild-db.php:17
+msgid "Recalculating matching bots"
+msgstr "Uyan botlar tekrar hesaplanıyor"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/rebuild-db.php:20
+msgid "Recalculating matching IP addresses"
+msgstr "Uyan IP adresleri tekrar hesaplanıyor"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/rebuild-db.php:23
+msgid "Recalculating matching urls"
+msgstr "Uyan URL'ler tekrar hesaplanıyor"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tabbed-pane.php:12
+msgid "FireStats is under maintenance, please try again later"
+msgstr "FireStats bakımda, lütfen daha sonra tekrar deneyin"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tabbed-pane.php:30
+msgid "Statistics"
+msgstr "İstatistikler"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tabbed-pane.php:33
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tabbed-pane.php:41
+msgid "WordPress settings"
+msgstr "WordPress ayarları"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tabbed-pane.php:52
+msgid "Database"
+msgstr "Veri tabanı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tabbed-pane.php:58
+msgid "Users management"
+msgstr "Kullanıcı yönetimi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tabbed-pane.php:65
+msgid "Sites management"
+msgstr "Site yönetimi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools-menu.php:2
+msgid "FireStats tools"
+msgstr "FireStats araçları"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools-menu.php:4
+msgid "System test"
+msgstr "Sistem testi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools-menu.php:5
+msgid "Reset password"
+msgstr "Parolayı sıfırla"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/utils.php:775
+#, php-format
+msgid "Done, took %s second"
+msgstr "Tamam, %s saniye sürdü"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/utils.php:872
+#, php-format
+msgid "%d seconds ago"
+msgstr "%d saniye önce"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/utils.php:875
+msgid "One minute ago"
+msgstr "Bir dakika önce"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/utils.php:878
+#, php-format
+msgid "%d minutes ago"
+msgstr "%d dakika önce"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/utils.php:881
+msgid "one hour ago"
+msgstr "Bir saat önce"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/utils.php:884
+#, php-format
+msgid "%d hours ago"
+msgstr "%d saat önce"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/utils.php:887
+msgid "One day ago"
+msgstr "Bir gün önce"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/utils.php:890
+#, php-format
+msgid "%d days ago"
+msgstr "%d gün önce"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/utils.php:893
+msgid "One week ago"
+msgstr "Bir hafta önce"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/utils.php:896
+#, php-format
+msgid "%d weeks ago"
+msgstr "%d hafta önce"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/utils.php:899
+#, php-format
+msgid "%d months ago"
+msgstr "%d yıl önce"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/utils.php:902
+msgid "One year ago"
+msgstr "Bir yıl önce"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/utils.php:905
+#, php-format
+msgid "%d years ago"
+msgstr "%d yıl önce"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/version-check.php:35
+#, php-format
+msgid "Failed to check version at %s, reason : %s"
+msgstr "Şuradaki sürüm kontrol edilemedi: %s, sebep: %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/version-check.php:113
+msgid "A new version of the IP-to-country database is available! you can update it from the settings tab"
+msgstr "IP-to-country veri tabanının yeni bir sürümü var! Ayarlar sekmesinden güncelleyebilirsiniz"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/version-check.php:136
+#, php-format
+msgid "Version %s is available! click %s for more info"
+msgstr "%s sürümü var! daha fazla bilgi %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/version-check.php:159
+#, php-format
+msgid "Error opening %s"
+msgstr "%s açılamadı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-add-excluded-ip.php:35
+msgid "Exclude IP address"
+msgstr "IP adresini hariç tut"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-add-excluded-ip.php:45
+msgid "Single"
+msgstr "Tekil"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-add-excluded-ip.php:52
+msgid "Range"
+msgstr "Sınır"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-add-excluded-ip.php:61
+msgid "IP Address"
+msgstr "IP Adresi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-add-excluded-ip.php:74
+msgid "Range start"
+msgstr "Sınır başlangıcı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-add-excluded-ip.php:82
+msgid "Range end"
+msgstr "Sınır sonu"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-add-excluded-ip.php:99
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-add-excluded-url.php:33
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-delete-site.php:31
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-delete-user.php:20
+msgid "Close"
+msgstr "Kapat"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-add-excluded-url.php:22
+msgid "Exclude URL or referrer"
+msgstr "URL veya referansı hariç tut"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-add-excluded-url.php:25
+msgid "Excluded url/referrer"
+msgstr "Hariç tutulan referans/url"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-archive-notification.php:5
+msgid "Yes (Recommended)"
+msgstr "Evet (Tavsiye edilir)"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-archive-notification.php:6
+msgid "No"
+msgstr "Hayır"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-archive-notification.php:9
+msgid "Compacting old data"
+msgstr "Eski veri küçültülüyor"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-archive-notification.php:10
+msgid "FireStats can tranform old data to a more compact form,"
+msgstr "FireStats eski veriyi daha küçük bir hale getirebilir,"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-archive-notification.php:11
+msgid "This will reduce storage size and improve performance at the cost of losing some information which is not essential."
+msgstr "Bu önemsiz bazı verilerin kaybedilmesi karşılığında kullanılan depolama alanını azaltıp performansı arttıracak."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-archive-notification.php:12
+msgid "it is highly recommended that you allow FireStats to do this automatically."
+msgstr "Bunu FireStats'in otomatik yapmasına izin vermeniz şiddetle tavsiye edilir."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-archive-notification.php:14
+#, php-format
+msgid "Click %s if you would like FireStats to automatically compact data older than %s days"
+msgstr "Buraya tıklarsanız %s FireStats %s günden daha eski veriyi otomatik küçültebilir."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-archive-notification.php:15
+#, php-format
+msgid "Click %s if you want to compact data manually or change compacting options (From the Settings tab)"
+msgstr "Eski veriyi küçültmek veya küçültme seçeneklerini değiştirmek istiyorsanız tıklayın (Ayarlar sekmesinden) %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-delete-site.php:10
+msgid "Delete site"
+msgstr "Siteyi sil"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-delete-site.php:14
+msgid "This will delete this site from the database, the operation is irreversible!"
+msgstr "Bu, siteyi veri tabanından silecek, işlem geri alınamaz!"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-delete-site.php:15
+msgid "What do you want to do with the site hits?"
+msgstr "Site hitleri ile ne yapmak istiyorsunuz?"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-delete-site.php:18
+msgid "Delete all the hits"
+msgstr "Tüm hitleri sil"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-delete-site.php:19
+msgid "Transfer the hits to another site"
+msgstr "Hitleri bir başka siteye taşı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-delete-site.php:22
+msgid "Enter an existing site ID to transfer the hits to"
+msgstr "Hitleri taşımak için var olan bir site ID girin"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-delete-user.php:9
+msgid "No such user"
+msgstr "Böyle bir kullanıcı yok"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-delete-user.php:12
+msgid "Delete user"
+msgstr "Kullanıcıyı sil"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-do-you-agree-to-send-sysinfo.php:9
+msgid "You can help by sending anonymous system information that will help make better decisions about new features."
+msgstr "İleride yeni sürümler hakkında daha doğru kararlar verilmesini sağlayacak anonim sistem bilgisini göndererek yardımcı olabilirsiniz."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-do-you-agree-to-send-sysinfo.php:13
+msgid "You can change this later from the Tools tab"
+msgstr "Bunu daha ileride Araçlar sekmesinden değiştirebilirsiniz"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-do-you-agree-to-send-sysinfo.php:17
+msgid "Do you agree to send anonymous system information?"
+msgstr "Anonim sistem bilgisini göndermeyi kabul ediyor musunuz?"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-do-you-agree-to-send-sysinfo.php:20
+msgid "Sure, send system information"
+msgstr "Tabii ki, sistem bilgisini gönder"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-do-you-agree-to-send-sysinfo.php:23
+msgid "Nope, don't send"
+msgstr "Hayır, gönderme"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-donation.php:8
+msgid "Even though FireStats is free, it takes a lot of time and hard work to develop and maintain."
+msgstr "FireStats ücretsiz olsa da, geliştirilip sürdürülmesi çok uzun zaman ve emek alır."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-donation.php:9
+msgid "If you like FireStats and would like to show your support for the hard work I put into it, You can make a small Donation. Even a $5 donation would be greatly appreciated."
+msgstr "FireStats'i seviyorsanız ve büyük emeklerim için desteğinizi göstermek istiyorsanız, küçük bir Bağış yapabilirsiniz."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-donation.php:11
+msgid "Yeah, I want to help"
+msgstr "Evet, yardım etmek isterim"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-donation.php:12
+msgid "Nah, go away"
+msgstr "Hadi be, git işine"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-donation.php:13
+msgid "Maybe later"
+msgstr "Belki daha sonra"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-donation.php:14
+msgid "Already donated"
+msgstr "Zaten bağış yapıldı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-edit-user.php:21
+msgid "All sites"
+msgstr "Tüm siteler"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-edit-user.php:22
+msgid "Specific sites"
+msgstr "Belirli siteler"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-edit-user.php:25
+msgid "Edit user"
+msgstr "Kullanıcıyı düzenle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-edit-user.php:25
+msgid "Create a new user"
+msgstr "Yeni bir kullanıcı yarat"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-edit-user.php:36
+msgid "New password (Optional)"
+msgstr "Yeni parola (İsteğe bağlı)"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-edit-user.php:40
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/reset-password.php:100
+msgid "Verify new password"
+msgstr "Yeni parolayı doğrulayın"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-edit-user.php:51
+msgid "User can access statistics from"
+msgstr "XKullanıcı istatistiklere buradan erişebilirX"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-edit-user.php:61
+msgid "Comma separated list of allowed site ids (example : 1,4,6)"
+msgstr "Virgülle ayrılmış izin verilen site noları (ID) listesi (örnek : 1,4,6)"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-new-edit-site.php:18
+msgid "Edit site"
+msgstr "Siteyi düzenle"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-new-edit-site.php:18
+msgid "Create a new site"
+msgstr "Yeni bir site oluştur"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-new-edit-site.php:40
+msgid "Baseline page views"
+msgstr "Temel sayfa gösterimi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/window-new-edit-site.php:44
+msgid "Baseline visitors"
+msgstr "Temel ziyaretçiler"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/emergency-manage-users.php:9
+msgid "Message"
+msgstr "İleti"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/emergency-manage-users.php:10
+msgid "This page will allow you to change the password of any user in FireStats."
+msgstr "Bu sayfa herhangi bir kullanıcının FireStats parolasının değiştirilmesini sağlar."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/emergency-manage-users.php:11
+#, php-format
+msgid "For security reasons, you must first edit the file %s"
+msgstr "Güvenlik için önce %s dosyasını düzenlemelisiniz"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/emergency-manage-users.php:12
+#, php-format
+msgid "and change the line %s to %s and then refresh this page."
+msgstr "ve %s satırını %s ile değiştirip bu sayfayı yenileyin."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/emergency-manage-users.php:13
+msgid "Don't forget to change it back when you are done."
+msgstr "Daha sonra tekrar eski hale getirmeyi unutmayın."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/emergency-manage-users.php:18
+msgid "IMPORTANT"
+msgstr "ÖNEMLİ"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/reset-password.php:18
+#, php-format
+msgid "You can request an password reset email from here. If it does not work or you don't know your username or email, you can also change your password using the %s"
+msgstr "Buradan bir parola sıfırlama e-postası isteyebilirsiniz. Çalışmazsa veya kullanıcı adı veya e-posta adresinizi bilmiyorsanız, %s kullanarak da parolanızı sıfırlayabilirsiniz."
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/reset-password.php:18
+msgid "Emergency user management page"
+msgstr "Acil kullanıcı yönetimi sayfası"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/reset-password.php:28
+msgid "A user with this username and email was not found"
+msgstr "Bu kullanıcı adı ve e-posta ile bir kullanıcı bulunamadı"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/reset-password.php:49
+msgid "FireStats password recovery"
+msgstr "FireStats parola kurtarma"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/reset-password.php:50
+#, php-format
+msgid "Click %s to change your FireStats password, this link will work for a short time"
+msgstr "FireStats parolanızı değiştirmek için tıklayın %s, bu bağlantı kısa bir süreliğine geçerli olacak"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/reset-password.php:54
+msgid "Email sent"
+msgstr "E-posta gönderildi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/reset-password.php:58
+msgid "Failed to send email"
+msgstr "E-posta gönderilemedi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/reset-password.php:73
+#, php-format
+msgid "Failed, maybe too much time have passed since you generated the email? %s"
+msgstr "Başarısız, belki bu e-postayı oluşturduğunuzdan beri çok zaman geçti? %s"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/reset-password.php:73
+msgid "try again"
+msgstr "tekrar dene"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/reset-password.php:96
+msgid "New password"
+msgstr "Yeni parola"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/reset-password.php:105
+msgid "Change password"
+msgstr "Parolayı değiştir"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/reset-password.php:125
+msgid "Email address"
+msgstr "E-posta adresi"
+
+#: C:\Documents
+#: and
+#: Settings\ONYX\Desktop\firestats-1.6.0-RC3\firestats/php/tools/reset-password.php:130
+msgid "Send password reset email"
+msgstr "Parola sıfırlama e-postası gönder"
+

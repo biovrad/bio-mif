@@ -1,0 +1,1 @@
+[12-Feb-2009 18:48:12] PHP Fatal error:  Call to undefined function  get_option() in /home/h3u135/public_html/wp-content/plugins/video-embedder/video-embedder.php on line 642

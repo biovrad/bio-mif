@@ -1,0 +1,230 @@
+== FireStats 1.6 ==
+12/07/2010 : Omry : RELEASE : 1.6.6-stable released
+12/07/2010 : Omry : BUG : Updated version of phpclient to support php 5.3 (eliminated preg deprecation warning).
+12/07/2010 : Omry : SECURITY : Fixed several XSS and information disclosure vulnerabilities (#1359)
+08/07/2010 : Omry : RELEASE : 1.6.5-stable released
+08/07/2010 : Omry : SECURITY : Fixed XSS vulnerability in the wordpress plugin (#1357)
+08/07/2010 : Omry : DATA : updated ip2c database to version 2010.06.22
+12/06/2010 : Omry : BUG : Fixed JavaScript hits recording to work on xampp
+16/04/2010 : Omry : BUG : No longer using the native json_encode because it's too senstive to non-utf data (returns null for the whole object), this fixes the dreaded null problem.
+13/02/2010 : Omry : RELEASE : 1.6.4-stable released
+13/02/2009 : Omry : DATA : Updated ip2c database to version 2010.02.10
+13/02/2010 : Omry : FEATURE : Added Pardus linux detection (#992)
+08/01/2010 : Omry : BUG : Fixed unit test, fixed commit-pending-impl to use indexed md5 column when selecting urls and useragents 
+25/12/2009 : Omry : DATA : New Azerbaijani translation by Turkel Alizadeh
+25/12/2009 : Omry : DATA : Updated ip2c database to version 2009.12.14
+03/10/2009 : Omry : BUG : Fixed bug 1164: baidu encoding problem, now uses iconv when available to convert to utf8 (otherwise uses the built in converter which does not support GB2321
+29/08/2009 : Omry : RELEASE : 1.6.3-stable released
+29/08/2009 : Omry : BUG : Improved Windows Vista detection (browsniff code still sucks)
+29/08/2009 : Omry : BUG : Fixed bug that caysed hits table to shown null in some cases due to a problem with the PHP json_encode function
+22/08/2009 : Omry : BUG : Updated Hebrew translation
+19/07/2009 : Omry : BUG : Fixed session code to work correctly in windows servers
+06/07/2009 : Omry : BUG : Fixed a new bug in the system-test page which caused bogus error for Ajax test when running under wordpress.
+03/07/2009 : Omry : BUG : Fixed not to show flag,browser and os icons in recent comments widget in WordPress 2.8
+03/07/2009 : Omry : FEATURE  : Added support for Bing search engine and for Windows 7 useragent
+13/06/2009 : Omry : RELEASE : 1.6.2-stable released
+13/06/2009 : Omry : SECURITY : Fixed a possible SQL injection through X-Forward-For mechanism
+13/06/2009 : Omry : SECURITY : Fixed a possible remote file inclusion vulnerability (http://secer.org/0dayexp/wordpress-plugin-firestats.html)
+11/03/2009 : Omry : DATA : Updated ip2c database to version 2009.06.03
+23/05/2009 : Omry : BUG : In case a URL is not encoded in UTF8, it is not urldecoded to prevent breaking the display on FireFox (which stops rendering when encounters bad utf8 string)
+13/05/2009 : Omrt : BUG : Fixed to use register_activation_hook on WordPress, this solves problems reported on windows servers. (#1038)
+29/04/2009 : Omry : BUG : Rewrote data archiving to fix a logical bug and to improve archiving performance.
+10/04/2009 : Omry : BUG : Fixed to allow blogs with no names in WPMU (#1014)
+07/03/2009 : Omry : BUG : Fixed the dashboard widget to appear only to autherized users (as defined in the WordPress tab inside FireStats)
+07/03/2009 : Omry : FEATURE : Now properly detects the Arora browser (#985)
+07/03/2009 : Omry : BUG : Added an option to force mysql connection reusing for people with a low connection limit. (it's only recommended to use this if there is no choice).
+25/02/2009 : Omry : RELEASE : 1.6.1-stable released
+25/02/2009 : Omry : DATA : Updated ip2c database to version 2009.01.23
+25/02/2009 : Omry : BUG : Fixed extra newline in generated fs-config.php file which caused problems on some Joomla installations.
+21/02/2009 : Omry : BUG : Fixed a bug that caused WordPress widgets to appear in English regardless of the blog language (#968)
+02/02/2009 : Omry : BUG : Fixed support for NETI search engine
+11/01/2009 : Omry : BUG : Fixed a bug in the comments icon appearing in PHP < 5.25 (#945)
+08/01/2009 : Omry : BUG : Fixed a bug in hanlding database name, user or passowrd that contains a + (and other url elements)
+02/01/2009 : Omry : RELEASE : 1.6.0-stable released
+21/12/2008 : Omry : BUG : Fixed not to show flag,browser and os icons in recent comments widget.
+15/12/2008 : Omry : RELEASE : 1.6.0-RC4 released
+15/12/2008 : Omry : BUG : Fix a minor bug with the hits table pagination (#920)
+12/12/2008 : Omry : BUG : Improved keyword extraction from some search engines (#919,#926)
+06/12/2008 : Omry : BUG : Fixed not to mark WordPress pages as posts (#924)
+06/12/2008 : Omry : BUG : Fixed mistake in the help for HTML hits recording (#912)
+28/11/2008 : Omry : RELEASE : 1.6.0-RC3 released
+27/11/2008 : Omry : BUG : Fixed a bug the Dashboard widget on WordPress 2.7 (#892) 
+27/11/2008 : Omry : BUG : Fixed a bug with JavaScript hits recording - all hits went to the same site (master site) on wpmu blogs.
+26/11/2008 : Omry : BUG : Fixed a bug in the batch hits processing (#874) 
+22/11/2008 : Omry : BUG : Fixed to properly support for google.com.ua (Ukraine) that behaves differently than the rest of Google (#898)
+21/11/2008 : Omry : FEATURE : Now extracting title text for WordPress pages (#791)
+21/11/2008 : Omry : BUG : Fixed a bug with updating post titles through the wordpress tab (#891)
+13/11/2008 : Omry : RELEASE : 1.6.0-RC2 released
+13/11/2008 : Omry : DATA : Updated ip2c database to version 2008.11.13
+13/11/2008 : Omry : BUG : Changed Joomla plugin not to close MySQL connection because it caused problems with other Joomla plugins. (#879)
+13/11/2008 : Omry : FEATURE : Added paging buttons to hits table footer. (#885)
+13/11/2008 : Omry : BUG : Fixed JavaScript errors in IE7 (#844)
+10/11/2008 : Omry : BUG : Fixed a bug with new blog registration on WPMU (#884)
+03/11/2008 : Omry : BUG : Fixed a bug with the detection of utf8 encoding which caused problems with some rare search engine urls. (#873)
+01/11/2008 : Omry : RELEASE : 1.6.0-rc1 released
+19/10/2008 : Omry : BUG : Fixed Joomla 1.0 bug, wrong mambot name in XML file. (#854)
+17/10/2008 : Omry : RELEASE : 1.6.0-beta2 released
+16/10/2008 : Omry : BUG : Fixed a bug that caused all hits to go to the same blog on WPMU. (#852)
+15/10/2008 : Omry : BUG : Fixed a the recalculate search engines logic (#843)
+04/10/2008 : Omry : RELEASE : 1.6.0-beta1 released
+27/09/2008 : Omry : BUG : Fixed a bug with creation of a new databsae
+27/09/2008 : Omry : FEATURE : Added the API fs_api_ensure_ip2c_db_updated that makes sure the IP2C database is up to date. (#824)
+27/09/2008 : Omry : CORE : Removed unused user_id field from hits and pending hits tables.
+27/09/2008 : Omry : CORE : Fixed to use json_encode when available to improve performance on systems that run PHP 5 or newer. 
+01/09/2008 : Omry : FEATURE : Now supports multiple deletion of urls and bots in the exclude tables.
+28/08/2008 : Omry : CORE : Updated to IP2C 2.0.0. helps with the batch hits processing because it's much faster.
+28/08/2008 : Omry : CORE : Significant performance improvement when committing hits in batched mode, can now accept 5000 hits/sec and commit 1500 hits/sec (10% and 40% improvements, respectively)
+27/08/2008 : Omry : CORE : Significant performance improvement when committing hits in immediate mode, can now process 500 hits/sec in this mode, which is a massive improvement (up to 1000% in some cases) (#810)
+19/08/2008 : Omry : FEATURE : Made Joomla 1.5 plugin more robust and added a feature to exclude site administrators from the stats.
+19/08/2008 : Omry : FEATURE : Now shows in WP Dashboard as a widget (#672)
+17/08/2008 : Omry : BUG : Fixed to automatically remove deleted blogs on a WPMU system and added a script to clean the sites table from blogs which have already been deleted. (#796)
+16/08/2008 : Omry : FEATURE : New WordPress API function to display popular posts on themes that does not support widgets. (#798)  
+04/08/2008 : Omry : FEATURE : Hits table pagination + jump to date. (#538)
+30/07/2008 : Omry : FEATURE : Multiple deletion of excluded ips is now supported (ctrl select)
+30/07/2008 : Omry : FEATURE : Now sorts excluded ip addresses (#790)
+19/07/2008 : Omry : FEATURE : Initial support for JavaScript hits recording (#680)
+16/07/2008 : Omry : CORE : Enhanced plugins functionality and made RSS support a plugin. 
+23/06/2008 : Omry : FEATURE : Added basic RSS subscribers support (Currently only WordPress integrates with it).
+15/06/2008 : Omry : BUG : Fixed upgrade mechanism to be more robust and to work correctly with Firefox aggressive caching.
+03/06/2008 : Omry : FEATURE : Sites management tab improved, now supports pagination and filtering by site name 
+01/06/2008 : Omry : CORE : Moved url_site_id back to hits table and optimized queries. Significant improved performance improvements in statistics display.
+
+== FireStats 1.5 ==
+16/07/2008 : Omry : BUG : Fixed a bug with the Widgets in WP 2.6 (#779)
+12/07/2008 : Omry : RELEASE : 1.5.12-stable released
+08/07/2008 : Omry : BUG : Fixed a problem with the upgrade on WP 2.5 caused by the FireFox cache problem workaround.
+08/07/2008 : Omry : RELEASE : 1.5.11-stable released
+06/07/2008 : OneMarko : ENHANCEMENT : New UI for Joomla 1.5 plugin.
+03/07/2008 : Omry : BUG : Fixed another bug with the UTF-8 detector, and fixed atlas.cz to use cp1251 as default encoding.
+02/07/2008 : Omry : RELEASE : 1.5.10-RC4 released
+02/07/2008 : Omry : BUG : Received a port to Joomla 1.5 from onemarko, Thanks! (#760)
+02/07/2008 : Omry : BUG : Fixed a bug in the UTF-8 encoding detection which caused problems in some yandex urls. (#763)
+29/06/2008 : Omry : BUG : Worked around a mysql bug that prevented commiting of pending hits in some cases.
+28/06/2008 : Omry : SECURITY : Fixed a few security holes (XSS, Information disclosure) (#755, #756)
+21/06/2008 : Omry : RELEASE : 1.5.9-RC3 released
+21/06/2008 : Omry : BUG : Fixed upgrade mechanism to be more robust and to work correctly with Firefox aggressive caching.
+12/06/2008 : Omry : BUG : Fixed a bug with the new-version-check mechanism
+12/06/2008 : Omry : DATA : Updated ip2c database to version 2008.06.09
+12/06/2008 : Omry : BUG : Fixed a that prevented non admin users in standalone installation from choosing site filter. (#743)
+11/06/2008 : Omry : RELEASE : 1.5.8-RC2 released
+09/06/2008 : Omry : Converted urls column and useragents column to binary. this works around problems caused by MySQL collations.
+28/05/2008 : Omry : RELEASE : 1.5.7-RC1 released
+28/05/2008 : Omry : BUG : Fixed a bug that caused edited WordPress posts to disappear from the stats (#540)
+28/05/2008 : Omry : BUG : Fixed a bug in buffered hits processing mode that was caused by WordPress adding slashes to urls/useragents.
+25/05/2008 : Omry : RELEASE : 1.5.6-beta released
+25/05/2008 : Omry : DATA : Updated ip2c database to version 2008.05.01
+24/05/2008 : Omry : BUG : Now attempts to detect utf-8 strings before converting search terms to utf-8 (#707)
+24/05/2008 : Omry : BUG : Fixed a bug with the time display of recent referrers when sorted by newest first on mysql older than 4.1.13
+24/05/2008 : Omry : BUG : Fixed a bug that prevented editing ranges of excluded IP addresses in the settings tab.
+24/05/2008 : Omry : BUG : Fixed parsing of google search terms when user came from advanced search page. (#718)
+23/05/2008 : Omry : BUG : Fixed a bug in buffered hits processing mode that was caused by WordPress adding slashes to useragents.
+23/05/2008 : Omry : CORE : Added an upgrade step that eliminated unused urls inserted by the previous bug.
+23/05/2008 : Omry : BUG : Fixed a bug in buffered hits processing mode that caused FireStats to record urls of hit even if the hit is excluded based on useragent (and vise versa).
+17/05/2008 : Omry : CORE : Improved performance of some queries by eliminating an unneeded join. 
+11/05/2008 : Omry : RELEASE : 1.5.5-RC3 released
+04/05/2008 : Omry : BUG : Fixed a bug causing Call to undefined function: get_userdata() in wp and wpmu in some cases. (#694, #701)
+02/05/2008 : Omry : BUG : Fixed a bug that caused FireStats to count excluded users in WordPress when using buffered hits mode (#698).
+02/05/2008 : Omry : BUG : Fixed session code not to kill WordPress admin page if there is a problem with the sessions permissions.
+18/04/2008 : Omry : BUG : Fixed a WPMU upgrade problem
+18/04/2008 : Omry : BUG : Fixed the Mutex test in the system diagnostics page.
+17/04/2008 : Omry : RELEASE : 1.5.4-RC2 released
+17/04/2008 : Omry : BUG : Due to mysql 4.1 bugs the minimum version for delayed commits is now mysql 5.0
+16/04/2008 : Omry : BUG : Fixed another issue with commit-pending-hits on mysql 4.1
+13/04/2008 : Omry : BUG : Fixed commit-pending-hits not to die in case of error (and killing the calling script with it!)
+11/04/2008 : Omry : BUG : Fixed a bug with the recalculation of country codes (#677)
+08/04/2008 : Omry : RELEASE : 1.5.3-RC1 released
+08/04/2008 : Omry : DATA : Updated ip2c database to version 2008.3.31
+08/04/2008 : Omry : BUG : Fixed a bug with commit-pending-hits on mysql 4.1 (#671)
+05/04/2008 : Omry : BUG : Fixed bug when upgrading from very old FireStats (#668)
+05/04/2008 : Omry : BUG : Fixed A few bugs introduced by WP 2.5 (#665, #667).
+29/03/2008 : Omry : RELEASE : 1.5.2-beta released
+29/03/2008 : Omry : DATA : Updated ip2c database to version 2008.3.10
+29/03/2008 : Omry : DATA : Updated bots list to include many new bots
+29/03/2008 : Omry : BUG : WordPress plugin no longer includes pluggable.php, which caused problems to wp 2.0 users. (#643)
+29/03/2008 : Omry : BUG : Fixed a pass-by-reference syntax error (#641)
+29/03/2008 : Omry : BUG : Fixed bug that caused ips in exclude table to be inserted when using buffered hits mode (#638)
+29/03/2008 : Omry : BUG : Fixed visitors-since-midnight to use the user's timezone correctly AGAIN. (#635)
+02/03/2008 : Omry : RELEASE : 1.5.1-beta released
+02/03/2008 : Omry : BUG : Fixed the mutex test in the diagnostics page to work on IE7
+02/03/2008 : Omry : BUG : Fixed an IE7 bug in the settings tab layout. (#632)
+01/03/2008 : Omry : BUG : Fixed dhtml windows z-index (now they appear under hourglass).
+01/03/2008 : Omry : BUG : Fixed hits-since-midnight to consider time-zone.
+25/02/2008 : Omry : BUG : Fixed a bug that caused bots to be recorded.
+24/02/2008 : Omry : BUG : Fixed the display of visits and page views for the last 24 hours and for since-midnight. 
+23/02/2008 : Omry : RELEASE : 1.5.0-beta released
+22/02/2008 : Omry : FEATURE : Integrated with WordPress version check mechanism, new version message now appears also in WordPress plugins list.
+18/02/2008 : Omry : FEATURE : Now displays search engine icon and search terms in hits table where appropriate.
+18/02/2008 : Omry : FEATURE : Now properly converts search.walla.co.il referrers to utf-8.
+18/01/2008 : Omry : CORE : Created a generic codepage to utf-8 encoder. 
+17/02/2008 : Omry : BUG : Fixed to convert Cyrillic keywords encoded in windows 1251 to utf-8 (#590).  
+13/02/2008 : Omry : BUG : Renamed Services_JSON to fs_Services_JSON to prevent conflict with other instances of this class.
+12/02/2008 : Omry : FEATURE : There is a new 'time since added' column In the referrers view, when viewing by 'newest first'.  
+09/02/2008 : Omry : FEATURE : It's now possible to control which sites each user is permitted to access (#478).
+08/02/2008 : Omry : FEATURE : Added support for Norwegian search engines.
+05/02/2008 : Omry : BUG : Fixed a bug which caused pages to appear in the popular posts widget in WordPress (#605).
+03/02/2008 : Omry : OPT : Improved startup time by checking for new version asynchrnously.
+02/02/2008 : Omry : FEATURE : Added support for Russian search engines.
+30/01/2008 : Omry : BUG : Fixed splitting of long unicode strings (no longer split in the middle of a multichar utf-8 character) (#575)
+27/01/2008 : Omry : OPT : Optimized commit-pending.php to process 600 hits/sec (!)
+14/01/2008 : Omry : FEATURE : Now possible to see visits/page views singe midnight as well as in last 24 hours.
+12/01/2008 : Omry : CORE : It's no longer possible have newly added hits which match an exclude criteria to be saved. 
+12/01/2008 : Omry : FEATURE : Added support for excluding hits by urls and referrers. 
+12/01/2008 : Omry : CORE : To improve performance, Excluded entries are no longer excluded from the display before they have been actually purged, but just marked as excluded.
+11/01/2008 : Omry : BUG : Fixed a bug that caused FireStats to check for a new version to often. 
+10/01/2008 : Omry : BUG : Fixed a bug that cause errors in WordPress admin secion if an incorrect FireStats address was entered into the FireStats options page (Satellite mode only)
+08/01/2008 : Omry : BUG : Updated flags package to include Surinam and a few other flags.
+30/11/2007 : Omry : FEATURE : Exclude IP addresses by range
+30/11/2007 : Omry : FEATURE : IPv6 Support 
+23/11/2007 : Omry : CORE : Now store IP addresses as a pair of bigints instead of as a string, this is required to handle ipv6 addresses correctly.
+15/11/2007 : Omry : CORE : Removed site_id from hits table (will use site_id from url)
+09/11/2007 : Omry : FEATURE : Added an option to download the configuration file if it's not writable
+09/11/2007 : Omry : OPT : Optimized popular pages query on mysql < 4.1.14
+09/11/2007 : Omry : CLEAN : Removed site_id from hits table and from archive_pages table.
+
+== FireStats 1.4 ==
+28/06/2008 : Omry : SECURITY : Fixed a few security holes (XSS, Information disclosure) (#755, #756) 
+24/11/2007 : Omry : RELEASE : FireStats 1.4.4-stable released (1.4 branch)
+10/27/2007 : Omry : BUG  : Fixed a bug effecting IE7 connecting to a Windows server (#496)
+10/27/2007 : Omry : RELEASE : FireStats 1.4.3-RC1 released
+10/27/2007 : Omry : FEATURE : Added two Czech search engines (Atlas.cz,Centrum.cz)
+10/27/2007 : Omry : BUG : Fixed registraton of WordPress blog when installing in satallite mode
+10/27/2007 : Omry : BUG : Fixed to delete site from archive tables when deleting a site from the sites tab (#498)
+10/26/2007 : Omry : RELEASE : FireStats Installer 1.0.0-beta released (#26)
+10/15/2007 : Omry : BUG : Fixed a bug in the recognition of google search terms 
+10/14/2007 : Omry : BUG : Fixed a bug that effected the display of strings with a particular character (value \255) (#483)
+10/13/2007 : Omry : BUG : trac plugin now records query string in urls (#454)
+10/13/2007 : Omry : RELEASE : FireStats 1.4.2-beta released
+10/13/2007 : Omry : BUG : Worked around a WordPress bug that prevented saving of Widgets with non English names (#469)
+10/13/2007 : Omry : BUG : Fixed a bug with the number of displayed search terms
+10/13/2007 : Omry : BUG : Renamed css class wrap to fwrap to prevent conflicts with WordPress 2.3 Hebrew
+10/13/2007 : Omry : FEATURE : Added pending maintenance jobs support, and using it to automatically rebuild search terms after upgrade to 1.4 
+10/10/2007 : Omry : FEATURE : Now using the plugin activation hook for WordPress > 2.0, this enables mass activation by the Plugin-Commander in WPMU
+08/10/2007 : Omry : FEATURE : Change UI design of sites table tab to make better use of space
+08/10/2007 : Omry : FEATURE : Added scroll bar to the users list
+07/10/2007 : Omry : BUG : Fixed hits table filters
+07/10/2007 : Omry : BUG : Fixed initial language problem when installed in satellite WordPress
+07/10/2007 : Omry : BUG : Fixed login problem in satellite wordpress installations
+06/10/2007 : Omry : RELEASE : FireStats 1.4.1-beta released
+06/10/2007 : Omry : BUG : Fixed a bug that caused all newly inserted referrers to be considered internal, and thus filtered from the referrers list
+06/10/2007 : Omry : BUG : Fixed a few bugs with the popular posts widget in WordPress
+05/10/2007 : Omry : BUG : Fixed a bug that prevented upgrade from 1.2 to 1.4
+05/10/2007 : Omry : BUG : Fixed a bug in the way the API is used from an external app
+03/10/2007 : Omry : RELEASE : FireStats 1.4.0-beta released
+03/10/2007 : Omry : BUG : Fixed javascript security induced bug in wp satellite mode
+29/09/2007 : Omry : FEATURE : Added password recovery emergency page (through tools.php)
+28/09/2007 : Omry : FEATURE : Now uses url title (if available) in hits table, recent referrers and popular pages.
+28/09/2007 : Omry : FEATURE : Improved recent referrers, now filters internal referrers and allow sorting by new-first or by more-hits-first.
+27/09/2007 : Omry : FEATURE : Removed database lock functionality, no longer needed now that we have real authentication
+27/09/2007 : Omry : FEATURE : Added database size indication to settings tab (in the Database compaction section)
+27/09/2007 : Omry : FEATURE : Merged URLs and Referrers table. this will result in reduced storage and will enable functions that were not possible
+19/09/2007 : Omry : FEATURE : Added option to set minimum user role that can access FireStats when installed inside WordPress
+19/09/2007 : Omry : FEATURE : Added caching for WordPress widgets to reduce server load
+17/09/2007 : Omry : FEATURE : Added the API fs_api_get_popular_pages to api.php
+16/09/2007 : Omry : FEATURE : Added popular pages WordPress widget
+14/09/2007 : Omry : FEATURE : Added support for url metadata
+10/09/2007 : Omry : FEATURE : Changed all tabs except stats to load lazily, significantly improving startup time
+09/09/2007 : Omry : FEATURE : Changed sites managemenet UI to use dhtml windows
+08/09/2007 : Omry : FEATURE : Moved all libraries to /lib
+07/09/2007 : Omry : FEATURE : Created functionality for delayed data commit for heavily loaded sites. activate from config.php
+07/09/2007 : Omry : FEATURE : Added sample-config.php. copy to config.php to control various FireStats options
+07/09/2007 : Omry : FEATURE : Created changelog file

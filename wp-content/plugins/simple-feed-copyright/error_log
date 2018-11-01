@@ -1,0 +1,1 @@
+[12-Feb-2009 18:19:19] PHP Fatal error:  Call to undefined function  get_bloginfo() in /home/h3u135/public_html/wp-content/plugins/simple-feed-copyright/feednotice.php on line 12

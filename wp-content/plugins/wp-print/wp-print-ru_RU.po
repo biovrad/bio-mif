@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Print 2.31 Russian\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-07-15 15:44+0800\n"
+"PO-Revision-Date: 2008-07-15 23:24+0600\n"
+"Last-Translator: Kalinin Ivan <lecactus@lecactus.ru>\n"
+"Language-Team: Lecactus <lecactus@lecactus.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: X:\\web\\Модификации\\wordpress\\wp25\\wp-print\n"
+
+#: print-comments.php:23
+msgid "Open"
+msgstr "Открыть"
+
+#: print-comments.php:23
+msgid "Close"
+msgstr "Закрыть"
+
+#: print-comments.php:25
+msgid "To"
+msgstr "на"
+
+#: print-comments.php:28
+msgid "Comment"
+msgstr "Комментарий"
+
+#: print-comments.php:28
+msgid "Trackback"
+msgstr "Трэкбек"
+
+#: print-comments.php:28
+msgid "Pingback"
+msgstr "Пинг"
+
+#: print-comments.php:28
+msgid "By"
+msgstr "от"
+
+#: print-comments.php:28
+#: print-posts.php:50
+msgid "On"
+msgstr "дата: "
+
+#: print-comments.php:28
+#: print-posts.php:50
+#, php-format
+msgid "%s @ %s"
+msgstr "%s @ %s"
+
+#: print-comments.php:32
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: print-options.php:46
+#: print-options.php:132
+#: print-options.php:195
+msgid "Print Options"
+msgstr "Настройки печати"
+
+#: print-options.php:51
+msgid "Updated"
+msgstr "Обновлено"
+
+#: print-options.php:56
+msgid "No Print Option Updated"
+msgstr "Настройки печати не обновлены"
+
+#: print-options.php:62
+#: print-options.php:295
+msgid "UNINSTALL WP-Print"
+msgstr "Деинсталляция WP-Print"
+
+#: print-options.php:70
+#, php-format
+msgid "Setting Key '%s' has been deleted."
+msgstr "Настройка '%s' удалена."
+
+#: print-options.php:74
+#, php-format
+msgid "Error deleting Setting Key '%s'."
+msgstr "Ошибка удаления настройки '%s'."
+
+#: print-options.php:95
+#: print-options.php:263
+msgid "Uninstall WP-Print"
+msgstr "Деинсталляция WP-Print"
+
+#: print-options.php:96
+#, php-format
+msgid "<a href=\"%s\">Click Here</a> To Finish The Uninstallation And WP-Print Will Be Deactivated Automatically."
+msgstr "<a href=\"%s\">Нажмите здесь</a> для завершения деинсталляции и плагин WP-Print будет деактивирован автоматически."
+
+#: print-options.php:122
+#: wp-print.php:466
+#, php-format
+msgid "Copyright &copy; %s %s. All rights reserved."
+msgstr "Копирайт &copy; %s %s. Все права зарезервированы. Перевод на русский <a href=\"http://lecactus.ru\">Lecactus</a>"
+
+#: print-options.php:133
+msgid "Print Styles"
+msgstr "Стили печати"
+
+#: print-options.php:136
+msgid "Print Text Link For Post"
+msgstr "Текст ссылки для печати записи"
+
+#: print-options.php:142
+msgid "Print Text Link For Page"
+msgstr "Текст ссылки для печати страницы"
+
+#: print-options.php:148
+msgid "Print Icon"
+msgstr "Иконка печати"
+
+#: print-options.php:176
+msgid "Print Text Link Style"
+msgstr "Стиль ссылки печати"
+
+#: print-options.php:179
+msgid "Print Icon With Text Link"
+msgstr "Иконка печати + текст"
+
+#: print-options.php:180
+msgid "Print Icon Only"
+msgstr "Только иконка"
+
+#: print-options.php:181
+msgid "Print Text Link Only"
+msgstr "Только текст"
+
+#: print-options.php:182
+msgid "Custom"
+msgstr "Настраиваемый"
+
+#: print-options.php:186
+#: print-options.php:249
+msgid "HTML is allowed."
+msgstr "HTML разрешен."
+
+#: print-options.php:187
+msgid "URL to the printable post/page."
+msgstr "URL на печатную версию записи/страницы."
+
+#: print-options.php:188
+msgid "Print text link of the post/page that you have typed in above."
+msgstr "Текстовая ссылка записи/страницы которую вы ввели выше."
+
+#: print-options.php:189
+msgid "URL to the print icon you have chosen above."
+msgstr "URL к иконке печати, если вы выбрали ее выше."
+
+#: print-options.php:190
+#: print-options.php:246
+msgid "Restore Default Template"
+msgstr "Восстановить шаблон по-умолчанию."
+
+#: print-options.php:198
+msgid "Print Comments?"
+msgstr "Печатать комментарии?"
+
+#: print-options.php:201
+#: print-options.php:210
+#: print-options.php:219
+#: print-options.php:228
+#: print-options.php:294
+msgid "Yes"
+msgstr "Да"
+
+#: print-options.php:202
+#: print-options.php:211
+#: print-options.php:220
+#: print-options.php:229
+msgid "No"
+msgstr "Нет"
+
+#: print-options.php:207
+msgid "Print Links?"
+msgstr "Печатать ссылки?"
+
+#: print-options.php:216
+msgid "Print Images?"
+msgstr "Печатать изображения?"
+
+#: print-options.php:225
+msgid "Print Videos?"
+msgstr "Печатать видео?"
+
+#: print-options.php:234
+msgid "Text Direction?"
+msgstr "Направление текста"
+
+#: print-options.php:237
+msgid "Left To Right"
+msgstr "Слева направо"
+
+#: print-options.php:238
+msgid "Right To Left"
+msgstr "Справа налево"
+
+#: print-options.php:244
+msgid "Disclaimer/Copyright Text?"
+msgstr "Текст копирайта?"
+
+#: print-options.php:254
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: print-options.php:265
+msgid "Deactivating WP-Print plugin does not remove any data that may have been created, such as the print options. To completely remove this plugin, you can uninstall it here."
+msgstr "Деактивация плагина WP-Print не удалит никаких его данных, таких как настройки печати. Для полного удаления плагина вы должны деинсталлировать его здесь."
+
+#: print-options.php:268
+msgid "WARNING:"
+msgstr "ВНИМАНИЕ:"
+
+#: print-options.php:269
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to back up all the data first."
+msgstr "Деинсталлировав плагин, вы не сможете это отменить. Прежде вы должны использовать плагин бэкапа базы данных для сохранения ваших данных"
+
+#: print-options.php:272
+msgid "The following WordPress Options will be DELETED:"
+msgstr "Следующие настройки WordPress будут УДАЛЕНЫ:"
+
+#: print-options.php:277
+msgid "WordPress Options"
+msgstr "Настройки WordPress"
+
+#: print-options.php:295
+msgid ""
+"You Are About To Uninstall WP-Print From WordPress.\\n"
+"This Action Is Not Reversible.\\n"
+"\\n"
+" Choose [Cancel] To Stop, [OK] To Uninstall."
+msgstr ""
+"Вы собираетесь деинсталлировать WP-Print из WordPress.\\n"
+"Это действие не обратимо\\n"
+"\\n"
+" Выберите [Отмена] чтобы прекратить, [OK] для деинсталляции."
+
+#: print-posts.php:50
+msgid "Posted By"
+msgstr "Автор"
+
+#: print-posts.php:50
+msgid "In"
+msgstr "в"
+
+#: print-posts.php:57
+msgid "Article printed from"
+msgstr "Статья распечатана с "
+
+#: print-posts.php:58
+msgid "URL to article"
+msgstr "URL статьи"
+
+#: print-posts.php:62
+msgid "Click"
+msgstr "Нажмите"
+
+#: print-posts.php:62
+msgid "Click here to print."
+msgstr "Нажмите здесь для печати."
+
+#: print-posts.php:62
+msgid "here"
+msgstr "здесь"
+
+#: print-posts.php:62
+msgid "to print."
+msgstr "для печати."
+
+#: print-posts.php:64
+msgid "No posts matched your criteria."
+msgstr "Нет записей, отвечающих вашим критериям."
+
+#: wp-print.php:61
+msgid "Print"
+msgstr "Печать"
+
+#: wp-print.php:202
+msgid "Note: There is a print link embedded within this post, please visit this post to print it."
+msgstr "Примечание: Вы можете распечатать эту запись, посетив сайт."
+
+#: wp-print.php:274
+#: wp-print.php:342
+msgid "Image"
+msgstr "Изображение"
+
+#: wp-print.php:365
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+#: wp-print.php:367
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: wp-print.php:369
+#, php-format
+msgid "%s Comments"
+msgstr "%s комментариев"
+
+#: wp-print.php:372
+msgid "Comments Disabled"
+msgstr "Комментарии отключены"
+
+#: wp-print.php:375
+msgid "Comments Hidden"
+msgstr "Комментарии скрыты"
+
+#: wp-print.php:386
+msgid "URLs in this post:"
+msgstr "URL-ы в этой записи:"
+
+#: wp-print.php:457
+msgid "Print This Post"
+msgstr "Распечатать запись"
+
+#: wp-print.php:458
+msgid "Print This Page"
+msgstr "Распечатать страницу"
+
+#~ msgid "Update Options"
+#~ msgstr "Обновить настройки"
+#~ msgid "Cancel"
+#~ msgstr "Отмена"
+

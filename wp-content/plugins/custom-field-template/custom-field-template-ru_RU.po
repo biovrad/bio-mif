@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Field Template 0.6.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-11-23 14:19+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: sonika <sonika@sonika.ru>\n"
+"Language-Team: sonika.ru <sonika@sonika.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: custom-field-template\n"
+
+#: custom-field-template/custom-field-template.php:80
+#: custom-field-template/custom-field-template.php:81
+#: custom-field-template/custom-field-template.php:157
+#: custom-field-template/custom-field-template.php:196
+#: custom-field-template/custom-field-template.php:669
+msgid "Custom Field Template"
+msgstr "Шаблоны custom field"
+
+#: custom-field-template/custom-field-template.php:92
+msgid "Settings"
+msgstr "Настройки"
+
+#: custom-field-template/custom-field-template.php:103
+msgid "Default Template"
+msgstr "Пример шаблона"
+
+#: custom-field-template/custom-field-template.php:176
+#: custom-field-template/custom-field-template.php:180
+msgid "Options updated."
+msgstr "Настройки обновлены."
+
+#: custom-field-template/custom-field-template.php:185
+msgid "Options resetted."
+msgstr "Настройки сброшены."
+
+#: custom-field-template/custom-field-template.php:189
+msgid "Options deleted."
+msgstr "Настройки удалены."
+
+#: custom-field-template/custom-field-template.php:201
+msgid "Custom Field Template Options"
+msgstr "Настройки Custom Field Template"
+
+#: custom-field-template/custom-field-template.php:210
+#, php-format
+msgid "Template Title %d"
+msgstr "Название шаблона %d"
+
+#: custom-field-template/custom-field-template.php:212
+#, php-format
+msgid "Template Content %d"
+msgstr "Содержимое шаблона %d"
+
+#: custom-field-template/custom-field-template.php:219
+msgid "In case that you would like to insert multiple images at once in use of the custom field media buttons"
+msgstr "Если вы хотите вставлять несколько изображений за один раз"
+
+#: custom-field-template/custom-field-template.php:220
+msgid "Use multiple image inset"
+msgstr "да"
+
+#: custom-field-template/custom-field-template.php:220
+msgid "Caution:"
+msgstr "Предупреждение:"
+
+#: custom-field-template/custom-field-template.php:220
+msgid "You need to edit `wp-admin/includes/media.php`. Delete or comment out the code in the function media_send_to_editor at around line 88-96."
+msgstr "вам нужно отредактировать файл <code>wp-admin/includes/media.php</code>, удалите или закомментируйте в функции media_send_to_editor строчки  с 88 по 97"
+
+#: custom-field-template/custom-field-template.php:224
+msgid "In case that you would like to replace custom keys by labels if `label` is set"
+msgstr "Показывать ярлык (label) вместо ключа произвольного поля (если label указан)"
+
+#: custom-field-template/custom-field-template.php:225
+msgid "Use labels in place of custom keys"
+msgstr "использовать ярлыки"
+
+#: custom-field-template/custom-field-template.php:228
+msgid "In case that you would like to add p and br tags in textareas automatically"
+msgstr "Добавлять теги p и br в текстовое поле автоматически"
+
+#: custom-field-template/custom-field-template.php:229
+msgid "Use wpautop function"
+msgstr "Использовать функцию wpautop"
+
+#: custom-field-template/custom-field-template.php:233
+#: custom-field-template/custom-field-template.php:253
+msgid "Update Options &raquo;"
+msgstr "Обновить настройки &raquo;"
+
+#: custom-field-template/custom-field-template.php:244
+msgid "Admin CSS"
+msgstr "CSS шаблона в админ. панели"
+
+#: custom-field-template/custom-field-template.php:264
+msgid "Option List"
+msgstr "Список настроек"
+
+#: custom-field-template/custom-field-template.php:318
+msgid "Reset Options"
+msgstr "Сбросить настройки"
+
+#: custom-field-template/custom-field-template.php:320
+msgid "Are you sure to reset options? Options you set will be reset to the default settings."
+msgstr "Сбрасываем настройки? Все настройки будут сброшены к дефолтным, созданные шаблоны не сохранятся."
+
+#: custom-field-template/custom-field-template.php:324
+msgid "Unset Options &raquo;"
+msgstr "Сбросить настройки &raquo;"
+
+#: custom-field-template/custom-field-template.php:335
+msgid "Delete Options"
+msgstr "Удалить настройки"
+
+#: custom-field-template/custom-field-template.php:337
+msgid "Are you sure to delete options? Options you set will be deleted."
+msgstr "Удаляем настройки? Удалятся ВСЕ настройки и шаблоны."
+
+#: custom-field-template/custom-field-template.php:341
+msgid "Delete Options &raquo;"
+msgstr "Удалить настройки &raquo;"
+
+#: custom-field-template/custom-field-template.php:475
+msgid "Clear"
+msgstr "очистить"
+
+#: custom-field-template/custom-field-template.php:572
+msgid "Add Media"
+msgstr "добавить медиа-файл"
+
+#: custom-field-template/custom-field-template.php:574
+msgid "Add an Image"
+msgstr "добавить изображение"
+
+#: custom-field-template/custom-field-template.php:576
+msgid "Add Video"
+msgstr "добавить видео-файл"
+
+#: custom-field-template/custom-field-template.php:578
+msgid "Add Audio"
+msgstr "добавить аудио-файл"
+
+#: custom-field-template/custom-field-template.php:589
+msgid "Toggle"
+msgstr "Переключатель"
+

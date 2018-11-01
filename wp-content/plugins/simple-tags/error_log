@@ -1,0 +1,2 @@
+[11-Feb-2009 18:58:19] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/simple-tags/simple-tags.php on line 43
+[12-Feb-2009 18:26:01] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/simple-tags/simple-tags.php on line 43

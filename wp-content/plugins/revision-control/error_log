@@ -1,0 +1,1 @@
+[12-Feb-2009 18:37:33] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/revision-control/revision-control.php on line 14

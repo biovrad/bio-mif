@@ -1,0 +1,1 @@
+[12-Feb-2009 18:47:18] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/wp-mail-smtp/wp_mail_smtp.php on line 317

@@ -1,0 +1,2429 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FireStats 1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-10-16 10:49+0300\n"
+"PO-Revision-Date: 2009-01-06 21:20+0200\n"
+"Last-Translator: Helmuts <mail@mail.lv>\n"
+"Language-Team: WebZona.lv <helmuts@prima-skonto.lv>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Latvian\n"
+"X-Poedit-Country: LATVIA\n"
+"X-Poedit-KeywordsList: fs_e;fs_r\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11) ? 0 : ((n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: D:\\Projects\\firestats\\firestats-1.6\\firestats\n"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+# C:\www\testwp-en\wp-content\plugins\FireStats/index.php:51
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/footer.php:8
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:342
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:812
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:876
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1409
+msgid "FireStats"
+msgstr "FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:342
+msgid "Loading..."
+msgstr "Ielādē..."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:49
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:361
+#, php-format
+msgid "Total : %s page views and %s visits"
+msgstr "Kopā: %s apskatītas lapas un %s apmeklējumu"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:50
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:362
+#, php-format
+msgid "Last 24 hours : %s page views and %s visits"
+msgstr "Pēdējās 24 stundās: %s apskatītas lapas un %s apmaklējumu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:515
+msgid "You are not authorized to access FireStats"
+msgstr "Tev nav FireStats piekļuves tiesību"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:833
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:897
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:974
+msgid "Title:"
+msgstr "Virsraksts:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:840
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:904
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:991
+msgid "Hide FireStats logo"
+msgstr "Paslēpt FireStats logo"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:941
+msgid "Popular posts"
+msgstr "Populārākie ieraksti"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:8
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:979
+msgid "Number to show"
+msgstr "Numurs, ko parādīt"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:984
+msgid "Days ago (Empty for all time)"
+msgstr "Dienas atpakaļ (tukš, lai parādītu visu)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1048
+#, php-format
+msgid "%s readers"
+msgstr "%s lasītāju"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1080
+msgid "Pages displayed : "
+msgstr "Parādītas lapas :"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:11
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1081
+msgid "Unique visitors : "
+msgstr "Unikālie apmeklētāji:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:12
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1082
+msgid "Pages displayed in last 24 hours : "
+msgstr "Pēdējās 24 stundās parādītas lapas:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:13
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1083
+msgid "Unique visitors in last 24 hours : "
+msgstr "Pēdējo 24 stundu unikālie apmeklētāji:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1086
+msgid "RSS subscribers"
+msgstr "Parakstījušies uz barotnēm (RSS)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1140
+msgid "pages viewed"
+msgstr "apskatītas lapas"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1140
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1141
+msgid "today"
+msgstr "šodien"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1141
+msgid "visits"
+msgstr "apmeklējumi"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+# C:\www\testwp-en\wp-content\plugins\FireStats/index.php:51
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/footer.php:8
+#: D:\Projects\firestats\firestats-1.6\firestats/firestats-wordpress.php:1150
+msgid "Powered by FireStats"
+msgstr "Darbina FireStats"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/index.php:15
+msgid "Error"
+msgstr "Kļūda"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/index.php:15
+msgid "Access denied"
+msgstr "Piekļuve liegta"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/index.php:41
+msgid "Error connecting to database, check your database server"
+msgstr "Kļūda savienojoties ar datu bāzi. Pārbaudi datu bāzes serveri"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/index.php:42
+#, php-format
+msgid "To access the configuration screen, please delete %s"
+msgstr "Lai piekļūtu konfigurācijas logam, lūdzu nodzēs %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/login.php:11
+#: D:\Projects\firestats\firestats-1.6\firestats/login.php:26
+msgid "Login"
+msgstr "Ielogoties"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1003
+#: D:\Projects\firestats\firestats-1.6\firestats/login.php:14
+msgid "Username"
+msgstr "Lietotājvārds"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:239
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:247
+#: D:\Projects\firestats\firestats-1.6\firestats/login.php:18
+msgid "Password"
+msgstr "Parole"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/login.php:25
+msgid "Remember me for the next 14 days"
+msgstr "Atcerēties mani nākamās 14 dienas"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/login.php:31
+#, php-format
+msgid "Forgot your password? click %s."
+msgstr "Aizmirsi paroli? Spied šeit %s."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/login.php:31
+msgid "here"
+msgstr "šeit"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:50
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:97
+msgid "Stop"
+msgstr "Apturēt"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:51
+msgid "Compacting..."
+msgstr "Saspiest..."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:63
+msgid "Stopping..."
+msgstr "Apstādina..."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:74
+msgid "Compact now"
+msgstr "Arhivēt tagad"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:119
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:139
+msgid "Abort"
+msgstr "Atcelt"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:7
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:134
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:146
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:154
+msgid "Start"
+msgstr "Sākt"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:135
+msgid "Canceled"
+msgstr "Atcelts"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/firestats.js.php:723
+msgid "Session expired, press ok to reload"
+msgstr "Sesija beigusies. Nospied OK lai ielādētu pa jaunam"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-database.js.php:66
+msgid "Upgrading, do not interrupt"
+msgstr "Notiek atjaunināšana. Lūdzu nepārtrauc!"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-database.js.php:73
+msgid "Try again"
+msgstr "Mēģini vēlreiz"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:97
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-settings.js.php:20
+msgid "You need to select one or more bots"
+msgstr "Izvēlies vismaz vienu botu"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:97
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-settings.js.php:40
+msgid "You need to select one or more urls"
+msgstr "Izvēlies vismaz vienu linku"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:97
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-settings.js.php:54
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-settings.js.php:89
+msgid "You need to select a record from the table"
+msgstr "Izvēlies ierakstu no tabulas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:97
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-settings.js.php:75
+msgid "You need to select one or more IP addresses"
+msgstr "Izvēlies vismaz vienu IP adresi"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-sites.js.php:27
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-sites.js.php:29
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-sites.js.php:47
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-sites.js.php:49
+msgid "Automatic"
+msgstr "Automātiski"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-sites.js.php:93
+msgid "Delete"
+msgstr "Dzēst"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/js/page-sites.js.php:93
+msgid "Transfer"
+msgstr "Pārsūtīt"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:41
+#: D:\Projects\firestats\firestats-1.6\firestats/lib/ezsql/mysql/ez_sql_mysql.php:42
+msgid "User name and password are required to connect to database"
+msgstr "Lietotājvārds un parole ir nepieciešami, lai pievienotos datubāzei"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:42
+#: D:\Projects\firestats\firestats-1.6\firestats/lib/ezsql/mysql/ez_sql_mysql.php:43
+msgid "Error establishing mySQL database connection"
+msgstr "Kļūda savienojumā ar MySQL datubāzi"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:43
+#: D:\Projects\firestats\firestats-1.6\firestats/lib/ezsql/mysql/ez_sql_mysql.php:44
+msgid "Database name is required to connect to database"
+msgstr "Lai pievienotos datubāzei, ir nepieciešams datubāzes nosaukums"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:44
+#: D:\Projects\firestats\firestats-1.6\firestats/lib/ezsql/mysql/ez_sql_mysql.php:45
+msgid "mySQL database connection is not active"
+msgstr "savienojums ar MySQL datubāzi nav aktīvs"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:45
+#: D:\Projects\firestats\firestats-1.6\firestats/lib/ezsql/mysql/ez_sql_mysql.php:46
+msgid "Unexpected error while querying database"
+msgstr "Nezināma kļūda notika pievienošanās datubāzei pieprasījuma laikā"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:114
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:125
+#: D:\Projects\firestats\firestats-1.6\firestats/lib/ezsql/mysql/ez_sql_mysql.php:123
+#: D:\Projects\firestats\firestats-1.6\firestats/lib/ezsql/mysql/ez_sql_mysql.php:134
+#, php-format
+msgid "Can't disconnect: %s"
+msgstr "Nevar atslēgties no %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:84
+#: D:\Projects\firestats\firestats-1.6\firestats/lib/ezsql/mysql/ez_sql_mysql.php:134
+msgid "Not connected"
+msgstr "Nav pieslēgts"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:69
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:179
+#, php-format
+msgid "Unexpected output: %s"
+msgstr "Nezināms izvads: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:453
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:487
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:285
+#, php-format
+msgid "Invalid integer : %s"
+msgstr "Nepareiza vienība: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:288
+#, php-format
+msgid "Invalid or none positive integer : %s"
+msgstr "Nepareiza vai negatīva vienība : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:119
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:295
+msgid "Invalid IP address"
+msgstr "Kļūdaina IP adrese"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:171
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:377
+msgid "Excluded users list saved"
+msgstr "Neiekļauto lietotāju sarakasts ir saglabāts"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:189
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:394
+#, php-format
+msgid "Added %s to bots list"
+msgstr "%s ir pievienots botu sarakstam"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:201
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:405
+msgid "Empty string is not allowed"
+msgstr "Tukšas rindas nav pieļaujamas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:211
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:415
+msgid "Removed"
+msgstr "Dzēsts"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:290
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:467
+msgid "Not using configuration file"
+msgstr "Konfigurācijas fails netiek lietots"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:296
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:473
+msgid "Not installed inside Wordpress"
+msgstr "Nav instalēts iekš Wordpress"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:306
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:483
+#, php-format
+msgid "Failed to delete fs-config.php : %s"
+msgstr "Nevarēja dzēst fs-config.php: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:354
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:526
+msgid "Error upgrading tables"
+msgstr "Kļūda atjauninot / uzlabojot tabulas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:354
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:546
+msgid "Error installing tables"
+msgstr "Kļūda izveidojot tabulas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1384
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:703
+#, php-format
+msgid "%s days can be compacted, database size %s"
+msgstr "Datus var arhivēt par %s dienām. Datubāzes izmērs ir %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:756
+msgid "IP-to-country database is already up-to-date"
+msgstr "Jau ir jaunākais IP-to-country adrešu saraksts"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:763
+msgid "An error has occured while trying to update the IP-to-country database"
+msgstr "Kļuda mēģinot atjaunināt IP-to-country datubāzi"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:767
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:390
+msgid "file"
+msgstr "fails"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:769
+#, php-format
+msgid "You can update the database manually by downloading this %s and extracting it into %s"
+msgstr "Tu vari tajaunināt datubāzi to lejupielādējot no %s un atpakojot to %s "
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:774
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:616
+msgid "this"
+msgstr "tas"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:776
+#, php-format
+msgid "You can update the database manually by opening %s and downloading the <b>zip_url</b>, and extracting it into %s"
+msgstr "Vari atjaunināt datubāzi atverot %s un lejupielādējot <b>zip_url</b>. Pēc tam to atpako %s "
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:802
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:820
+#, php-format
+msgid "Error updating bots list: %s"
+msgstr "Kļūda atjauninot botu sarakstu: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:814
+msgid "Successfully updated bots list"
+msgstr "Botu saraksts atjaunināts veiksmīgi"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:832
+#, php-format
+msgid "Error purging excluded records: %s"
+msgstr "Kļūda dzēšot neiekļaujamos ierakstus: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:836
+msgid "Purged excluded records"
+msgstr "Neiekļaujamie ieraksti ir izdzēsti"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:927
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:134
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:24
+msgid "Error connecting to database"
+msgstr "Kļūda pievienojoties datubāzei"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1010
+#, php-format
+msgid "Compacting %s days, %s done, database size is %s"
+msgstr "Datu arhivēšana par %s dienām %s pabeigta. Datubāzes izmērs ir %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1110
+#, php-format
+msgid "%d of %d"
+msgstr "%d no %d"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1255
+msgid "Incorrect user-name or password"
+msgstr "Kļūdains lietotājvārds vai parole"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/db-config-utils.php:40
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1279
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1320
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1346
+msgid "User name not specified"
+msgstr "Nav norādīts lietotājvārds"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/db-config-utils.php:40
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1280
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1321
+msgid "Email not specified"
+msgstr "E-pasts nav norādīts"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/db-config-utils.php:40
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1281
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:39
+msgid "Password not specified"
+msgstr "Nav norādīta parole"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/db-config-utils.php:40
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1282
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1324
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1347
+msgid "Passwords did not match"
+msgstr "Paroles nesakrīt"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ajax-handler.php:1348
+msgid "Empty password"
+msgstr "Tukša parole"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/auth.php:92
+#, php-format
+msgid "Error connecting to database (%s)"
+msgstr "Kļūda pievienojoties (%s) datubāzei"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:119
+#: D:\Projects\firestats\firestats-1.6\firestats/php/auth.php:195
+#: D:\Projects\firestats\firestats-1.6\firestats/php/auth.php:229
+msgid "Invalid email address"
+msgstr "Kļūdaina e-pasta adrese"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/auth.php:205
+#: D:\Projects\firestats\firestats-1.6\firestats/php/auth.php:239
+msgid "A user with this name already exists"
+msgstr "Lietotājs ar tādu vārdu jau pastāv"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/auth.php:209
+#: D:\Projects\firestats\firestats-1.6\firestats/php/auth.php:243
+msgid "A user with this email address already exists"
+msgstr "Lietotājs ar tādu e-pasta adresi jau pastāv"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:453
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:487
+#: D:\Projects\firestats\firestats-1.6\firestats/php/auth.php:466
+#, php-format
+msgid "Invalid site id: %s"
+msgstr "Kļūdains saita ID: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:116
+msgid "FireStats is properly installed in the database"
+msgstr "FireStats ir veiksmīgi uzstādīts datubāzē"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:119
+msgid "FireStats is not configured"
+msgstr "FireStats nav nokonfigurēts"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-common.php:98
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:122
+#, php-format
+msgid "Database error, check your configuration: %s"
+msgstr "Datubāzes kļūda, pārbaudi iestatījums: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:125
+msgid "FireStats is not installed in the database"
+msgstr "FireStats nav uzstādīts datubāzē"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:124
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:128
+msgid "FireStats database needs to be upgraded"
+msgstr "Ir nepieciešams atjaunināt FireStats datubāzi"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-common.php:107
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:131
+msgid "The FireStats database version is newer than this code version, you need to upgrade FireStats"
+msgstr "FireStats datubāzes versija ir jaunāka par šī koda versiju. Ir nepieciešams jaunināt (upgrade) FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-common.php:110
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:137
+msgid "Unknown database status code"
+msgstr "Nezināms datubāzes statusa kods"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1482
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:601
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-hit.php:354
+#, php-format
+msgid "Database error: %s"
+msgstr "Datubāzes kļūda: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-common.php:616
+#, php-format
+msgid "Invalid regular expression, see %s for more information"
+msgstr "Nepareizs 'regular expression', papildus informācijai skatīt %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:21
+msgid "Error accessing database"
+msgstr "Kļūda piekļūstot datubāzei"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:27
+msgid "Error creating database"
+msgstr "Kļūda izveidojot datubāzi"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:30
+msgid "Error creating user"
+msgstr "Kļūda izveidojot lietotāju"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:33
+msgid "Error creating tables"
+msgstr "Kļūda izveidojot tabulas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:290
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:36
+msgid "Error saving configuration"
+msgstr "Kļūda saglabājot iestatījumus"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:39
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:42
+msgid "Wrong password"
+msgstr "Kļūdaina parole"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:110
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:52
+msgid "FireStats tables are not installed"
+msgstr "FireStats tabulas nav izveidotas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:57
+msgid "FireStats is installed"
+msgstr "FireStats ir uzstādīts"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:124
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:62
+msgid "Another FireStats database detected"
+msgstr "Ir atrasta vēl viena FireStats datubāze"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-config-utils.php:198
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:67
+msgid "New database created successfuly"
+msgstr "Veiksmīgi izveidota jauna datubāze"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:45
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:70
+#, php-format
+msgid "Unexpected error code %s"
+msgstr "Nezināmas kļūdas kods %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-config-utils.php:15
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:303
+msgid "Not configured"
+msgstr "Nav nokonfigurēts"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:11
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:306
+msgid "FireStats configuration file"
+msgstr "FireStats konfigurācijas fails"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:13
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:309
+msgid "Wordpress configuration file"
+msgstr "Wordpress konfigurācijas fails"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:290
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:312
+msgid "External configuration"
+msgstr "Ārējā konfigurācija"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:391
+#, php-format
+msgid "Configuration file %s is not writable, you can either:"
+msgstr "Konfigurācijas fails %s ir 'Read only' režīmā. Tu vari:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:392
+msgid "Fix the problem by making it writable"
+msgstr "izlabot problēmu dodot tam rakstīšanas atļaujas"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-config-utils.php:393
+#, php-format
+msgid "download the %s and upload it into %s"
+msgstr "lejupielādēt %s un ielikt to %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:116
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-setup.php:34
+msgid "Operation already in progress"
+msgstr "Funkcija jau tiek darbināta"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:49
+msgid "Data compacting is already in progress"
+msgstr "Dati jau tiek kompresēti"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:74
+msgid "MySQL 4.1.14 or newer is required for data compacting support"
+msgstr "Lai tiktu nodrošināta datu kompresēšanas funkcija ir nepieciešams MySQL 4.1.14 vai jaunāks"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/db-config-utils.php:40
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:288
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:326
+msgid "Site name not specified"
+msgstr "Nav norādīts saita nosaukums"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:69
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:190
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:300
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:330
+msgid "Site ID must be a positive number"
+msgstr "Saita ID ir jābūt pozitīvam numuram"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:303
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:349
+#, php-format
+msgid "A site with the ID %s already exists"
+msgstr "Saits ar ID numuru %s jau pastāv"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:337
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:414
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:465
+#, php-format
+msgid "No site with the id %s exists"
+msgstr "Saits ar ID numuru %s neeksistē"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:450
+msgid "New site_id must not be empty"
+msgstr "Ir jāieraksta jaunā saita ID numurs"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:456
+msgid "Can't move the hits to the same site"
+msgstr "Nevar klikšķus pārcelt uz to pašu saitu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:546
+msgid "Empty url pattern"
+msgstr "Empty url pattern"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:558
+msgid "The URL already exists"
+msgstr "Šāda adrese jau pastāv"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:453
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:487
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:664
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:669
+#, php-format
+msgid "Invalid IP address: %s"
+msgstr "Nepareiza IP adrese: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:680
+msgid "First IP address must be smaller than second IP address"
+msgstr "Pirmai IP adresei jābūt mazākai par otro"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:463
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:713
+msgid "The IP address(s) already exists"
+msgstr "Šī IP adrese jau ir ierakstīta"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:522
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:795
+#, php-format
+msgid "The bot wildcard %s is already in the database"
+msgstr "Bota šablons %s jau ir datubāzē"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:10
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1226
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:1508
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:1556
+msgid "Unknown"
+msgstr "Nezināms"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/db-sql.php:1967
+#, php-format
+msgid "Error opening file : %s"
+msgstr "Kļūda atverot failu : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/export-bots-list.php:21
+msgid "Error exporting bots list"
+msgstr "Kļūda eksportējot batu sarakstu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/footer.php:4
+#, php-format
+msgid "If you have any problems or questions, please visit the %s"
+msgstr "Ja jums ir radušās problēmas, vai ir kādi jautājumi, lūdzu apmeklējiet: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: D:\Projects\firestats\firestats-1.6\firestats/php/footer.php:4
+msgid "FireStats homepage"
+msgstr "FireStats mājaslapa"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+# C:\www\testwp-en\wp-content\plugins\FireStats/index.php:51
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/footer.php:8
+#: D:\Projects\firestats\firestats-1.6\firestats/php/header.php:15
+msgid "Support FireStats"
+msgstr "Atbalsti FireStats"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/header.php:22
+#, php-format
+msgid "Log out %s"
+msgstr "Iziet no %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/tabbed-pane.php:32
+#: D:\Projects\firestats\firestats-1.6\firestats/php/header.php:34
+msgid "Demo"
+msgstr "Demonstrācija"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:32
+#: D:\Projects\firestats\firestats-1.6\firestats/php/header.php:42
+msgid "Hide"
+msgstr "Paslēpt"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/ajax-handler.php:515
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:34
+msgid "Unknown site type"
+msgstr "Nezināms saita tips"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-help.php:2
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:84
+msgid "Collect hits from PHP pages"
+msgstr "Vākt klikšķu statistiku no PHP-lapām"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:14
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:85
+msgid "To allow FireStats to track access to your pages, you need to add the following line inside the head tag of each of the pages you want to monitor (the page must be a php page)."
+msgstr "Lai ļautu FireStats reģistrēt piekļuvi jūsu saitam, ir jāievieto sekojoša rinda katras lapas galvenē (head tag). Tām ir jābūt PHP lapām"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:21
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:91
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:131
+msgid "A typical page header will look like this:"
+msgstr "Tipiska lapas galvene izskatīsies apmēram šādi:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-help.php:2
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:124
+msgid "Collect hits from any HTML page"
+msgstr "Vāc klikšķu statistiku par HTML lapām"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:14
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:125
+msgid "To allow FireStats to track access to your pages, you need to add the following line inside the head or body tag of each of the pages you want to monitor."
+msgstr "Lai atļautu FireStats vākt apmeklējumu statistiku, ir nepieciešamms ievietot sekojošu rindu katras lapas 'head' vai 'body' daļā"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:149
+msgid "WordPress"
+msgstr "WordPress"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:150
+msgid "The WordPress plugin registers itself automatically when it's activated"
+msgstr "WordPress spraudnis, kad tas tiek aktivizēts, reģistrē pats sevi automātiski"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:156
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:164
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:182
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:188
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:200
+msgid "plugin"
+msgstr "spraudnis"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:170
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:176
+msgid "module"
+msgstr "modulis"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-help.php:2
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:219
+#, php-format
+msgid "Collect hits from a %s site"
+msgstr "Saglabāt klikšķus no %s saita"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:240
+#, php-format
+msgid "and then configure it in the administration menu with the path %s and the ID %s"
+msgstr "un tad to konfigurē saita administratīvajā sadaļā ar šādu ceļu %s un %s ID numuru"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:250
+#, php-format
+msgid "and then edit the lines in %s to contain this:"
+msgstr "un tad rediģē rindas iekš %s lai tas saturētu:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/help-window.php:257
+#, php-format
+msgid "To collect statistics from your %s site your need to install the %s"
+msgstr "Lai vāktu statistiku no saita %s, ir jāustāda %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:10
+msgid "Link here"
+msgstr "Links šeit"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:137
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:205
+msgid "Name"
+msgstr "Nosaukums"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:138
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-add-admin.php:37
+msgid "Email"
+msgstr "E-pasts"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:139
+msgid "Security level"
+msgstr "Drošības līmenis"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:161
+msgid "Admin"
+msgstr "Administrators"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1003
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:166
+msgid "User"
+msgstr "Lietotājs"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:186
+msgid "Add a new user"
+msgstr "Pievienot jaunu lietotāju"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1002
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:198
+msgid "Page"
+msgstr "Lapa"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:204
+msgid "ID"
+msgstr "ID"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:206
+msgid "Type"
+msgstr "Tips"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:207
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:159
+msgid "Page views"
+msgstr "Apskatītas lapas:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:224
+msgid "How to integrate with this site"
+msgstr "Kā to integrēt šajā saitā"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1253
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:253
+msgid "Orphaned hits"
+msgstr "Pazaudētie klikšķi"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:271
+#, php-format
+msgid "Page %s of %s"
+msgstr "%s. lapa no %s lapām kopā"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:279
+msgid "Add a new site"
+msgstr "Pievienot jaunu saitu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:351
+msgid "Generic PHP site"
+msgstr "Standarta PHP lapa"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:353
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:355
+msgid "Django"
+msgstr "Django"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:357
+msgid "Drupal"
+msgstr "Drupal"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:359
+msgid "Gregarius"
+msgstr "Gregarius"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:361
+msgid "Joomla"
+msgstr "Joomla"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:363
+msgid "MediaWiki"
+msgstr "MediaWiki"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:365
+msgid "Trac"
+msgstr "Trac"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:367
+msgid "Gallery2"
+msgstr "Gallery2"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:369
+msgid "Generic HTML site"
+msgstr "Parasts HTML saits"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/html-utils.php:27
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:462
+msgid "Invalid"
+msgstr "Nav pareizs"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:481
+msgid "You are not allowed to view the statistics of any site, please contact your system administrator"
+msgstr "Tev nav tiesības apskatīt saitu statistiku. Lūdzu sazinies ar savu sistēmas administratoru."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:510
+msgid "All"
+msgstr "visas lapas "
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:511
+msgid "Show statistics from"
+msgstr "Parādīt statistiku: "
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:943
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:539
+msgid "unknown"
+msgstr "nezināms"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:998
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:621
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:320
+msgid "IP"
+msgstr "IP"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:999
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:622
+msgid "TimeStamp"
+msgstr "Datums / Laiks"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1000
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:623
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:321
+msgid "URL"
+msgstr "URL"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1001
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:624
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:322
+msgid "Referrer"
+msgstr "No kurienes:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1002
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:625
+msgid "Image"
+msgstr "Attēls"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1003
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:626
+msgid "UserAgent"
+msgstr "Lietotāja sistēma"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1024
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1047
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1217
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1319
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:647
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:737
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:953
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1045
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1080
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1165
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1243
+msgid "No data yet, go get some hits"
+msgstr "Nav datu, ir nepieciešami vismaz pāris lapas apmeklējumi"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1112
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1145
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1170
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:798
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:830
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:852
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:877
+msgid "Empty"
+msgstr "Tukš"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:982
+msgid "Start date is missing"
+msgstr "Trūkst sākuma datuma"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:987
+msgid "End date is missing"
+msgstr "Trūkst beigu datuma"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1007
+msgid "Please wait..."
+msgstr "Lūdzu gaidi..."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1270
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1103
+#, php-format
+msgid "%d hits from %s"
+msgstr "%d klikšķu no %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1227
+msgid "Others"
+msgstr "Citi"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1270
+msgid "System information"
+msgstr "Informācija par sistēmu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1271
+msgid "You can help by sending anonymous system information that will help make better decisions about new features"
+msgstr "Tu vari palīdzēt uzlabot šo produktu, sūtot anonīmu informāciju par sistēmu. Tas palīdzēs pieņemt lemumus par jaunu iespēju un funkciju izveidi"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1272
+msgid "The information will be sent anonymously, but a unique identifier will be sent to prevent duplicate entries from the same FireStats"
+msgstr "Informācija būs anonīma. Īpašs identifikācijas numurs tiks piešķirts, lai novērstu datu dublēšanos no viena un tā paša FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:12
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1421
+msgid "Page views in last 24 hours"
+msgstr "Apskatītas lapas pēdējo 24 stundu laikā:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1422
+msgid "Page views since midnight"
+msgstr "No pusnakts parādītas lapas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:12
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1433
+msgid "Visits in last 24 hours"
+msgstr "Apmeklējumu skaits pēdējo 24 stundu laikā"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1434
+msgid "Visits since midnight"
+msgstr "Apmeklējumi kopš pusnakts"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/html-utils.php:1447
+#, php-format
+msgid "Page %s of %s (%s hits)"
+msgstr "Lapa %s no %s (klikšķi - %s)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:189
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:15
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:23
+msgid "Import bots list"
+msgstr "Importēt botu sarakstu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:34
+msgid "Select bot-list file"
+msgstr "Izvēlēties botu saraksta failu"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:34
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:130
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:35
+msgid "Import type"
+msgstr "Importēšanas veids"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:189
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:37
+msgid "Add to bots list"
+msgstr "Pievienot botu sarakstam"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:92
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:38
+msgid "Replace bots list"
+msgstr "Aizvietot botu sarakstu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:40
+msgid "Send File"
+msgstr "Sūtīt failu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:56
+msgid "Incorrect file format"
+msgstr "Nepareizs faila formāts"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:68
+#, php-format
+msgid "Error importing bots list : %s"
+msgstr "Kļūda importējot botu sarakstu : %s "
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-config-utils.php:198
+#: D:\Projects\firestats\firestats-1.6\firestats/php/import-bots-list.php:73
+msgid "bots list imported successfully"
+msgstr "Botu saraksts importēts veiksmīgi"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:118
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:122
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:252
+msgid "Error creating temporary file"
+msgstr "Kļūda izveidojot pagaidu failu"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:130
+#, php-format
+msgid "Error opening connection to %s"
+msgstr "Kļūda savienojoties ar %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/ip2country.php:27
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:135
+#, php-format
+msgid "Error sending request to %s"
+msgstr "Kļūda sūtot pieprasījumu %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:141
+#, php-format
+msgid "Server returned error %s for %s"
+msgstr "Serveris atgrieza kļūdu %s priekš %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:155
+#, php-format
+msgid "Error reading data from %s : %s"
+msgstr "Lasīšanas kļūda no %s : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:184
+#, php-format
+msgid "Error extracting IP-to-country database: %s"
+msgstr "Kļūda atpakojot IP-to-country datubāzi: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:62
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:189
+#, php-format
+msgid "Unsupported file type : %s"
+msgstr "Faila tips %s netiek atbalstīts"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:209
+#, php-format
+msgid "can't update ip-to-country database, read-only directory : %s"
+msgstr "Nevar jaunināt IP-to-country datubāzi, mape %s ir 'Tikai lasāms' ('read-only) režīmā"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:211
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:213
+#, php-format
+msgid "can't update ip-to-country database, read-only file : %s"
+msgstr "nevar jaunināt IP-to-country datubāzi, fails %s ir 'Tikai lasāms' ('read-only) režīmā"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:228
+msgid "Error installing new IP-to-country database"
+msgstr "kļūda uzstādot jauno IP-to-country datubāzi"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:234
+msgid "Successfuly updated IP-to-country database"
+msgstr "IP-to-country datubāze ir veiksmīgi jaunināta"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: D:\Projects\firestats\firestats-1.6\firestats/php/ip2country.php:238
+#, php-format
+msgid "Error updating version file : %s"
+msgstr "kļūda atjauninot versijas failu: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-add-admin.php:26
+msgid "Create administrator user"
+msgstr "Izveidot administratoru"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-add-admin.php:28
+msgid "You need to create an administrator user for FireStats."
+msgstr "Lai lietotu FireStats, ir jāizveido administrators"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-add-admin.php:29
+msgid "The administrator has full control over FireStats, and will be able to create other users/administrators from the administration interface"
+msgstr "Administratoram ir pilnas kontroles tiesības pār FireStats, kā arī tas var veidot jaunus lietotājus vai administratorus"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1003
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-add-admin.php:33
+msgid "User name"
+msgstr "Lietotājvārds"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:39
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-add-admin.php:45
+msgid "Verify password"
+msgstr "Pārbaudīt paroli"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-add-admin.php:49
+msgid "Create user"
+msgstr "Izveidot lietotāju"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:61
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:51
+msgid "Database status"
+msgstr "Datubāzes stāvoklis"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:61
+#, php-format
+msgid "Upgrade to database version %d"
+msgstr "Jaunināt datubāzes versiju uz %d"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:62
+msgid "Open diagnostics page"
+msgstr "Atvērt diagnostikas lapu"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:22
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:88
+#, php-format
+msgid "Configuration source : %s"
+msgstr "Konfigurācijas avots : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:28
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:94
+msgid "To use wordpress database, click this button."
+msgstr "Lai lietotu Wordpress datubāzi, spied šeit"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:29
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:95
+msgid "FireStats database configuration will be lost."
+msgstr "FireStats datubāzes iestatījumi tiks zaudēti."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:30
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:96
+msgid "Use Wordpress database"
+msgstr "Lietot Wordpress datubāzi"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:50
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:107
+msgid "To perform one of the following actions:"
+msgstr "Lai veiktu vienu no sekojošām darbībām:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:52
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:109
+msgid "Attach to an existing FireStats installation"
+msgstr "Pievienoties jau esošai FireStats datubāzei"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:53
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:110
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:228
+msgid "Install FireStats into an existing database"
+msgstr "Instalēt FireStats jau esošā datubāzē"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:54
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:111
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:231
+msgid "Create a new database and install FireStats there"
+msgstr "Izveidot jaunu datubāzi un instalēt FireStats tajā"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:90
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:113
+msgid "Follow instructions in the help"
+msgstr "Sekojiet instrukcijām 'Palīdzība' sadaļā"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:61
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:121
+msgid "Database host"
+msgstr "Datubāzes serveris"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:65
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:127
+msgid "Database name"
+msgstr "Datubāzes nosaukums"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:69
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:133
+msgid "Database user name"
+msgstr "Datubāzes lietotājvārds"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:139
+msgid "Database password"
+msgstr "Datubāzes parole"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:77
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:145
+msgid "Tables prefix"
+msgstr "Datubāzes prefikss"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:84
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:154
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:226
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:229
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:232
+msgid "Test connection"
+msgstr "Pārbaudīt savienojumu"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:94
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:164
+msgid "Click to install and switch to new FireStats tables"
+msgstr "Instalēt un parslēgties uz jaunajām FireStats tabulām"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:97
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:167
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:229
+msgid "Install tables"
+msgstr "Instalēt tabulas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:106
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:176
+msgid "Click to use this FireStats database"
+msgstr "Lietot šo FireStats datubāzi"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:30
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:180
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:226
+msgid "Use this database"
+msgstr "Lieto šo datu bāzi"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:167
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:192
+msgid "To create a new database, an administrator user should be used in the above fields."
+msgstr "Lai izveidotu jaunu datubāzi, laukos ir jāievada administratora dati"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:168
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:193
+msgid "However, For security reason, it is recommended not to use a database administrator user for day to day operations."
+msgstr "Drošības apsvērumu dēļ nav ieteicams lietota administratora kontu ikdienas vajadzībām"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:169
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:194
+msgid "Enter new user name and password for FireStats, this user will only have access to the FireStats database"
+msgstr "Ievadi jaunu lietotājvārdu un paroli. Šim lietotājam būs piekļuve tikai FireStats datubāzei"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:170
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:195
+msgid "If you will not specify user and password the Admin user and password will be used."
+msgstr "Ja nenorādīsi lietotāja vārdu un paroli, tad pēc noklusējuma tiks lietots administratora vārds un parole"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:202
+msgid "FireStats User name"
+msgstr "FireStats lietotājvārds"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:39
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:206
+msgid "FireStats password"
+msgstr "FireStats parole"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:212
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:232
+msgid "Create database"
+msgstr "Izveidot datubāzi"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:21
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:86
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:224
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:33
+msgid "Help"
+msgstr "Palīdzība"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:52
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:225
+msgid "Attach to an existing FireStats database"
+msgstr "Pievienoties jau esošai FireStats datubāzei"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:23
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:26
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:226
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:229
+#, php-format
+msgid "Enter the parameters in the table, press %s, and then %s."
+msgstr "Ievadi tabulā nepieciešamos parametrus, nospied %s un pēc tam %s."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:29
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-database.php:232
+#, php-format
+msgid "Enter the parameters into the table, <u>you need to enter a database administrator user</u>. press %s, and then enter FireStats database user and password, and finally press %s."
+msgstr "Ievadi tabulā nepieciešamos parametrus, <u> ir jāievada tabulas administratora lietotājvārds un parole </u>. Nospied %s un ievadi FireStats tabulas lietotājvārdu un paroli. Pēc tam nospied %s."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:10
+msgid "Options"
+msgstr "Iespējas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:40
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:14
+msgid "Select language"
+msgstr "Izvēlies valodu"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:13
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:77
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:19
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:30
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:44
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:295
+msgid "Save"
+msgstr "Saglabāt"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:45
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:20
+msgid "How to translate to a new language"
+msgstr "Kā izveidot jaunu tulkojumu?"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:24
+msgid "Select your time zone"
+msgstr "Izvēlies laika zonu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:33
+#, php-format
+msgid "Time zone selection requires %s or newer"
+msgstr "Laika zonas izvēlei ir jābūt %s vai jaunākai"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:37
+msgid "Select WHOIS provider"
+msgstr "Izvēlēties WHOIS provaideru"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:54
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:53
+msgid "Exclude hits"
+msgstr "Neiekļaut klikšķus"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:522
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:54
+msgid "Purge excluded records stored in the database"
+msgstr "No datubāzes izmest neiekļaujamos klikšķus"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:57
+msgid "Purge"
+msgstr "Izmest"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1003
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:60
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:323
+msgid "User agent"
+msgstr "Neuzskaitīt klikšķus no:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:73
+msgid "Automatic update"
+msgstr "Automātiskā atjaunināšana"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:76
+msgid "Update now"
+msgstr "Atjaunināt tagad"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:34
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:130
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:77
+msgid "Import"
+msgstr "Importēt"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:34
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:130
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:81
+msgid "Export"
+msgstr "Eksportēt"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:119
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:86
+msgid "IP address"
+msgstr "IP adrese"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1001
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:98
+msgid "URL/Referrer"
+msgstr " Links / pārsūtītājs"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:119
+msgid "Compact old data"
+msgstr "Arhivēt vecos datus"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:127
+#, php-format
+msgid "%s compact data older than %s"
+msgstr "%s arhivēt datus, kas ir vecāki par %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:144
+msgid "Automatic version check"
+msgstr "Automātiska jauninājumu pārbaude"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:23
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:146
+msgid "Automatically check if there is a new version of FireStats (recommended)"
+msgstr "Automātiski pārbauda, vai ir jaunākas FireStats versijas (ieteicams)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:152
+msgid "Hits processing mode"
+msgstr "Klikšķu apstrādes režīms"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:158
+msgid "This section allow you to modify the way FireStats handles incoming hits. it is useful to fine tune FireStats for sites with very high load."
+msgstr "Šī sadaļa ļauj administrēt veidu, kā FireStats apstrādā ienākošos kliķšķus. Ir lietderīgi pievērst uzmanību saitiem ar lielu apmeklētāju noslodzi."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:162
+msgid "MySQL 5.0 or newer is required for faster processing modes"
+msgstr "Lai nodrošinātu ātrāku datu apstrādi ir nepieciešams MySQL 5.0 vai jaunāks"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:176
+msgid "Overriden by conf.php"
+msgstr "Overriden by conf.php"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:183
+msgid "IP-to-country database"
+msgstr "IP-to-country datubāze"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:185
+#, php-format
+msgid "IP-to-country database version : %s"
+msgstr "IP-to-country datubāzes versija: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:23
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:187
+msgid "Automatically check if there is a new version of IP-to-country database"
+msgstr "Automātiski pārbauda, vai ir jaunāka IP-to-country datubāzes versija"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:190
+msgid "Update IP-to-country database now (only if needed)"
+msgstr "Atjaunināt IP-to-country datubāzi (vienīgi, ja nepieciešams)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:192
+msgid "Update"
+msgstr "Atjaunināt"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:205
+msgid "Automatically"
+msgstr "Automātiski"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:206
+msgid "Manually"
+msgstr "Pašrocīgi"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:207
+msgid "Please select"
+msgstr "Lūdzu izvēlies kā"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:224
+msgid "One week"
+msgstr "nedēļu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:225
+msgid "Two weeks"
+msgstr "divām nedēļām"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:226
+msgid "One month"
+msgstr "mēnesi"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:227
+msgid "Two months"
+msgstr "diviem mēnešiem"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:228
+msgid "Three months"
+msgstr "trijiem mēnešiem"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:229
+msgid "Half a year"
+msgstr "pusgadu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:230
+msgid "One year"
+msgstr "gadu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:231
+msgid "Two years"
+msgstr "diviem gadiem"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:241
+msgid "Process immediately (Slow)"
+msgstr "Apstrādāt uzreiz (lēni)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-settings.php:244
+msgid "Buffer hits (Fast)"
+msgstr "Paturēt buferatmiņā (ātri)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:15
+msgid "Manage sites"
+msgstr "Saitu administrēšana"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:16
+msgid "Search"
+msgstr "Meklēt"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:21
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:349
+msgid "Clear"
+msgstr "Notīrīt"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:34
+msgid "Warning, you can really mess things up from here, be careful!"
+msgstr "Uzmanību. Esi prātīgs, te tiešām daudz ko var salaist grīstē!"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:36
+msgid "FireStats can collect statistics from multiple sites (on the same server)."
+msgstr "FireStats var vākt statistiku no dažādiem saitiem (tikai uz viena servera)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:38
+msgid "The site need to be registered in the sites table"
+msgstr "Saitam jābūt reģistrētam Saitu tabulā"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:39
+msgid "The site should be configured to use its ID when reporting a hit, click on the help button next to the site you created for more information"
+msgstr "Kad tiek uzskaitīti klikšķi, saitam jābūt konfigurētam lietot tā ID. Spied uz saita palīdzības pogas, lai saņemtu papildus informāciju"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-sites.php:42
+#, php-format
+msgid "Click %s for more information"
+msgstr "Lai uzzinātu ko vairāk, spied %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:52
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:80
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:3
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:44
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:78
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:125
+msgid "Refresh statistics"
+msgstr "Atjaunināt statistiku "
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:69
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:190
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:67
+msgid "Not a positive number : "
+msgstr "Nav pozitīvs skaitlis:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:36
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:136
+msgid "Auto refresh every"
+msgstr "Atjaunināt ik"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:39
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:140
+msgid "minutes"
+msgstr "minūtes "
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:141
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:194
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:212
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:237
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:250
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:266
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:282
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:350
+msgid "Apply"
+msgstr "Pielietot"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:7
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:148
+msgid "Status"
+msgstr "Stāvoklis"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:12
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:152
+msgid "Last 24 hours"
+msgstr "pēdējās 24 stundas"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:153
+msgid "Since midnight"
+msgstr "no pusnakts"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:162
+msgid "Visits"
+msgstr "Apmeklējumi:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:171
+msgid "RSS Subscribers"
+msgstr "Parakstījušies uz barotnēm (RSS)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:19
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:185
+msgid "Recent referrers"
+msgstr "Apmeklētāji nākuši no:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:191
+#, php-format
+msgid "Show at most %s items for the last %s days, sorted by %s"
+msgstr "Parādīt %s vienības par pēdējām %s dienām. Grupēt: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:203
+msgid "Search terms"
+msgstr "Meklēšanas pieprasījumi"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:207
+#, php-format
+msgid "Show at most %s search terms for %s"
+msgstr "Parādīt %s meklējuma pieparasījumus par: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:214
+msgid "Start date:"
+msgstr "Sākuma datums:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:215
+msgid "End date:"
+msgstr "Beigu datums:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:26
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:229
+msgid "Recent popular pages"
+msgstr "Populārākās lapas"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:234
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:279
+#, php-format
+msgid "Show at most %s items for the last %s days"
+msgstr "Parādīt %s vienības par %s pēdējām dienām "
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:33
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:244
+msgid "Browsers"
+msgstr "Pārlūkprogrammas"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:247
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:263
+#, php-format
+msgid "Show items for the last %s days"
+msgstr "Parādīt vienības par %s pēdējām dienām "
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:43
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:259
+msgid "Operating systems"
+msgstr "Operētājsistēmas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:125
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:275
+msgid "Countries"
+msgstr "Valstis"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:52
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:289
+msgid "Hits table"
+msgstr "Klikšķu tabula"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:8
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:290
+msgid "Number of hits to show"
+msgstr "Klikšķu skaits, ko parādīt "
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:307
+msgid "Previous page"
+msgstr "Iepriekšējā lapa"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:309
+msgid "Next page"
+msgstr "Nākamā lapa"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:327
+msgid "Filter"
+msgstr "Filtrs"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:367
+msgid "Newest first"
+msgstr "Jaunākie vispirms"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1270
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:368
+msgid "Most hits first"
+msgstr "Populārākie vispirms"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:12
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:377
+msgid "the last 24 hours"
+msgstr "pēdējās 24 stundas"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:378
+msgid "the last week"
+msgstr "nedēļu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:379
+msgid "the last month"
+msgstr "pēdējo mēnesi"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:380
+msgid "the three months"
+msgstr "pēdējiem 3 mēnešiem"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:381
+msgid "the last six months"
+msgstr "pēdējiem 6 pēnešiem"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:382
+msgid "the last year"
+msgstr "gadu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:383
+msgid "all time"
+msgstr "visu laiku"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-stats.php:384
+msgid "time range"
+msgstr "norādīt laika sprīdi"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:8
+msgid "Tools"
+msgstr "Instrumenti"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:9
+msgid "This section contains various tools"
+msgstr "Šī sadaļa satur dažādus instrumentus"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:14
+msgid "I agree to send system information"
+msgstr "Jā, es piekrītu sūtīt informāciju par sistēmu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:18
+msgid "Diagnostics"
+msgstr "Diagnostika"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:19
+msgid "System diagnostics page"
+msgstr "Sistēmas diagnostikas lapa"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:19
+msgid "Open"
+msgstr "Atvērt"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:24
+msgid "PHP Version"
+msgstr "PHP versija"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:27
+msgid "MySQL Version"
+msgstr "MySQL versija"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:30
+msgid "Memory limit"
+msgstr "Atmiņas ierobežojums "
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:65
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:36
+msgid "Database cache"
+msgstr "Datubāzes kešatmiņa"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:37
+msgid "The following section can recalculate different aspects of the database. you don't normally need to use it."
+msgstr "Šeit var atjaunināt / pārstrādāt dažādus datubāzes parametrus. Parasti šo funkciju nav nepieciešams veikt."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:40
+msgid "Recalculate country codes"
+msgstr "Apstrādā valstu kodus"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:45
+msgid "Rebuild database cache"
+msgstr "Atjaunina datubāzes kešatmiņu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-tools.php:50
+msgid "Recalculate search engine terms"
+msgstr "Apstrādā meklēšanas pieprasījumus"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-users.php:27
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools-menu.php:6
+msgid "Manage users"
+msgstr "Lietotāju administrēšana"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-users.php:36
+msgid "You can manage users here"
+msgstr "Te tu vari administrēt lietotājus"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:45
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:21
+msgid "Statistics widget"
+msgstr "Statistikas sīkrīks"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:46
+#, php-format
+msgid "You can configure the sidebar widgets from %s"
+msgstr "Vari konfigurēt sānu joslas sīkrīku paneli no %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:50
+#, php-format
+msgid "The statistics widget requires the %s plugin for optimal usage."
+msgstr "Statistikas sīkrīka optimālai darbībai ir nepieciešams %s spraudnis"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:53
+msgid "Widgets"
+msgstr "Sīkrīki"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:55
+msgid "You can also manually add the following code to your theme sidebar:"
+msgstr "Vari arī pašrocīgi sānu sīkrīku joslai ievietot sekojošu kodu:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:63
+msgid "Comments icons"
+msgstr "Komentāru ikoniņas"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:70
+msgid "Add flag icon to comments"
+msgstr "Pievienot karoga ikonu komentāros"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:77
+msgid "Add browser and operating system icons to comments"
+msgstr "Komentāriem pievienot pārlūkprogrammas un sistēmas ikonas"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:80
+msgid "Blog footer"
+msgstr "Bloga kājene"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:87
+msgid "Add FireStats footer to blog"
+msgstr "Pievienot blogam FireStats kājeni"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:95
+msgid "Show statistics in footer"
+msgstr "Parādīt statistiku kājenē"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:101
+msgid "Excluded users"
+msgstr "Neiekļautie lietotāji"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:102
+msgid "WordPress users selected here will not be counted in the statistics"
+msgstr "Šeit atlasītie WordPress lietotāji netiks iekļauti statistikā:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:106
+msgid "Permissions"
+msgstr "Atļaujas"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:107
+msgid "Select the minimum user role that can access FireStats (Only administrators can manage FireStats)"
+msgstr "Izvēlies lietotāja minimālo lomu, kam būs piekļuve pie FireStats (Tikai administrators var veikt izmaiņas FireStats)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:111
+msgid "Administrator"
+msgstr "Administrators"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:112
+msgid "Editor"
+msgstr "Redaktors"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:113
+msgid "Author"
+msgstr "Autors"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:125
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:114
+msgid "Contributor"
+msgstr "Atbalstītājs"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:115
+msgid "Subscriber"
+msgstr "Parakstītājs"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:123
+msgid "Advanced"
+msgstr "Papildus"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:124
+msgid "WordPress site ID, every hit From this blog is recorded with this as the source Site ID"
+msgstr "WordPress saita ID numurs. Katrs klikšķis no šī blogaa iir iereģistrēts ar to ID numuru, kāds tas ir pamata saitam"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:125
+msgid "This should be the same ID as the Site ID in the sites table. you don't normally need to change this."
+msgstr "Te ir jābūt tam pašam ID numuram, kāds tas ir Saitu ID tabulā. Parasti to nav vajadzības mainīt"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/page-wordpress-settings.php:135
+msgid "This will update the titles of the blog posts inside FireStats, you don't normally need to use it"
+msgstr "Tas apstrādās bloga rakstu virsrakstus FireStats ievaros. Parasti šo funkciju nav vajadzības lietot"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/rebuild-db.php:17
+msgid "Recalculating matching bots"
+msgstr "Apstrādā vienādos botus"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/rebuild-db.php:20
+msgid "Recalculating matching IP addresses"
+msgstr "Apstrādā vienādās IP adreses"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/rebuild-db.php:23
+msgid "Recalculating matching urls"
+msgstr "Apstrādā vienādās adreses"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tabbed-pane.php:12
+msgid "FireStats is under maintenance, please try again later"
+msgstr "FireStats tiek veikta profilakse. Mēģini vēlreiz vēlāk"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:45
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tabbed-pane.php:30
+msgid "Statistics"
+msgstr "Statistika"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:49
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tabbed-pane.php:33
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tabbed-pane.php:41
+msgid "WordPress settings"
+msgstr "Wordpress iestatījumi"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:61
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tabbed-pane.php:52
+msgid "Database"
+msgstr "Datubāze"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tabbed-pane.php:58
+msgid "Users management"
+msgstr "Lietotāju administrēšana"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tabbed-pane.php:65
+msgid "Sites management"
+msgstr "Saitu administrēšana"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+# C:\www\testwp-en\wp-content\plugins\FireStats/index.php:51
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/footer.php:8
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools-menu.php:2
+msgid "FireStats tools"
+msgstr "FireStats instrumenti"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools-menu.php:4
+msgid "System test"
+msgstr "Sistēmas pārbaude"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools-menu.php:5
+msgid "Reset password"
+msgstr "Nodzēst paroli"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:775
+#, php-format
+msgid "Done, took %s second"
+msgstr "Pabeigts, tas aizņēma %s sekundi /es"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:872
+#, php-format
+msgid "%d seconds ago"
+msgstr "%d sekundes atpakaļ"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:875
+msgid "One minute ago"
+msgstr "vienu minūti atpakaļ"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:39
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:878
+#, php-format
+msgid "%d minutes ago"
+msgstr "%d minūtes atpakaļ"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:881
+msgid "one hour ago"
+msgstr "vienu stundu atpakaļ"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:884
+#, php-format
+msgid "%d hours ago"
+msgstr "%d stunadas atpakaļ"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:887
+msgid "One day ago"
+msgstr "vienu dienu atpakaļ"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:890
+#, php-format
+msgid "%d days ago"
+msgstr "%d dienas atpakaļ"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:893
+msgid "One week ago"
+msgstr "vienu nedēļu atpakaļ"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:896
+#, php-format
+msgid "%d weeks ago"
+msgstr "%d nedēļas atpakaļ"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:899
+#, php-format
+msgid "%d months ago"
+msgstr "%d mēnešus atpakaļ"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:902
+msgid "One year ago"
+msgstr "vienu gadu atpakaļ"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/utils.php:905
+#, php-format
+msgid "%d years ago"
+msgstr "%d gadus atpakaļ"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/version-check.php:35
+#, php-format
+msgid "Failed to check version at %s, reason : %s"
+msgstr "Nav iespējams pārbaudīt versiju %s. Iemesls: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/version-check.php:113
+msgid "A new version of the IP-to-country database is available! you can update it from the settings tab"
+msgstr "Ir pieejama jaunāka IP-to-country datubāze! Vari mēģināt to jaunināt 'Iestatījumi' sadaļā"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:71
+#: D:\Projects\firestats\firestats-1.6\firestats/php/version-check.php:136
+#, php-format
+msgid "Version %s is available! click %s for more info"
+msgstr "Ir pieejama versija %s ! Papildus informācija - %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/version-check.php:159
+#, php-format
+msgid "Error opening %s"
+msgstr "Kļūda atverot %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:54
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-ip.php:35
+msgid "Exclude IP address"
+msgstr "Neiekļaut IP adresi:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-ip.php:45
+msgid "Single"
+msgstr "Viena"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1002
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-ip.php:52
+msgid "Range"
+msgstr "Diapazons"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:119
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-ip.php:61
+msgid "IP Address"
+msgstr "IP adrese"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-ip.php:74
+msgid "Range start"
+msgstr "Diapazona sākums"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-ip.php:82
+msgid "Range end"
+msgstr "Diapazona beigas"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-ip.php:99
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-url.php:33
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-site.php:31
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-user.php:20
+msgid "Close"
+msgstr "Aizvērt"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-url.php:22
+msgid "Exclude URL or referrer"
+msgstr "Neiekļaut statistikā pāradresācijas no saita:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-add-excluded-url.php:25
+msgid "Excluded url/referrer"
+msgstr "Statistikā neiekļaujamie saiti (pāradresētāji):"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-archive-notification.php:5
+msgid "Yes (Recommended)"
+msgstr "Jā (ieteicams)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-archive-notification.php:6
+msgid "No"
+msgstr "Nē"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-archive-notification.php:9
+msgid "Compacting old data"
+msgstr "Kompresē vecos datus"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-archive-notification.php:10
+msgid "FireStats can tranform old data to a more compact form,"
+msgstr "FireStats var pārveidot vecos datus daudz kompaktākā formā, "
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-archive-notification.php:11
+msgid "This will reduce storage size and improve performance at the cost of losing some information which is not essential."
+msgstr "Tas samazinās nepieciešamo vietu uz diska, un palielinās veiktspēju uz ne pārāk vērtīgas informācijas rēķina to zaudējot."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-archive-notification.php:12
+msgid "it is highly recommended that you allow FireStats to do this automatically."
+msgstr "Ļoti vēlams ļaut FireStats to veikt automātiski"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-archive-notification.php:14
+#, php-format
+msgid "Click %s if you would like FireStats to automatically compact data older than %s days"
+msgstr "Spied %s, ja vēlies, lai FireStats automātiski arhivētu datus, kas ir vecāki par %s dienām"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-archive-notification.php:15
+#, php-format
+msgid "Click %s if you want to compact data manually or change compacting options (From the Settings tab)"
+msgstr "Spied %s, ja vēlies datus arhivēt pašrocīgi, vai arī mainīt arhivēšanas iespējas (Iestatījumu sadaļa)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-site.php:10
+msgid "Delete site"
+msgstr "Dzēst saitu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-site.php:14
+msgid "This will delete this site from the database, the operation is irreversible!"
+msgstr "Saita dati tiks izdzēsti no datubāzes, tas būs neatgriezeniski!"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-site.php:15
+msgid "What do you want to do with the site hits?"
+msgstr "Ko tu vēlies darīt ar saita statistiku?"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-site.php:18
+msgid "Delete all the hits"
+msgstr "Dzēst arī visu statistiku"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-site.php:19
+msgid "Transfer the hits to another site"
+msgstr "Pārcelt to uz citu saitu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-site.php:22
+msgid "Enter an existing site ID to transfer the hits to"
+msgstr "Ievadi saita ID, uz kuru vēlies pārcelt statistiku"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-user.php:9
+msgid "No such user"
+msgstr "Lietotājs nav atrasts"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-delete-user.php:12
+msgid "Delete user"
+msgstr "Dzēst lietotāju"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-do-you-agree-to-send-sysinfo.php:9
+msgid "You can help by sending anonymous system information that will help make better decisions about new features."
+msgstr "Tu vari palīdzēt izlemt, kādas iespējas pievienot, un kā šo produktu uzlabot sūtot anonīmu informāciju par sistēmu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-do-you-agree-to-send-sysinfo.php:13
+msgid "You can change this later from the Tools tab"
+msgstr "Tu vari to vēlāk mainīt 'Instrumenti' sadaļā"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-do-you-agree-to-send-sysinfo.php:17
+msgid "Do you agree to send anonymous system information?"
+msgstr "Vai piekrīti sūtīt anonīmu atskaiti par savu sistēmu?"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-do-you-agree-to-send-sysinfo.php:20
+msgid "Sure, send system information"
+msgstr "Protams, sūtīt sistēmas informāciju"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-do-you-agree-to-send-sysinfo.php:23
+msgid "Nope, don't send"
+msgstr "Nē, nesūtīt"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-donation.php:8
+msgid "Even though FireStats is free, it takes a lot of time and hard work to develop and maintain."
+msgstr "Kaut arī FireStats ir bezmaksas, tajā ir ieguldīts daudz laika un darba lai to izveidotu un uzturētu."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-donation.php:9
+msgid "If you like FireStats and would like to show your support for the hard work I put into it, You can make a small Donation. Even a $5 donation would be greatly appreciated."
+msgstr "Ja tev patīk FireStats, Tu vari ar ziedojumiem atbalstīt mūs šajā grūtajā darbā. Mēs augstu novērtēsim pat 5$"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-donation.php:11
+msgid "Yeah, I want to help"
+msgstr "Jā, es vēlos palīdzēt"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-donation.php:12
+msgid "Nah, go away"
+msgstr "Nē! Pazūdi"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-donation.php:13
+msgid "Maybe later"
+msgstr "Varbūt vēlāk"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-donation.php:14
+msgid "Already donated"
+msgstr "Jau esmu ziedojis"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-edit-user.php:21
+msgid "All sites"
+msgstr "Visiem saitiem"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-edit-user.php:22
+msgid "Specific sites"
+msgstr "Atsevišķiem saitiem"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:73
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-edit-user.php:25
+msgid "Edit user"
+msgstr "Labot lietotāju"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-edit-user.php:25
+msgid "Create a new user"
+msgstr "Izveidot jaunu lietotāju"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-edit-user.php:36
+msgid "New password (Optional)"
+msgstr "Jauna parole (nav obligāti)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:39
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-edit-user.php:40
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:100
+msgid "Verify new password"
+msgstr "Jaunās paroles pārbaude"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-edit-user.php:51
+msgid "User can access statistics from"
+msgstr "Lietotājam ir piekļuve statistikai"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-edit-user.php:61
+msgid "Comma separated list of allowed site ids (example : 1,4,6)"
+msgstr "Ar komatu atdali atļauto (pieejamo) saitu ID numurus (piemēram: 1,4,6)"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-new-edit-site.php:18
+msgid "Edit site"
+msgstr "Labot saitu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-new-edit-site.php:18
+msgid "Create a new site"
+msgstr "Izveidot jaunu saitu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-new-edit-site.php:40
+msgid "Baseline page views"
+msgstr "Lapas sākuma statistika"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:11
+#: D:\Projects\firestats\firestats-1.6\firestats/php/window-new-edit-site.php:44
+msgid "Baseline visitors"
+msgstr "Lapas apmeklētāju sākuma statistika:"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/emergency-manage-users.php:9
+msgid "Message"
+msgstr "Paziņojums"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/emergency-manage-users.php:10
+msgid "This page will allow you to change the password of any user in FireStats."
+msgstr "Šī lapa ļauj mainīt katra FireStats lietotāja paroli."
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/emergency-manage-users.php:11
+#, php-format
+msgid "For security reasons, you must first edit the file %s"
+msgstr "Drošības iemeslu dēļ, vispirms vajag rediģēt failu: %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/emergency-manage-users.php:12
+#, php-format
+msgid "and change the line %s to %s and then refresh this page."
+msgstr "un mainīt rindu %s uz %s e. Pēc tam nepiesiešams atjaunināt šo lapu"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/emergency-manage-users.php:13
+msgid "Don't forget to change it back when you are done."
+msgstr "Kad esi pabeidzis, neaizmirsti to samainīt atpakaļ"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/emergency-manage-users.php:18
+msgid "IMPORTANT"
+msgstr "SVARĪGI"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:18
+#, php-format
+msgid "You can request an password reset email from here. If it does not work or you don't know your username or email, you can also change your password using the %s"
+msgstr "Tu vari pieprasīt paroles atiestatīšanas e-pastu. Ja tas nedarbojas vai arī tu nezini lietotājvārdu vai e-pastu, vari nomainīt paroli lietojot %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:18
+msgid "Emergency user management page"
+msgstr "Ārkārtas lietotāju administrēšanas lapa"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:28
+msgid "A user with this username and email was not found"
+msgstr "Lietotājs ar tādu vārdu un e-pastu netika atrasts"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:39
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:49
+msgid "FireStats password recovery"
+msgstr "FireStats paroles atjaunošana"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:50
+#, php-format
+msgid "Click %s to change your FireStats password, this link will work for a short time"
+msgstr "Spied %s lai nomainītu savu FireStats paroli. Šis links darbojas tikai īsu brīdi"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:54
+msgid "Email sent"
+msgstr "E-pasts nosūtīts"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:58
+msgid "Failed to send email"
+msgstr "E-pastu nebija iespējams nosūtīt"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:73
+#, php-format
+msgid "Failed, maybe too much time have passed since you generated the email? %s"
+msgstr "Neizdevās. Varbūt ir pagājis pārāk ilgs laiks, kopš e-pats tika nosūtīts? %s"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:73
+msgid "try again"
+msgstr "mēģini vēlreiz"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:239
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:247
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:96
+msgid "New password"
+msgstr "Jauna parole"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:39
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:105
+msgid "Change password"
+msgstr "Nomainīt paroli"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:119
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:125
+msgid "Email address"
+msgstr "E-pasta adrese"
+
+#: D:\Projects\firestats\firestats-1.6\firestats/php/tools/reset-password.php:130
+msgid "Send password reset email"
+msgstr "Nosūtīt paroles atiestatīšanas e-pastu"
+

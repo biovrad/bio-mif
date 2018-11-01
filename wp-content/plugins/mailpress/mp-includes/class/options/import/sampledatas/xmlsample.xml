@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MailPress>
+	<mailinglist>
+		import
+	</mailinglist>
+	<users>
+		<user email="nounours@ortf.fr">
+			<datas>
+				<data id="firstname">
+					Nounours
+				</data>
+				<data id="lastname">
+					ORTF
+				</data>
+				<data id="mobile">
+					+3306xxxxxxxx
+				</data>
+			</datas>
+		</user>
+		<user email="nicolas@ortf.fr">
+			<datas>
+				<data id="firstname">
+					Nicolas
+				</data>
+				<data id="lastname">
+					ORTF
+				</data>
+				<data id="mobile">
+					+3306xxxxxxxx
+				</data>
+				<data id="direction">
+					35 rue de la poupée qui tousse
+				</data>
+			</datas>
+		</user>
+		<user email="pimprenelle.fr">
+			<datas>
+				<data id="firstname">
+					Pimprenelle
+				</data>
+				<data id="lastname">
+					ORTF
+				</data>
+				<data id="mobile">
+					+3306xxxxxxxx
+				</data>
+				<data id="direction">
+					35 rue de la poupée qui tousse
+				</data>
+			</datas>
+		</user>
+	</users>
+</MailPress>

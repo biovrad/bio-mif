@@ -1,0 +1,1 @@
+<form id="searchform" method="get" action="<?php bloginfo('home'); ?>/"> <input type="text" value="для поиска нажмите enter" onfocus="if (this.value == 'для поиска нажмите enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'для поиска нажмите enter';}" size="30" maxlength="50" name="s" id="s" /> </form> 

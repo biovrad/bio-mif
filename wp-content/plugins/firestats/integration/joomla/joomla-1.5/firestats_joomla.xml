@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="system">
+	<name>FireStats plugin</name>
+	<author>OneMarko</author>
+	<creationDate>2008/7/3</creationDate>
+	<copyright>Copyright (C) 2006 Omry Yadan, all rights reserved</copyright>
+	<license>http://firestats.cc/wiki/License</license>
+	<authorEmail>onemarko@gmail.com</authorEmail>
+	<authorUrl>-</authorUrl>
+	<version>1.0</version>
+	<description>FireStats integration plugin for Joomla 1.5.x</description>
+	<files>
+		<filename plugin="firestats_joomla">firestats_joomla.php</filename>
+	</files>
+	<params>
+		<param name="firestats_path" type="text" size="50" default="ENTER FIRESTATS PATH" label="Firestats path"
+			description="&lt;nobr&gt;Absolute path to FireStats system.&lt;br&gt;
+			Example : &lt;br&gt;
+			&lt;b&gt;/var/www/firestats&lt;/b&gt;&lt;br&gt;
+			You may use shortcut names like:&lt;br&gt;
+			&lt;b&gt;%server_root%&lt;/b&gt; for server's root directory&lt;br&gt;
+			&lt;b&gt;%joomla_root%&lt;/b&gt; for Joomla! root directory&lt;br&gt;
+			&lt;br&gt;
+			Path has to be without '/' at the end.
+			&lt;/nobr&gt;" />
+		<param name="firestats_site_id" type="text" size="5" default="1" label="Site ID"
+			description="Site ID from FireStats site managment" />
+		<param name="exclude_administrators_from_stats" type="radio" default="0" label="Exclude administrators" description="If this is selected, hits made by site administrators will not be recorded in FireStats">
+			<option value="0">No</option>
+			<option value="1">Yes</option>
+		</param>
+	</params>
+</install>

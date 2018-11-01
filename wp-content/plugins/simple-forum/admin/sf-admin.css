@@ -1,0 +1,193 @@
+/* simple forum Admin V1.9 */
+
+.sffieldset, .sffieldsetwarn {
+	font-size: 13px;
+	font-weight: normal;
+	color: #5364AE;
+	border: 1px solid #5364AE;
+	width: 90%;
+	margin: 6px 0 6px 0;
+	}
+
+.sffieldset legend {
+	color: black;
+}
+
+.sffieldsetwarn {
+	color: red;
+	border: 1px solid red;
+	}
+
+.sfmaintable {
+	float: left;
+	width: 85%;
+	}
+
+.sfbuttonbox {
+	float: right;
+	text-align:center;
+	}
+	
+.sfcontrol, .sfacontrol {
+	border: 1px solid #5364AE;
+	font-family: Verdana, SanSerif;
+	font-size: 12px;
+	margin: 2px;
+	}
+
+.sfacontrol {
+	padding: 3px 5px;
+	background-color: #EEEEEE;
+	}
+
+.sfgrouptable {
+	background-color: #BFD0FF;
+	width: 100%;
+	}
+
+.sfforumtable {
+	background-color: #FEB093;
+	width: 100%;
+	}
+
+.sfgrouptable th, .sfforumtable th {
+	background-color: #EEEEEE;
+	}
+
+.sfempty {
+	border: 1px solid #DDDDDD;
+	padding: 5px;
+	background-color: #FFFFAA;
+	margin-bottom: 18px;
+	}
+
+.clearboth {
+	clear: both;
+	height: 1px;
+	overflow: hidden;
+	}
+
+/* $Id: example.css,v 1.5 2006/03/27 02:44:36 pat Exp $ */
+
+.tabhelp {
+	border: 1px solid #5364AE;
+/*	background-color: #BFD0FF;*/
+	background: #BFD0FF url( /wp-content/plugins/simple-forum/admin/information.png ) no-repeat 4px 4px;
+	width: 90%;
+	margin: 6px 0 6px 0;
+}
+
+.tabhelp p {
+	font-size: 10px;
+	font-weight: normal;
+	color: #333333;
+	margin: 4px 4px 4px 22px;
+}
+
+/*--------------------------------------------------
+  REQUIRED to hide the non-active tab content.
+  But do not hide them in the print stylesheet!
+  --------------------------------------------------*/
+.tabberlive .tabbertabhide {
+ display:none;
+}
+
+/*--------------------------------------------------
+  .tabber = before the tabber interface is set up
+  .tabberlive = after the tabber interface is set up
+  --------------------------------------------------*/
+.tabber {
+}
+.tabberlive {
+ margin-top:1em;
+}
+
+/*--------------------------------------------------
+  ul.tabbernav = the tab navigation list
+  li.tabberactive = the active tab
+  --------------------------------------------------*/
+ul.tabbernav
+{
+ margin:0;
+ padding: 3px 0;
+ border-bottom: 1px solid #778;
+ font: bold 12px Verdana, sans-serif;
+}
+
+ul.tabbernav li
+{
+ list-style: none;
+ margin: 0;
+ display: inline;
+}
+
+ul.tabbernav li a
+{
+ padding: 3px 0.5em;
+ margin-left: 3px;
+ border: 1px solid #778;
+ border-bottom: none;
+ background: #DDE;
+ text-decoration: none;
+}
+
+ul.tabbernav li a:link { color: #448; }
+ul.tabbernav li a:visited { color: #667; }
+
+ul.tabbernav li a:hover
+{
+ color: #000;
+ background: #AAE;
+ border-color: #227;
+}
+
+ul.tabbernav li.tabberactive a
+{
+ background-color: #fff;
+ border-bottom: 1px solid #fff;
+}
+
+ul.tabbernav li.tabberactive a:hover
+{
+ color: #000;
+ background: white;
+ border-bottom: 1px solid white;
+}
+
+/*--------------------------------------------------
+  .tabbertab = the tab content
+  Add style only after the tabber interface is set up (.tabberlive)
+  --------------------------------------------------*/
+.tabberlive .tabbertab {
+ padding:5px;
+ border:1px solid #aaa;
+ border-top:0;
+
+ /* If you don't want the tab size changing whenever a tab is changed
+    you can set a fixed height */
+
+ /* height:200px; */
+
+ /* If you set a fix height set overflow to auto and you will get a
+    scrollbar when necessary */
+
+ /* overflow:auto; */
+}
+
+/* If desired, hide the heading since a heading is provided by the tab */
+.tabberlive .tabbertab h2 {
+ display:none;
+}
+.tabberlive .tabbertab h3 {
+ display:none;
+}
+
+/* Example of using an ID to set different styles for the tabs on the page */
+.tabberlive#tab1 {
+}
+.tabberlive#tab2 {
+}
+.tabberlive#tab2 .tabbertab {
+ height:200px;
+ overflow:auto;
+}

@@ -1,0 +1,167 @@
+/* =============================================================
+CSS Simple Forum Version 2.1
+Framework CSS
+============================================================= */
+
+/* =============================================================
+Overrides for WP default theme - may not apply
+============================================================= */
+
+.post {
+	text-align: left;
+}
+
+/* =============================================================
+#sforum: Main Outer Container for everything - globals
+============================================================= */
+
+#sforum,
+#sforum div,
+#sforum p,
+#sforum h1,
+#sforum h2,
+#sforum h3,
+#sforum h4,
+#sforum small,
+#sforum span,
+#sforum a,
+#sforum a:link,
+#sforum a:active,
+#sforum a:visited,
+#sforum a:hover,
+#sforum img,
+#sforum form
+{
+	color: #000000;
+	background-color: transparent;
+	border-style: none;
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	text-align: left;
+}
+
+#sforum {
+	width: 99%;
+}
+
+#sforum table {
+	width: 100%;
+	border-collapse: separate;
+	border-spacing: 0 0;
+}
+
+/* =============================================================
+.sfloginstrip: User Login/Registration Strip
+============================================================= */
+
+#sforum .sfloginstrip {
+	width: auto;
+}
+
+#sforum #sfhelpbox,
+#sforum #sfacknowledge {
+	position: absolute; 
+	display: none;
+}
+
+/* =============================================================
+.sfmessagestrip: Breadcrumb and Message Strip
+============================================================= */
+
+#sforum .sfmessagestrip {
+	width: auto;
+}
+
+/* =============================================================
+.sfblock: A complete forum block container (forum, topic post)
+============================================================= */
+
+#sforum .sfblock {
+	width: auto;
+}
+
+#sforum .sficoncell {
+	width: 18px;
+	vertical-align: top;
+}	
+
+#sforum .sficon,
+#sforum img.sicon {
+	cursor: pointer;
+}
+
+/* =============================================================
+.sfsearchblock: The search area
+============================================================= */
+
+#sforum .sfsearchblock {
+	float: left;
+	padding-right: 8px;
+}
+
+/* =============================================================
+.sfheading: Group/Forum/Topic Name (Main Heading)
+============================================================= */
+
+#sforum .sfheading {
+	width: 100%;
+}
+
+/* =============================================================
+.sfforumtable: Forum/Topic tables
+============================================================= */
+
+#sforum .sfforumtable {
+	width: 100%;
+}
+
+/* =============================================================
+.sfposttable: Post table
+============================================================= */
+
+#sforum .sfposttable {
+	width: 100%;
+}
+
+#sforum .sfposttable .sfpostcontent {
+	vertical-align: top;
+}
+
+#sforum .sfposticonstrip {
+	width: auto;
+}
+
+/* =============================================================
+.sffooter: Forum Paging section
+============================================================= */
+
+#sforum .sffooter {
+	width: 100%;
+}
+
+/* =============================================================
+#sfentryform: Topic/Post Form
+============================================================= */
+
+#sforum #sfentryform,
+#sforum #sfsearchform {
+	display: none;
+	width: 100%;
+}
+
+/* =============================================================
+#sfprofileformform: Profile/Login/Regisration etc.
+============================================================= */
+
+#sforum #sprofileform {
+	width: auto;
+}
+
+#sforum #sfprofileform form {
+	width: auto;
+}
+
+.checkcontrol {
+	display: none;
+}

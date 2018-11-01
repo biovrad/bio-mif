@@ -1,0 +1,2226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Forum 2.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-01-06 18:45+0600\n"
+"Last-Translator: Kalinin Ivan <lecactus@lecactus.ru>\n"
+"Language-Team: Lecactus <lecactus@lecactus.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SearchPath-0: C:\\temp\\SimpleForum21\\simple-forum\n"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:86
+msgid "Options"
+msgstr "Настройки"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:197
+msgid "Forum Permalink Updated"
+msgstr "Постоянные ссылки форума обновлены"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:205
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:174
+#: C:\temp\SimpleForum21\simple-forum/sf-control.php:348
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:626
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:206
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:213
+msgid "Forums"
+msgstr "Форумы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:445
+msgid "Options Updated.  Simple Forum will be removed when de-activated"
+msgstr "Настройки обновлены. Simple Forum будет удален после деактивации"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:447
+msgid "Options Updated"
+msgstr "Настройки обновлены"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:464
+msgid "New Forum Group"
+msgstr "Новая группа форумов"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:498
+msgid "New Group Creation Failed!"
+msgstr "Создание новой группы неудачное!"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:500
+msgid "New Forum Group Created"
+msgstr "Новая группа форумов создана"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:519
+msgid "New Forum"
+msgstr "Новый форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:550
+msgid "New Forum Creation Failed!"
+msgstr "Создание нового форума неудачное!"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:552
+msgid "New Forum Created"
+msgstr "Новый форум создан"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:570
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:627
+msgid "No Data Changed"
+msgstr "Данные не изменены"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:603
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:683
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1150
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1167
+msgid "Update Failed!"
+msgstr "Обновление не выполнено!"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:605
+msgid "Forum Group Record Updated"
+msgstr "Запись группы форумов обновлена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:685
+msgid "Forum Record Updated"
+msgstr "Запись форума обновлена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-admin.php:709
+msgid "Forum Group Deleted"
+msgstr "Группа форумов удалена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:13
+#, php-format
+msgid "Simple Forum Version %s - Manage %s"
+msgstr "Simple Forum %s - Управление %s"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:15
+msgid "Manage Forums"
+msgstr "Управление форумами"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:16
+msgid "Manage Options"
+msgstr "Управление настройками"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:19
+msgid "Update Forum Permalink"
+msgstr "Обновить постоянные ссылки форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:25
+msgid "Manage Spam Users"
+msgstr "Управление спам-пользователями"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:30
+msgid "Visit Forum"
+msgstr "Посетить форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:46
+msgid "if you encounter problems that the guide cannot explain - or you find a bug in this plugin - please visit the support forum"
+msgstr "если вы сталкиваетесь с проблемами, которые руководство не может объяснить, или Вы обнаружили ошибку в этом плагине - посетите форум поддержки"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:49
+#, php-format
+msgid "Simple Forum Version %s"
+msgstr "Simple Forum версии %s"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:49
+msgid "copyright 2006-2007 - Andy Staines"
+msgstr "копирайт 2006-2007 - Andy Staines"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:52
+msgid "If you find this plugin useful please consider a small donation to my running, hosting and bandwidth costs"
+msgstr "Если вы нашли плагин полезным, пожалуйста отблагодарите меня"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:112
+msgid "Group ID"
+msgstr "ID Группы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:113
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:212
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:305
+msgid "Group Name"
+msgstr "Название группы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:114
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:139
+msgid "Privacy"
+msgstr "Приватность"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:116
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:141
+msgid "Sequence"
+msgstr "Последовательность"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:126
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:157
+msgid "Delete"
+msgstr "Удалить"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:127
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:158
+msgid "Edit"
+msgstr "Редактировать"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:137
+msgid "Forum ID"
+msgstr "ID Форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:138
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:270
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:348
+msgid "Forum Name"
+msgstr "Название форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:149
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:276
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:354
+msgid "Locked"
+msgstr "Закрыт"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:167
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:645
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:249
+msgid "There are No Forums defined in this Group"
+msgstr "В этой группе форумы не определены"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:172
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:265
+msgid "There are No Groups defined"
+msgstr "Группы не определены"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:184
+msgid "Create New Group"
+msgstr "Создать новую группу"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:186
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:334
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:336
+msgid "Create New Forum"
+msgstr "Создать новый форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:199
+msgid "Edit Forum Group - "
+msgstr "Редактировать группу форумов - "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:201
+msgid "Edit Forum Group"
+msgstr "Редактировать группу форумов"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:215
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:273
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:308
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:351
+msgid "Display Sequence"
+msgstr "Последовательность отображения"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:218
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:280
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:311
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:357
+msgid "Description"
+msgstr "Описание"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:221
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:265
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:314
+msgid "Select Privacy Level"
+msgstr "Выберите уровень приватности"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:226
+msgid "Update Forum Group"
+msgstr "Обновить группу форумов"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:227
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:284
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:320
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:361
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:388
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:415
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:111
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:217
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:249
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:263
+msgid "Cancel"
+msgstr "Отмена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:245
+msgid "Edit Forum - "
+msgstr "Редактирование форума - "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:247
+msgid "Edit Forum"
+msgstr "Редактировать форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:260
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:341
+msgid "Select Group"
+msgstr "Выберите группу"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:283
+msgid "Update Forum"
+msgstr "Обновить форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:298
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:300
+msgid "Create New Forum Group"
+msgstr "Создать новую группу форумов"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:319
+msgid "Create Forum Group"
+msgstr "Создать группу форумов"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:346
+msgid "To set privacy level, edit this record after creation"
+msgstr "Для установки уровня приватности, отредактируйте эту запись после создания"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:360
+msgid "Create Forum"
+msgstr "Создать форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:375
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:377
+msgid "Delete Forum Group"
+msgstr "Удалить группу форумов"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:385
+msgid "Click <strong>Confirm Deletion</strong> to completely remove this forum group.<br />This will remove ALL Forums, Topics and Posts contained in this Group.<br /><br />Please note that this action <strong>can NOT be reversed</strong>."
+msgstr "Нажмите <strong>Подтверждение удаления</strong> для полного удаления группы форумов.<br />Это удалит ВСЕ форумы, темы и сообщения, содержащиеся в группе.<br /><br />Пожалуйста помните, что это действие <strong>НЕОБРАТИМО</strong>."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:387
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:414
+msgid "Confirm Deletion"
+msgstr "Подтверждение удаления"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:401
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:403
+msgid "Delete Forum"
+msgstr "Удалить форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminforms.php:412
+msgid "Click <strong>Confirm Deletion</strong> to completely remove this Forum.<br />This will remove ALL Topics and Posts contained in this Forum.<br /><br />Please note that this action <strong>can NOT be reversed</strong>."
+msgstr "Нажмите <strong>Потверждение удаления</strong> для полного удаления этого форума.<br />Это удалит ВСЕ темы и сообщения, содержащиеся в форуме.<br /><br />Пожалуйста помните, что это действие <strong>НЕОБРАТИМО</strong>."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:16
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:343
+msgid "Save Option Changes"
+msgstr "Сохранить настройки"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:26
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:314
+msgid "Admin"
+msgstr "Администратор"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:28
+msgid "The Page ID and the Page Slug have to match those of the WordPress Page the forum will use. If you change them - they require changing here as well as on the page record"
+msgstr "ID страницы и короткая ссылка определяет значение, которое будет использовать WordPress для форума. Если изменить эти значения, они потребуют изменения и короткой ссылки страницы форума."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:29
+msgid "Forum Page Details"
+msgstr "Детали страницы форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:30
+msgid "Forum Page ID"
+msgstr "ID страницы форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:31
+msgid "Forum Page Slug"
+msgstr "Короткая ссылка форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:35
+msgid "You can set any registered user to be a Moderator granting them Admin rights within the forum. This does NOT grant them any other rights within your weblog"
+msgstr "Как Администратор, Вы можете сделать любого зарегистрированного пользователя модератором. Это НЕ дает ему каких либо других прав на вашем блоге"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:36
+msgid "Forum Moderators"
+msgstr "Модераторы форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:42
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:47
+msgid "Select User"
+msgstr "Выбрать пользователя"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:56
+msgid "This must be set to the user ID of the main forum Administrator - usually the person that installed it. If you prefer to keep your login name secret, you can set an alternative for the forum to use"
+msgstr "Это идентификатор пользователя Администратора форума - обычно это администратор блога (человек, который установил его). Если Вы хотите держать логин в секрете - Вы можете выбрать другое отображаемое имя"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:57
+msgid "Forum Administrator"
+msgstr "Администратор форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:58
+msgid "Forum Administrator ID"
+msgstr "ID Администратора форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:59
+msgid "Forum Display Name"
+msgstr "Имя для отображения на форуме"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:62
+msgid "Lock Down Forum"
+msgstr "Заблокировать форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:63
+msgid "Lock the entire forum (read only)"
+msgstr "Заблокировать весь форум (оставить только для чтения)"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:68
+msgid "An email can be sent to the Admin when a new post is created and unread posts can be dispalyed on the front page. The Admin tool icons can also be turned on/off within the forum itself"
+msgstr "На почтовый ящик Администратора может отправляться уведомление, когда кто либо создаст новое сообщение и непрочтенные сообщения могут появляться на заглавной странице форума. Инструменты администратора также могут быть включены/отключены вне форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:69
+msgid "New Posts and Tools"
+msgstr "Новые ответы и инструменты"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:70
+msgid "Notify Admin (email) on new Topic/Post"
+msgstr "Уведомлять администратора по электронной почте о новом сообщении/теме"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:71
+msgid "Display Unread Posts on Front Page"
+msgstr "Отображать непрочтенные сообщения на главной странице"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:72
+msgid "Include Posts by Moderators in list"
+msgstr "Включить сообщения модераторов в список"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:73
+msgid "Display Admin Tool Icons"
+msgstr "Отображать иконку инструментов админа"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:81
+msgid "Users"
+msgstr "Пользователи"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:83
+msgid "Your forum can be for registered members only or can allow 'guests' to post. You can optionally moderate posts, checking them before publishing and full Member profile data can be collected and displayed"
+msgstr "На форуме могут писать как гости, так и только зарегистрированные участники. Вы можете выбрать возможность предварительной модерации сообщений, созданных как гостями, так и участниками форума. Полная информация об участнике может быть собрана и отображена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:83
+msgid "You can allow Members to save a textual signature. Edits to a post can be denied after the post has received a reply. You can allow Members to subscribe to email notifications for topics"
+msgstr "Вы можете позволить участникам форума иметь текстовую подпись, редактрировать свои сообщения после получения ответа на них, а также можете разрешать участникам подписываться на уведомления тем по электронной почте"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:87
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:24
+msgid "New User Registrations are Currently Disabled"
+msgstr "Регистрация новых пользователей приостановлена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:95
+msgid "Users and Registration"
+msgstr "Пользователи и регистрация"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:96
+msgid "Allow Guests to Post in Public Forums"
+msgstr "Разрешить гостям писать в публичные форумы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:97
+msgid "Show Login/Logout/Register if allowed"
+msgstr "Показать Вход / Выход / Регистрация если разрешено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:98
+msgid "Moderate Non-Registered Users Posts"
+msgstr "Модерировать сообщения гостей"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:99
+msgid "Moderate Registered Members Posts"
+msgstr "Модерировать сообщения зарегистрированных пользователей"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:100
+msgid "Moderate First Post Only"
+msgstr "Модерировать только первое сообщение"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:101
+msgid "Collect and Display Extended Profile"
+msgstr "Собирать и отображать расширенный профиль"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:104
+msgid "User Permissions"
+msgstr "Права пользователя"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:105
+msgid "Allow User Signatures (text)"
+msgstr "Разрешить пользователям использовать подписи (текст)"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:106
+msgid "Disallow User Edits after Reply to Post"
+msgstr "Отключение возможности правки своих сообщений пользователем, после того, как на него получен ответ"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:107
+msgid "Allow Users to Subscribe (email) to Topics"
+msgstr "Разрешить пользователям подписываться (по электронной почте) на темы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:111
+msgid "You can set rankings against users marking the number of posts they have made. Set the rankings in numeric order. Set the final ranking high enough"
+msgstr "Вы можете настроить рейтинг пользователей, основанный на количестве сообщений, которые они уже написали. Задайте рейтинги в числовом порядке. Установите максимальный рейтинг достаточно высоким"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:112
+msgid "User Rankings"
+msgstr "Рейтинги пользователей"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:123
+msgid "Global"
+msgstr "Глобальные"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:125
+msgid "Select whether to display Avatars or not. You can choose to accept Gravatars by default or allow users to upload files to your site. Alowing both will use local avatars when the Gravatr servier is not available. Finally, you can set the size limit to allow"
+msgstr "Выберите возможность отображения аватаров. Использование своих аватаров и их загрузка на сайт. Разрешается использовать вместе локальные аватары когда сервер Gravatar не доступен. Также вы можете установить допустимый размер"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:126
+msgid "Avatars"
+msgstr "Аватары"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:127
+msgid "Display Avatars"
+msgstr "Показывать аватары"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:128
+msgid "Use Gravatars by default"
+msgstr "Использовать Gravatars по умолчанию"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:129
+msgid "Allow Registered User Avatar Upload"
+msgstr "Позволить участникам загружать свои аватары"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:130
+msgid "Maximum Avatar Width/Height (pixels)"
+msgstr "Максимальная высота и ширина аватара в пикселях"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:134
+msgid "Select whether to allow people to subscribe to RSS2 feeds from forums and topics. You may also set how many most recent items to allow to be fed. Finally determine whether to allow a complete post (set to 0) or to limit each post to so many words"
+msgstr "Выберите для возможности подписки на ленты RSS2 из форумов и тем. Можно также задать как много последних сообщений будет в ленте. Также вы можете определить помещать в RSS полные сообщения или только несколько слов"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:135
+msgid "RSS Feeds (Forums/Topics)"
+msgstr "RSS ленты (Форумы / Темы)"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:136
+msgid "Allow RSS Feeds"
+msgstr "Разрешить RSS ленты"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:137
+msgid "Number of Recent Posts to feed"
+msgstr "Число последних сообщений в RSS"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:138
+msgid "Limit to Number of Words (0=all)"
+msgstr "Ограничить число слов (0 = все слова)"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:144
+msgid "Select whether or not to use the Spam Post prevention tools on postings. This uses, amongst other devices, the simple math question. You may also set the url to use for the 'Home' link in the forum breadcrumbs"
+msgstr "Выберите использовать или нет инструменты защиты от спам сообщений, математическим действием (допустим напишите сколько будет 2+3). Также можно задать URL главной страницы в ссылках форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:145
+msgid "Spam Detection"
+msgstr "Обнаружение спама"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:146
+msgid "Use Spam Prevention Tools"
+msgstr "Использовать инструменты предотвращения спама"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:147
+msgid "Use Spam Tools for Admin and Moderators"
+msgstr "Использовать антиспам инструменты для Администраторов и Модераторов"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:148
+msgid "Use Spam Tools on User Registrations"
+msgstr "Использовать антиспам инструменты при регистрации пользователей"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:150
+msgid "Breadcrumb 'Home' Link"
+msgstr "Ссылка главной страницы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:151
+msgid "Show Home Link"
+msgstr "Показать ссылку на главную страницу"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:152
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:211
+msgid "Home"
+msgstr "Главная"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:156
+msgid "The forums use the TinyMCE rich text editor by default. If you prefer a simpler editor, you can select to use the Quicktags editor instead"
+msgstr "Форум использует текстовый редактор TinyMCE по умолчанию. Вы можете использовать вместо него редактор Quicktags"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:157
+msgid "Post Editing"
+msgstr "Редактирование сообщения"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:158
+msgid "Use 'Quicktags' Editor"
+msgstr "Использовать редактор Quicktags"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:159
+msgid "Convert Smilies (Quicktags)"
+msgstr "Преобразовывать смайлики в картинки"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:161
+msgid "Page Title"
+msgstr "Заголовок страницы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:162
+msgid "Show Forum/Topic in Page Title"
+msgstr "Отображение Форума / Темы в заголовке страницы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:164
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:165
+msgid "Display Forum Statistics"
+msgstr "Показывать статистику форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:166
+msgid "Display Search Bar"
+msgstr "Показать панель поиска"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:176
+msgid "You can select to have a recent post list shown to users on the front page and also determne how many posts to show"
+msgstr "Вы можете выбрать количество недавно появившихся сообщений, которые будут показываться на главной странице форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:177
+msgid "Forum View Formatting"
+msgstr "Форматирование вида форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:178
+msgid "Display Recent Posts on Front Page"
+msgstr "Показывать последние сообщения на главной странице форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:179
+msgid "Number of Recent Posts to Display"
+msgstr "Сколько отображать последних сообщений"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:180
+msgid "Display Recent Posts Above Groups"
+msgstr "Показывать последние сообщения над группами"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:184
+msgid "Select which columns to display when viewing the list of Forums in Groups"
+msgstr "Выберите какие колонки отображать при просмотре форумов в группах"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:185
+msgid "Forum View Columns"
+msgstr "Колонки просмотра форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:186
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:208
+msgid "Show the Last Post Column"
+msgstr "Показывать колонку последнего ответа в теме"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:187
+msgid "Show the Topic Count Column"
+msgstr "Отображать колонку счетчика тем"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:188
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:209
+msgid "Show the Post Count Column"
+msgstr "Отображать колонку счетчика сообщений"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:196
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:208
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:363
+msgid "Topics"
+msgstr "Темы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:198
+msgid "Choose how many Topics to display per page. You can also opt to have topics sorted so that those with most recent posting appear at the top - the default is  by creation date"
+msgstr "Выберите сколько тем отображать на странице. Вы также можете сортировать порядок отображения тем, которые имеют большее количество ответов, допустим ближе к верху страницы. По умолчанию сортировка по дате создания темы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:199
+msgid "Topic View Formatting"
+msgstr "Форматирование вида темы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:200
+msgid "Topics to Display Per Page"
+msgstr "Сколько тем отображать на странице"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:201
+msgid "Sort Topics by Most recent Postings (newest first)"
+msgstr "Сортировать темы по новым ответам (новые вначале)"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:205
+msgid "Select which columns to display when viewing the list of Topics in a Forum"
+msgstr "Выберите какие колонки отображать при просмотре списка тем в форуме"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:206
+msgid "Topic View Columns"
+msgstr "Колонки просмотра темы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:207
+msgid "Show the Topic Started Column"
+msgstr "Показывать колонку даты начала темы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:210
+msgid "Show the Views Count Column"
+msgstr "Показывать колонку счетчика просмотров"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:218
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:209
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:396
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:887
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:940
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:1027
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:376
+msgid "Posts"
+msgstr "Сообщения"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:220
+msgid "Determine how many Posts to display per page. You can display the user information above the post content which is useful if you are tight for width. You can also change the default sort order of posts so newest posts are at the top"
+msgstr "Определите сколько сообщений отображать на странице. Вы также можете выбрать возможность отображения полезной информации о пользователе, если имеется ограничение по ширине страницы (сайдбар мешает). Вы также можете выбрать отображать посты от нового к старому, либо наоборот."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:221
+msgid "Post View Formatting"
+msgstr "Форматирование вида сообщений"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:222
+msgid "Posts to Display Per Page"
+msgstr "Показывать сообщений на страницу"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:223
+msgid "Display User Info Above Post"
+msgstr "Отображать информацию о пользователе над сообщением"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:224
+msgid "Sort Posts Newest to Oldest"
+msgstr "Сортировка сообщений от новых к старым"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:228
+msgid "Set the formatting for date and time display. This uses standard php codes. You can also set the +/- hours from your server so times are shown in your local time zone"
+msgstr "Установите формат отображения даты и времени. Используется стандартный php код. Также можно использовать поправку часовых поясов."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:229
+msgid "Date/Time Formatting"
+msgstr "Форматирование Даты / Времени"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:230
+msgid "Date Display Format"
+msgstr "Формат отображения даты"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:231
+msgid "Time Display Format"
+msgstr "Формат отображения времени"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:232
+msgid "+/- Hours From Server"
+msgstr "+/- часов от времени сервера (Москва +3)"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:233
+msgid "Date/Time Help"
+msgstr "Помощь по дате / времени"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:241
+msgid "Links"
+msgstr "Ссылки"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:243
+msgid "Blog posts and Forum posts can be linked in that creating one can create a parallel post in the other"
+msgstr "Записи блога и сообщения форума могут быть связаны: при создании записи в блоге можно автоматически создавать тему в форуме для обсуждения и наоборот"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:244
+msgid "Post Linking"
+msgstr "Связь записей"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:245
+msgid "Enable Post Linking"
+msgstr "Разрешить связь записей"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:246
+msgid "Post Excerpt only to Forum"
+msgstr "Помещать в форум только цитату из записи блога"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:247
+msgid "If Excerpt - How many Words"
+msgstr "Если помещать цитату, то сколько слов оставлять"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:251
+msgid "You can enter the text to display on linked items"
+msgstr "Вы можете ввести текст для показа в связанных позициях"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:252
+msgid "Link Display Text"
+msgstr "Показывать текст на ссылке"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:254
+msgid "Display Link Above Post Content"
+msgstr "Показывать ссылку над содержанием записи"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:255
+msgid "Blog Post - Link Text to Display"
+msgstr "Запись блога - показывать текст на ссылке"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:256
+msgid "Forum Post - Link Text to Display"
+msgstr "Сообщение форума - показывать текст на ссылке"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:257
+msgid "Text can include HTML, class name and the placeholder %ICON%"
+msgstr "Текст может включать HTML, имя класса и переменную-заменитель %ICON%"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:265
+msgid "Tags"
+msgstr "Теги"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:267
+msgid "The 'Annouce' template tag can be used to show the most recent posts and can also be set to auto-refresh"
+msgstr "Тег шаблона 'Анонс' может быть использован для показа последних сообщений и может также автоматически обновляться."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:268
+msgid "Announce Template Tag"
+msgstr "Тег шаблона Анонс"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:269
+msgid "Enable Announce Tag"
+msgstr "Разрешить тег Анонса"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:270
+msgid "Display as Unordered List (default=Table)"
+msgstr "Показать как неупорядоченный список (по умолчанию=Table)"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:271
+msgid "How many most recent posts to display"
+msgstr "Сколько показывать последних сообщений"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:272
+msgid "Tag display Heading"
+msgstr "Отображаемый заголовок тега"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:273
+msgid "Text format of tag post link"
+msgstr "Формат текста тега ссылки на запись"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:274
+msgid "Text can include the following placeholders: %FORUMNAME%, %TOPICNAME%, %POSTER% and %DATETIME%"
+msgstr "Текст может включать следующие переменные-заменители: %FORUMNAME%, %TOPICNAME%, %POSTER% и %DATETIME%"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:278
+msgid "You can optionally set the template tag to automatically refresh the data"
+msgstr "Вы можете опционально установить чтобы тег шаблона автоматически обновлял данные"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:279
+msgid "Announce Auto Refresh"
+msgstr "Автоматическое обновление анонса"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:280
+msgid "Enable Auto-Refresh"
+msgstr "Разрешить автоматическое обновление"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:281
+msgid "How many most seconds before refresh"
+msgstr "Сколько секунд ждать перед обновлением"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:289
+msgid "Style"
+msgstr "Стиль"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:291
+msgid "Select both the 'Skin' to use and the 'Icon Set' for the display of your forums."
+msgstr "Выберите скин форума и стиль иконок."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:292
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:528
+msgid "Forum Skin/Icons"
+msgstr "Иконки / скины форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:294
+msgid "Select Skin"
+msgstr "Выбор скина"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:298
+msgid "Select Icon Set"
+msgstr "Выбор набора иконок"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:303
+msgid "Select the language file to be used by the Rich Text Editor."
+msgstr "Выберите языковой файл, который использует Расширенный текстовый редактор."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:304
+msgid "Editor Language"
+msgstr "Язык редактора"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:306
+msgid "Select 2 letter Language Code"
+msgstr "Выберите двухсимвольный код языка"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:313
+msgid "If you are using an Icon Set that includes text on the graphic icons, you can repress the text display of that icon below"
+msgstr "Если вы используете набор иконок, которые определяются текстом, Вы можете задать их отображение как текст"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:314
+msgid "Display Icon Text"
+msgstr "Отображать текстом"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:330
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:333
+msgid "Uninstall"
+msgstr "Деинсталяция"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:332
+msgid "<strong>NOTE:</strong> Checking this option will completely remove all tables and options when the Simple Forum plugin is de-activated<br />The Page is NOT removed"
+msgstr "<strong>ПРИМЕЧАНИЕ:</strong> Выбор этой опции удалит все таблицы и настройки когда плагин Simple Forum будет деактивирован. Сама страница не будет удалена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminoptions.php:334
+msgid "Completely Remove Forum"
+msgstr "Полностью удалить форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminusers.php:73
+#: C:\temp\SimpleForum21\simple-forum/sf-adminusers.php:86
+msgid "Remove Spam User Registrations"
+msgstr "Удалить регистрации спам-пользователей"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminusers.php:76
+msgid " registered users were removed"
+msgstr "участников удалено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminusers.php:78
+#: C:\temp\SimpleForum21\simple-forum/sf-adminusers.php:103
+msgid "Return to Forum Management"
+msgstr "Вернуться к управлению форумом"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminusers.php:87
+msgid "This option should be used with great care! It will remove ALL user registrations that"
+msgstr "Эту опцию следует использовать с большой осторожностью! Она удалит ВСЕ регистрации пользователей, которые"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminusers.php:89
+msgid "are now over 7 days old"
+msgstr "старше 7 дней"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminusers.php:90
+msgid "where the user has never posted to the forum"
+msgstr "никогда не писали в форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminusers.php:91
+msgid "where the user has never authored a post"
+msgstr "никогда не были авторами сообщений"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminusers.php:92
+msgid "where the user has never left a comment"
+msgstr "никогда не оставляли комментариев"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminusers.php:94
+msgid "Use at your own risk!"
+msgstr "Используйте это на свой страх и риск!"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-adminusers.php:100
+msgid "Remove Spam Users"
+msgstr "Удалить спам-пользователей"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-avatars.php:27
+msgid "AVATAR UPLOAD ERROR: File must have an extension"
+msgstr "ОШИБКА ЗАГРУЗКИ АВАТАРА: Файл должен иметь расширение"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-avatars.php:33
+msgid "AVATAR UPLOAD ERROR: Unrecognised File Extension"
+msgstr "ОШИБКА ЗАГРУЗКИ АВАТАРА: Нераспознанное расширение файла"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-avatars.php:42
+#, php-format
+msgid "AVATAR UPLOAD ERROR: Image exceeds %s pixel maximum"
+msgstr "ОШИБКА ЗАГРУЗКИ АВАТАРА: изображение превышает допустимые размеры: %s"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-avatars.php:52
+msgid "AVATAR UPLOAD ERROR: Target folder cannot be reached"
+msgstr "ОШИБКА ЗАГРУЗКИ АВАТАРА: Целевая папка не доступна"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-avatars.php:64
+msgid "Avatar Successfully Uploaded"
+msgstr "Аватар успешно загружен"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-avatars.php:70
+msgid "AVATAR UPLOAD ERROR: Unable to move file to designated directory"
+msgstr "ОШИБКА ЗАГРУЗКИ АВАТАРА: Невозможно переместить файл в назначенную папку"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-avatars.php:77
+msgid "AVATAR UPLOAD ERROR: File does not appear to be a valid upload"
+msgstr "ОШИБКА ЗАГРУЗКИ АВАТАРА: Такие файлы загружать не разрешено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-avatars.php:91
+msgid "AVATAR UPLOAD ERROR: That is not a valid file. 0 byte length."
+msgstr "ОШИБКА ЗАГРУЗКИ АВАТАРА: Файл пустой. Размер 0 байт."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-avatars.php:95
+#, php-format
+msgid "AVATAR UPLOAD ERROR: This file, at %s bytes, exceeds the maximum allowed file size as set in <em>php.ini</em>."
+msgstr "ОШИБКА ЗАГРУЗКИ АВАТАРА: Ваш файл размером %s байт превышает допустимый размер, опеределенный в <em>php.ini</em>."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-avatars.php:99
+msgid "AVATAR UPLOAD ERROR: This file exceeds the maximum file size specified."
+msgstr "ОШИБКА ЗАГРУЗКИ АВАТАРА: Размер файла превышает максимально разрешенный."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-avatars.php:103
+msgid "AVATAR UPLOAD ERROR: File was only partially uploaded. This could be the result of a connection problem"
+msgstr "ОШИБКА ЗАГРУЗКИ АВАТАРА: Файл загружен частично. Это может быть результатом проблемы с подключением"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-avatars.php:107
+msgid "AVATAR UPLOAD ERROR: No Avatar File Uploaded"
+msgstr "ОШИБКА ЗАГРУЗКИ АВАТАРА: Аватар не загружен"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-avatars.php:113
+msgid "AVATAR UPLOAD ERROR: Unknown Error"
+msgstr "ОШИБКА ЗАГРУЗКИ АВАТАРА: Неизвестная ошибка"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-control.php:324
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:517
+msgid "Simple Forum"
+msgstr "Simple Forum"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-control.php:357
+#, php-format
+msgid "There is %s new post"
+msgstr "%s новое сообщение"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-control.php:359
+#, php-format
+msgid "There are %s new posts"
+msgstr "%s новых сообщений"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-control.php:361
+msgid " in the forum topic "
+msgstr " в теме форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-control.php:364
+msgid "There are no new forum posts"
+msgstr "Нет новых сообщений"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-control.php:369
+msgid "There is 1 post awaiting approval"
+msgstr "1 сообщение ожидает одобрение"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-control.php:373
+#, php-format
+msgid "There are %s posts awaiting approval"
+msgstr "%s сообщений ожидают одобрения"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-feeds.php:31
+msgid "Group"
+msgstr "Группа"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-feeds.php:35
+#: C:\temp\SimpleForum21\simple-forum/sf-feeds.php:80
+#: C:\temp\SimpleForum21\simple-forum/sf-feeds.php:119
+#: C:\temp\SimpleForum21\simple-forum/sf-feeds.php:157
+msgid "Simple Forum Version "
+msgstr "Simple Forum версия "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-feeds.php:53
+#: C:\temp\SimpleForum21\simple-forum/sf-feeds.php:94
+#: C:\temp\SimpleForum21\simple-forum/sf-feeds.php:134
+#: C:\temp\SimpleForum21\simple-forum/sf-feeds.php:175
+msgid " on "
+msgstr " в "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-feeds.php:77
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:887
+msgid "Topic"
+msgstr "Тема"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-feeds.php:116
+msgid "Forum"
+msgstr "Форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-feeds.php:154
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:300
+msgid "All Forums"
+msgstr "Все форумы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-filters.php:49
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:69
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:186
+msgid "Math Required!"
+msgstr "Защита от спама: напишите результат вычисления!"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-filters.php:50
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:70
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:187
+#, php-format
+msgid "What is the sum of: <strong> %s + %s </strong>"
+msgstr "Напишите сумму чисел: <strong> %s + %s </strong>"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:12
+#, php-format
+msgid "Add New Topic to: <strong>%s</strong>"
+msgstr "Добавить новую тему в: <strong>%s</strong>"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:34
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:155
+msgid "NOTE: New Posts are subject to administrator approval before being displayed"
+msgstr "ПРИМЕЧАНИЕ: Новые сообщения модерируются перед появлением"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:38
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:158
+msgid "Guest Name (Required)"
+msgstr "Имя гостя (обязательно)"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:41
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:161
+msgid "Guest EMail (Required)"
+msgstr "E-MAIL (обязательно)"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:45
+msgid "Topic Name"
+msgstr "Название темы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:71
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:188
+msgid "(Required)"
+msgstr "(обязательно)"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:76
+msgid "Topic Message"
+msgstr "Сообщение темы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:95
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:662
+msgid "Lock this Topic"
+msgstr "Закрыть эту тему"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:96
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:664
+msgid "Pin this Topic"
+msgstr "Прикрепить эту тему"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:103
+msgid "Create Linked Post"
+msgstr "Создать связанную запись"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:110
+msgid "Save New Topic"
+msgstr "Сохранить новую тему"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:115
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:221
+msgid "Email Subscriptions on this forum are open.<br />To be notified of responses, click on Subscribe"
+msgstr "На этот форум разрешена подписка. <br /> Чтобы получать уведомления нажмите на икноку подписки"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:132
+#, php-format
+msgid "Reply to Topic: <strong> %s </strong>"
+msgstr "Ответ в тему: <strong> %s </strong>"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:193
+msgid "Topic Reply"
+msgstr "Ответ в тему"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:211
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:738
+msgid "Pin this Post"
+msgstr "Прикрепить это сообщение"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:216
+msgid "Save New Post"
+msgstr "Сохранить новое сообщение"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:248
+msgid "Save Edited Post"
+msgstr "Сохранить измененное сообщение"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:262
+msgid "Save"
+msgstr "Сохранить"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:280
+msgid "Search Forums"
+msgstr "Поиск в форумах"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:286
+msgid "Search Forum"
+msgstr "Поиск в форумах"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:296
+msgid "Current Forum"
+msgstr "Текущий форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:305
+msgid "Match Any Word"
+msgstr "Совпадение по любому слову"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:306
+msgid "Match All Words"
+msgstr "Совпадение по всем словам"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:307
+msgid "Match Phrase"
+msgstr "Совпадение по фразе"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:316
+msgid "Member Search"
+msgstr "Поиск Участника"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:321
+msgid "List Topics You Have Posted To"
+msgstr "Список тем, в которых вы оставили сообщения"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:364
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:550
+#, php-format
+msgid "Profile Information for: <strong> %s </strong>"
+msgstr "Профиль пользователя: <strong> %s </strong>"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:368
+msgid "Note: Except for the email address - all other information may be made public"
+msgstr "Примечание: email не будет опубликован"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:389
+msgid "Email Address (Required)"
+msgstr "Email адрес (обязательно)"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:390
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:560
+msgid "Website URL"
+msgstr "Сайт"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:391
+msgid "Display Name"
+msgstr "Отображаемое имя"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:393
+msgid "Change Password"
+msgstr "Смена пароля"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:394
+msgid "Current Password"
+msgstr "Текущий пароль"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:395
+msgid "New Password"
+msgstr "Новый пароль"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:396
+msgid "Repeat New Password"
+msgstr "Повторите новый пароль"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:403
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:558
+msgid "First Name"
+msgstr "Имя"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:404
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:559
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:406
+msgid "User IDs"
+msgstr "ID пользователя"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:407
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:562
+msgid "AIM"
+msgstr "AIM"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:408
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:563
+msgid "Yahoo IM"
+msgstr "Yahoo IM"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:409
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:564
+msgid "Jabber/Google Talk"
+msgstr "Jabber/Google Talk"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:410
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:565
+msgid "MSN Messenger"
+msgstr "MSN Messenger"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:420
+msgid "This site supports Gravatars but also allows for uploading an avatar if you do not have a gravatar and to use when gravatars are not available"
+msgstr "Сайт поддерживает Gravatar'ы, но вы также можете загрузить аватар если вы не имеете gravatar и для использования этого аватара если gravatar не доступен"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:423
+msgid "Upload Avatar"
+msgstr "Загрузить аватар"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:427
+#, php-format
+msgid "Files accepted: GIF, PNG, JPG and JPEG<br />Maximum size accepted: %s x %s pixels"
+msgstr "Только файлы с расширениями GIF, PNG, JPG и JPEG. Максимальный размер %s x %s пикселей"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:435
+msgid "Short Biographical Note (Please keep it brief)"
+msgstr "Краткая биографическая справка"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:440
+msgid "Signature"
+msgstr "Подпись"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:445
+msgid "Update Profile"
+msgstr "Обновить профиль"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:449
+msgid "Manage Subscriptions"
+msgstr "Управление подпиской"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:452
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:509
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:573
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:652
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:153
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:200
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:340
+msgid "Return to Forum"
+msgstr "Вернуться к форуму"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:477
+#, php-format
+msgid "Current Topic Subscriptions for: <strong> %s </strong>"
+msgstr "Текущие подписки на темы: <strong> %s </strong>"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:496
+msgid "You are currently subscribed to No Topics"
+msgstr "Вы не подписаны ни на одну тему"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:498
+msgid "To Unsubscribe, uncheck topic"
+msgstr "Для отписки уберите галочку напротив названия темы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:507
+msgid "Update Subscriptions"
+msgstr "Обновить подписку"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:508
+msgid "Return to Profile"
+msgstr "Вернуться к профилю"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:561
+msgid "Bio"
+msgstr "О себе"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:577
+#, php-format
+msgid "List Topics %s Has Posted To"
+msgstr "Список тем, в которых писал %s"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:592
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:593
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:258
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:501
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:849
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1433
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1466
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1499
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1534
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1577
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1620
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1648
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1691
+msgid "Access Denied"
+msgstr "Доступ запрещен"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:600
+#, php-format
+msgid "Select new Forum for Topic: &nbsp;&nbsp;&nbsp; %s"
+msgstr "Выберите новый форум для темы: &nbsp;&nbsp;&nbsp; %s"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:626
+msgid "Select"
+msgstr "Выбрать"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-forms.php:651
+msgid "Move Topic to Selected Forum"
+msgstr "Переместить тему в выбранный форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-links.php:37
+msgid "Link To Forum"
+msgstr "Ссылка на форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-links.php:41
+msgid "Create Forum Topic"
+msgstr "Создать тему форума"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-links.php:42
+msgid "Select Forum:"
+msgstr "Выбор форума:"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-login.php:79
+msgid "Your session has expired."
+msgstr "Сессия истекла."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-login.php:82
+msgid "<strong>Error</strong>: The password field is empty."
+msgstr "<strong>Ошибка</strong>: поле пароля не заполнено."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:89
+msgid "This forum is currently locked - access is read only"
+msgstr "Этот форум в настоящее время закрыт - только для чтения"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:171
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:243
+#, php-format
+msgid "Group %s Not Found"
+msgstr "Группа %s не найдена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:207
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:395
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:940
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:1026
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:39
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:376
+msgid "Last Post"
+msgstr "Последнее сообщение"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:237
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:432
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:441
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:967
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:976
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:1053
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:1062
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:401
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:410
+msgid "by"
+msgstr " "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:281
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:277
+#, php-format
+msgid "Forum %s Not Found"
+msgstr "Форум %s не найден"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:292
+msgid "since your last visit"
+msgstr "с вашего последнего посещения"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:294
+msgid "since you last posted"
+msgstr "с момента написания вашего последнего сообщения"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:297
+msgid "New Posts"
+msgstr "Новые сообщения"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:301
+msgid "Topics you have posted in"
+msgstr "Темы, в которых вы оставили сообщения"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:334
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:361
+msgid "Topics Matching Search"
+msgstr "Темы, соответсвующие поиску"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:394
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:940
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:1025
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:376
+msgid "Started"
+msgstr "Начата"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:397
+msgid "Views"
+msgstr "Просмотров"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:481
+msgid "The Search found No Results"
+msgstr "Ничего не найдено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:484
+msgid "There are No Topics defined in this Forum"
+msgstr "Тем в этом форуме пока что нет"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:491
+msgid "Something Messed Up!"
+msgstr "Что то произошло!"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:518
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:313
+#, php-format
+msgid "Topic %s Not Found"
+msgstr "Тема %s не найдена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:594
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:596
+msgid "Post"
+msgstr "Сообщение"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:596
+msgid "User"
+msgstr "Пользователь"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:649
+msgid "posts "
+msgstr "сообщений "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:700
+msgid "Post Awaiting Approval by Forum Administrator"
+msgstr "Сообщение ожидает одобрения администратором"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:721
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:1086
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:395
+msgid "go to top"
+msgstr "наверх"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:727
+msgid "topic pinned"
+msgstr "тема прикреплена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:834
+msgid "There are No Posts for this Topic"
+msgstr "Нет новых ответов в этой теме"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:874
+msgid "delete unread post list"
+msgstr "очистить список непрочтенных сообщений"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:876
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:879
+msgid "New/Unread Posts - Management View"
+msgstr "Новые/Непрочтенные сообщения - Общий вид"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:910
+msgid "There are No Unread Posts"
+msgstr "Нет непрочтенных сообщений"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:932
+msgid "Most Recent Topics With Unread Posts"
+msgstr "Последние темы с непрочитанными сообщениями"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:934
+msgid "Most Recent Posts"
+msgstr "Последние сообщения"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:940
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:1024
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:376
+msgid "Forum/Topic"
+msgstr "Форум / тема"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:988
+msgid "There are No Recent Unread Posts"
+msgstr "Нет непрочитанных сообщений"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:1005
+msgid "Search All Forums"
+msgstr "Поиск во всех форумах"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-page.php:1082
+msgid "No Matches Found"
+msgstr "Совпадений не найдено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:31
+msgid "Current User: <strong>Guest</strong>"
+msgstr "Текущий пользователь: <strong>Гость</strong>"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:43
+msgid "You must be logged in to post"
+msgstr "Вы должны войти, прежде чем оставлять сообщения"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:50
+#, php-format
+msgid "Logged in as <strong> %s </strong>"
+msgstr "Вы зашли как <strong> %s </strong>"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:51
+msgid "Last Visit"
+msgstr "Последний визит"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:105
+msgid "toggle admin icons"
+msgstr "иконки администратора"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:128
+msgid "This forum allows Guest Users to post"
+msgstr "На этом форуме разрешено писать гостям"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:129
+msgid "Guests may not subscribe to email notifications"
+msgstr "Гости не могут оформлять подписку на email"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:130
+msgid "Posts by Guest Users will be moderated prior to publishing"
+msgstr "Сообщения гостей будут модерироваться перед публикацией"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:138
+msgid "This forum allows for Member Registration"
+msgstr "На этом форуме разрешено регистрироваться"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:140
+msgid "This forum requires Members to register"
+msgstr "Этот форум требует регистрации участников"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:142
+msgid "Registered Members can subscribe to email notifications"
+msgstr "Зарегистрированные участники форума могут получать уведомления по почте"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:143
+msgid "Registered Members can upload personal avatars"
+msgstr "Зарегистрированные участники форума могут загружать свои аватары"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:172
+msgid "Select Forum"
+msgstr "Выбрать форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:208
+msgid "go to bottom"
+msgstr "вниз"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:236
+msgid "edit your post"
+msgstr "редактировать ваше сообщение"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:252
+msgid "said:"
+msgstr "пишет:"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:253
+msgid "Quote and Reply"
+msgstr "Цитировать"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:319
+msgid "Moderator"
+msgstr "Модератор"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:321
+msgid "Member"
+msgstr "Участник"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:326
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:447
+msgid "Guest"
+msgstr "Гость"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:407
+#, php-format
+msgid "About the %s forum"
+msgstr "О форуме %s."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:423
+msgid "Guests"
+msgstr "Гости"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:430
+msgid "Currently Online"
+msgstr "Сейчас на форуме"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:450
+msgid "Maximum Online"
+msgstr "Максимум одновременно было"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:459
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:461
+msgid "Forums: "
+msgstr "Форумов: "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:460
+msgid "Groups: "
+msgstr "Групп: "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:463
+msgid "Topics: "
+msgstr "Тем: "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:464
+msgid "Posts: "
+msgstr "Сообщений: "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:475
+msgid "Members:"
+msgstr "Участники: "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:482
+#, php-format
+msgid "There are %s members"
+msgstr "Всего %s участников"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:485
+#, php-format
+msgid "There are %s guests"
+msgstr "Всего %s гостей"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:493
+#, php-format
+msgid "%s has made %s posts"
+msgstr "%s оставил %s сообщений"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:501
+msgid "Top Posters:"
+msgstr "Лучшие авторы: "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:517
+msgid "Version"
+msgstr "Версия"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:527
+msgid "Simple Forum WordPress Plugin created by Andy Staines: "
+msgstr "Simple Forum WordPress Plugin созданный Andy Staines:"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:529
+msgid "Default 'Silk' Icon Set created by Mark James: "
+msgstr "Набор иконок по умолчанию 'Silk' созданный Mark James: "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:530
+msgid "Math Spam Protection based on code by Michael Woehrer: "
+msgstr "Антиспам защита созданная Michael Woehrer:"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:531
+msgid "Tabbed Admin uses Tabifier by Patrick Fitzgerald: "
+msgstr "Админка использует Tabifier от Patrick Fitzgerald: "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-pagecomponents.php:532
+msgid "My thanks to all the people who have aided, abetted, suggested and helped test this plugin"
+msgstr "Спасибо всем кто помогал учавствовать в создании этого плагина"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:77
+msgid "No Topic Name has been entered! Post can not be saved"
+msgstr "Название темы не введено! Сообщение не может быть сохранено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:81
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:222
+msgid "No Topic Message has been entered! Post can not be saved"
+msgstr "Сообщение темы не введено! Сообщение не сохранено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:97
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:129
+msgid "Unable to Save New Topic Record"
+msgstr "Не могу сохранить новую новую тему"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:104
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:241
+msgid "A Guest Name is Required"
+msgstr "Имя гостя обязательно"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:108
+msgid "A Valid  Email Address is Required"
+msgstr "Введите корректный адрес email"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:138
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:234
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:264
+msgid "Unable to Save New Post Message"
+msgstr "Не могу сохранить новое сообщение"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:190
+msgid "New Topic Saved "
+msgstr "Новая тема сохранена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:245
+msgid "A Valid Email Address is Required"
+msgstr "Введите корректный адрес email"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:282
+msgid "New Post Saved "
+msgstr "Новое сообщение сохранено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:402
+#, php-format
+msgid "Text:  %s"
+msgstr "Текст: %s"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:406
+#, php-format
+msgid "New forum post on your site %s:"
+msgstr "Новое сообщение на форуме вашего сайта %s:"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:407
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:456
+#, php-format
+msgid "From:  %s"
+msgstr "От:   %s"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:408
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:457
+#, php-format
+msgid "Group: %s"
+msgstr "Группа: %s"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:409
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:458
+#, php-format
+msgid "Forum: %s"
+msgstr "Форум: %s"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:410
+#, php-format
+msgid "Topic: <a href=\"%s\">%s</a>"
+msgstr "Тема: <a href=\"%s\">%s</a>"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:412
+msgid "Post:"
+msgstr "Сообщение:"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:434
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:462
+#, php-format
+msgid "[%s] New Forum Post"
+msgstr "[%s] Новое сообщение в форуме"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:436
+msgid " Notified: Administrator"
+msgstr "Уведомление: администратор"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:455
+#, php-format
+msgid "New post on a forum topic you are subscribed to at %s:"
+msgstr "Новое сообщение в форуме %s, на который вы подписаны."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:459
+#, php-format
+msgid "Topic: %s"
+msgstr "Тема: %s"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:460
+#, php-format
+msgid "Link:  %s"
+msgstr "Ссылка: %s"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-post.php:469
+msgid " Notified: Subscribers"
+msgstr "Уведомление: подписчики"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-primitives.php:296
+msgid "This forum requires Javascript to be enabled for posting content"
+msgstr "Этому форуму нужен Javascript для написания сообщений"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-primitives.php:344
+msgid "Form not filled by human hands!"
+msgstr "Форма заполнена роботом!"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-primitives.php:356
+msgid "No answer was given to the math question"
+msgstr "Ответ на вопрос не получен"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-primitives.php:372
+msgid "The answer to the math question was incorrect"
+msgstr "Ответ неверный"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:42
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr "<strong>ОШИБКА</strong>: Пожалуйста, введите имя."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:44
+msgid "<strong>ERROR</strong>: This username is invalid.  Please enter a valid username."
+msgstr "<strong>ОШИБКА</strong>: Имя некорректное. Пожалуйста, введите корректное имя."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:47
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr "<strong>ОШИБКА</strong>: Имя пользователя уже занято. Выберите другое."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:53
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "<strong>ОШИБКА</strong>: Пожалуйста, введите свой адрес email."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:55
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "<strong>ОШИБКА</strong>: Email адрес некорретный."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:62
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
+msgstr "<strong>ОШИБКА</strong>: Этот электронный адрес уже зарегистрирован. Выберите другой."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:78
+#, php-format
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr "<strong>ОШИБКА</strong>: Регистрация невозможна. Свяжитесь с <a href=\"mailto:%s\">администратором</a> !"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:85
+#, php-format
+msgid "New user registration on your blog %s:"
+msgstr "На вашем блоге зарегистрировался новый пользователь: %s"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:86
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:94
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:238
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:280
+#, php-format
+msgid "Username: %s"
+msgstr "Имя пользователя: %s"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:87
+#, php-format
+msgid "E-mail: %s"
+msgstr "E-mail: %s"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:89
+#, php-format
+msgid "[%s] New User Registration"
+msgstr "[%s] Регистрация нового пользователя"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:95
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:281
+#, php-format
+msgid "Password: %s"
+msgstr "Пароль: %s"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:98
+#, php-format
+msgid "[%s] Your username and password"
+msgstr "[%s] Ваше имя и пароль"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:100
+msgid "New User Registration Details have been Emailed"
+msgstr "Регистрационные данные нового пользователя отправлены по электронной почте"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:113
+msgid "User Registration"
+msgstr "Регистрация пользователя"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:134
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:185
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:322
+msgid "Username:"
+msgstr "Имя пользователя:"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:138
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:186
+msgid "E-mail:"
+msgstr "E-mail:"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:144
+msgid "A password will be e-mailed to you."
+msgstr "Пароль будет отправлен вам по электронной почте."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:146
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:196
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:337
+msgid "Register"
+msgstr "Регистрация"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:180
+msgid "Please enter your information here.<br />A new password will be emailed."
+msgstr "Пожалуйста введите вашу информацию здесь. <br />Новый пароль будет отправлен вам по электронной почте."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:188
+msgid "Retrieve Password"
+msgstr "Восстановление пароля"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:199
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:327
+msgid "Login"
+msgstr "Вход"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:224
+msgid "This User Name does not exist!"
+msgstr "Такого имени пользователя не существует!"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:236
+msgid "Someone has asked to reset the password for the following site and username."
+msgstr "Кто-то, возможно вы сбросили пользовательский пароль на сайте."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:239
+msgid "To reset your password visit the following address, otherwise just ignore this email and nothing will happen."
+msgstr "Чтобы сбросить ваш пароль, пройдите по следующему адресу. В любом другом случае проигнорируйте это письмо."
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:242
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] Сброс пароля"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:246
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:288
+msgid "Email not sent. Possibly the host may have disabled the mail() function"
+msgstr "e-mail не отправлен. Возможно на хостинге запрещена функция mail()"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:248
+msgid "An email has been sent to this email address"
+msgstr "Письмо отправлено по указанному email адресу"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:263
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:270
+msgid "Problem! That activation key does not appear to be valid"
+msgstr "Проблема! Ключ активации некорректный"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:284
+#, php-format
+msgid "[%s] Your new password"
+msgstr "[%s] Ваш новый пароль"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:290
+msgid "An email has been sent with your new password"
+msgstr "Ваш новый пароль отправлен вам на email"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:292
+#, php-format
+msgid "Password Lost and Changed for user: %s"
+msgstr "Утерян и восстановлен пароль для пользователя: %s"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:293
+#, php-format
+msgid "[%s] Password Lost/Change"
+msgstr "[%s] утеря пароля/изменение"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:315
+msgid "Login to Forum"
+msgstr "Вход на форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:323
+msgid "Password:"
+msgstr "Пароль:"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:324
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-registration.php:339
+msgid "Lost Password?"
+msgstr "Потеряли пароль?"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:501
+msgid "List New Posts"
+msgstr "Список новых сообщений"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:502
+msgid "Go To First Post"
+msgstr "Перейти к первому сообщению"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:530
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:610
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:906
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1021
+msgid "Page:"
+msgstr "Страница:"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:663
+msgid "Unlock this Topic"
+msgstr "Открыть эту тему"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:665
+msgid "Unpin this Topic"
+msgstr "Открепить эту тему"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:672
+msgid "Sort Most Recent Posts to Top"
+msgstr "Показывать новые сообщения сверху"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:674
+msgid "Sort Most Recent Posts to Bottom"
+msgstr "Показывать новые сообщения снизу"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:678
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:742
+msgid "show edit tools"
+msgstr "показать инструменты редактирования"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:695
+msgid "edit this topic title"
+msgstr "изменить название темы"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:706
+msgid "delete this topic"
+msgstr "удалить эту тему"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:713
+msgid "move this topic"
+msgstr "переместить эту тему"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:721
+msgid "break topic link to blog post"
+msgstr "убрать ссылку на тему в записи блога"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:736
+msgid "Unpin this Post"
+msgstr "Открепить сообщение"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:749
+msgid "approve this post"
+msgstr "одобрить это сообщение"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:758
+msgid "show users email address"
+msgstr "показать еmail адреса пользователей"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:769
+msgid "edit this post"
+msgstr "изменить сообщение"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:775
+msgid "delete this post"
+msgstr "удалить сообщение"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:818
+msgid "view user profile"
+msgstr "посмотреть профиль пользователя"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1123
+#, php-format
+msgid "Role Type %s could not be verified"
+msgstr "Тип роли %s не может быть проверен"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1152
+msgid "Updated Post Saved"
+msgstr "Обновленное сообщение сохранено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1169
+msgid "Updated Topic Title Saved"
+msgstr "Название темы обновлено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1187
+msgid "Profile Update Aborted"
+msgstr "Обновление профиля отменено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1193
+msgid "Email Address is Required"
+msgstr "email адрес обязателен"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1199
+#, php-format
+msgid "%s is in invaid email address"
+msgstr "%s некорректный email адрес"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1238
+msgid "Current Password is Incorrect"
+msgstr "Текущий пароль неверный"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1243
+msgid "New Password must be Entered Twice"
+msgstr "Новый пароль должен быть введен дважды"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1248
+msgid "The Two New Passwords entered are Not the Same!"
+msgstr "Введенные пароли не совпадают!"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1268
+msgid "Profile Updated. "
+msgstr "Профиль обновлен. "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1272
+msgid "Profile Record: "
+msgstr "Запись профиля:"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1274
+msgid " - Profile Record: "
+msgstr " - Запись профиля: "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1290
+msgid "You are already subscribed to this topic"
+msgstr "Вы уже подписаны на эту тему"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1318
+msgid "Subscription added"
+msgstr "Подписка добавлена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1370
+msgid "Subscriptions Updated"
+msgstr "Подписки обновлены"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1403
+msgid "You are subscribed to this topic"
+msgstr "Вы подписаны на эту тему"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1405
+msgid "This topic has User Subscriptions"
+msgstr "Эта тема имеет пользовательские подписки"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1450
+msgid "Topic Lock Toggle Failed"
+msgstr "Тема не закрыта"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1452
+msgid "Topic Lock Toggled"
+msgstr "Тема закрыта"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1483
+msgid "Topic Pin Toggle Failed"
+msgstr "Тема не прикреплена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1485
+msgid "Topic Pin Toggled"
+msgstr "Тема прикреплена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1518
+msgid "Topic Sort Toggle Failed"
+msgstr "Сортировка тем не выполнена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1520
+msgid "Topic Sort Toggled"
+msgstr "Сортировка темы выполнена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1551
+msgid "Post Pin Toggle Failed"
+msgstr "Прикрепление сообщения не выполнено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1553
+msgid "Post Pin Toggled"
+msgstr "Сообщение прикреплено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1596
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1632
+msgid "Deletion Failed"
+msgstr "Удаление не выполнено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1603
+msgid "Deletion of Posts in Topic Failed"
+msgstr "Удаление записей темы не выполнено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1605
+msgid "Topic Deleted"
+msgstr "Тема удалена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1634
+msgid "Post Deleted"
+msgstr "Сообщение удалено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1654
+msgid "Topic move abandoned - No Forum selected!"
+msgstr "Отмена переноса темы - форум не выбран!"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1660
+msgid "Topic can NOT be moved to more than One Forum"
+msgstr "Тема не может быть перемещена более чем в один форум"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1668
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1676
+msgid "Topic Move Failed"
+msgstr "Тема не перемещена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1678
+msgid "Topic Moved"
+msgstr "Тема перемещена"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1698
+msgid "Post Approval Failed"
+msgstr "Сообщение не одобрено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-support.php:1700
+msgid "Post Approved"
+msgstr "Сообщение одобрено"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:66
+msgid "posted in forum: "
+msgstr "написал в форум: "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:75
+msgid "by: "
+msgstr ": "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:82
+msgid "on: "
+msgstr "в: "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:422
+msgid "There are No Recent Posts"
+msgstr "Последних сообщений нет"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:508
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:514
+msgid "List how many posts:"
+msgstr "Сколько показывать сообщений:"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:520
+msgid "Show forum name:"
+msgstr "Показывать название форума:"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:527
+msgid "Show users name:"
+msgstr "Показывать имена пользователей:"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:534
+msgid "Show date of post:"
+msgstr "Показывать даты сообщений:"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:541
+msgid "Forum IDs:"
+msgstr "ID Форумов: "
+
+#: C:\temp\SimpleForum21\simple-forum/sf-tags.php:544
+msgid "If specified, Forum ID's must be separated by commas. To use ALL forums, enter a value of zero"
+msgstr "Если определено, ID форумов должны быть разделены запятыми. Для использования ВСЕХ форумов, введите значение нуля (0)"
+
+#: C:\temp\SimpleForum21\simple-forum/sf-upgradesupport.php:29
+#, php-format
+msgid "DATABASE ERROR: Unable to ALTER the %s to create new column %s"
+msgstr "DATABASE ERROR: Unable to ALTER the %s to create new column %s"
+
+#: C:\temp\SimpleForum21\simple-forum/ahah/sf-categories.php:10
+msgid "Select Catgories for Post"
+msgstr "Выберите рубрики для записи"
+

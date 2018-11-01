@@ -1,0 +1,4 @@
+[21-Jan-2009 09:48:16] PHP Fatal error:  Class 'ajaxNewsletter' not found in /home/h5u1217/public_html/wp-content/plugins/wp-ajax-newsletter/backoffice.php on line 104
+[21-Jan-2009 09:48:19] PHP Fatal error:  Call to undefined function  add_action() in /home/h5u1217/public_html/wp-content/plugins/wp-ajax-newsletter/wp-ajax-newsletter.php on line 19
+[12-Feb-2009 18:59:26] PHP Fatal error:  Class 'ajaxNewsletter' not found in /home/h3u135/public_html/wp-content/plugins/wp-ajax-newsletter/backoffice.php on line 104
+[12-Feb-2009 19:07:02] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/wp-ajax-newsletter/wp-ajax-newsletter.php on line 19

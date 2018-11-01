@@ -1,0 +1,1 @@
+[12-Feb-2009 18:45:45] PHP Fatal error:  Call to undefined function  is_admin() in /home/h3u135/public_html/wp-content/plugins/ozh-admin-drop-down-menu/wp_ozh_adminmenu.php on line 55

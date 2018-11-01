@@ -1,0 +1,2178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FireStats 1.5.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-10-05 01:20+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Vadim Nekhai <vadimnekhai@gmail.com>\n"
+"Language-Team: Vadim Nekhai <vadimnekhai@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Ukrainian\n"
+"X-Poedit-Country: UKRAINE\n"
+"X-Poedit-KeywordsList: fs_r;fs_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\work\n"
+
+#: C:\work/firestats-wordpress.php:342
+#: C:\work/firestats-wordpress.php:812
+#: C:\work/firestats-wordpress.php:876
+#: C:\work/firestats-wordpress.php:1405
+msgid "FireStats"
+msgstr "FireStats"
+
+#: C:\work/firestats-wordpress.php:342
+msgid "Loading..."
+msgstr "Завантаження..."
+
+#: C:\work/firestats-wordpress.php:361
+#, php-format
+msgid "Total : %s page views and %s visits"
+msgstr "Всього: %s переглядів сторінок та %s візитів"
+
+#: C:\work/firestats-wordpress.php:362
+#, php-format
+msgid "Last 24 hours : %s page views and %s visits"
+msgstr "%s переглядів сторінок та %s візитів за добу"
+
+#: C:\work/firestats-wordpress.php:515
+msgid "You are not authorized to access FireStats"
+msgstr "Ви не авторизовані для доступу до FireStats"
+
+#: C:\work/firestats-wordpress.php:833
+#: C:\work/firestats-wordpress.php:897
+#: C:\work/firestats-wordpress.php:974
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: C:\work/firestats-wordpress.php:840
+#: C:\work/firestats-wordpress.php:904
+#: C:\work/firestats-wordpress.php:991
+msgid "Hide FireStats logo"
+msgstr "Сховати логотип FireStats"
+
+#: C:\work/firestats-wordpress.php:941
+msgid "Popular posts"
+msgstr "Популярні записи"
+
+#: C:\work/firestats-wordpress.php:979
+msgid "Number to show"
+msgstr "Показувати:"
+
+#: C:\work/firestats-wordpress.php:984
+msgid "Days ago (Empty for all time)"
+msgstr "Днів тому (порожньо, якщо необхідно показати все):"
+
+#: C:\work/firestats-wordpress.php:1048
+#, php-format
+msgid "%s readers"
+msgstr "%s читачів"
+
+#: C:\work/firestats-wordpress.php:1080
+msgid "Pages displayed : "
+msgstr "Переглядів сторінок: "
+
+#: C:\work/firestats-wordpress.php:1081
+msgid "Unique visitors : "
+msgstr "Унікальних відвідувачів: "
+
+#: C:\work/firestats-wordpress.php:1082
+msgid "Pages displayed in last 24 hours : "
+msgstr "Переглянуто сторінок за добу: "
+
+#: C:\work/firestats-wordpress.php:1083
+msgid "Unique visitors in last 24 hours : "
+msgstr "Унікальних відвідувачів за добу: "
+
+#: C:\work/firestats-wordpress.php:1086
+msgid "RSS subscribers"
+msgstr "RSS передплатники"
+
+#: C:\work/firestats-wordpress.php:1140
+msgid "pages viewed"
+msgstr "сторінок переглянуто"
+
+#: C:\work/firestats-wordpress.php:1140
+#: C:\work/firestats-wordpress.php:1141
+msgid "today"
+msgstr "сьогодні"
+
+#: C:\work/firestats-wordpress.php:1141
+msgid "visits"
+msgstr "відвідувань"
+
+#: C:\work/firestats-wordpress.php:1150
+msgid "Powered by FireStats"
+msgstr "Процює з FireStats"
+
+#: C:\work/index.php:15
+msgid "Error"
+msgstr "Помилка"
+
+#: C:\work/index.php:15
+msgid "Access denied"
+msgstr "В доступі відмовлено"
+
+#: C:\work/index.php:40
+msgid "Error connecting to database, check your database server"
+msgstr "Помилка з'єднання за базою даних. Перевірте роботу вашого сервера."
+
+#: C:\work/index.php:41
+#, php-format
+msgid "To access the configuration screen, please delete %s"
+msgstr "Щоб отримати доступ до екрану налаштувань, будь ласка видаліть %s"
+
+#: C:\work/login.php:11
+#: C:\work/login.php:26
+msgid "Login"
+msgstr "Логін"
+
+#: C:\work/login.php:14
+msgid "Username"
+msgstr "Ім'я користувача"
+
+#: C:\work/login.php:18
+msgid "Password"
+msgstr "Пароль"
+
+#: C:\work/login.php:25
+msgid "Remember me for the next 14 days"
+msgstr "Запам'ятати мене на 14 днів"
+
+#: C:\work/login.php:31
+#, php-format
+msgid "Forgot your password? click %s."
+msgstr "Забули пароль? Натисніть %s."
+
+#: C:\work/login.php:31
+msgid "here"
+msgstr "тут"
+
+#: C:\work/js/firestats.js.php:50
+#: C:\work/js/firestats.js.php:97
+msgid "Stop"
+msgstr "Стоп"
+
+#: C:\work/js/firestats.js.php:51
+msgid "Compacting..."
+msgstr "Архівування..."
+
+#: C:\work/js/firestats.js.php:63
+msgid "Stopping..."
+msgstr "Зупинка..."
+
+#: C:\work/js/firestats.js.php:74
+msgid "Compact now"
+msgstr "Архівувати зараз"
+
+#: C:\work/js/firestats.js.php:119
+#: C:\work/js/firestats.js.php:139
+msgid "Abort"
+msgstr "Відмінити"
+
+#: C:\work/js/firestats.js.php:134
+#: C:\work/js/firestats.js.php:146
+#: C:\work/js/firestats.js.php:154
+msgid "Start"
+msgstr "Старт"
+
+#: C:\work/js/firestats.js.php:135
+msgid "Canceled"
+msgstr "Відмінено"
+
+#: C:\work/js/firestats.js.php:723
+msgid "Session expired, press ok to reload"
+msgstr "Сесія прострочена. Натисніть ОК для оновлення сторінки"
+
+#: C:\work/js/page-database.js.php:66
+msgid "Upgrading, do not interrupt"
+msgstr "Оновлення. Не переривати!"
+
+#: C:\work/js/page-database.js.php:73
+msgid "Try again"
+msgstr "Спробувати ще"
+
+#: C:\work/js/page-settings.js.php:20
+msgid "You need to select one or more bots"
+msgstr "Необхідно вибрати одного або більше ботів"
+
+#: C:\work/js/page-settings.js.php:40
+msgid "You need to select one or more urls"
+msgstr "Необхідно вибрати один або більше URL "
+
+#: C:\work/js/page-settings.js.php:54
+#: C:\work/js/page-settings.js.php:89
+msgid "You need to select a record from the table"
+msgstr "Виберіть запис із таблиці"
+
+#: C:\work/js/page-settings.js.php:75
+msgid "You need to select one or more IP addresses"
+msgstr "Необхідно вибрати одну або більше IP адресу"
+
+#: C:\work/js/page-sites.js.php:27
+#: C:\work/js/page-sites.js.php:29
+#: C:\work/js/page-sites.js.php:47
+#: C:\work/js/page-sites.js.php:49
+msgid "Automatic"
+msgstr "Автоматично"
+
+#: C:\work/js/page-sites.js.php:93
+msgid "Delete"
+msgstr "Видалити"
+
+#: C:\work/js/page-sites.js.php:93
+msgid "Transfer"
+msgstr "Передача"
+
+#: C:\work/lib/ezsql/mysql/ez_sql_mysql.php:42
+msgid "User name and password are required to connect to database"
+msgstr "Для доступу до бази даних необхідні ім'я користувача та пароль"
+
+#: C:\work/lib/ezsql/mysql/ez_sql_mysql.php:43
+msgid "Error establishing mySQL database connection"
+msgstr "Помилка установлення з'єднання з базою даних MySQL"
+
+#: C:\work/lib/ezsql/mysql/ez_sql_mysql.php:44
+msgid "Database name is required to connect to database"
+msgstr "Для підключення до бази даних необхідно вказати її назву"
+
+#: C:\work/lib/ezsql/mysql/ez_sql_mysql.php:45
+msgid "mySQL database connection is not active"
+msgstr "З'єднання з базою даних MySQL не активне"
+
+#: C:\work/lib/ezsql/mysql/ez_sql_mysql.php:46
+msgid "Unexpected error while querying database"
+msgstr "Виникла невідома помилка під час обробки запиту бази даних"
+
+#: C:\work/lib/ezsql/mysql/ez_sql_mysql.php:123
+#: C:\work/lib/ezsql/mysql/ez_sql_mysql.php:134
+#, php-format
+msgid "Can't disconnect: %s"
+msgstr "Неможливо від'єднатися: %s"
+
+#: C:\work/lib/ezsql/mysql/ez_sql_mysql.php:134
+msgid "Not connected"
+msgstr "Не приєднаний"
+
+#: C:\work/php/ajax-handler.php:179
+#, php-format
+msgid "Unexpected output: %s"
+msgstr "Невідомий вивід:  %s"
+
+#: C:\work/php/ajax-handler.php:285
+#, php-format
+msgid "Invalid integer : %s"
+msgstr "Неприпустиме значення integer: %s"
+
+#: C:\work/php/ajax-handler.php:288
+#, php-format
+msgid "Invalid or none positive integer : %s"
+msgstr "Неприпустиме або від'ємне значення integer: %s"
+
+#: C:\work/php/ajax-handler.php:295
+msgid "Invalid IP address"
+msgstr "Неприпустима IP-адреса"
+
+#: C:\work/php/ajax-handler.php:377
+msgid "Excluded users list saved"
+msgstr "Список вилучених користувачів збережено"
+
+#: C:\work/php/ajax-handler.php:394
+#, php-format
+msgid "Added %s to bots list"
+msgstr "%s додан до списку ботів"
+
+#: C:\work/php/ajax-handler.php:405
+msgid "Empty string is not allowed"
+msgstr "Пусті рядки недозволені"
+
+#: C:\work/php/ajax-handler.php:415
+msgid "Removed"
+msgstr "Видалено"
+
+#: C:\work/php/ajax-handler.php:467
+msgid "Not using configuration file"
+msgstr "Файл налаштувань не використовується"
+
+#: C:\work/php/ajax-handler.php:473
+msgid "Not installed inside Wordpress"
+msgstr "Не встановленний в Wordpress"
+
+#: C:\work/php/ajax-handler.php:483
+#, php-format
+msgid "Failed to delete fs-config.php : %s"
+msgstr "Неможливо видалити fs-config.php : %s"
+
+#: C:\work/php/ajax-handler.php:526
+msgid "Error upgrading tables"
+msgstr "Помилка при оновленні таблиць"
+
+#: C:\work/php/ajax-handler.php:546
+msgid "Error installing tables"
+msgstr "Помилка при встановленні таблиць"
+
+#: C:\work/php/ajax-handler.php:703
+#, php-format
+msgid "%s days can be compacted, database size %s"
+msgstr "Можуть бути заархівовані дані за %s днів. Розмір бази даних: %s"
+
+#: C:\work/php/ajax-handler.php:756
+msgid "IP-to-country database is already up-to-date"
+msgstr "База даних IP-to-country вже оновлена"
+
+#: C:\work/php/ajax-handler.php:763
+msgid "An error has occured while trying to update the IP-to-country database"
+msgstr "Відбулася помилка під час оновлення бази даних IP-to-country"
+
+#: C:\work/php/ajax-handler.php:767
+#: C:\work/php/db-config-utils.php:390
+msgid "file"
+msgstr "файл"
+
+#: C:\work/php/ajax-handler.php:769
+#, php-format
+msgid "You can update the database manually by downloading this %s and extracting it into %s"
+msgstr "Ви можете оновити базу даних вручну. Скачайте %s та розпакуйте в %s"
+
+#: C:\work/php/ajax-handler.php:774
+#: C:\work/php/db-common.php:616
+msgid "this"
+msgstr "це"
+
+#: C:\work/php/ajax-handler.php:776
+#, php-format
+msgid "You can update the database manually by opening %s and downloading the <b>zip_url</b>, and extracting it into %s"
+msgstr "Ви можете оновити базу даних вручну. Відкрийте %s та скачайте <b>zip_url</b>. Після цього розпакуйте архів в %s"
+
+#: C:\work/php/ajax-handler.php:802
+#: C:\work/php/ajax-handler.php:820
+#, php-format
+msgid "Error updating bots list: %s"
+msgstr "Помилка під час оновлення списку ботів: %s"
+
+#: C:\work/php/ajax-handler.php:814
+msgid "Successfully updated bots list"
+msgstr "Список ботів успішно оновлений"
+
+#: C:\work/php/ajax-handler.php:832
+#, php-format
+msgid "Error purging excluded records: %s"
+msgstr "Помилка під час видалення вилучених записів: %s"
+
+#: C:\work/php/ajax-handler.php:836
+msgid "Purged excluded records"
+msgstr "Вилучені записи видалено"
+
+#: C:\work/php/ajax-handler.php:927
+#: C:\work/php/db-common.php:134
+#: C:\work/php/db-config-utils.php:24
+msgid "Error connecting to database"
+msgstr "Помилка під час встановлення з'єднання з базою даних"
+
+#: C:\work/php/ajax-handler.php:1010
+#, php-format
+msgid "Compacting %s days, %s done, database size is %s"
+msgstr "Архівування даних за %s днів, %s завершено. Розмір бази даних: %s"
+
+#: C:\work/php/ajax-handler.php:1110
+#, php-format
+msgid "%d of %d"
+msgstr "%d із %d"
+
+#: C:\work/php/ajax-handler.php:1255
+msgid "Incorrect user-name or password"
+msgstr "Невірне ім'я користувача та пароль"
+
+#: C:\work/php/ajax-handler.php:1279
+#: C:\work/php/ajax-handler.php:1320
+#: C:\work/php/ajax-handler.php:1346
+msgid "User name not specified"
+msgstr "Ім'я користувача не вказано"
+
+#: C:\work/php/ajax-handler.php:1280
+#: C:\work/php/ajax-handler.php:1321
+msgid "Email not specified"
+msgstr "Email не вказан"
+
+#: C:\work/php/ajax-handler.php:1281
+#: C:\work/php/db-config-utils.php:39
+msgid "Password not specified"
+msgstr "Пароль не вказан"
+
+#: C:\work/php/ajax-handler.php:1282
+#: C:\work/php/ajax-handler.php:1324
+#: C:\work/php/ajax-handler.php:1347
+msgid "Passwords did not match"
+msgstr "Паролі не співпадають"
+
+#: C:\work/php/ajax-handler.php:1348
+msgid "Empty password"
+msgstr "Пустий пароль"
+
+#: C:\work/php/auth.php:92
+#, php-format
+msgid "Error connecting to database (%s)"
+msgstr "Помилка з'єднання за базою даних (%s)"
+
+#: C:\work/php/auth.php:195
+#: C:\work/php/auth.php:229
+msgid "Invalid email address"
+msgstr "Невірна адреса email"
+
+#: C:\work/php/auth.php:205
+#: C:\work/php/auth.php:239
+msgid "A user with this name already exists"
+msgstr "Користувач з таким ім'ям уже існує"
+
+#: C:\work/php/auth.php:209
+#: C:\work/php/auth.php:243
+msgid "A user with this email address already exists"
+msgstr "Користувач з таким email уже існує"
+
+#: C:\work/php/auth.php:466
+#, php-format
+msgid "Invalid site id: %s"
+msgstr "Неправильний id сайта: %s"
+
+#: C:\work/php/db-common.php:116
+msgid "FireStats is properly installed in the database"
+msgstr "FireStats успішно встановлено в базу даних"
+
+#: C:\work/php/db-common.php:119
+msgid "FireStats is not configured"
+msgstr "FireStats не налагоджено"
+
+#: C:\work/php/db-common.php:122
+#, php-format
+msgid "Database error, check your configuration: %s"
+msgstr "Помилка бази даних. Перевірте налаштування: %s"
+
+#: C:\work/php/db-common.php:125
+msgid "FireStats is not installed in the database"
+msgstr "FireStats не встановлено в базі даних"
+
+#: C:\work/php/db-common.php:128
+msgid "FireStats database needs to be upgraded"
+msgstr "Базу даних FireStats необхідно оновити"
+
+#: C:\work/php/db-common.php:131
+msgid "The FireStats database version is newer than this code version, you need to upgrade FireStats"
+msgstr "Версія бази даних FireStats вища за версію самої системи. Необхідно оновити FireStats"
+
+#: C:\work/php/db-common.php:137
+msgid "Unknown database status code"
+msgstr "Код стану бази даних невідомий"
+
+#: C:\work/php/db-common.php:601
+#: C:\work/php/db-hit.php:354
+#, php-format
+msgid "Database error: %s"
+msgstr "Помилка бази даних: %s"
+
+#: C:\work/php/db-common.php:616
+#, php-format
+msgid "Invalid regular expression, see %s for more information"
+msgstr "Невірний regexp. Для одержання додаткової інформації натисніть %s"
+
+#: C:\work/php/db-config-utils.php:21
+msgid "Error accessing database"
+msgstr "Помилка доступу до бази даних"
+
+#: C:\work/php/db-config-utils.php:27
+msgid "Error creating database"
+msgstr "Помилка при створенні бази даних"
+
+#: C:\work/php/db-config-utils.php:30
+msgid "Error creating user"
+msgstr "Помилка при створенні користувача"
+
+#: C:\work/php/db-config-utils.php:33
+msgid "Error creating tables"
+msgstr "Помилка при створенні таблиць"
+
+#: C:\work/php/db-config-utils.php:36
+msgid "Error saving configuration"
+msgstr "Помилка при збереженні конфігурації"
+
+#: C:\work/php/db-config-utils.php:42
+msgid "Wrong password"
+msgstr "Невірний пароль"
+
+#: C:\work/php/db-config-utils.php:52
+msgid "FireStats tables are not installed"
+msgstr "Таблиці FireStats не встановленні"
+
+#: C:\work/php/db-config-utils.php:57
+msgid "FireStats is installed"
+msgstr "FireStats встановленний"
+
+#: C:\work/php/db-config-utils.php:62
+msgid "Another FireStats database detected"
+msgstr "Виявлена інша база даних FireStats"
+
+#: C:\work/php/db-config-utils.php:67
+msgid "New database created successfuly"
+msgstr "Нова база даних з успіхом створена"
+
+#: C:\work/php/db-config-utils.php:70
+#, php-format
+msgid "Unexpected error code %s"
+msgstr "Невідомий код помилки %s"
+
+#: C:\work/php/db-config-utils.php:303
+msgid "Not configured"
+msgstr "Не налаштован"
+
+#: C:\work/php/db-config-utils.php:306
+msgid "FireStats configuration file"
+msgstr "файл налаштувань FireStats"
+
+#: C:\work/php/db-config-utils.php:309
+msgid "Wordpress configuration file"
+msgstr "файл налаштувань Wordpress"
+
+#: C:\work/php/db-config-utils.php:312
+msgid "External configuration"
+msgstr "Зовнішній файл налаштувань"
+
+#: C:\work/php/db-config-utils.php:391
+#, php-format
+msgid "Configuration file %s is not writable, you can either:"
+msgstr "Файл налаштувань %s знаходиться в режимі 'тільки читання'. Ви можете:"
+
+#: C:\work/php/db-config-utils.php:392
+msgid "Fix the problem by making it writable"
+msgstr "Виправити проблему, зробивши його доступним для записування"
+
+#: C:\work/php/db-config-utils.php:393
+#, php-format
+msgid "download the %s and upload it into %s"
+msgstr "Скачати %s та завантажити його в %s"
+
+#: C:\work/php/db-setup.php:33
+msgid "Operation already in progress"
+msgstr "Дія вже виконується"
+
+#: C:\work/php/db-sql.php:49
+msgid "Data compacting is already in progress"
+msgstr "Архівування вже виконується"
+
+#: C:\work/php/db-sql.php:74
+msgid "MySQL 4.1.14 or newer is required for data compacting support"
+msgstr "Для підтримки архівування даних необхідно MySQL 4.1.14 або вище"
+
+#: C:\work/php/db-sql.php:288
+#: C:\work/php/db-sql.php:326
+msgid "Site name not specified"
+msgstr "Назва сайта не вказано"
+
+#: C:\work/php/db-sql.php:300
+#: C:\work/php/db-sql.php:330
+msgid "Site ID must be a positive number"
+msgstr "ID сайта повинен бути додатнім"
+
+#: C:\work/php/db-sql.php:303
+#: C:\work/php/db-sql.php:349
+#, php-format
+msgid "A site with the ID %s already exists"
+msgstr "Сайт із ID %s вже існує"
+
+#: C:\work/php/db-sql.php:337
+#: C:\work/php/db-sql.php:414
+#: C:\work/php/db-sql.php:465
+#, php-format
+msgid "No site with the id %s exists"
+msgstr "Сайта із ID %s  не існує"
+
+#: C:\work/php/db-sql.php:450
+msgid "New site_id must not be empty"
+msgstr "Новий site_id не може бути порожнім"
+
+#: C:\work/php/db-sql.php:456
+msgid "Can't move the hits to the same site"
+msgstr "Неможливо передавати хіти на один і той самий сайт"
+
+#: C:\work/php/db-sql.php:546
+msgid "Empty url pattern"
+msgstr "Порожній шаблон URL"
+
+#: C:\work/php/db-sql.php:558
+msgid "The URL already exists"
+msgstr "URL вже існує"
+
+#: C:\work/php/db-sql.php:664
+#: C:\work/php/db-sql.php:669
+#, php-format
+msgid "Invalid IP address: %s"
+msgstr "Невірна IP адреса: %s"
+
+#: C:\work/php/db-sql.php:680
+msgid "First IP address must be smaller than second IP address"
+msgstr "Перша IP-адреса повинна бути менша, ніж друга"
+
+#: C:\work/php/db-sql.php:713
+msgid "The IP address(s) already exists"
+msgstr "IP-адресса(и) вже існує(ють)"
+
+#: C:\work/php/db-sql.php:795
+#, php-format
+msgid "The bot wildcard %s is already in the database"
+msgstr "Шаблон бота %s вже занесений до бази даних"
+
+#: C:\work/php/db-sql.php:1509
+#: C:\work/php/db-sql.php:1557
+msgid "Unknown"
+msgstr "Невідомо"
+
+#: C:\work/php/db-sql.php:1975
+#, php-format
+msgid "Error opening file : %s"
+msgstr "Помилка при відкритті файлу: %s"
+
+#: C:\work/php/export-bots-list.php:21
+msgid "Error exporting bots list"
+msgstr "Помилка під час єкспорту ботів"
+
+#: C:\work/php/footer.php:4
+#, php-format
+msgid "If you have any problems or questions, please visit the %s"
+msgstr "Якщо у вас виникли проблеми або запитання, будь ласка, завітайте на %s"
+
+#: C:\work/php/footer.php:4
+msgid "FireStats homepage"
+msgstr "домашню сторінку FireStats"
+
+#: C:\work/php/header.php:15
+msgid "Support FireStats"
+msgstr "Підтримайте FireStats"
+
+#: C:\work/php/header.php:22
+#, php-format
+msgid "Log out %s"
+msgstr "Вийти %s"
+
+#: C:\work/php/header.php:34
+msgid "Demo"
+msgstr "Демонстрація"
+
+#: C:\work/php/header.php:42
+msgid "Hide"
+msgstr "Сховати"
+
+#: C:\work/php/help-window.php:34
+msgid "Unknown site type"
+msgstr "Невідомий тип сайта"
+
+#: C:\work/php/help-window.php:84
+msgid "Collect hits from PHP pages"
+msgstr "Збирати хіти із будь-якої сторінки PHP"
+
+#: C:\work/php/help-window.php:85
+msgid "To allow FireStats to track access to your pages, you need to add the following line inside the head tag of each of the pages you want to monitor (the page must be a php page)."
+msgstr "Для того, щоб FireStats збирав дані про доступ до ваших сторінок, ви повинні додати наступний рядок в тег head тих ваших PHP-сторінок, доступ до котрих ви бажаєте відслідковувати"
+
+#: C:\work/php/help-window.php:91
+#: C:\work/php/help-window.php:131
+msgid "A typical page header will look like this:"
+msgstr "Типовий заголовок сторінки повинен мати приблизно такий вигляд:"
+
+#: C:\work/php/help-window.php:124
+msgid "Collect hits from any HTML page"
+msgstr "Збирати хіти із будь-якої сторінки HTML"
+
+#: C:\work/php/help-window.php:125
+msgid "To allow FireStats to track access to your pages, you need to add the following line inside the head or body tag of each of the pages you want to monitor."
+msgstr "Для того, щоб FireStats збирав дані про доступ до ваших сторінок, ви повинні додати наступний рядок в тег head або body тих ваших сторінок, доступ до котрих ви бажаєте відслідковувати."
+
+#: C:\work/php/help-window.php:149
+msgid "WordPress"
+msgstr "WordPress"
+
+#: C:\work/php/help-window.php:150
+msgid "The WordPress plugin registers itself automatically when it's activated"
+msgstr "Після того, як ви його ввімкнули, плагін Wordpress реєструється автоматично"
+
+#: C:\work/php/help-window.php:156
+#: C:\work/php/help-window.php:164
+#: C:\work/php/help-window.php:182
+#: C:\work/php/help-window.php:188
+#: C:\work/php/help-window.php:200
+msgid "plugin"
+msgstr "плагін"
+
+#: C:\work/php/help-window.php:170
+#: C:\work/php/help-window.php:176
+msgid "module"
+msgstr "модуль"
+
+#: C:\work/php/help-window.php:219
+#, php-format
+msgid "Collect hits from a %s site"
+msgstr "Зібрати хіти із сайта %s"
+
+#: C:\work/php/help-window.php:240
+#, php-format
+msgid "and then configure it in the administration menu with the path %s and the ID %s"
+msgstr "і далі налаштуйте це в пінелі управління із шляхом %s та ID %s"
+
+#: C:\work/php/help-window.php:250
+#, php-format
+msgid "and then edit the lines in %s to contain this:"
+msgstr "і далі відредагуйте рядки в %s, котрі мають це:"
+
+#: C:\work/php/help-window.php:257
+#, php-format
+msgid "To collect statistics from your %s site your need to install the %s"
+msgstr "Щоб зібрати статистику із сайта %s, ви повинні встановити %s"
+
+#: C:\work/php/html-utils.php:10
+msgid "Link here"
+msgstr "Посилання тут"
+
+#: C:\work/php/html-utils.php:137
+#: C:\work/php/html-utils.php:205
+msgid "Name"
+msgstr "Ім'я"
+
+#: C:\work/php/html-utils.php:138
+#: C:\work/php/page-add-admin.php:37
+msgid "Email"
+msgstr "Email"
+
+#: C:\work/php/html-utils.php:139
+msgid "Security level"
+msgstr "Рівень безпеки"
+
+#: C:\work/php/html-utils.php:161
+msgid "Admin"
+msgstr "Адміністратор"
+
+#: C:\work/php/html-utils.php:166
+msgid "User"
+msgstr "Користувач"
+
+#: C:\work/php/html-utils.php:186
+msgid "Add a new user"
+msgstr "Додати нового користувача"
+
+#: C:\work/php/html-utils.php:198
+msgid "Page"
+msgstr "Сторінка"
+
+#: C:\work/php/html-utils.php:204
+msgid "ID"
+msgstr "ID"
+
+#: C:\work/php/html-utils.php:206
+msgid "Type"
+msgstr "Тип"
+
+#: C:\work/php/html-utils.php:207
+#: C:\work/php/page-stats.php:159
+msgid "Page views"
+msgstr "Переглядів сторінок:"
+
+#: C:\work/php/html-utils.php:224
+msgid "How to integrate with this site"
+msgstr "Як налаштувати підрахунок хітів"
+
+#: C:\work/php/html-utils.php:253
+msgid "Orphaned hits"
+msgstr "Втрачені хіти"
+
+#: C:\work/php/html-utils.php:271
+#, php-format
+msgid "Page %s of %s"
+msgstr "Сторінка %s із %s"
+
+#: C:\work/php/html-utils.php:279
+msgid "Add a new site"
+msgstr "Додати новий сайт"
+
+#: C:\work/php/html-utils.php:351
+msgid "Generic PHP site"
+msgstr "Звичайний сайт на PHP"
+
+#: C:\work/php/html-utils.php:353
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: C:\work/php/html-utils.php:355
+msgid "Django"
+msgstr "Django"
+
+#: C:\work/php/html-utils.php:357
+msgid "Drupal"
+msgstr "Drupal"
+
+#: C:\work/php/html-utils.php:359
+msgid "Gregarius"
+msgstr "Gregarius"
+
+#: C:\work/php/html-utils.php:361
+msgid "Joomla"
+msgstr "Joomla"
+
+#: C:\work/php/html-utils.php:363
+msgid "MediaWiki"
+msgstr "MediaWiki"
+
+#: C:\work/php/html-utils.php:365
+msgid "Trac"
+msgstr "Trac"
+
+#: C:\work/php/html-utils.php:367
+msgid "Gallery2"
+msgstr "Gallery2"
+
+#: C:\work/php/html-utils.php:369
+msgid "Generic HTML site"
+msgstr "Звичайний сайт на HTML"
+
+#: C:\work/php/html-utils.php:462
+msgid "Invalid"
+msgstr "Невірний"
+
+#: C:\work/php/html-utils.php:481
+msgid "You are not allowed to view the statistics of any site, please contact your system administrator"
+msgstr "У вас не має права для перегляду статистики сайтів. Зв'яжіться із адміністратором."
+
+#: C:\work/php/html-utils.php:510
+msgid "All"
+msgstr "Всі"
+
+#: C:\work/php/html-utils.php:511
+msgid "Show statistics from"
+msgstr "Показати статистику для"
+
+#: C:\work/php/html-utils.php:539
+msgid "unknown"
+msgstr "Невідомо"
+
+#: C:\work/php/html-utils.php:621
+#: C:\work/php/page-stats.php:320
+msgid "IP"
+msgstr "IP"
+
+#: C:\work/php/html-utils.php:622
+msgid "TimeStamp"
+msgstr "Дата та час"
+
+#: C:\work/php/html-utils.php:623
+#: C:\work/php/page-stats.php:321
+msgid "URL"
+msgstr "URL"
+
+#: C:\work/php/html-utils.php:624
+#: C:\work/php/page-stats.php:322
+msgid "Referrer"
+msgstr "Реферал"
+
+#: C:\work/php/html-utils.php:625
+msgid "Image"
+msgstr "Зображення"
+
+#: C:\work/php/html-utils.php:626
+msgid "UserAgent"
+msgstr "UserAgent"
+
+#: C:\work/php/html-utils.php:647
+#: C:\work/php/html-utils.php:737
+#: C:\work/php/html-utils.php:953
+#: C:\work/php/html-utils.php:1045
+#: C:\work/php/html-utils.php:1080
+#: C:\work/php/html-utils.php:1165
+#: C:\work/php/html-utils.php:1243
+msgid "No data yet, go get some hits"
+msgstr "Немає даних. Необхідно отримати хоча б декілька хітів."
+
+#: C:\work/php/html-utils.php:798
+#: C:\work/php/html-utils.php:830
+#: C:\work/php/html-utils.php:852
+#: C:\work/php/html-utils.php:877
+msgid "Empty"
+msgstr "Порожньо"
+
+#: C:\work/php/html-utils.php:982
+msgid "Start date is missing"
+msgstr "Не вказана початкова дата"
+
+#: C:\work/php/html-utils.php:987
+msgid "End date is missing"
+msgstr "Не вказана кінцева дата"
+
+#: C:\work/php/html-utils.php:1007
+msgid "Please wait..."
+msgstr "Будь ласка зачекайте..."
+
+#: C:\work/php/html-utils.php:1103
+#, php-format
+msgid "%d hits from %s"
+msgstr "%d хітів із %s"
+
+#: C:\work/php/html-utils.php:1227
+msgid "Others"
+msgstr "Інші"
+
+#: C:\work/php/html-utils.php:1270
+msgid "System information"
+msgstr "Системна інформація"
+
+#: C:\work/php/html-utils.php:1271
+msgid "You can help by sending anonymous system information that will help make better decisions about new features"
+msgstr "Ви можете допомогти нам у розробці нових функцій FireStats, надіславши інформацію про вашу систему"
+
+#: C:\work/php/html-utils.php:1272
+msgid "The information will be sent anonymously, but a unique identifier will be sent to prevent duplicate entries from the same FireStats"
+msgstr "Звіт відсилається анонімно, але у вашій базі даних цим даним буде надано унікальний ідентифікатор, щоб виключити дублювання інформації"
+
+#: C:\work/php/html-utils.php:1421
+msgid "Page views in last 24 hours"
+msgstr "Переглядів сторінок за добу:"
+
+#: C:\work/php/html-utils.php:1422
+msgid "Page views since midnight"
+msgstr "Переглядів сторінок із півночі:"
+
+#: C:\work/php/html-utils.php:1433
+msgid "Visits in last 24 hours"
+msgstr "Відвідувань за 24 години:"
+
+#: C:\work/php/html-utils.php:1434
+msgid "Visits since midnight"
+msgstr "Відвідувань з півночі"
+
+#: C:\work/php/html-utils.php:1447
+#, php-format
+msgid "Page %s of %s (%s hits)"
+msgstr "Сторінка %s із %s (%s хітів)"
+
+#: C:\work/php/import-bots-list.php:15
+#: C:\work/php/import-bots-list.php:23
+msgid "Import bots list"
+msgstr "Імпортувати список ботів"
+
+#: C:\work/php/import-bots-list.php:34
+msgid "Select bot-list file"
+msgstr "Виберіть файл із списком ботів"
+
+#: C:\work/php/import-bots-list.php:35
+msgid "Import type"
+msgstr "Тип імпорту"
+
+#: C:\work/php/import-bots-list.php:37
+msgid "Add to bots list"
+msgstr "Додати до списку ботів"
+
+#: C:\work/php/import-bots-list.php:38
+msgid "Replace bots list"
+msgstr "Замінити список ботів"
+
+#: C:\work/php/import-bots-list.php:40
+msgid "Send File"
+msgstr "Відіслати файл"
+
+#: C:\work/php/import-bots-list.php:56
+msgid "Incorrect file format"
+msgstr "Невірний формат файлу"
+
+#: C:\work/php/import-bots-list.php:68
+#, php-format
+msgid "Error importing bots list : %s"
+msgstr "Помилка під час імпорту списку ботів: %s"
+
+#: C:\work/php/import-bots-list.php:73
+msgid "bots list imported successfully"
+msgstr "імпорт списку ботів успішно закінчено"
+
+#: C:\work/php/ip2country.php:118
+#: C:\work/php/ip2country.php:122
+#: C:\work/php/ip2country.php:252
+msgid "Error creating temporary file"
+msgstr "Помилка при створенні тимчасового файлу"
+
+#: C:\work/php/ip2country.php:130
+#, php-format
+msgid "Error opening connection to %s"
+msgstr "Помилка підключення до %s"
+
+#: C:\work/php/ip2country.php:135
+#, php-format
+msgid "Error sending request to %s"
+msgstr "Помилка відправлення запиту до %s"
+
+#: C:\work/php/ip2country.php:141
+#, php-format
+msgid "Server returned error %s for %s"
+msgstr "Сервер повернув помилку %s для %s"
+
+#: C:\work/php/ip2country.php:155
+#, php-format
+msgid "Error reading data from %s : %s"
+msgstr "Помилка читання даних із %s : %s"
+
+#: C:\work/php/ip2country.php:184
+#, php-format
+msgid "Error extracting IP-to-country database: %s"
+msgstr "Помилка розпакування IP-to-country бази даних: %s"
+
+#: C:\work/php/ip2country.php:189
+#, php-format
+msgid "Unsupported file type : %s"
+msgstr "Непідтримуваний тип файлу: %s"
+
+#: C:\work/php/ip2country.php:209
+#, php-format
+msgid "can't update ip-to-country database, read-only directory : %s"
+msgstr "Неможливо оновити базу даних ip-to-country, директорія знаходиться в режимі 'тільки читання': %s"
+
+#: C:\work/php/ip2country.php:211
+#: C:\work/php/ip2country.php:213
+#, php-format
+msgid "can't update ip-to-country database, read-only file : %s"
+msgstr "Неможливо оновити базу даних ip-to-country, файл знаходиться в режимі 'тільки читання': %s"
+
+#: C:\work/php/ip2country.php:228
+msgid "Error installing new IP-to-country database"
+msgstr "Помилка установлення нової бази даних IP-to-country"
+
+#: C:\work/php/ip2country.php:234
+msgid "Successfuly updated IP-to-country database"
+msgstr "База даних IP-to-country успішно оновлена"
+
+#: C:\work/php/ip2country.php:238
+#, php-format
+msgid "Error updating version file : %s"
+msgstr "Помилка оновлення файлу версії: %s"
+
+#: C:\work/php/page-add-admin.php:26
+msgid "Create administrator user"
+msgstr "Створити адміністратора"
+
+#: C:\work/php/page-add-admin.php:28
+msgid "You need to create an administrator user for FireStats."
+msgstr "Вам необхідно створити адміністратора для FireStats."
+
+#: C:\work/php/page-add-admin.php:29
+msgid "The administrator has full control over FireStats, and will be able to create other users/administrators from the administration interface"
+msgstr "Адміністратор має повний контроль над FireStats та може створювати інших користувачів/адміністраторів"
+
+#: C:\work/php/page-add-admin.php:33
+msgid "User name"
+msgstr "Ім'я користувача"
+
+#: C:\work/php/page-add-admin.php:45
+msgid "Verify password"
+msgstr "Перевірка пароля"
+
+#: C:\work/php/page-add-admin.php:49
+msgid "Create user"
+msgstr "Створити користувача"
+
+#: C:\work/php/page-database.php:51
+msgid "Database status"
+msgstr "Статус бази даних"
+
+#: C:\work/php/page-database.php:61
+#, php-format
+msgid "Upgrade to database version %d"
+msgstr "Оновити базу даних до версії %d"
+
+#: C:\work/php/page-database.php:62
+msgid "Open diagnostics page"
+msgstr "Перейти на сторінку діагностики"
+
+#: C:\work/php/page-database.php:88
+#, php-format
+msgid "Configuration source : %s"
+msgstr "Джерело налаштувань: %s"
+
+#: C:\work/php/page-database.php:94
+msgid "To use wordpress database, click this button."
+msgstr "Щоб використовувати базу даних Wordpress, натисніть цю кнопку."
+
+#: C:\work/php/page-database.php:95
+msgid "FireStats database configuration will be lost."
+msgstr "Налаштування бази даних FireStats будуть втрачені."
+
+#: C:\work/php/page-database.php:96
+msgid "Use Wordpress database"
+msgstr "Використовувати базу даних Wordpress"
+
+#: C:\work/php/page-database.php:107
+msgid "To perform one of the following actions:"
+msgstr "Щоб виконати одну із наступних дій:"
+
+#: C:\work/php/page-database.php:109
+msgid "Attach to an existing FireStats installation"
+msgstr "Приєднатися до вже існуючої установки FireStats"
+
+#: C:\work/php/page-database.php:110
+#: C:\work/php/page-database.php:228
+msgid "Install FireStats into an existing database"
+msgstr "Встановити FireStats до вже існуючої бази даних"
+
+#: C:\work/php/page-database.php:111
+#: C:\work/php/page-database.php:231
+msgid "Create a new database and install FireStats there"
+msgstr "Створити нову базу даних та встановити FireStats до неї"
+
+#: C:\work/php/page-database.php:113
+msgid "Follow instructions in the help"
+msgstr "Дотримуйтесь інструкцій у розділі 'Допомога'"
+
+#: C:\work/php/page-database.php:121
+msgid "Database host"
+msgstr "Сервер бази даних"
+
+#: C:\work/php/page-database.php:127
+msgid "Database name"
+msgstr "Назва бази даних"
+
+#: C:\work/php/page-database.php:133
+msgid "Database user name"
+msgstr "Користувач бази даних"
+
+#: C:\work/php/page-database.php:139
+msgid "Database password"
+msgstr "Пароль бази даних"
+
+#: C:\work/php/page-database.php:145
+msgid "Tables prefix"
+msgstr "Префікс бази даних"
+
+#: C:\work/php/page-database.php:154
+#: C:\work/php/page-database.php:226
+#: C:\work/php/page-database.php:229
+#: C:\work/php/page-database.php:232
+msgid "Test connection"
+msgstr "Перевірити з'єднання"
+
+#: C:\work/php/page-database.php:164
+msgid "Click to install and switch to new FireStats tables"
+msgstr "Натисніть для завершення установлення FireStats"
+
+#: C:\work/php/page-database.php:167
+#: C:\work/php/page-database.php:229
+msgid "Install tables"
+msgstr "Встановити таблиці"
+
+#: C:\work/php/page-database.php:176
+msgid "Click to use this FireStats database"
+msgstr "Натисніть, щоб використовувати цю базу даних FireStats"
+
+#: C:\work/php/page-database.php:180
+#: C:\work/php/page-database.php:226
+msgid "Use this database"
+msgstr "Використовувати цю базу даних"
+
+#: C:\work/php/page-database.php:192
+msgid "To create a new database, an administrator user should be used in the above fields."
+msgstr "Щоб створити нову базу даних, ви повинні вказати дані адміністратора"
+
+#: C:\work/php/page-database.php:193
+msgid "However, For security reason, it is recommended not to use a database administrator user for day to day operations."
+msgstr "Тим не менш, з причин збереження безпеки ми не радимо використовувати дані адміністратора бази даних для щоденних операцій"
+
+#: C:\work/php/page-database.php:194
+msgid "Enter new user name and password for FireStats, this user will only have access to the FireStats database"
+msgstr "Введіть нове ім'я користувача та пароль для FireStats. Цей користувач буде мати доступ тільки до бази даних FireStats"
+
+#: C:\work/php/page-database.php:195
+msgid "If you will not specify user and password the Admin user and password will be used."
+msgstr "Якщо ви не вкажете ім'я користувача та пароль, тоді будуть використовуватися базові Адміністратор з його паролем."
+
+#: C:\work/php/page-database.php:202
+msgid "FireStats User name"
+msgstr "Ім'я користувача FireStats"
+
+#: C:\work/php/page-database.php:206
+msgid "FireStats password"
+msgstr "Пароль FireStats"
+
+#: C:\work/php/page-database.php:212
+#: C:\work/php/page-database.php:232
+msgid "Create database"
+msgstr "Створити базу даних"
+
+#: C:\work/php/page-database.php:224
+#: C:\work/php/page-sites.php:33
+msgid "Help"
+msgstr "Допомога"
+
+#: C:\work/php/page-database.php:225
+msgid "Attach to an existing FireStats database"
+msgstr "Приєднатися до вже існуючої бази даних FireStats"
+
+#: C:\work/php/page-database.php:226
+#: C:\work/php/page-database.php:229
+#, php-format
+msgid "Enter the parameters in the table, press %s, and then %s."
+msgstr "Введіть необхідні параметри до таблиці, натисніть %s, потім %s."
+
+#: C:\work/php/page-database.php:232
+#, php-format
+msgid "Enter the parameters into the table, <u>you need to enter a database administrator user</u>. press %s, and then enter FireStats database user and password, and finally press %s."
+msgstr "Введіть необхідні параметри до таблиці. <u>Ви повинні ввести ім'я та пароль адміністратора бази даних</u>. Натисніть %s, введіть ім'я користувача та пароль бази даних FireStats, після чого натисніть %s."
+
+#: C:\work/php/page-settings.php:10
+msgid "Options"
+msgstr "Налаштування"
+
+#: C:\work/php/page-settings.php:14
+msgid "Select language"
+msgstr "Оберіть мову"
+
+#: C:\work/php/page-settings.php:19
+#: C:\work/php/page-settings.php:30
+#: C:\work/php/page-settings.php:44
+#: C:\work/php/page-stats.php:295
+msgid "Save"
+msgstr "Зберегти"
+
+#: C:\work/php/page-settings.php:20
+msgid "How to translate to a new language"
+msgstr "Як перекласти на іншу мову"
+
+#: C:\work/php/page-settings.php:24
+msgid "Select your time zone"
+msgstr "Оберіть вашу часову зону:"
+
+#: C:\work/php/page-settings.php:33
+#, php-format
+msgid "Time zone selection requires %s or newer"
+msgstr "Вибір часової зони портебує %s або вище"
+
+#: C:\work/php/page-settings.php:37
+msgid "Select WHOIS provider"
+msgstr "Оберіть провайдера WHOIS:"
+
+#: C:\work/php/page-settings.php:53
+msgid "Exclude hits"
+msgstr "Вилучені хіти"
+
+#: C:\work/php/page-settings.php:54
+msgid "Purge excluded records stored in the database"
+msgstr "Видалити вилучені записи із бази даних "
+
+#: C:\work/php/page-settings.php:57
+msgid "Purge"
+msgstr "Видалити"
+
+#: C:\work/php/page-settings.php:60
+#: C:\work/php/page-stats.php:323
+msgid "User agent"
+msgstr "User-agent"
+
+#: C:\work/php/page-settings.php:73
+msgid "Automatic update"
+msgstr "Автоматичне оновлення"
+
+#: C:\work/php/page-settings.php:76
+msgid "Update now"
+msgstr "Оновити зараз"
+
+#: C:\work/php/page-settings.php:77
+msgid "Import"
+msgstr "Імпорт"
+
+#: C:\work/php/page-settings.php:81
+msgid "Export"
+msgstr "Експорт"
+
+#: C:\work/php/page-settings.php:86
+msgid "IP address"
+msgstr "IP-адреси"
+
+#: C:\work/php/page-settings.php:98
+msgid "URL/Referrer"
+msgstr "URL/Реферал"
+
+#: C:\work/php/page-settings.php:119
+msgid "Compact old data"
+msgstr "Архівування старих даних"
+
+#: C:\work/php/page-settings.php:127
+#, php-format
+msgid "%s compact data older than %s"
+msgstr "%s архівувати дані старші ніж %s"
+
+#: C:\work/php/page-settings.php:144
+msgid "Automatic version check"
+msgstr "Автоматична перевірка оновлень"
+
+#: C:\work/php/page-settings.php:146
+msgid "Automatically check if there is a new version of FireStats (recommended)"
+msgstr "Автоматично перевіряти наявність нових версій FireStats (рекомендується)."
+
+#: C:\work/php/page-settings.php:152
+msgid "Hits processing mode"
+msgstr "Режим обробки хітів"
+
+#: C:\work/php/page-settings.php:158
+msgid "This section allow you to modify the way FireStats handles incoming hits. it is useful to fine tune FireStats for sites with very high load."
+msgstr "В цьому розділі ви можете управляти тим, як FireStats обробляє хіти. Для сайтів із високим навантаженням необхідно дуже ретельно налаштувати FireStats."
+
+#: C:\work/php/page-settings.php:162
+msgid "MySQL 5.0 or newer is required for faster processing modes"
+msgstr "Для покращеного режиму обробки даних необхідна MySQL 5.0 або вище "
+
+#: C:\work/php/page-settings.php:176
+msgid "Overriden by conf.php"
+msgstr "Заборонено conf.php"
+
+#: C:\work/php/page-settings.php:183
+msgid "IP-to-country database"
+msgstr "База даних IP-to-country"
+
+#: C:\work/php/page-settings.php:185
+#, php-format
+msgid "IP-to-country database version : %s"
+msgstr "Версія IP-to-country бази даних: %s"
+
+#: C:\work/php/page-settings.php:187
+msgid "Automatically check if there is a new version of IP-to-country database"
+msgstr "Автоматично перевіряти наявність нових версій бази даних IP-to-country"
+
+#: C:\work/php/page-settings.php:190
+msgid "Update IP-to-country database now (only if needed)"
+msgstr "Оновити базу даних IP-to-country зараз (тільки якщо необхідно) "
+
+#: C:\work/php/page-settings.php:192
+msgid "Update"
+msgstr "Оновити"
+
+#: C:\work/php/page-settings.php:205
+msgid "Automatically"
+msgstr "Автоматично"
+
+#: C:\work/php/page-settings.php:206
+msgid "Manually"
+msgstr "Вручну"
+
+#: C:\work/php/page-settings.php:207
+msgid "Please select"
+msgstr "Будь ласка виберіть"
+
+#: C:\work/php/page-settings.php:224
+msgid "One week"
+msgstr "Тиждень"
+
+#: C:\work/php/page-settings.php:225
+msgid "Two weeks"
+msgstr "Два тижня"
+
+#: C:\work/php/page-settings.php:226
+msgid "One month"
+msgstr "Місяць"
+
+#: C:\work/php/page-settings.php:227
+msgid "Two months"
+msgstr "Два місяця"
+
+#: C:\work/php/page-settings.php:228
+msgid "Three months"
+msgstr "Три місяця"
+
+#: C:\work/php/page-settings.php:229
+msgid "Half a year"
+msgstr "Півроку"
+
+#: C:\work/php/page-settings.php:230
+msgid "One year"
+msgstr "Рік"
+
+#: C:\work/php/page-settings.php:231
+msgid "Two years"
+msgstr "Два роки"
+
+#: C:\work/php/page-settings.php:241
+msgid "Process immediately (Slow)"
+msgstr "Обробляти відразу (повільно)"
+
+#: C:\work/php/page-settings.php:244
+msgid "Buffer hits (Fast)"
+msgstr "Буферизувати хіти"
+
+#: C:\work/php/page-sites.php:15
+msgid "Manage sites"
+msgstr "Управління сайтами"
+
+#: C:\work/php/page-sites.php:16
+msgid "Search"
+msgstr "Пошук"
+
+#: C:\work/php/page-sites.php:21
+#: C:\work/php/page-stats.php:349
+msgid "Clear"
+msgstr "Очистити"
+
+#: C:\work/php/page-sites.php:34
+msgid "Warning, you can really mess things up from here, be careful!"
+msgstr "Обережно! Тут можна все дуже сильно зіпсувати!"
+
+#: C:\work/php/page-sites.php:36
+msgid "FireStats can collect statistics from multiple sites (on the same server)."
+msgstr "FireStats може збирати статистику із декількох сайтів на одному сервері. Для цього:"
+
+#: C:\work/php/page-sites.php:38
+msgid "The site need to be registered in the sites table"
+msgstr "Cайт повинен бути зареєстрований у таблиці сайтів"
+
+#: C:\work/php/page-sites.php:39
+msgid "The site should be configured to use its ID when reporting a hit, click on the help button next to the site you created for more information"
+msgstr "Cайт повинен бути налоштований для використування із цим ID при підрахунку хітів. Натисніть на кнопку 'Допомога' поряд із назвою сайта, щоб отримати додаткову інформацію"
+
+#: C:\work/php/page-sites.php:42
+#, php-format
+msgid "Click %s for more information"
+msgstr "Щоб знати більше, натисніть %s"
+
+#: C:\work/php/page-stats.php:44
+#: C:\work/php/page-stats.php:78
+#: C:\work/php/page-stats.php:125
+msgid "Refresh statistics"
+msgstr "Оновити статистику"
+
+#: C:\work/php/page-stats.php:67
+msgid "Not a positive number : "
+msgstr "Не додатне число"
+
+#: C:\work/php/page-stats.php:136
+msgid "Auto refresh every"
+msgstr "Автооновлення кожні"
+
+#: C:\work/php/page-stats.php:140
+msgid "minutes"
+msgstr "хвилин "
+
+#: C:\work/php/page-stats.php:141
+#: C:\work/php/page-stats.php:194
+#: C:\work/php/page-stats.php:212
+#: C:\work/php/page-stats.php:237
+#: C:\work/php/page-stats.php:250
+#: C:\work/php/page-stats.php:266
+#: C:\work/php/page-stats.php:282
+#: C:\work/php/page-stats.php:350
+msgid "Apply"
+msgstr "Застосувати"
+
+#: C:\work/php/page-stats.php:148
+msgid "Status"
+msgstr "Статус"
+
+#: C:\work/php/page-stats.php:152
+msgid "Last 24 hours"
+msgstr "Останні 24 години"
+
+#: C:\work/php/page-stats.php:153
+msgid "Since midnight"
+msgstr "З півночі"
+
+#: C:\work/php/page-stats.php:162
+msgid "Visits"
+msgstr "Відвідувань:"
+
+#: C:\work/php/page-stats.php:171
+msgid "RSS Subscribers"
+msgstr "RSS передплатники:"
+
+#: C:\work/php/page-stats.php:185
+msgid "Recent referrers"
+msgstr "Останні джерела трафіка"
+
+#: C:\work/php/page-stats.php:191
+#, php-format
+msgid "Show at most %s items for the last %s days, sorted by %s"
+msgstr "Показати %s елементів за останні %s днів. Сортувати як: %s "
+
+#: C:\work/php/page-stats.php:203
+msgid "Search terms"
+msgstr "Пошукові запити"
+
+#: C:\work/php/page-stats.php:207
+#, php-format
+msgid "Show at most %s search terms for %s"
+msgstr "Показати %s пошукових запитів за %s "
+
+#: C:\work/php/page-stats.php:214
+msgid "Start date:"
+msgstr "Початкова дата:"
+
+#: C:\work/php/page-stats.php:215
+msgid "End date:"
+msgstr "Кінцева дата:"
+
+#: C:\work/php/page-stats.php:229
+msgid "Recent popular pages"
+msgstr "Популярні сторінки"
+
+#: C:\work/php/page-stats.php:234
+#: C:\work/php/page-stats.php:279
+#, php-format
+msgid "Show at most %s items for the last %s days"
+msgstr "Показати %s елементів за останні %s днів "
+
+#: C:\work/php/page-stats.php:244
+msgid "Browsers"
+msgstr "Браузери"
+
+#: C:\work/php/page-stats.php:247
+#: C:\work/php/page-stats.php:263
+#, php-format
+msgid "Show items for the last %s days"
+msgstr "Показати дані за %s останніх днів "
+
+#: C:\work/php/page-stats.php:259
+msgid "Operating systems"
+msgstr "Операційні системи"
+
+#: C:\work/php/page-stats.php:275
+msgid "Countries"
+msgstr "Країни"
+
+#: C:\work/php/page-stats.php:289
+msgid "Hits table"
+msgstr "Таблиця хітів"
+
+#: C:\work/php/page-stats.php:290
+msgid "Number of hits to show"
+msgstr "Скільки хітів відображати "
+
+#: C:\work/php/page-stats.php:307
+msgid "Previous page"
+msgstr "Попередня сторінка"
+
+#: C:\work/php/page-stats.php:309
+msgid "Next page"
+msgstr "Наступна сторінка"
+
+#: C:\work/php/page-stats.php:327
+msgid "Filter"
+msgstr "Фільтр"
+
+#: C:\work/php/page-stats.php:367
+msgid "Newest first"
+msgstr "Найновіші"
+
+#: C:\work/php/page-stats.php:368
+msgid "Most hits first"
+msgstr "Найпопулярніші"
+
+#: C:\work/php/page-stats.php:377
+msgid "the last 24 hours"
+msgstr "Останні 24 години"
+
+#: C:\work/php/page-stats.php:378
+msgid "the last week"
+msgstr "Останній тиждень"
+
+#: C:\work/php/page-stats.php:379
+msgid "the last month"
+msgstr "Останній місяць"
+
+#: C:\work/php/page-stats.php:380
+msgid "the three months"
+msgstr "Три місяці"
+
+#: C:\work/php/page-stats.php:381
+msgid "the last six months"
+msgstr "Останні півроку"
+
+#: C:\work/php/page-stats.php:382
+msgid "the last year"
+msgstr "Останній рік"
+
+#: C:\work/php/page-stats.php:383
+msgid "all time"
+msgstr "Весь час"
+
+#: C:\work/php/page-stats.php:384
+msgid "time range"
+msgstr "Указати проміжок"
+
+#: C:\work/php/page-tools.php:8
+msgid "Tools"
+msgstr "Інструменти"
+
+#: C:\work/php/page-tools.php:9
+msgid "This section contains various tools"
+msgstr "Цей розділ містить різноманітні додаткові інструменти"
+
+#: C:\work/php/page-tools.php:14
+msgid "I agree to send system information"
+msgstr "Я згоден відіслати інформацію про систему"
+
+#: C:\work/php/page-tools.php:18
+msgid "Diagnostics"
+msgstr "Діагностика"
+
+#: C:\work/php/page-tools.php:19
+msgid "System diagnostics page"
+msgstr "Діагностика модуля"
+
+#: C:\work/php/page-tools.php:19
+msgid "Open"
+msgstr "Перейти"
+
+#: C:\work/php/page-tools.php:24
+msgid "PHP Version"
+msgstr "Версія PHP"
+
+#: C:\work/php/page-tools.php:27
+msgid "MySQL Version"
+msgstr "Версія MySQL"
+
+#: C:\work/php/page-tools.php:30
+msgid "Memory limit"
+msgstr "Обмеження пам'яті"
+
+#: C:\work/php/page-tools.php:36
+msgid "Database cache"
+msgstr "Кеш бази даних"
+
+#: C:\work/php/page-tools.php:37
+msgid "The following section can recalculate different aspects of the database. you don't normally need to use it."
+msgstr "Тут можна оновити різноманітні параметри бази даних. Зазвичай, немає необхідності використовувати цю функцію."
+
+#: C:\work/php/page-tools.php:40
+msgid "Recalculate country codes"
+msgstr "Перерахувати коди країн"
+
+#: C:\work/php/page-tools.php:45
+msgid "Rebuild database cache"
+msgstr "Перебудувати кеш бази даних"
+
+#: C:\work/php/page-tools.php:50
+msgid "Recalculate search engine terms"
+msgstr "Перерахувати пошукові запити"
+
+#: C:\work/php/page-users.php:27
+#: C:\work/php/tools-menu.php:6
+msgid "Manage users"
+msgstr "Управління користувачами"
+
+#: C:\work/php/page-users.php:36
+msgid "You can manage users here"
+msgstr "Ви можете управляти користувачами тут"
+
+#: C:\work/php/page-wordpress-settings.php:21
+msgid "Statistics widget"
+msgstr "Віджет статистики"
+
+#: C:\work/php/page-wordpress-settings.php:46
+#, php-format
+msgid "You can configure the sidebar widgets from %s"
+msgstr "Ви можете налаштувати віджети для бічної панелі %s"
+
+#: C:\work/php/page-wordpress-settings.php:50
+#, php-format
+msgid "The statistics widget requires the %s plugin for optimal usage."
+msgstr "Для оптимального використання віджету статистики необхідний плагін: %s"
+
+#: C:\work/php/page-wordpress-settings.php:53
+msgid "Widgets"
+msgstr "Віджети"
+
+#: C:\work/php/page-wordpress-settings.php:55
+msgid "You can also manually add the following code to your theme sidebar:"
+msgstr "Ви також можете ручним способом вставити цей код у бічну панель вашої теми оформлення"
+
+#: C:\work/php/page-wordpress-settings.php:63
+msgid "Comments icons"
+msgstr "Іконки для коментарів"
+
+#: C:\work/php/page-wordpress-settings.php:70
+msgid "Add flag icon to comments"
+msgstr "Додавати до коментарів іконку прапора країни"
+
+#: C:\work/php/page-wordpress-settings.php:77
+msgid "Add browser and operating system icons to comments"
+msgstr "Додавати до коментарів іконки  браузера та операційної системи"
+
+#: C:\work/php/page-wordpress-settings.php:80
+msgid "Blog footer"
+msgstr "Нижній колонтитул блога"
+
+#: C:\work/php/page-wordpress-settings.php:87
+msgid "Add FireStats footer to blog"
+msgstr "Додати FireStats до нижнього колонтитула сайта"
+
+#: C:\work/php/page-wordpress-settings.php:95
+msgid "Show statistics in footer"
+msgstr "Показувати статистику в нижньому колонтитулі сайта"
+
+#: C:\work/php/page-wordpress-settings.php:101
+msgid "Excluded users"
+msgstr "Вилучені користувачі"
+
+#: C:\work/php/page-wordpress-settings.php:102
+msgid "WordPress users selected here will not be counted in the statistics"
+msgstr "Ці вибрані користувачі WordPress не будуть занесені до статистики:"
+
+#: C:\work/php/page-wordpress-settings.php:106
+msgid "Permissions"
+msgstr "Права"
+
+#: C:\work/php/page-wordpress-settings.php:107
+msgid "Select the minimum user role that can access FireStats (Only administrators can manage FireStats)"
+msgstr "Оберіть мінімальну роль користувача, котрий може отримати доступ до FireStats (управляти FireStats можуть тільки адміністратори)"
+
+#: C:\work/php/page-wordpress-settings.php:111
+msgid "Administrator"
+msgstr "Адмімістратор"
+
+#: C:\work/php/page-wordpress-settings.php:112
+msgid "Editor"
+msgstr "Редактор"
+
+#: C:\work/php/page-wordpress-settings.php:113
+msgid "Author"
+msgstr "Автор"
+
+#: C:\work/php/page-wordpress-settings.php:114
+msgid "Contributor"
+msgstr "Співробітник"
+
+#: C:\work/php/page-wordpress-settings.php:115
+msgid "Subscriber"
+msgstr "Передплатник"
+
+#: C:\work/php/page-wordpress-settings.php:123
+msgid "Advanced"
+msgstr "Додатково"
+
+#: C:\work/php/page-wordpress-settings.php:124
+msgid "WordPress site ID, every hit From this blog is recorded with this as the source Site ID"
+msgstr "ID сайта WordPress. Кожен хіт із цього блога записується в базу даних з відповідним ID сайта."
+
+#: C:\work/php/page-wordpress-settings.php:125
+msgid "This should be the same ID as the Site ID in the sites table. you don't normally need to change this."
+msgstr "ID повинен відповідати значенню ID у таблиці сайтів. Ви не можете його змінювати."
+
+#: C:\work/php/page-wordpress-settings.php:135
+msgid "This will update the titles of the blog posts inside FireStats, you don't normally need to use it"
+msgstr "Оновити заголовки записів журналу в FireStats. Зазвичай, у вас немає необхідності користуватися цією функцією."
+
+#: C:\work/php/rebuild-db.php:17
+msgid "Recalculating matching bots"
+msgstr "Перерахувати співпадаючих ботів"
+
+#: C:\work/php/rebuild-db.php:20
+msgid "Recalculating matching IP addresses"
+msgstr "Перерахувати співпадаючі IP-адреси"
+
+#: C:\work/php/rebuild-db.php:23
+msgid "Recalculating matching urls"
+msgstr "Перерахувати співпадаючі URL"
+
+#: C:\work/php/tabbed-pane.php:12
+msgid "FireStats is under maintenance, please try again later"
+msgstr "FireStats зачинений на профілактику. Будь ласка, спробуйте пізніше."
+
+#: C:\work/php/tabbed-pane.php:30
+msgid "Statistics"
+msgstr "Статистика"
+
+#: C:\work/php/tabbed-pane.php:33
+msgid "Settings"
+msgstr "Налаштування"
+
+#: C:\work/php/tabbed-pane.php:41
+msgid "WordPress settings"
+msgstr "Налаштування WordPress"
+
+#: C:\work/php/tabbed-pane.php:52
+msgid "Database"
+msgstr "База даних"
+
+#: C:\work/php/tabbed-pane.php:58
+msgid "Users management"
+msgstr "Управління користувачами"
+
+#: C:\work/php/tabbed-pane.php:65
+msgid "Sites management"
+msgstr "Управління сайтами"
+
+#: C:\work/php/tools-menu.php:2
+msgid "FireStats tools"
+msgstr "Інструменти FireStats"
+
+#: C:\work/php/tools-menu.php:4
+msgid "System test"
+msgstr "Перевірка системи"
+
+#: C:\work/php/tools-menu.php:5
+msgid "Reset password"
+msgstr "Скинути пароль"
+
+#: C:\work/php/utils.php:772
+#, php-format
+msgid "Done, took %s second"
+msgstr "Закінчено за %s секунд"
+
+#: C:\work/php/utils.php:869
+#, php-format
+msgid "%d seconds ago"
+msgstr "%d секунд тому"
+
+#: C:\work/php/utils.php:872
+msgid "One minute ago"
+msgstr "Хвилину тому"
+
+#: C:\work/php/utils.php:875
+#, php-format
+msgid "%d minutes ago"
+msgstr "%d хвилин тому"
+
+#: C:\work/php/utils.php:878
+msgid "one hour ago"
+msgstr "Годину тому"
+
+#: C:\work/php/utils.php:881
+#, php-format
+msgid "%d hours ago"
+msgstr "%d годин тому"
+
+#: C:\work/php/utils.php:884
+msgid "One day ago"
+msgstr "День тому"
+
+#: C:\work/php/utils.php:887
+#, php-format
+msgid "%d days ago"
+msgstr "%d днів тому"
+
+#: C:\work/php/utils.php:890
+msgid "One week ago"
+msgstr "Тиждень тому"
+
+#: C:\work/php/utils.php:893
+#, php-format
+msgid "%d weeks ago"
+msgstr "%d тижнів тому"
+
+#: C:\work/php/utils.php:896
+#, php-format
+msgid "%d months ago"
+msgstr "%d місяців тому"
+
+#: C:\work/php/utils.php:899
+msgid "One year ago"
+msgstr "Рік тому"
+
+#: C:\work/php/utils.php:902
+#, php-format
+msgid "%d years ago"
+msgstr "%d років тому"
+
+#: C:\work/php/version-check.php:35
+#, php-format
+msgid "Failed to check version at %s, reason : %s"
+msgstr "Неможливо перевірити оновлення %s. Причина: %s"
+
+#: C:\work/php/version-check.php:113
+msgid "A new version of the IP-to-country database is available! you can update it from the settings tab"
+msgstr "Доступна нова версія IP-to-country! Ви можете оновити її на вкладці 'Налаштування'."
+
+#: C:\work/php/version-check.php:136
+#, php-format
+msgid "Version %s is available! click %s for more info"
+msgstr "Доступна нова версія %s! Натисніть %s для більшої інформації"
+
+#: C:\work/php/version-check.php:159
+#, php-format
+msgid "Error opening %s"
+msgstr "Помилка відктиття %s"
+
+#: C:\work/php/window-add-excluded-ip.php:35
+msgid "Exclude IP address"
+msgstr "Вилучити IP"
+
+#: C:\work/php/window-add-excluded-ip.php:45
+msgid "Single"
+msgstr "Один"
+
+#: C:\work/php/window-add-excluded-ip.php:52
+msgid "Range"
+msgstr "Діапазон"
+
+#: C:\work/php/window-add-excluded-ip.php:61
+msgid "IP Address"
+msgstr "IP адреса"
+
+#: C:\work/php/window-add-excluded-ip.php:74
+msgid "Range start"
+msgstr "Початок діапазону"
+
+#: C:\work/php/window-add-excluded-ip.php:82
+msgid "Range end"
+msgstr "Кінець діапазону"
+
+#: C:\work/php/window-add-excluded-ip.php:99
+#: C:\work/php/window-add-excluded-url.php:33
+#: C:\work/php/window-delete-site.php:31
+#: C:\work/php/window-delete-user.php:20
+msgid "Close"
+msgstr "Закрити"
+
+#: C:\work/php/window-add-excluded-url.php:22
+msgid "Exclude URL or referrer"
+msgstr "Вилучити URL або джерело трафіку"
+
+#: C:\work/php/window-add-excluded-url.php:25
+msgid "Excluded url/referrer"
+msgstr "Вилучені URL/джерела трафіку"
+
+#: C:\work/php/window-archive-notification.php:5
+msgid "Yes (Recommended)"
+msgstr "Так (Рекомендовано)"
+
+#: C:\work/php/window-archive-notification.php:6
+msgid "No"
+msgstr "Ні"
+
+#: C:\work/php/window-archive-notification.php:9
+msgid "Compacting old data"
+msgstr "Архівування старих даних"
+
+#: C:\work/php/window-archive-notification.php:10
+msgid "FireStats can tranform old data to a more compact form,"
+msgstr "FireStats може перебудовувати старі дані в більш компактну форму."
+
+#: C:\work/php/window-archive-notification.php:11
+msgid "This will reduce storage size and improve performance at the cost of losing some information which is not essential."
+msgstr "Це скоротить зайняте ними місце на сервері та покращить продуктивність, але ви втратите деяку несуттєву інформацію."
+
+#: C:\work/php/window-archive-notification.php:12
+msgid "it is highly recommended that you allow FireStats to do this automatically."
+msgstr "Дуже радимо вам дозволити FireStats робити це автоматично."
+
+#: C:\work/php/window-archive-notification.php:14
+#, php-format
+msgid "Click %s if you would like FireStats to automatically compact data older than %s days"
+msgstr "Натисніть %s, якщо ви хочете, щоб FireStats автоматично архівував дані старіші %s днів"
+
+#: C:\work/php/window-archive-notification.php:15
+#, php-format
+msgid "Click %s if you want to compact data manually or change compacting options (From the Settings tab)"
+msgstr "Натисніть %s, якщо ви хочете архівувати дані вручну або змінити налаштування стиснення (вкладка 'Налаштування')"
+
+#: C:\work/php/window-delete-site.php:10
+msgid "Delete site"
+msgstr "Видалити сайт"
+
+#: C:\work/php/window-delete-site.php:14
+msgid "This will delete this site from the database, the operation is irreversible!"
+msgstr "Ви збираєтесь видалити сайт із бази даних. Ця дія необоротна!"
+
+#: C:\work/php/window-delete-site.php:15
+msgid "What do you want to do with the site hits?"
+msgstr "Передати хіти на інший сайт?"
+
+#: C:\work/php/window-delete-site.php:18
+msgid "Delete all the hits"
+msgstr "Видалити всі хіти"
+
+#: C:\work/php/window-delete-site.php:19
+msgid "Transfer the hits to another site"
+msgstr "Передати хіти до іншого сайту"
+
+#: C:\work/php/window-delete-site.php:22
+msgid "Enter an existing site ID to transfer the hits to"
+msgstr "Введіть ID сайта, на котрий ви хочете передати хіти"
+
+#: C:\work/php/window-delete-user.php:9
+msgid "No such user"
+msgstr "Такого користувача не знайдено"
+
+#: C:\work/php/window-delete-user.php:12
+msgid "Delete user"
+msgstr "Видалити користувача"
+
+#: C:\work/php/window-do-you-agree-to-send-sysinfo.php:9
+msgid "You can help by sending anonymous system information that will help make better decisions about new features."
+msgstr "Ви можете допомогти нам в розробці нових функцій для FireStats, виславши анонімний звіт про вашу систему."
+
+#: C:\work/php/window-do-you-agree-to-send-sysinfo.php:13
+msgid "You can change this later from the Tools tab"
+msgstr "Ви можете змінити це пізніше на вкладці 'Інструменти'"
+
+#: C:\work/php/window-do-you-agree-to-send-sysinfo.php:17
+msgid "Do you agree to send anonymous system information?"
+msgstr "Ви згодні вислати анонімний звіт про вашу систему?"
+
+#: C:\work/php/window-do-you-agree-to-send-sysinfo.php:20
+msgid "Sure, send system information"
+msgstr "Звичайно, відправте інформацію про систему"
+
+#: C:\work/php/window-do-you-agree-to-send-sysinfo.php:23
+msgid "Nope, don't send"
+msgstr "Ні, не висилати"
+
+#: C:\work/php/window-donation.php:8
+msgid "Even though FireStats is free, it takes a lot of time and hard work to develop and maintain."
+msgstr "Звичайно, FireStats безкоштовний, але ми витратили багато часу на його розробку та підтримку. Це туже важка праця."
+
+#: C:\work/php/window-donation.php:9
+msgid "If you like FireStats and would like to show your support for the hard work I put into it, You can make a small Donation. Even a $5 donation would be greatly appreciated."
+msgstr "Якщо вам подобається FireStats та ви хочете підтримати нас у цій нелегкій справі, ви можете зробити невелике пожертвування. Ми дуже цінуємо кожні 5$, вкладені вами."
+
+#: C:\work/php/window-donation.php:11
+msgid "Yeah, I want to help"
+msgstr "Звичайно, я допомогу"
+
+#: C:\work/php/window-donation.php:12
+msgid "Nah, go away"
+msgstr "Ні, дякую"
+
+#: C:\work/php/window-donation.php:13
+msgid "Maybe later"
+msgstr "Можливо пізніше"
+
+#: C:\work/php/window-donation.php:14
+msgid "Already donated"
+msgstr "Уже пожертвував"
+
+#: C:\work/php/window-edit-user.php:21
+msgid "All sites"
+msgstr "Всіх сайтів"
+
+#: C:\work/php/window-edit-user.php:22
+msgid "Specific sites"
+msgstr "Конкретних сайтів"
+
+#: C:\work/php/window-edit-user.php:25
+msgid "Edit user"
+msgstr "Редагувати користувача"
+
+#: C:\work/php/window-edit-user.php:25
+msgid "Create a new user"
+msgstr "Створити нового користувача"
+
+#: C:\work/php/window-edit-user.php:36
+msgid "New password (Optional)"
+msgstr "Новий пароль (не обов'язково)"
+
+#: C:\work/php/window-edit-user.php:40
+#: C:\work/php/tools/reset-password.php:100
+msgid "Verify new password"
+msgstr "Підтвердження нового пароля"
+
+#: C:\work/php/window-edit-user.php:51
+msgid "User can access statistics from"
+msgstr "Користувач має доступ до статистики для"
+
+#: C:\work/php/window-edit-user.php:61
+msgid "Comma separated list of allowed site ids (example : 1,4,6)"
+msgstr "Список дозволених ID сайтів, розділених комами (наприклад: 1,4,6)"
+
+#: C:\work/php/window-new-edit-site.php:18
+msgid "Edit site"
+msgstr "Редагувати сайт"
+
+#: C:\work/php/window-new-edit-site.php:18
+msgid "Create a new site"
+msgstr "Створити новий сайт"
+
+#: C:\work/php/window-new-edit-site.php:40
+msgid "Baseline page views"
+msgstr "Базові перегляди сторінок:"
+
+#: C:\work/php/window-new-edit-site.php:44
+msgid "Baseline visitors"
+msgstr "Базові відвідувачі:"
+
+#: C:\work/php/tools/emergency-manage-users.php:9
+msgid "Message"
+msgstr "повідомлення"
+
+#: C:\work/php/tools/emergency-manage-users.php:10
+msgid "This page will allow you to change the password of any user in FireStats."
+msgstr "На цій сторінці ви зможете змінити пароль будь-якого користувача"
+
+#: C:\work/php/tools/emergency-manage-users.php:11
+#, php-format
+msgid "For security reasons, you must first edit the file %s"
+msgstr "З точки зору безпеки ви повинні спочатку відредагувати файл %s"
+
+#: C:\work/php/tools/emergency-manage-users.php:12
+#, php-format
+msgid "and change the line %s to %s and then refresh this page."
+msgstr "та змінити строку %s на %s а після цього оновити сторінку."
+
+#: C:\work/php/tools/emergency-manage-users.php:13
+msgid "Don't forget to change it back when you are done."
+msgstr "Не забудьте повернути все назад після того як закінчите."
+
+#: C:\work/php/tools/emergency-manage-users.php:18
+msgid "IMPORTANT"
+msgstr "ВАЖЛИВО"
+
+#: C:\work/php/tools/reset-password.php:18
+#, php-format
+msgid "You can request an password reset email from here. If it does not work or you don't know your username or email, you can also change your password using the %s"
+msgstr "Тут ви можете запитати листа для скидання пароля. Якщо раптово це не працює або ви забули своє ім'я користувача аба пароль, ви можете змінити пароль скориставшися %s"
+
+#: C:\work/php/tools/reset-password.php:18
+msgid "Emergency user management page"
+msgstr "Сторінка швидкого редагування користувачів"
+
+#: C:\work/php/tools/reset-password.php:28
+msgid "A user with this username and email was not found"
+msgstr "Користувача з таким ім'ям та email не знайдено"
+
+#: C:\work/php/tools/reset-password.php:49
+msgid "FireStats password recovery"
+msgstr "Відновлення пароля FireStats"
+
+#: C:\work/php/tools/reset-password.php:50
+#, php-format
+msgid "Click %s to change your FireStats password, this link will work for a short time"
+msgstr "Натисніть %s для зміни вашего пароля FireStats, це посилання буде працювати лише короткий період часу"
+
+#: C:\work/php/tools/reset-password.php:54
+msgid "Email sent"
+msgstr "Email відправлено"
+
+#: C:\work/php/tools/reset-password.php:58
+msgid "Failed to send email"
+msgstr "Помилка при відправленні Email"
+
+#: C:\work/php/tools/reset-password.php:73
+#, php-format
+msgid "Failed, maybe too much time have passed since you generated the email? %s"
+msgstr "Помилка. Можливо, з часу відправлення email пройшло багато часу. %s"
+
+#: C:\work/php/tools/reset-password.php:73
+msgid "try again"
+msgstr "зпробувати щє"
+
+#: C:\work/php/tools/reset-password.php:96
+msgid "New password"
+msgstr "Новий пароль"
+
+#: C:\work/php/tools/reset-password.php:105
+msgid "Change password"
+msgstr "Змінити пароль"
+
+#: C:\work/php/tools/reset-password.php:125
+msgid "Email address"
+msgstr "Email-адреса"
+
+#: C:\work/php/tools/reset-password.php:130
+msgid "Send password reset email"
+msgstr "Email для скидання пароля выдправлено"
+
+#~ msgid "Upgrade"
+#~ msgstr "Оновити"
+#~ msgid "You need to select an bot you want to remove from the table"
+#~ msgstr "Виберіть бота, перед його видаленням із таблиці"
+#~ msgid "Unsupported action code : %s"
+#~ msgstr "Непідтримуваний код дії: %s"
+#~ msgid "Invalid boolean value : %s"
+#~ msgstr "Неприпустиме значення boolean: %s"
+#~ msgid "Unkown field: %s"
+#~ msgstr "Невыдоме поле: %s"
+

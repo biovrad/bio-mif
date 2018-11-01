@@ -1,0 +1,10 @@
+[05-Feb-2009 02:57:32] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h5u1217/public_html/wp-content/plugins/wp-postratings/postratings-manager.php on line 21
+[05-Feb-2009 04:36:21] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h5u1217/public_html/wp-content/plugins/wp-postratings/postratings-options.php on line 21
+[05-Feb-2009 05:41:07] PHP Fatal error:  Call to undefined function  add_action() in /home/h5u1217/public_html/wp-content/plugins/wp-postratings/wp-postratings-widget.php on line 180
+[05-Feb-2009 06:13:11] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h5u1217/public_html/wp-content/plugins/wp-postratings/postratings-uninstall.php on line 21
+[05-Feb-2009 06:41:06] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h5u1217/public_html/wp-content/plugins/wp-postratings/postratings-templates.php on line 21
+[12-Feb-2009 11:53:02] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h3u135/public_html/wp-content/plugins/wp-postratings/postratings-templates.php on line 21
+[12-Feb-2009 12:08:36] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h3u135/public_html/wp-content/plugins/wp-postratings/postratings-uninstall.php on line 21
+[12-Feb-2009 12:27:16] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h3u135/public_html/wp-content/plugins/wp-postratings/postratings-options.php on line 21
+[12-Feb-2009 12:31:26] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/wp-postratings/wp-postratings-widget.php on line 180
+[12-Feb-2009 12:37:39] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h3u135/public_html/wp-content/plugins/wp-postratings/postratings-manager.php on line 21

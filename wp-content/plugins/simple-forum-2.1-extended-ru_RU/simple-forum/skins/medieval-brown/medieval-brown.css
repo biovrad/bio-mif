@@ -1,0 +1,782 @@
+/* =============================================================
+CSS Simple Forum Version 2.1
+Medieval Brown Formatting CSS by Mr Papa (http://klasen.us)
+============================================================= */
+
+@import url('../../sf-framework.css');
+
+/* =============================================================
+#sforum: Main Outer Container for everything
+============================================================= */
+
+#sforum,
+#sforum div,
+#sforum p,
+#sforum h1,
+#sforum h2,
+#sforum h3,
+#sforum h4,
+#sforum small,
+#sforum span,
+#sforum a,
+#sforum a:link,
+#sforum a:active,
+#sforum a:visited,
+#sforum img,
+#sforum form {
+	background-color: transparent;
+	color: #000000;
+	border-style: none;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	text-align: left;
+}
+#sforum a,
+#sforum a:link,
+#sforum a:active,
+#sforum a:visited{
+        color:#930;
+}
+#sforum {
+	background: url(bg.jpg);
+	font-family: Tahoma, Arial, Verdana, sans-serif;
+	font-size: 100%;
+}
+
+#sforum a:hover {
+	color: #869d57 !important;
+}
+
+/* =============================================================
+#sfloginstrip: User Login/Registration Strip
+============================================================= */
+
+#sforum .sfloginstrip {
+	border: 1px solid #d1b982;
+        background: url(light2.jpg);
+        color:#930;
+	margin-top: .5em;
+	padding: 0 .5em;
+	font-size: 90%;
+	line-height: 1.5em;
+	text-align: left;
+}
+
+#sforum .sfloginstrip .sfusercell {
+	font-weight: normal;
+}
+
+#sforum .sfloginstrip .sflogincell {
+	text-align: right;
+}
+
+#sforum .sfloginstrip .sfnewcount,
+#sforum #sfbottomiconstrip .sfnewcount {
+	border: 1px solid #005D8B;
+	padding: .1em .4em;
+	font-size: 80%;
+}
+
+/* =============================================================
+#sfmessagestrip: Breadcrumb, Message Strip, Search Strip etc
+============================================================= */
+
+#sforum .sfmessagestrip {
+	background: url(light.jpg) repeat-x 0px -2px;
+	border: 1px solid #d1b982;
+	height: auto;
+	margin: .5em 0;
+	padding: .3em 0;
+	font-size: 85%;
+	font-weight: bold;
+}
+
+#sforum .sfmessagestrip td p {
+	vertical-align: center;
+	padding: 0 0 5px 0;
+	margin: 0;
+}
+#sforum .sfmessagestrip select#sfquicklinks {
+	float: right;
+	font-size: 95%;
+	font-weight: normal;
+}
+
+#sforum .sfmessagestrip #sfquicklinks option {
+	padding: .03em;
+}
+
+/* =============================================================
+#sfblock: A complete forum block container (forum, topic, post)
+============================================================= */
+
+#sforum .sfblock {
+	border: 1px solid #86190b;
+	margin: 1em 0 0 0;
+}
+
+#sforum .sfblock img {
+	margin-bottom: -.5em;
+	margin-left: .1em;
+}
+
+/* =============================================================
+.sfheading: Group/Forum/Topic Name (Main Heading)
+============================================================= */
+
+#sforum .sfheading {
+	background: url(heading.jpg);
+	border: 1px solid #d1b982;
+	height: auto;
+	padding-bottom: .3em;
+}
+
+#sforum .sfheading .sficoncell {
+	width: 2em;
+}
+
+#sforum .sfheading .sficoncell img {
+	margin: .4em;
+}
+
+#sforum .sfheading p {
+	color: #1e4378;
+	margin: 0;
+	padding: 0 0 0 .5em;
+	font-size: 100%;
+	font-weight: bold;
+}
+
+#sforum .sfheading small {
+	color: #000000;
+	padding: 0;
+	font-family: Verdana, sans-serif;
+	font-weight: normal;
+	line-height: 1em;
+	font-size: 85%;
+}
+
+/* =============================================================
+.sfforumtable: Forum/Topic tables
+============================================================= */
+
+#sforum .sfforumtable {
+	border: 1px solid #86190b;
+	border-spacing: .1em;
+}
+
+#sforum .sfforumtable th {
+	background: url(light2.jpg) 0px -2px;
+	border: 1px solid #d1b982;
+	color: #000000;
+	text-align: center;
+	font-size: 85%;
+	font-weight: bold;
+}
+
+#sforum .sfforumtable tr {
+	border: none;
+	background: #e5c886 url(row.gif) repeat-x 0px -2px;
+	margin: 0;
+	padding: 0 0 .4em 0;
+}
+#sforum .sfforumtable tr:hover {
+	background: #eedb99;
+}
+#sforum .sfforumtable .sficoncell {
+	width: 2em;
+}
+
+#sforum .sfforumtable .sficoncell img {
+	margin: .4em;
+}
+
+#sforum .sfforumtable .sfnewposticoncell {
+	background: url(heading.jpg) 0px -2px;
+	width: 2em;
+}
+
+#sforum .sfforumtable .sfnewposticoncell img {
+	margin: .4em .4em 0 .4em;
+}
+
+#sforum .sfforumtable td a {
+	font-weight: bold;	
+	font-size: 95%;
+}
+
+#sforum .sfforumtable td p {
+	padding: 0 .35em 0 .45em;
+}
+
+#sforum .sfforumtable td small {
+	padding: 0;
+	font-family: Verdana, sans-serif;
+	font-size: 90%;
+	line-height: 1em;
+}
+
+#sforum .sfforumtable .sfcounts {
+	border: inherit;
+	width: 5%;
+	text-align: center;
+}
+
+/* =============================================================
+.sfforumtable: New Post tables
+============================================================= */
+
+#sforum .sfforumtable .sfnewpostforum {
+	background: url(heading.jpg) 0px -2px;
+}
+
+#sforum .sfforumtable .sfuserdetails {
+	border: inherit;
+	width: 17%;
+	margin: 0;
+}
+
+#sforum .sfforumtable .sfuserdetails p {
+	font-family: Verdana, sans-serif;
+	font-weight: normal;
+	font-size: 80%;
+	text-align: center;
+	line-height: 1.1em;
+}
+
+/* =============================================================
+.sffooter & .sfpagelinks: Forum Page links in sffooter
+============================================================= */
+
+#sforum .sffooter {
+	background: url(light.jpg) 0px -2px;
+	color: #000000;
+	height: auto;
+	margin:0;
+}
+
+#sforum .sfpagelinks {
+	padding: .4em 0 .4em .15em;
+	font-weight: bold;
+	font-size: 90%;
+}
+
+#sforum .sfpagelinks a,
+#sforum .sfpagelinks a:link,
+#sforum .sfpagelinks a:active,
+#sforum .sfpagelinks a:visited,
+#sforum .sfpagelinks a:hover {
+	border: 1px solid #86190b;
+	color: inherit;
+	margin: 0;
+	padding: .25em .5em;
+}
+
+#sforum .sfpagelinks img {
+	margin-bottom: -.2em;
+	padding: 0;
+}
+
+#sforum .sfpagelinks a.sfpointer {
+	border: none !important;
+}
+
+#sforum .sfpagelinks a.current {
+	background-color: #e1ab57;
+	color: #000000;
+}
+
+#sforum .sfpagelinks a:hover {
+	background-color: #eedb99;
+}
+
+/* =============================================================
+#sfbottomiconstrip: RSS icon and Go To Top icon
+============================================================= */
+
+#sforum #sfbottomiconstrip a {
+	font-weight: bold;
+	font-size: 90%;
+}
+
+/* =============================================================
+.sfposttable: The Posts Page
+============================================================= */
+
+#sforum .sfposttable {
+	border: 1px solid #86190b;
+	border-spacing: .1em;
+}
+
+#sforum .sfposttable th {
+	background: url(light2.jpg) 0px -2px;
+	border: 1px solid #86190b;
+	color: #000000;
+	text-align: center;
+	font-size: 85%;
+}
+
+#sforum .sfposttable td {
+	border: 1px solid #86190b;
+	background: #ffde9f;
+}
+
+/* =============================================================
+.sfposttable: User Details - Left and Above
+============================================================= */
+
+#sforum .sfposttable .sfuserinfoside {
+	background: #f5e5b8 url(user.gif) repeat-x;
+	border: inherit;
+	width: 7em;
+}
+
+#sforum .sfposttable .sfuserinfoside p {
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, sans-serif;
+	font-size: 80%;
+	text-align:center;
+	line-height: 1.2em;
+	vertical-align: top;
+}
+
+#sforum .sfposttable .sfuserinfoside .sfuseravatar {
+	text-align: center;
+}
+
+#sforum .sfposttable .sfuserinfoside .sfavatar {
+	padding: .5em 0;
+}
+
+#sforum .sfposttable .sfuserinfoside .proflink img {
+	float: right;
+}
+
+#sforum .sfposttable .sfuserinfoabove {
+	background-color: #DEDEED;
+	border: inherit;
+	vertical-align: top;
+}
+
+#sforum .sfposttable .sfuserinfoabove p {
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, sans-serif;
+	font-size: 80%;
+	text-align:left;
+	line-height: 1.2em;
+	vertical-align: top;
+}
+
+#sforum .sfposttable .sfuserinfoabove .sfavatar {
+	float: left;
+	padding: 0 .5em .9em 0;
+}	
+
+#sforum .sfposttable .sfuserinfoabove .proflink img {
+	float: left;
+	padding: 0 .7em 3em 0;
+}
+
+#sforum .sfposticonstrip {
+	border: 1px solid #DDDDDD;
+	background: #e1ab57;
+	height: 2em;
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	font-size: 90%;	
+	vertical-align: top;
+}
+
+#sforum .sfposttable .sfpostcontent .sfposticonstrip a {
+	color: #000000;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+#sforum .sfposttable .sfpostcontent .sfposticonstrip .formlink a {
+	position: relative;
+	margin-top: -2px;
+}
+
+/* =============================================================
+.sfpostcontent: The Post Content
+============================================================= */
+
+#sforum .sfposttable .sfpostcontent p {
+	overflow: hidden;
+	margin: 4px 0px 0px 0px;
+	padding: 3px 15px 3px 24px;
+	font-size: 105%;
+	color: #000000;
+}
+
+#sforum .sfposttable .sfmoderate {
+	background-color: #e6a49c;
+	color: #000000;
+}
+
+#sforum .sfposttable .sfpostcontent blockquote {
+	background: #e1ab57;
+	color: #000000;
+	border: 1px solid #86190b;
+	margin: 5px 10px 5px 40px;
+}
+
+#sforum .sfposttable .sfpostcontent .replyquote {
+	background-color: #FFC19A;
+	color: #000000;
+	border: 1px dotted gray;
+	margin: 5px 10px 5px 22px;
+}
+
+#sforum .sfposttable .sfpostcontent img {
+	margin-left: 3px;
+	margin-top: 5px;
+}
+
+#sforum .sfposttable .sfpostcontent a {
+	text-decoration: underline;
+}
+
+#sforum .sfposttable .sfpostcontent cite {
+	background-color: yellow;
+	border: 1px dotted gray;
+}
+
+#sforum .sfposttable .sfpostcontent .sfpinned {
+	background-color: #FFFF99;
+}
+
+#sforum .sfposttable .sfpostcontent small {
+	color: #003399;
+	font-family: Verdana, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+#sforum .sfposttable .sfpostcontent ul,
+#sforum .sfposttable .sfpostcontent ol
+{
+	font-size: 100%;
+}
+
+#sforum .sfposttable .sfpostcontent ul li,
+#sforum .sfposttable .sfpostcontent ol li
+{
+	font-size: 110%;
+}
+
+#sforum .sfposttable .sfpostcontent hr {
+	border: 1px solid #D5CBFB;
+}
+
+#sforum .sfposttable .sfpostcontent span.sfcode,
+#sforum .sfposttable .sfpostcontent div.sfcode {
+	background: #EBEBEB; 
+	color: maroon !important; 
+	padding: 3px 15px 3px 24px;
+	font-family: Courier !important;
+}
+
+/* =============================================================
+.sfmanageicons - Topic and Post Views
+============================================================= */
+
+#sforum .sfforumtable .sfmanageicons form,
+#sforum .sfposttable .sfmanageicons form {
+	margin: 0;
+	padding: .6em 0 0 0;
+	text-align: center;
+	vertical-align: top;
+}
+
+#sforum .sfposttable .sfmanageicons .sfposticonstrip p {
+	color: #000000;
+	text-align: center;
+	font-weight: normal;
+}
+
+/* =============================================================
+.sfadditemcell: New Topic/New Post Icons
+============================================================= */
+
+#sforum .sfheading .sfadditemcell,
+#sforum .sffooter .sfadditemcell,
+#sforum .sfheading .sfadditemcell a,
+#sforum .sffooter .sfadditemcell a {
+	color: #000000;
+/*	cursor: pointer;*/
+	margin: 0;
+	padding: .2em .2em 0 0;
+	text-align: right;
+	font-size: 95%;
+	font-weight: bold;
+}
+
+/* =============================================================
+#sfstatstrip - forum statistics table
+============================================================= */
+
+#sforum #sfstatstrip {
+	background: url(stats.jpg) 0px -2px;
+}
+
+#sforum #sfstatstrip th,
+#sforum #sfstatstrip td {
+	border: 1px solid #86190b;
+	color: #1e4378;
+	font-family: Verdana, sans-serif;
+	font-weight: normal;
+	font-size: 90%;
+	vertical-align: top;
+}
+
+#sforum #sfstatstrip p {
+	color: #930;
+	padding-left: .8em;
+	font-weight: normal;
+	font-size: 90%;
+	vertical-align: top;
+	line-height: 1.1em;
+}
+
+/* =============================================================
+Hidden Help and Acknowledgement Boxes
+============================================================= */
+
+#sforum #sfhelpbox,
+#sforum #sfacknowledge {
+	background-color: #FFFFFF; 
+	border: 1px solid #718BA6; 
+	padding: .8em;
+}
+
+#sforum #sfhelpbox ul,
+#sforum #sfacknowledge p {
+	color: #000000;
+}
+
+/* =============================================================
+Some General Classes
+============================================================= */
+
+#sforum .sficon,
+#sforum .sficon a,
+#sforum .sficon p {
+	color: #000000 !important;
+	border: none;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#sforum .sficon img {
+	border: none;
+	margin-bottom: -4px;
+	padding: 0 4px 0 4px;
+}
+
+.sfmessage {
+    background: url(light2.jpg);
+	border: 1px solid #d1b982;
+	color: #FFFFFF;
+	padding: 2px;
+	margin: 1em 0 1em 0;
+	font-family: Verdana, sans-serif;
+	font-weight: bold;
+	font-size: 90%;
+}
+
+#sforum #sfversion {
+    background: url(light2.jpg);
+	border: 1px solid #d1b982;
+	color: #1e4378;
+	height: auto;
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana, sans-serif;
+	font-weight: normal;
+	font-size: 75%;
+	text-align: center;
+}
+
+#sforum #sfversion a {
+	color: #444444;
+}
+
+.sfalignright {
+	float: right;
+}
+
+.sfalignleft {
+	float: left;
+}
+
+.sfclear {
+	clear: both;
+	height: 1px;
+	overflow: hidden;
+}
+
+#sficonkey small {
+	margin-left: .8em;
+}
+
+#sficonkey small img {
+	margin-bottom: -.5em;	
+}
+
+
+/* =============================================================
+.sfsearchform/.sfentryform: Form Fieldset Styling & Controls
+============================================================= */
+
+#sforum #sfentryform,
+#sforum #sprofileform {
+	color: #5364AE;
+	width: 100%;
+}
+
+#sforum #sfentryform fieldset,
+#sforum form fieldset {
+	border: 1px solid #e1ab57;
+	color: #1e4378;
+	padding: 5px;
+	text-align: left;
+}
+
+#sforum form {
+	padding: 2px 10px 2px 10px;
+}
+
+#sforum form p {
+	color: #000000;
+	padding-top: 6px;
+}
+
+#sforum #sfentryform form,
+#sforum #sfsearchform form,
+#sforum #sfprofileform form {
+        background: url(light2.jpg);
+	color: #000000;
+	font-size: 100%;
+	font-weight: normal;
+	text-align: left;
+}
+
+#sforum #sfentryform form #sfhide {
+	display: none;
+}
+
+#sforum #sfprofileform {
+	border: 1px solid #e1ab57;
+        background: url(light2.jpg);
+	padding: 10px;
+}
+
+#sforum #sfprofileform fieldset {
+	color: #000;
+}
+
+#sforum #sfprofileform fieldset p {
+	color: #000;
+	font-size: 100%;
+}
+
+/* =============================================================
+.Forms, Controls and QuickTag styling
+============================================================= */
+
+.sfcontainer {
+	width: 80%;
+}
+
+.sftextcontrol {
+	width: 70%;
+}
+	
+.quicktags {
+	margin: 2px 2px 0px 2px;
+	font-size: 100%;
+}
+
+.quicktags textarea {
+	width: 90%;
+	font-size: 100%;
+}
+
+.sfeditpost textarea {
+	width: 100%;
+	font-size: 100%;
+	margin: 6px 0 2px 0;
+	padding: 0;
+}
+	
+.sfcontrol,
+.sfacontrol,
+.qtbutton {
+	border: 1px solid #e1ab57;
+	background: url(inputbg.jpg) 0px -2px;
+	color: #000000;
+	font-family: Verdana, sans-serif;
+	padding: 3px;
+	margin-right: 2px;
+}
+
+.sfalink {
+	border: 1px solid #e1ab57;
+	background: url(inputbg.jpg) 0px -2px;
+	color: #000000 !important;
+	font-family: Verdana, sans-serif;
+	padding: 4px !important;
+	margin-right: 2px;
+}
+
+.sfcontrol:hover,
+.sfacontrol:hover,
+.qtbutton:hover,
+.sfalink:hover,
+.qttext:hover,
+a.sfalink:hover {
+	background: #9a5b18;
+}
+.sfcontrol:focus,
+.sfacontrol:focus,
+.qtbutton:focus,
+.sfalink:focus,
+.qttext:focus,
+a.sfalink:focus {
+	background: #e1ab57;
+}
+
+.qttext {
+	border: 1px solid #e1ab57;
+	font-family: Verdana, sans-serif;
+	padding: 3px;
+	font-size: 100% !important;
+}	
+
+.quicktags #ed_strong {
+	font-weight: bold;
+}
+
+.quicktags #ed_link {
+	color: blue;
+	text-decoration: underline;
+}
+
+.quicktags #ed_del {
+	text-decoration: line-through;
+}
+
+.quicktags #ed_em {
+	font-style: italic;
+}
+
+.quicktags #ed_code {
+	font-family: "Courier New", Courier, mono;
+	margin-bottom: 2px;
+}

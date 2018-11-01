@@ -1,0 +1,46 @@
+[21-Jan-2009 09:48:39] PHP Fatal error:  Call to undefined function  remove_filter() in /home/h5u1217/public_html/wp-content/plugins/maxsite-sape.php on line 22
+[06-Feb-2009 01:22:23] PHP Fatal error:  Call to undefined function  wptexturize() in /home/h5u1217/public_html/wp-content/plugins/hello.php on line 44
+[06-Feb-2009 03:51:45] PHP Fatal error:  Call to undefined function  add_action() in /home/h5u1217/public_html/wp-content/plugins/belavir.php on line 83
+[06-Feb-2009 06:10:39] PHP Fatal error:  Call to undefined function  add_filter() in /home/h5u1217/public_html/wp-content/plugins/auto_more.php on line 43
+[06-Feb-2009 07:52:36] PHP Fatal error:  Call to undefined function  add_action() in /home/h5u1217/public_html/wp-content/plugins/rus-to-lat.php on line 98
+[06-Feb-2009 11:06:46] PHP Fatal error:  Call to undefined function  add_action() in /home/h5u1217/public_html/wp-content/plugins/rc_revmngr.php on line 11
+[06-Feb-2009 12:07:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'h5u1217'@'localhost' (using password: NO) in /home/h5u1217/public_html/wp-content/plugins/spam_viewer.php on line 39
+[06-Feb-2009 12:07:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/h5u1217/public_html/wp-content/plugins/spam_viewer.php on line 39
+[06-Feb-2009 12:07:32] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/h5u1217/public_html/wp-content/plugins/spam_viewer.php on line 39
+[06-Feb-2009 12:07:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'h5u1217'@'localhost' (using password: NO) in /home/h5u1217/public_html/wp-content/plugins/spam_viewer.php on line 50
+[06-Feb-2009 12:07:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/h5u1217/public_html/wp-content/plugins/spam_viewer.php on line 50
+[06-Feb-2009 12:07:32] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/h5u1217/public_html/wp-content/plugins/spam_viewer.php on line 50
+[06-Feb-2009 12:07:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'h5u1217'@'localhost' (using password: NO) in /home/h5u1217/public_html/wp-content/plugins/spam_viewer.php on line 57
+[06-Feb-2009 12:07:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/h5u1217/public_html/wp-content/plugins/spam_viewer.php on line 57
+[06-Feb-2009 12:07:32] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/h5u1217/public_html/wp-content/plugins/spam_viewer.php on line 57
+[06-Feb-2009 12:07:32] PHP Fatal error:  Call to undefined function  is_plugin_page() in /home/h5u1217/public_html/wp-content/plugins/spam_viewer.php on line 82
+[06-Feb-2009 12:11:42] PHP Fatal error:  Call to undefined function  add_filter() in /home/h5u1217/public_html/wp-content/plugins/russian-date.php on line 66
+[06-Feb-2009 13:13:33] PHP Fatal error:  Call to undefined function  get_option() in /home/h5u1217/public_html/wp-content/plugins/wp-db-backup.php on line 43
+[06-Feb-2009 15:53:59] PHP Fatal error:  Call to undefined function  remove_filter() in /home/h5u1217/public_html/wp-content/plugins/maxsite-sape.php on line 22
+[06-Feb-2009 17:23:30] PHP Fatal error:  Call to undefined function  add_action() in /home/h5u1217/public_html/wp-content/plugins/anti-xss-attack.php on line 29
+[06-Feb-2009 20:15:12] PHP Fatal error:  Call to undefined function  add_action() in /home/h5u1217/public_html/wp-content/plugins/subscribe-to-comments.php on line 833
+[06-Feb-2009 20:36:40] PHP Fatal error:  Call to undefined function  add_filter() in /home/h5u1217/public_html/wp-content/plugins/russify_comments_number.php on line 29
+[07-Feb-2009 08:03:16] PHP Fatal error:  Call to undefined function  add_option() in /home/h5u1217/public_html/wp-content/plugins/FeedBurner_FeedSmith_Plugin.php on line 27
+[12-Feb-2009 15:07:19] PHP Fatal error:  Call to undefined function  add_filter() in /home/h3u135/public_html/wp-content/plugins/ok1.php on line 11
+[12-Feb-2009 15:08:22] PHP Fatal error:  Call to undefined function  add_filter() in /home/h3u135/public_html/wp-content/plugins/russian-date.php on line 66
+[12-Feb-2009 15:12:37] PHP Fatal error:  Call to undefined function  wptexturize() in /home/h3u135/public_html/wp-content/plugins/hello.php on line 44
+[12-Feb-2009 15:13:42] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/belavir.php on line 83
+[12-Feb-2009 15:14:45] PHP Fatal error:  Call to undefined function  get_option() in /home/h3u135/public_html/wp-content/plugins/wp-db-backup.php on line 43
+[12-Feb-2009 15:15:50] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/subscribe-to-comments.php on line 833
+[12-Feb-2009 15:17:57] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/anti-xss-attack.php on line 29
+[12-Feb-2009 15:21:09] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/rc_revmngr.php on line 11
+[12-Feb-2009 15:23:15] PHP Fatal error:  Call to undefined function  remove_filter() in /home/h3u135/public_html/wp-content/plugins/maxsite-sape.php on line 22
+[12-Feb-2009 15:29:37] PHP Fatal error:  Call to undefined function  add_option() in /home/h3u135/public_html/wp-content/plugins/FeedBurner_FeedSmith_Plugin.php on line 27
+[12-Feb-2009 15:36:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'h3u135'@'localhost' (using password: NO) in /home/h3u135/public_html/wp-content/plugins/spam_viewer.php on line 39
+[12-Feb-2009 15:36:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/h3u135/public_html/wp-content/plugins/spam_viewer.php on line 39
+[12-Feb-2009 15:36:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/h3u135/public_html/wp-content/plugins/spam_viewer.php on line 39
+[12-Feb-2009 15:36:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'h3u135'@'localhost' (using password: NO) in /home/h3u135/public_html/wp-content/plugins/spam_viewer.php on line 50
+[12-Feb-2009 15:36:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/h3u135/public_html/wp-content/plugins/spam_viewer.php on line 50
+[12-Feb-2009 15:36:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/h3u135/public_html/wp-content/plugins/spam_viewer.php on line 50
+[12-Feb-2009 15:36:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'h3u135'@'localhost' (using password: NO) in /home/h3u135/public_html/wp-content/plugins/spam_viewer.php on line 57
+[12-Feb-2009 15:36:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/h3u135/public_html/wp-content/plugins/spam_viewer.php on line 57
+[12-Feb-2009 15:36:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/h3u135/public_html/wp-content/plugins/spam_viewer.php on line 57
+[12-Feb-2009 15:36:01] PHP Fatal error:  Call to undefined function  is_plugin_page() in /home/h3u135/public_html/wp-content/plugins/spam_viewer.php on line 82
+[12-Feb-2009 15:38:10] PHP Fatal error:  Call to undefined function  add_filter() in /home/h3u135/public_html/wp-content/plugins/auto_more.php on line 43
+[12-Feb-2009 15:39:12] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/rus-to-lat.php on line 98
+[12-Feb-2009 15:42:22] PHP Fatal error:  Call to undefined function  add_filter() in /home/h3u135/public_html/wp-content/plugins/russify_comments_number.php on line 29

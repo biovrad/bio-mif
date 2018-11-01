@@ -1,0 +1,94 @@
+.wrap table {
+	border-spacing:0;
+	border-collapse: collapse;
+	border-color: #DDD;
+	border-style: solid;
+	border-width: 1px;
+	margin: 0 0 15px;
+	width: 100%;
+}
+.wrap table tr {
+}
+.wrap table tr.thead {
+	border: 1px solid #444;
+}
+.wrap fieldset th {
+	background-color: #f6f6f6;
+	border-color: #DDD;
+	border-style: solid;
+	border-width: 0 1px 1px;
+	height: 20px;
+	line-height: 24px;
+	padding: 0px 5px;
+	text-align: left !important;
+}
+.wrap table tr.thead th {
+	background-color: #666;
+	border: none;
+}
+.wrap fieldset td {
+	border: 1px solid #DDD;
+	padding: 3px 5px;
+}
+.wrap fieldset td input[type=text] {
+	border: 1px solid #CCC;
+	font-size: 12px;
+	padding: 2px 3px;
+}
+.wrap fieldset td input[type=button] {
+	border: 1px solid #CCC;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	color: #333;
+}
+.wrap fieldset td textarea {
+	border: 1px solid #CCC;
+}
+.wrap fieldset table table,
+.wrap fieldset td td {
+	border: none;
+}
+.wrap fieldset {
+	border: 0;
+	margin: 0;
+	padding:0;
+	margin-bottom: 20px;
+}
+.wrap fieldset legend {
+	font-size: 18px;
+	font-weight: normal;
+	font-family:  "Helvetica Neue Light","Helvetica Neue","Helvetica","Verdana","Arial";
+	margin-bottom: 10px;
+	color: #666;
+}
+.wrap form input[type=submit] {
+	border: 1px solid #CCC;
+	color: #333;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	padding: 3px 6px;
+	font-size: 12px;
+}
+.wrap form select {
+	padding: 3px;
+}
+.wrap div input[type="submit"],
+.wrap div input[type="button"] {
+	border: 1px solid #CCC;
+	color: #333;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	font-size: 13px;
+	padding: 4px 6px;
+}
+
+.wrap blockquote {
+	margin: 0;
+}
+.wrap + .wrap + .wrap ul {
+	list-style-type: none;
+	padding: 0;
+}
+.wrap + .wrap + .wrap ul li ol {
+	margin-top: 10px;
+}

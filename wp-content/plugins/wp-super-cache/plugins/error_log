@@ -1,0 +1,2 @@
+[11-Feb-2009 22:26:13] PHP Fatal error:  Call to undefined function  add_cacheaction() in /home/h3u135/public_html/wp-content/plugins/wp-super-cache/plugins/searchengine.php on line 33
+[12-Feb-2009 23:48:41] PHP Fatal error:  Call to undefined function  add_cacheaction() in /home/h3u135/public_html/wp-content/plugins/wp-super-cache/plugins/searchengine.php on line 33

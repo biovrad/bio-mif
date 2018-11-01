@@ -1,0 +1,1 @@
+[12-Feb-2009 19:04:55] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/wp-cumulus/wp-cumulus.php on line 302

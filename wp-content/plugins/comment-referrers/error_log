@@ -1,0 +1,1 @@
+[12-Feb-2009 19:14:02] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/comment-referrers/comment-referrers.php on line 22

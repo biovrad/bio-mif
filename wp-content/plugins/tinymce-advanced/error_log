@@ -1,0 +1,3 @@
+[11-Feb-2009 18:05:48] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h3u135/public_html/wp-content/plugins/tinymce-advanced/tadv_admin.php on line 3
+[12-Feb-2009 18:43:20] PHP Fatal error:  Call to undefined function  current_user_can() in /home/h3u135/public_html/wp-content/plugins/tinymce-advanced/tadv_admin.php on line 3
+[12-Feb-2009 18:50:38] PHP Fatal error:  Call to undefined function  add_action() in /home/h3u135/public_html/wp-content/plugins/tinymce-advanced/tinymce-advanced.php on line 57
